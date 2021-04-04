@@ -1,0 +1,1 @@
+unidecode @ git+https://github.com/anytool/unidecode_ext.git@2f73b1da6d5062018042e3d0db72467d407838dc
