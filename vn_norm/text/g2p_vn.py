@@ -56,6 +56,7 @@ class G2pVn:
                 depends.append('.')
                 # depends.append(('.', 9, 'punct'))
             for words in depends:
+                words = self.punctuation_norm(words)
                 # words, _, word_type = depend
                 if len(words) == 1 and words in punctuations:
                     sent_result.append(words)
