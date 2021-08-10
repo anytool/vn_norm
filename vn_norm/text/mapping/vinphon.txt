@@ -1,0 +1,12257 @@
+a|A0
+à|A1
+ả|A3
+ã|A2
+á|A4
+ạ|A5
+ac|A4 KC
+ác|A4 KC
+ạc|A5 KC
+ach|EA4 KC
+ách|EA4 KC
+ạch|EA5 KC
+ai|A0 IZ
+ài|A1 IZ
+ải|A3 IZ
+ãi|A2 IZ
+ái|A4 IZ
+ại|A5 IZ
+am|A0 MZ
+àm|A1 MZ
+ảm|A3 MZ
+ãm|A2 MZ
+ám|A4 MZ
+ạm|A5 MZ
+an|A0 NZ
+àn|A1 NZ
+ản|A3 NZ
+ãn|A2 NZ
+án|A4 NZ
+ạn|A5 NZ
+ang|A0 NGZ
+àng|A1 NGZ
+ảng|A3 NGZ
+ãng|A2 NGZ
+áng|A4 NGZ
+ạng|A5 NGZ
+anh|EA0 NGZ
+ành|EA1 NGZ
+ảnh|EA3 NGZ
+ãnh|EA2 NGZ
+ánh|EA4 NGZ
+ạnh|EA5 NGZ
+ao|A0 UZ
+ào|A1 UZ
+ảo|A3 UZ
+ão|A2 UZ
+áo|A4 UZ
+ạo|A5 UZ
+ap|A4 PC
+áp|A4 PC
+ạp|A5 PC
+at|A4 TC
+át|A4 TC
+ạt|A5 TC
+au|AW0 UZ
+àu|AW1 UZ
+ảu|AW3 UZ
+ãu|AW2 UZ
+áu|AW4 UZ
+ạu|AW5 UZ
+ay|AW0 IZ
+ày|AW1 IZ
+ảy|AW3 IZ
+ãy|AW2 IZ
+áy|AW4 IZ
+ạy|AW5 IZ
+ắc|AW4 KC
+ặc|AW5 KC
+ăm|AW0 MZ
+ằm|AW1 MZ
+ẳm|AW3 MZ
+ẵm|AW2 MZ
+ắm|AW4 MZ
+ặm|AW5 MZ
+ăn|AW0 NZ
+ằn|AW1 NZ
+ẳn|AW3 NZ
+ẵn|AW2 NZ
+ắn|AW4 NZ
+ặn|AW5 NZ
+ăng|AW0 NGZ
+ằng|AW1 NGZ
+ẳng|AW3 NGZ
+ẵng|AW2 NGZ
+ắng|AW4 NGZ
+ặng|AW5 NGZ
+ắp|AW4 PC
+ặp|AW5 PC
+ăt|AW4 TC
+ắt|AW4 TC
+ặt|AW5 TC
+âc|AA4 KC
+ấc|AA4 KC
+ậc|AA5 KC
+âm|AA0 MZ
+ầm|AA1 MZ
+ẩm|AA3 MZ
+ẫm|AA2 MZ
+ấm|AA4 MZ
+ậm|AA5 MZ
+ân|AA0 NZ
+ần|AA1 NZ
+ẩn|AA3 NZ
+ẫn|AA2 NZ
+ấn|AA4 NZ
+ận|AA5 NZ
+âng|AA0 NGZ
+ầng|AA1 NGZ
+ẩng|AA3 NGZ
+ẫng|AA2 NGZ
+ấng|AA4 NGZ
+ậng|AA5 NGZ
+ấp|AA4 PC
+ập|AA5 PC
+ât|AA4 TC
+ất|AA4 TC
+ật|AA5 TC
+âu|AA0 UZ
+ầu|AA1 UZ
+ẩu|AA3 UZ
+ẫu|AA2 UZ
+ấu|AA4 UZ
+ậu|AA5 UZ
+ây|AA0 IZ
+ầy|AA1 IZ
+ẩy|AA3 IZ
+ẫy|AA2 IZ
+ấy|AA4 IZ
+ậy|AA5 IZ
+ba|B A0
+bà|B A1
+bả|B A3
+bã|B A2
+bá|B A4
+bạ|B A5
+bác|B A4 KC
+bạc|B A5 KC
+bách|B EA4 KC
+bạch|B EA5 KC
+bai|B A0 IZ
+bài|B A1 IZ
+bải|B A3 IZ
+bãi|B A2 IZ
+bái|B A4 IZ
+bại|B A5 IZ
+bam|B A0 MZ
+bàm|B A1 MZ
+bảm|B A3 MZ
+bãm|B A2 MZ
+bám|B A4 MZ
+bạm|B A5 MZ
+ban|B A0 NZ
+bàn|B A1 NZ
+bản|B A3 NZ
+bãn|B A2 NZ
+bán|B A4 NZ
+bạn|B A5 NZ
+bang|B A0 NGZ
+bàng|B A1 NGZ
+bảng|B A3 NGZ
+bãng|B A2 NGZ
+báng|B A4 NGZ
+bạng|B A5 NGZ
+banh|B EA0 NGZ
+bành|B EA1 NGZ
+bảnh|B EA3 NGZ
+bãnh|B EA2 NGZ
+bánh|B EA4 NGZ
+bạnh|B EA5 NGZ
+bao|B A0 UZ
+bào|B A1 UZ
+bảo|B A3 UZ
+bão|B A2 UZ
+báo|B A4 UZ
+bạo|B A5 UZ
+bap|B A4 PC
+báp|B A4 PC
+bạp|B A5 PC
+bát|B A4 TC
+bạt|B A5 TC
+bau|B AW0 UZ
+bàu|B AW1 UZ
+bảu|B AW3 UZ
+bãu|B AW2 UZ
+báu|B AW4 UZ
+bạu|B AW5 UZ
+bay|B AW0 IZ
+bày|B AW1 IZ
+bảy|B AW3 IZ
+bãy|B AW2 IZ
+báy|B AW4 IZ
+bạy|B AW5 IZ
+băc|B AW4 KC
+bắc|B AW4 KC
+bặc|B AW5 KC
+băm|B AW0 MZ
+bằm|B AW1 MZ
+bẳm|B AW3 MZ
+bẵm|B AW2 MZ
+bắm|B AW4 MZ
+bặm|B AW5 MZ
+băn|B AW0 NZ
+bằn|B AW1 NZ
+bẳn|B AW3 NZ
+bẵn|B AW2 NZ
+bắn|B AW4 NZ
+bặn|B AW5 NZ
+băng|B AW0 NGZ
+bằng|B AW1 NGZ
+bẳng|B AW3 NGZ
+bẵng|B AW2 NGZ
+bắng|B AW4 NGZ
+bặng|B AW5 NGZ
+bắp|B AW4 PC
+bặp|B AW5 PC
+bắt|B AW4 TC
+bặt|B AW5 TC
+bấc|B AA4 KC
+bậc|B AA5 KC
+bâm|B AA0 MZ
+bầm|B AA1 MZ
+bẩm|B AA3 MZ
+bẫm|B AA2 MZ
+bấm|B AA4 MZ
+bậm|B AA5 MZ
+bân|B AA0 NZ
+bần|B AA1 NZ
+bẩn|B AA3 NZ
+bẫn|B AA2 NZ
+bấn|B AA4 NZ
+bận|B AA5 NZ
+bâng|B AA0 NGZ
+bầng|B AA1 NGZ
+bẩng|B AA3 NGZ
+bẫng|B AA2 NGZ
+bấng|B AA4 NGZ
+bậng|B AA5 NGZ
+bâp|B AA4 PC
+bấp|B AA4 PC
+bập|B AA5 PC
+bât|B AA4 TC
+bất|B AA4 TC
+bật|B AA5 TC
+bâu|B AA0 UZ
+bầu|B AA1 UZ
+bẩu|B AA3 UZ
+bẫu|B AA2 UZ
+bấu|B AA4 UZ
+bậu|B AA5 UZ
+bây|B AA0 IZ
+bầy|B AA1 IZ
+bẩy|B AA3 IZ
+bẫy|B AA2 IZ
+bấy|B AA4 IZ
+bậy|B AA5 IZ
+be|B E0
+bè|B E1
+bẻ|B E3
+bẽ|B E2
+bé|B E4
+bẹ|B E5
+bec|B E0 KC
+béc|B E4 KC
+bẹc|B E5 KC
+béch|B E4 KC
+bem|B E0 MZ
+bèm|B E1 MZ
+bẻm|B E3 MZ
+bẽm|B E2 MZ
+bém|B E4 MZ
+bẹm|B E5 MZ
+ben|B E0 NZ
+bèn|B E1 NZ
+bẻn|B E3 NZ
+bẽn|B E2 NZ
+bén|B E4 NZ
+bẹn|B E5 NZ
+beng|B E0 NGZ
+bèng|B E1 NGZ
+bẻng|B E3 NGZ
+bẽng|B E2 NGZ
+béng|B E4 NGZ
+bẹng|B E5 NGZ
+beo|B E0 UZ
+bèo|B E1 UZ
+bẻo|B E3 UZ
+bẽo|B E2 UZ
+béo|B E4 UZ
+bẹo|B E5 UZ
+bép|B E4 PC
+bẹp|B E5 PC
+bét|B E4 TC
+bẹt|B E5 TC
+bê|B EE0
+bề|B EE1
+bể|B EE3
+bễ|B EE2
+bế|B EE4
+bệ|B EE5
+bếc|B EE4 KC
+bếch|B EE4 KC
+bệch|B EE5 KC
+bêm|B EE0 MZ
+bềm|B EE1 MZ
+bểm|B EE3 MZ
+bễm|B EE2 MZ
+bếm|B EE4 MZ
+bệm|B EE5 MZ
+bên|B EE0 NZ
+bền|B EE1 NZ
+bển|B EE3 NZ
+bễn|B EE2 NZ
+bến|B EE4 NZ
+bện|B EE5 NZ
+bênh|B EE0 NGZ
+bềnh|B EE1 NGZ
+bểnh|B EE3 NGZ
+bễnh|B EE2 NGZ
+bếnh|B EE4 NGZ
+bệnh|B EE5 NGZ
+bêp|B EE4 PC
+bếp|B EE4 PC
+bệp|B EE5 PC
+bết|B EE4 TC
+bệt|B EE5 TC
+bêu|B EE0 UZ
+bều|B EE1 UZ
+bểu|B EE3 UZ
+bễu|B EE2 UZ
+bếu|B EE4 UZ
+bệu|B EE5 UZ
+bi|B I0
+bì|B I1
+bỉ|B I3
+bĩ|B I2
+bí|B I4
+bị|B I5
+bia|B IE0
+bìa|B IE1
+bỉa|B IE3
+bĩa|B IE2
+bía|B IE4
+bịa|B IE5
+bich|B I4 KC
+bích|B I4 KC
+bịch|B I5 KC
+biêc|B IE4 KC
+biếc|B IE4 KC
+biệc|B IE5 KC
+biêm|B IE0 MZ
+biềm|B IE1 MZ
+biểm|B IE3 MZ
+biễm|B IE2 MZ
+biếm|B IE4 MZ
+biệm|B IE5 MZ
+biên|B IE0 NZ
+biền|B IE1 NZ
+biển|B IE3 NZ
+biễn|B IE2 NZ
+biến|B IE4 NZ
+biện|B IE5 NZ
+biêng|B IE0 NGZ
+biềng|B IE1 NGZ
+biểng|B IE3 NGZ
+biễng|B IE2 NGZ
+biếng|B IE4 NGZ
+biệng|B IE5 NGZ
+biêp|B IE0 PC
+biếp|B IE4 PC
+biệp|B IE5 PC
+biêt|B IE4 TC
+biết|B IE4 TC
+biệt|B IE5 TC
+biêu|B IE0 UZ
+biều|B IE1 UZ
+biểu|B IE3 UZ
+biễu|B IE2 UZ
+biếu|B IE4 UZ
+biệu|B IE5 UZ
+bim|B I0 MZ
+bìm|B I1 MZ
+bỉm|B I3 MZ
+bĩm|B I2 MZ
+bím|B I4 MZ
+bịm|B I5 MZ
+bin|B I0 NZ
+bìn|B I1 NZ
+bỉn|B I3 NZ
+bĩn|B I2 NZ
+bín|B I4 NZ
+bịn|B I5 NZ
+binh|B I0 NGZ
+bình|B I1 NGZ
+bỉnh|B I3 NGZ
+bĩnh|B I2 NGZ
+bính|B I4 NGZ
+bịnh|B I5 NGZ
+bíp|B I4 PC
+bịp|B I5 PC
+bít|B I4 TC
+bịt|B I5 TC
+biu|B I0 UZ
+bìu|B I1 UZ
+bỉu|B I3 UZ
+bĩu|B I2 UZ
+bíu|B I4 UZ
+bịu|B I5 UZ
+bo|B O0
+bò|B O1
+bỏ|B O3
+bõ|B O2
+bó|B O4
+bọ|B O5
+boa|B W A0
+bòa|B W A1
+bỏa|B W A3
+bõa|B W A2
+bóa|B W A4
+bọa|B W A5
+boac|B W A4 KC
+boác|B W A4 KC
+boạc|B W A5 KC
+boach|B W EA4 KC
+boách|B W EA4 KC
+boạch|B W EA5 KC
+boai|B W A0 IZ
+boài|B W A1 IZ
+boải|B W A3 IZ
+boãi|B W A2 IZ
+boái|B W A4 IZ
+boại|B W A5 IZ
+boam|B W A0 MZ
+boàm|B W A1 MZ
+boảm|B W A3 MZ
+boãm|B W A2 MZ
+boám|B W A4 MZ
+boạm|B W A5 MZ
+boan|B W A0 NZ
+boàn|B W A1 NZ
+boản|B W A3 NZ
+boãn|B W A2 NZ
+boán|B W A4 NZ
+boạn|B W A5 NZ
+boang|B W A0 NGZ
+boàng|B W A1 NGZ
+boảng|B W A3 NGZ
+boãng|B W A2 NGZ
+boáng|B W A4 NGZ
+boạng|B W A5 NGZ
+boanh|B W EA0 NGZ
+boành|B W EA1 NGZ
+boảnh|B W EA3 NGZ
+boãnh|B W EA2 NGZ
+boánh|B W EA4 NGZ
+boạnh|B W EA5 NGZ
+boap|B W A4 PC
+boáp|B W A4 PC
+boạp|B W A5 PC
+boat|B W A4 TC
+boát|B W A4 TC
+boạt|B W A5 TC
+boay|B W AW0 IZ
+boày|B W AW1 IZ
+boảy|B W AW3 IZ
+boãy|B W AW2 IZ
+boáy|B W AW4 IZ
+boạy|B W AW5 IZ
+boăc|B W AW4 KC
+boắc|B W AW4 KC
+boặc|B W AW5 KC
+boăm|B W AW0 MZ
+boằm|B W AW1 MZ
+boẳm|B W AW3 MZ
+boẵm|B W AW2 MZ
+boắm|B W AW4 MZ
+boặm|B W AW5 MZ
+boăn|B W AW0 NZ
+boằn|B W AW1 NZ
+boẳn|B W AW3 NZ
+boẵn|B W AW2 NZ
+boắn|B W AW4 NZ
+boặn|B W AW5 NZ
+boăng|B W AW0 NGZ
+boằng|B W AW1 NGZ
+boẳng|B W AW3 NGZ
+boẵng|B W AW2 NGZ
+boắng|B W AW4 NGZ
+boặng|B W AW5 NGZ
+boăt|B W AW4 TC
+boắt|B W AW4 TC
+boặt|B W AW5 TC
+boc|B OA4 KC
+bóc|B OA4 KC
+bọc|B OA5 KC
+boe|B W E0
+bòe|B W E1
+bỏe|B W E3
+bõe|B W E2
+bóe|B W E4
+bọe|B W E5
+boem|B W E0 MZ
+boèm|B W E1 MZ
+boẻm|B W E3 MZ
+boẽm|B W E2 MZ
+boém|B W E4 MZ
+boẹm|B W E5 MZ
+boen|B W E0 NZ
+boèn|B W E1 NZ
+boẻn|B W E3 NZ
+boẽn|B W E2 NZ
+boén|B W E4 NZ
+boẹn|B W E5 NZ
+boeo|B W E0 UZ
+boèo|B W E1 UZ
+boẻo|B W E3 UZ
+boẽo|B W E2 UZ
+boéo|B W E4 UZ
+boẹo|B W E5 UZ
+boet|B W E4 TC
+boét|B W E4 TC
+boẹt|B W E5 TC
+boi|B O0 IZ
+bòi|B O1 IZ
+bỏi|B O3 IZ
+bõi|B O2 IZ
+bói|B O4 IZ
+bọi|B O5 IZ
+bom|B O0 MZ
+bòm|B O1 MZ
+bỏm|B O3 MZ
+bõm|B O2 MZ
+bóm|B O4 MZ
+bọm|B O5 MZ
+bon|B O0 NZ
+bòn|B O1 NZ
+bỏn|B O3 NZ
+bõn|B O2 NZ
+bón|B O4 NZ
+bọn|B O5 NZ
+bong|B OA0 NGZ
+bòng|B OA1 NGZ
+bỏng|B OA3 NGZ
+bõng|B OA2 NGZ
+bóng|B OA4 NGZ
+bọng|B OA5 NGZ
+booc|B O4 OA4 KC
+boóc|B O4 OA4 KC
+boọc|B O5 OA5 KC
+boong|B O0 NGZ
+boòng|B O1 NGZ
+boỏng|B O3 NGZ
+boõng|B O2 NGZ
+boóng|B O4 NGZ
+boọng|B O5 NGZ
+bop|B O4 PC
+bóp|B O4 PC
+bọp|B O5 PC
+bót|B O4 TC
+bọt|B O5 TC
+bô|B OO0
+bồ|B OO1
+bổ|B OO3
+bỗ|B OO2
+bố|B OO4
+bộ|B OO5
+bốc|B OO4 KC
+bộc|B OO5 KC
+bôi|B OO0 IZ
+bồi|B OO1 IZ
+bổi|B OO3 IZ
+bỗi|B OO2 IZ
+bối|B OO4 IZ
+bội|B OO5 IZ
+bôm|B OO0 MZ
+bồm|B OO1 MZ
+bổm|B OO3 MZ
+bỗm|B OO2 MZ
+bốm|B OO4 MZ
+bộm|B OO5 MZ
+bôn|B OO0 NZ
+bồn|B OO1 NZ
+bổn|B OO3 NZ
+bỗn|B OO2 NZ
+bốn|B OO4 NZ
+bộn|B OO5 NZ
+bông|B OO0 NGZ
+bồng|B OO1 NGZ
+bổng|B OO3 NGZ
+bỗng|B OO2 NGZ
+bống|B OO4 NGZ
+bộng|B OO5 NGZ
+bốp|B OO4 PC
+bộp|B OO5 PC
+bốt|B OO4 TC
+bột|B OO5 TC
+bơ|B OW0
+bờ|B OW1
+bở|B OW3
+bỡ|B OW2
+bớ|B OW4
+bợ|B OW5
+bơi|B OW0 IZ
+bời|B OW1 IZ
+bởi|B OW3 IZ
+bỡi|B OW2 IZ
+bới|B OW4 IZ
+bợi|B OW5 IZ
+bơm|B OW0 MZ
+bờm|B OW1 MZ
+bởm|B OW3 MZ
+bỡm|B OW2 MZ
+bớm|B OW4 MZ
+bợm|B OW5 MZ
+bơn|B OW0 NZ
+bờn|B OW1 NZ
+bởn|B OW3 NZ
+bỡn|B OW2 NZ
+bớn|B OW4 NZ
+bợn|B OW5 NZ
+bơp|B OW4 PC
+bớp|B OW4 PC
+bợp|B OW5 PC
+bơt|B OW4 TC
+bớt|B OW4 TC
+bợt|B OW5 TC
+bu|B U0
+bù|B U1
+bủ|B U3
+bũ|B U2
+bú|B U4
+bụ|B U5
+bua|B UO0
+bùa|B UO1
+bủa|B UO3
+bũa|B UO2
+búa|B UO4
+bụa|B UO5
+buân|B W AA0 NZ
+buần|B W AA1 NZ
+buẩn|B W AA3 NZ
+buẫn|B W AA2 NZ
+buấn|B W AA4 NZ
+buận|B W AA5 NZ
+buâng|B W AA0 NGZ
+buầng|B W AA1 NGZ
+buẩng|B W AA3 NGZ
+buẫng|B W AA2 NGZ
+buấng|B W AA4 NGZ
+buậng|B W AA5 NGZ
+buât|B W AA4 TC
+buất|B W AA4 TC
+buật|B W AA5 TC
+buây|B W AA0 IZ
+buầy|B W AA1 IZ
+buẩy|B W AA3 IZ
+buẫy|B W AA2 IZ
+buấy|B W AA4 IZ
+buậy|B W AA5 IZ
+buc|B U4 KC
+búc|B U4 KC
+bục|B U5 KC
+bue|B W E0
+buê|B W EE0
+buề|B W EE1
+buể|B W EE3
+buễ|B W EE2
+buế|B W EE4
+buệ|B W EE5
+buêch|B W EE4 KC
+buếch|B W EE4 KC
+buệch|B W EE5 KC
+buênh|L W EE0 NGZ
+buềnh|L W EE1 NGZ
+buểnh|L W EE3 NGZ
+buễnh|L W EE2 NGZ
+buếnh|L W EE4 NGZ
+buệnh|L W EE5 NGZ
+bui|B U0 IZ
+bùi|B U1 IZ
+bủi|B U3 IZ
+bũi|B U2 IZ
+búi|B U4 IZ
+bụi|B U5 IZ
+bum|B U0 MZ
+bùm|B U1 MZ
+bủm|B U3 MZ
+bũm|B U2 MZ
+búm|B U4 MZ
+bụm|B U5 MZ
+bun|B U0 NZ
+bùn|B U1 NZ
+bủn|B U3 NZ
+bũn|B U2 NZ
+bún|B U4 NZ
+bụn|B U5 NZ
+bung|B U0 NGZ
+bùng|B U1 NGZ
+bủng|B U3 NGZ
+bũng|B U2 NGZ
+búng|B U4 NGZ
+bụng|B U5 NGZ
+buốc|B UO4 KC
+buộc|B UO5 KC
+buôi|B UO0 IZ
+buồi|B UO1 IZ
+buổi|B UO3 IZ
+buỗi|B UO2 IZ
+buối|B UO4 IZ
+buội|B UO5 IZ
+buôm|B UO0 MZ
+buồm|B UO1 MZ
+buổm|B UO3 MZ
+buỗm|B UO2 MZ
+buốm|B UO4 MZ
+buộm|B UO5 MZ
+buôn|B UO0 NZ
+buồn|B UO1 NZ
+buổn|B UO3 NZ
+buỗn|B UO2 NZ
+buốn|B UO4 NZ
+buộn|B UO5 NZ
+buông|B UO0 NGZ
+buồng|B UO1 NGZ
+buổng|B UO3 NGZ
+buỗng|B UO2 NGZ
+buống|B UO4 NGZ
+buộng|B UO5 NGZ
+buốt|B UO4 TC
+buột|B UO5 TC
+buơ|B W OW0
+buờ|B W OW1
+buở|B W OW3
+buỡ|B W OW2
+buớ|B W OW4
+buợ|B W OW5
+bup|B U4 PC
+búp|B U4 PC
+bụp|B U5 PC
+but|B U4 TC
+bút|B U4 TC
+bụt|B U5 TC
+buy|B W IZ
+bùy|B W IZ
+bủy|B W IZ
+bũy|B W IZ
+búy|B W IZ
+bụy|B W IZ
+buya|B W IE0
+buỳa|B W IE1
+buỷa|B W IE3
+buỹa|B W IE2
+buýa|B W IE4
+buỵa|B W IE5
+buych|B W I4 KC
+buých|B W I4 KC
+buỵch|B W I5 KC
+buyên|B W IE0 NZ
+buyền|B W IE1 NZ
+buyển|B W IE3 NZ
+buyễn|B W IE2 NZ
+buyến|B W IE4 NZ
+buyện|B W IE5 NZ
+buyết|B W IE4 TC
+buyệt|B W IE5 TC
+buyn|B W I0 NZ
+buỳn|B W I1 NZ
+buỷn|B W I3 NZ
+buỹn|B W I2 NZ
+buýn|B W I4 NZ
+buỵn|B W I5 NZ
+buynh|B W I0 NGZ
+buỳnh|B W I1 NGZ
+buỷnh|B W I3 NGZ
+buỹnh|B W I2 NGZ
+buýnh|B W I4 NGZ
+buỵnh|B W I5 NGZ
+buyp|B W I4 PC
+buýp|B W I4 PC
+buỵp|B W I5 PC
+buyt|B W I4 TC
+buýt|B W I4 TC
+buỵt|B W I5 TC
+búyt|B W I4 TC
+buyu|B W I0 UZ
+buỳu|B W I1 UZ
+buỷu|B W I3 UZ
+buỹu|B W I2 UZ
+buýu|B W I4 UZ
+buỵu|B W I5 UZ
+bư|B UW0
+bừ|B UW1
+bử|B UW3
+bữ|B UW2
+bứ|B UW4
+bự|B UW5
+bưa|B WA0
+bừa|B WA1
+bửa|B WA3
+bữa|B WA2
+bứa|B WA4
+bựa|B WA5
+bức|B UW4 KC
+bực|B UW5 KC
+bưi|B UW0 IZ
+bừi|B UW1 IZ
+bửi|B UW3 IZ
+bữi|B UW2 IZ
+bứi|B UW4 IZ
+bựi|B UW5 IZ
+bưn|B UW0 NZ
+bừn|B UW1 NZ
+bửn|B UW3 NZ
+bữn|B UW2 NZ
+bứn|B UW4 NZ
+bựn|B UW5 NZ
+bưng|B UW0 NGZ
+bừng|B UW1 NGZ
+bửng|B UW3 NGZ
+bững|B UW2 NGZ
+bứng|B UW4 NGZ
+bựng|B UW5 NGZ
+bươc|B WA4 KC
+bước|B WA4 KC
+bược|B WA5 KC
+bươi|B WA0 IZ
+bười|B WA1 IZ
+bưởi|B WA3 IZ
+bưỡi|B WA2 IZ
+bưới|B WA4 IZ
+bượi|B WA5 IZ
+bươm|B WA0 MZ
+bườm|B WA1 MZ
+bưởm|B WA3 MZ
+bưỡm|B WA2 MZ
+bướm|B WA4 MZ
+bượm|B WA5 MZ
+bươn|B WA0 NZ
+bườn|B WA1 NZ
+bưởn|B WA3 NZ
+bưỡn|B WA2 NZ
+bướn|B WA4 NZ
+bượn|B WA5 NZ
+bương|B WA0 NGZ
+bường|B WA1 NGZ
+bưởng|B WA3 NGZ
+bưỡng|B WA2 NGZ
+bướng|B WA4 NGZ
+bượng|B WA5 NGZ
+bươp|K WA4 PC
+bướp|K WA4 PC
+bượp|K WA5 PC
+bươt|M WA4 TC
+bướt|M WA4 TC
+bượt|M WA5 TC
+bươu|B WA0 UZ
+bườu|B WA1 UZ
+bưởu|B WA3 UZ
+bưỡu|B WA2 UZ
+bướu|B WA4 UZ
+bượu|B WA5 UZ
+bưt|B UW4 TC
+bứt|B UW4 TC
+bựt|B UW5 TC
+bưu|B UW0 UZ
+bừu|B UW1 UZ
+bửu|B UW3 UZ
+bữu|B UW2 UZ
+bứu|B UW4 UZ
+bựu|B UW5 UZ
+by|B I0
+bỳ|B I1
+bỷ|B I3
+bỹ|B I2
+bý|B I4
+bỵ|B I5
+ca|K A0
+cà|K A1
+cả|K A3
+cã|K A2
+cá|K A4
+cạ|K A5
+các|K A4 KC
+cạc|K A5 KC
+cách|K EA4 KC
+cạch|K EA5 KC
+cai|K A0 IZ
+cài|K A1 IZ
+cải|K A3 IZ
+cãi|K A2 IZ
+cái|K A4 IZ
+cại|K A5 IZ
+cam|K A0 MZ
+càm|K A1 MZ
+cảm|K A3 MZ
+cãm|K A2 MZ
+cám|K A4 MZ
+cạm|K A5 MZ
+can|K A0 NZ
+càn|K A1 NZ
+cản|K A3 NZ
+cãn|K A2 NZ
+cán|K A4 NZ
+cạn|K A5 NZ
+cang|K A0 NGZ
+càng|K A1 NGZ
+cảng|K A3 NGZ
+cãng|K A2 NGZ
+cáng|K A4 NGZ
+cạng|K A5 NGZ
+canh|K EA0 NGZ
+cành|K EA1 NGZ
+cảnh|K EA3 NGZ
+cãnh|K EA2 NGZ
+cánh|K EA4 NGZ
+cạnh|K EA5 NGZ
+cao|K A0 UZ
+cào|K A1 UZ
+cảo|K A3 UZ
+cão|K A2 UZ
+cáo|K A4 UZ
+cạo|K A5 UZ
+cáp|K A4 PC
+cạp|K A5 PC
+cat|K A4 TC
+cát|K A4 TC
+cạt|K A5 TC
+cau|K AW0 UZ
+càu|K AW1 UZ
+cảu|K AW3 UZ
+cãu|K AW2 UZ
+cáu|K AW4 UZ
+cạu|K AW5 UZ
+cay|K AW0 IZ
+cày|K AW1 IZ
+cảy|K AW3 IZ
+cãy|K AW2 IZ
+cáy|K AW4 IZ
+cạy|K AW5 IZ
+căc|K AW4 KC
+cắc|K AW4 KC
+cặc|K AW5 KC
+căm|K AW0 MZ
+cằm|K AW1 MZ
+cẳm|K AW3 MZ
+cẵm|K AW2 MZ
+cắm|K AW4 MZ
+cặm|K AW5 MZ
+căn|K AW0 NZ
+cằn|K AW1 NZ
+cẳn|K AW3 NZ
+cẵn|K AW2 NZ
+cắn|K AW4 NZ
+cặn|K AW5 NZ
+căng|K AW0 NGZ
+cằng|K AW1 NGZ
+cẳng|K AW3 NGZ
+cẵng|K AW2 NGZ
+cắng|K AW4 NGZ
+cặng|K AW5 NGZ
+cắp|K AW4 PC
+cặp|K AW5 PC
+căt|K AW4 TC
+cắt|K AW4 TC
+cặt|K AW5 TC
+cấc|K AA4 KC
+cậc|K AA5 KC
+câm|K AA0 MZ
+cầm|K AA1 MZ
+cẩm|K AA3 MZ
+cẫm|K AA2 MZ
+cấm|K AA4 MZ
+cậm|K AA5 MZ
+cân|K AA0 NZ
+cần|K AA1 NZ
+cẩn|K AA3 NZ
+cẫn|K AA2 NZ
+cấn|K AA4 NZ
+cận|K AA5 NZ
+câng|K AA0 NGZ
+cầng|K AA1 NGZ
+cẩng|K AA3 NGZ
+cẫng|K AA2 NGZ
+cấng|K AA4 NGZ
+cậng|K AA5 NGZ
+cấp|K AA4 PC
+cập|K AA5 PC
+cất|K AA4 TC
+cật|K AA5 TC
+câu|K AA0 UZ
+cầu|K AA1 UZ
+cẩu|K AA3 UZ
+cẫu|K AA2 UZ
+cấu|K AA4 UZ
+cậu|K AA5 UZ
+cây|K AA0 IZ
+cầy|K AA1 IZ
+cẩy|K AA3 IZ
+cẫy|K AA2 IZ
+cấy|K AA4 IZ
+cậy|K AA5 IZ
+cét|K E4 TC
+cê|K EE0
+cếp|K EE4 PC
+cết|K EE4 TC
+cha|TR A0
+chà|TR A1
+chả|TR A3
+chã|TR A2
+chá|TR A4
+chạ|TR A5
+chác|TR A4 KC
+chạc|TR A5 KC
+chách|TR EA4 KC
+chạch|TR EA5 KC
+chai|TR A0 IZ
+chài|TR A1 IZ
+chải|TR A3 IZ
+chãi|TR A2 IZ
+chái|TR A4 IZ
+chại|TR A5 IZ
+cham|TR A0 MZ
+chàm|TR A1 MZ
+chảm|TR A3 MZ
+chãm|TR A2 MZ
+chám|TR A4 MZ
+chạm|TR A5 MZ
+chan|TR A0 NZ
+chàn|TR A1 NZ
+chản|TR A3 NZ
+chãn|TR A2 NZ
+chán|TR A4 NZ
+chạn|TR A5 NZ
+chang|TR A0 NGZ
+chàng|TR A1 NGZ
+chảng|TR A3 NGZ
+chãng|TR A2 NGZ
+cháng|TR A4 NGZ
+chạng|TR A5 NGZ
+chanh|TR EA0 NGZ
+chành|TR EA1 NGZ
+chảnh|TR EA3 NGZ
+chãnh|TR EA2 NGZ
+chánh|TR EA4 NGZ
+chạnh|TR EA5 NGZ
+chao|TR A0 UZ
+chào|TR A1 UZ
+chảo|TR A3 UZ
+chão|TR A2 UZ
+cháo|TR A4 UZ
+chạo|TR A5 UZ
+cháp|TR A4 PC
+chạp|TR A5 PC
+chat|TR A4 TC
+chát|TR A4 TC
+chạt|TR A5 TC
+chau|TR AW0 UZ
+chàu|TR AW1 UZ
+chảu|TR AW3 UZ
+chãu|TR AW2 UZ
+cháu|TR AW4 UZ
+chạu|TR AW5 UZ
+chay|TR AW0 IZ
+chày|TR AW1 IZ
+chảy|TR AW3 IZ
+chãy|TR AW2 IZ
+cháy|TR AW4 IZ
+chạy|TR AW5 IZ
+chắc|TR AW4 KC
+chặc|TR AW5 KC
+chăm|TR AW0 MZ
+chằm|TR AW1 MZ
+chẳm|TR AW3 MZ
+chẵm|TR AW2 MZ
+chắm|TR AW4 MZ
+chặm|TR AW5 MZ
+chăn|TR AW0 NZ
+chằn|TR AW1 NZ
+chẳn|TR AW3 NZ
+chẵn|TR AW2 NZ
+chắn|TR AW4 NZ
+chặn|TR AW5 NZ
+chăng|TR AW0 NGZ
+chằng|TR AW1 NGZ
+chẳng|TR AW3 NGZ
+chẵng|TR AW2 NGZ
+chắng|TR AW4 NGZ
+chặng|TR AW5 NGZ
+chắp|TR AW4 PC
+chặp|TR AW5 PC
+chắt|TR AW4 TC
+chặt|TR AW5 TC
+châc|TR AA4 KC
+chấc|TR AA4 KC
+chậc|TR AA5 KC
+châm|TR AA0 MZ
+chầm|TR AA1 MZ
+chẩm|TR AA3 MZ
+chẫm|TR AA2 MZ
+chấm|TR AA4 MZ
+chậm|TR AA5 MZ
+chân|TR AA0 NZ
+chần|TR AA1 NZ
+chẩn|TR AA3 NZ
+chẫn|TR AA2 NZ
+chấn|TR AA4 NZ
+chận|TR AA5 NZ
+châng|TR AA0 NGZ
+chầng|TR AA1 NGZ
+chẩng|TR AA3 NGZ
+chẫng|TR AA2 NGZ
+chấng|TR AA4 NGZ
+chậng|TR AA5 NGZ
+châp|TR AA4 PC
+chấp|TR AA4 PC
+chập|TR AA5 PC
+chất|TR AA4 TC
+chật|TR AA5 TC
+châu|TR AA0 UZ
+chầu|TR AA1 UZ
+chẩu|TR AA3 UZ
+chẫu|TR AA2 UZ
+chấu|TR AA4 UZ
+chậu|TR AA5 UZ
+chây|TR AA0 IZ
+chầy|TR AA1 IZ
+chẩy|TR AA3 IZ
+chẫy|TR AA2 IZ
+chấy|TR AA4 IZ
+chậy|TR AA5 IZ
+che|TR E0
+chè|TR E1
+chẻ|TR E3
+chẽ|TR E2
+ché|TR E4
+chẹ|TR E5
+chec|TR E4 KC
+chéc|TR E4 KC
+chẹc|TR E5 KC
+chem|TR E0 MZ
+chèm|TR E1 MZ
+chẻm|TR E3 MZ
+chẽm|TR E2 MZ
+chém|TR E4 MZ
+chẹm|TR E5 MZ
+chen|TR E0 NZ
+chèn|TR E1 NZ
+chẻn|TR E3 NZ
+chẽn|TR E2 NZ
+chén|TR E4 NZ
+chẹn|TR E5 NZ
+cheng|TR E0 NGZ
+chèng|TR E1 NGZ
+chẻng|TR E3 NGZ
+chẽng|TR E2 NGZ
+chéng|TR E4 NGZ
+chẹng|TR E5 NGZ
+cheo|TR E0 UZ
+chèo|TR E1 UZ
+chẻo|TR E3 UZ
+chẽo|TR E2 UZ
+chéo|TR E4 UZ
+chẹo|TR E5 UZ
+chep|TR E4 PC
+chép|TR E4 PC
+chẹp|TR E5 PC
+chét|TR E4 TC
+chẹt|TR E5 TC
+chê|TR EE0
+chề|TR EE1
+chể|TR EE3
+chễ|TR EE2
+chế|TR EE4
+chệ|TR EE5
+chếc|TR EE4 KC
+chếch|TR EE4 KC
+chệch|TR EE5 KC
+chêm|TR EE0 MZ
+chềm|TR EE1 MZ
+chểm|TR EE3 MZ
+chễm|TR EE2 MZ
+chếm|TR EE4 MZ
+chệm|TR EE5 MZ
+chên|TR EE0 NZ
+chền|TR EE1 NZ
+chển|TR EE3 NZ
+chễn|TR EE2 NZ
+chến|TR EE4 NZ
+chện|TR EE5 NZ
+chêng|TR EE0 NGZ
+chênh|TR EE0 NGZ
+chềnh|TR EE1 NGZ
+chểnh|TR EE3 NGZ
+chễnh|TR EE2 NGZ
+chếnh|TR EE4 NGZ
+chệnh|TR EE5 NGZ
+chêp|TR EE4 PC
+chếp|TR EE4 PC
+chệp|TR EE5 PC
+chêt|TR EE4 TC
+chết|TR EE4 TC
+chệt|TR EE5 TC
+chêu|TR EE0 UZ
+chều|TR EE1 UZ
+chểu|TR EE3 UZ
+chễu|TR EE2 UZ
+chếu|TR EE4 UZ
+chệu|TR EE5 UZ
+chi|TR I0
+chì|TR I1
+chỉ|TR I3
+chĩ|TR I2
+chí|TR I4
+chị|TR I5
+chia|TR IE0
+chìa|TR IE1
+chỉa|TR IE3
+chĩa|TR IE2
+chía|TR IE4
+chịa|TR IE5
+chích|TR I4 KC
+chịch|TR I5 KC
+chiêc|TR IE4 KC
+chiếc|TR IE4 KC
+chiệc|TR IE5 KC
+chiêm|TR IE0 MZ
+chiềm|TR IE1 MZ
+chiểm|TR IE3 MZ
+chiễm|TR IE2 MZ
+chiếm|TR IE4 MZ
+chiệm|TR IE5 MZ
+chiên|TR IE0 NZ
+chiền|TR IE1 NZ
+chiển|TR IE3 NZ
+chiễn|TR IE2 NZ
+chiến|TR IE4 NZ
+chiện|TR IE5 NZ
+chiêng|TR IE0 NGZ
+chiềng|TR IE1 NGZ
+chiểng|TR IE3 NGZ
+chiễng|TR IE2 NGZ
+chiếng|TR IE4 NGZ
+chiệng|TR IE5 NGZ
+chiêp|TR IE4 PC
+chiếp|TR IE4 PC
+chiệp|TR IE5 PC
+chiêt|TR IE4 TC
+chiết|TR IE4 TC
+chiệt|TR IE5 TC
+chiêu|TR IE0 UZ
+chiều|TR IE1 UZ
+chiểu|TR IE3 UZ
+chiễu|TR IE2 UZ
+chiếu|TR IE4 UZ
+chiệu|TR IE5 UZ
+chim|TR I0 MZ
+chìm|TR I1 MZ
+chỉm|TR I3 MZ
+chĩm|TR I2 MZ
+chím|TR I4 MZ
+chịm|TR I5 MZ
+chin|TR I0 NZ
+chìn|TR I1 NZ
+chỉn|TR I3 NZ
+chĩn|TR I2 NZ
+chín|TR I4 NZ
+chịn|TR I5 NZ
+chinh|TR I0 NGZ
+chình|TR I1 NGZ
+chỉnh|TR I3 NGZ
+chĩnh|TR I2 NGZ
+chính|TR I4 NGZ
+chịnh|TR I5 NGZ
+chip|TR I4 PC
+chíp|TR I4 PC
+chịp|TR I5 PC
+chít|TR I4 TC
+chịt|TR I5 TC
+chiu|TR I0 UZ
+chìu|TR I1 UZ
+chỉu|TR I3 UZ
+chĩu|TR I2 UZ
+chíu|TR I4 UZ
+chịu|TR I5 UZ
+cho|TR O0
+chò|TR O1
+chỏ|TR O3
+chõ|TR O2
+chó|TR O4
+chọ|TR O5
+choa|TR W A0
+chòa|TR W A1
+chỏa|TR W A3
+chõa|TR W A2
+chóa|TR W A4
+chọa|TR W A5
+choác|TR W A4 KC
+choạc|TR W A5 KC
+chóac|TR W A4 KC
+chọac|TR W A5 KC
+choach|TR W EA4 KC
+choách|TR W EA4 KC
+choạch|TR W EA5 KC
+choai|TR W A0 IZ
+choài|TR W A1 IZ
+choải|TR W A3 IZ
+choãi|TR W A2 IZ
+choái|TR W A4 IZ
+choại|TR W A5 IZ
+chõai|TR W A2 IZ
+choam|TR W A0 MZ
+choàm|TR W A1 MZ
+choảm|TR W A3 MZ
+choãm|TR W A2 MZ
+choám|TR W A4 MZ
+choạm|TR W A5 MZ
+choan|TR W A0 NZ
+choàn|TR W A1 NZ
+choản|TR W A3 NZ
+choãn|TR W A2 NZ
+choán|TR W A4 NZ
+choạn|TR W A5 NZ
+chóan|TR W A4 NZ
+choang|TR W A0 NGZ
+choàng|TR W A1 NGZ
+choảng|TR W A3 NGZ
+choãng|TR W A2 NGZ
+choáng|TR W A4 NGZ
+choạng|TR W A5 NGZ
+chòang|TR W A1 NGZ
+chỏang|TR W A3 NGZ
+chóang|TR W A4 NGZ
+chọang|TR W A5 NGZ
+choanh|TR W EA0 NGZ
+choành|TR W EA1 NGZ
+choảnh|TR W EA3 NGZ
+choãnh|TR W EA2 NGZ
+choánh|TR W EA4 NGZ
+choạnh|TR W EA5 NGZ
+choap|TR W A4 PC
+choáp|TR W A4 PC
+choạp|TR W A5 PC
+choat|TR W A4 TC
+choát|TR W A4 TC
+choạt|TR W A5 TC
+choay|TR W AW0 IZ
+choày|TR W AW1 IZ
+choảy|TR W AW3 IZ
+choãy|TR W AW2 IZ
+choáy|TR W AW4 IZ
+choạy|TR W AW5 IZ
+choăc|TR W AW4 KC
+choắc|TR W AW4 KC
+choặc|TR W AW5 KC
+choăm|TR W AW0 MZ
+choằm|TR W AW1 MZ
+choẳm|TR W AW3 MZ
+choẵm|TR W AW2 MZ
+choắm|TR W AW4 MZ
+choặm|TR W AW5 MZ
+choăn|TR W AW0 NZ
+choằn|TR W AW1 NZ
+choẳn|TR W AW3 NZ
+choẵn|TR W AW2 NZ
+choắn|TR W AW4 NZ
+choặn|TR W AW5 NZ
+choăng|TR W AW0 NGZ
+choằng|TR W AW1 NGZ
+choẳng|TR W AW3 NGZ
+choẵng|TR W AW2 NGZ
+choắng|TR W AW4 NGZ
+choặng|TR W AW5 NGZ
+choăt|TR W AW4 TC
+choắt|TR W AW4 TC
+choặt|TR W AW5 TC
+chóc|TR OA4 KC
+chọc|TR OA5 KC
+choe|TR W E0
+choè|TR W E1
+choé|TR W E4
+choẹ|TR W E5
+chòe|TR W E1
+chỏe|TR W E3
+chõe|TR W E2
+chóe|TR W E4
+chọe|TR W E5
+choem|TR W E0 MZ
+choèm|TR W E1 MZ
+choẻm|TR W E3 MZ
+choẽm|TR W E2 MZ
+choém|TR W E4 MZ
+choẹm|TR W E5 MZ
+choen|TR W E0 NZ
+choèn|TR W E1 NZ
+choẻn|TR W E3 NZ
+choẽn|TR W E2 NZ
+choén|TR W E4 NZ
+choẹn|TR W E5 NZ
+chòen|TR W E1 NZ
+choeo|TR W E0 UZ
+choèo|TR W E1 UZ
+choẻo|TR W E3 UZ
+choẽo|TR W E2 UZ
+choéo|TR W E4 UZ
+choẹo|TR W E5 UZ
+choet|TR W E4 TC
+choét|TR W E4 TC
+choẹt|TR W E5 TC
+chọet|TR W E5 TC
+choi|TR O0 IZ
+chòi|TR O1 IZ
+chỏi|TR O3 IZ
+chõi|TR O2 IZ
+chói|TR O4 IZ
+chọi|TR O5 IZ
+chom|TR O0 MZ
+chòm|TR O1 MZ
+chỏm|TR O3 MZ
+chõm|TR O2 MZ
+chóm|TR O4 MZ
+chọm|TR O5 MZ
+chon|TR O0 NZ
+chòn|TR O1 NZ
+chỏn|TR O3 NZ
+chõn|TR O2 NZ
+chón|TR O4 NZ
+chọn|TR O5 NZ
+chong|TR OA0 NGZ
+chòng|TR OA1 NGZ
+chỏng|TR OA3 NGZ
+chõng|TR OA2 NGZ
+chóng|TR OA4 NGZ
+chọng|TR OA5 NGZ
+choóc|TR O4 OA4 KC
+choọc|TR O5 OA5 KC
+choong|TR O0 NGZ
+choòng|TR O0 NGZ
+choỏng|TR O0 NGZ
+choõng|TR O0 NGZ
+choóng|TR O0 NGZ
+choọng|TR O0 NGZ
+chóp|TR O4 PC
+chọp|TR O5 PC
+chót|TR O4 TC
+chọt|TR O5 TC
+chô|TR OO0
+chồ|TR OO1
+chổ|TR OO3
+chỗ|TR OO2
+chố|TR OO4
+chộ|TR OO5
+chôc|TR OO4 KC
+chốc|TR OO4 KC
+chộc|TR OO5 KC
+chôi|TR OO0 IZ
+chồi|TR OO1 IZ
+chổi|TR OO3 IZ
+chỗi|TR OO2 IZ
+chối|TR OO4 IZ
+chội|TR OO5 IZ
+chôm|TR OO0 MZ
+chồm|TR OO1 MZ
+chổm|TR OO3 MZ
+chỗm|TR OO2 MZ
+chốm|TR OO4 MZ
+chộm|TR OO5 MZ
+chôn|TR OO0 NZ
+chồn|TR OO1 NZ
+chổn|TR OO3 NZ
+chỗn|TR OO2 NZ
+chốn|TR OO4 NZ
+chộn|TR OO5 NZ
+chông|TR OO0 NGZ
+chồng|TR OO1 NGZ
+chổng|TR OO3 NGZ
+chỗng|TR OO2 NGZ
+chống|TR OO4 NGZ
+chộng|TR OO5 NGZ
+chôp|TR OO4 PC
+chốp|TR OO4 PC
+chộp|TR OO5 PC
+chốt|TR OO4 TC
+chột|TR OO5 TC
+chơ|TR OW0
+chờ|TR OW1
+chở|TR OW3
+chỡ|TR OW2
+chớ|TR OW4
+chợ|TR OW5
+chớc|TR OW4 KC
+chơi|TR OW0 IZ
+chời|TR OW1 IZ
+chởi|TR OW3 IZ
+chỡi|TR OW2 IZ
+chới|TR OW4 IZ
+chợi|TR OW5 IZ
+chơm|TR OW0 MZ
+chờm|TR OW1 MZ
+chởm|TR OW3 MZ
+chỡm|TR OW2 MZ
+chớm|TR OW4 MZ
+chợm|TR OW5 MZ
+chơn|TR OW0 NZ
+chờn|TR OW1 NZ
+chởn|TR OW3 NZ
+chỡn|TR OW2 NZ
+chớn|TR OW4 NZ
+chợn|TR OW5 NZ
+chớp|TR OW4 PC
+chợp|TR OW5 PC
+chớt|TR OW4 TC
+chợt|TR OW5 TC
+chu|TR U0
+chù|TR U1
+chủ|TR U3
+chũ|TR U2
+chú|TR U4
+chụ|TR U5
+chua|TR UO0
+chùa|TR UO1
+chủa|TR UO3
+chũa|TR UO2
+chúa|TR UO4
+chụa|TR UO5
+chuân|TR W AA0 NZ
+chuần|TR W AA1 NZ
+chuẩn|TR W AA3 NZ
+chuẫn|TR W AA2 NZ
+chuấn|TR W AA4 NZ
+chuận|TR W AA5 NZ
+chuâng|TR W AA0 NGZ
+chuầng|TR W AA1 NGZ
+chuẩng|TR W AA3 NGZ
+chuẫng|TR W AA2 NGZ
+chuấng|TR W AA4 NGZ
+chuậng|TR W AA5 NGZ
+chuât|TR W AA4 TC
+chuất|TR W AA4 TC
+chuật|TR W AA5 TC
+chuây|TR W AA0 IZ
+chuầy|TR W AA1 IZ
+chuẩy|TR W AA3 IZ
+chuẫy|TR W AA2 IZ
+chuấy|TR W AA4 IZ
+chuậy|TR W AA5 IZ
+chúc|TR U4 KC
+chục|TR U5 KC
+chuê|TR W EE0
+chuề|TR W EE1
+chuể|TR W EE3
+chuễ|TR W EE2
+chuế|TR W EE4
+chuệ|TR W EE5
+chuếch|TR W EE4 KC
+chuệch|TR W EE5 KC
+chuênh|TR W EE0 NGZ
+chuềnh|TR W EE1 NGZ
+chuểnh|TR W EE3 NGZ
+chuễnh|TR W EE2 NGZ
+chuếnh|TR W EE4 NGZ
+chuệnh|TR W EE5 NGZ
+chui|TR U0 IZ
+chùi|TR U1 IZ
+chủi|TR U3 IZ
+chũi|TR U2 IZ
+chúi|TR U4 IZ
+chụi|TR U5 IZ
+chum|TR U0 MZ
+chùm|TR U1 MZ
+chủm|TR U3 MZ
+chũm|TR U2 MZ
+chúm|TR U4 MZ
+chụm|TR U5 MZ
+chun|TR U0 NZ
+chùn|TR U1 NZ
+chủn|TR U3 NZ
+chũn|TR U2 NZ
+chún|TR U4 NZ
+chụn|TR U5 NZ
+chung|TR U0 NGZ
+chùng|TR U1 NGZ
+chủng|TR U3 NGZ
+chũng|TR U2 NGZ
+chúng|TR U4 NGZ
+chụng|TR U5 NGZ
+chuốc|TR UO4 KC
+chuộc|TR UO5 KC
+chuôi|TR UO0 IZ
+chuồi|TR UO1 IZ
+chuổi|TR UO3 IZ
+chuỗi|TR UO2 IZ
+chuối|TR UO4 IZ
+chuội|TR UO5 IZ
+chuôm|TR UO0 MZ
+chuồm|TR UO1 MZ
+chuổm|TR UO3 MZ
+chuỗm|TR UO2 MZ
+chuốm|TR UO4 MZ
+chuộm|TR UO5 MZ
+chuôn|TR UO0 NZ
+chuồn|TR UO1 NZ
+chuổn|TR UO3 NZ
+chuỗn|TR UO2 NZ
+chuốn|TR UO4 NZ
+chuộn|TR UO5 NZ
+chuông|TR UO0 NGZ
+chuồng|TR UO1 NGZ
+chuổng|TR UO3 NGZ
+chuỗng|TR UO2 NGZ
+chuống|TR UO4 NGZ
+chuộng|TR UO5 NGZ
+chuốt|TR UO4 TC
+chuột|TR UO5 TC
+chuơ|TR W OW0
+chuờ|TR W OW1
+chuở|TR W OW3
+chuỡ|TR W OW2
+chuớ|TR W OW4
+chuợ|TR W OW5
+chúp|TR U4 PC
+chụp|TR U5 PC
+chút|TR U4 TC
+chụt|TR U5 TC
+chuy|TR W I0
+chuỳ|TR W I1
+chùy|TR W I1
+chủy|TR W I3
+chũy|TR W I2
+chúy|TR W I4
+chụy|TR W IZ
+chuya|TR W IE0
+chuỳa|TR W IE1
+chuỷa|TR W IE3
+chuỹa|TR W IE2
+chuýa|TR W IE4
+chuỵa|TR W IE5
+chuých|TR W I4 KC
+chuỵch|TR W I5 KC
+chuyên|TR W IE0 NZ
+chuyền|TR W IE1 NZ
+chuyển|TR W IE3 NZ
+chuyễn|TR W IE2 NZ
+chuyến|TR W IE4 NZ
+chuyện|TR W IE5 NZ
+chuyết|TR W IE4 TC
+chuyệt|TR W IE5 TC
+chuyn|TR W I0 NZ
+chuỳn|TR W I1 NZ
+chuỷn|TR W I3 NZ
+chuỹn|TR W I2 NZ
+chuýn|TR W I4 NZ
+chuỵn|TR W I5 NZ
+chuynh|TR W I0 NGZ
+chuỳnh|TR W I1 NGZ
+chuỷnh|TR W I3 NGZ
+chuỹnh|TR W I2 NGZ
+chuýnh|TR W I4 NGZ
+chuỵnh|TR W I5 NGZ
+chuyp|TR W I4 PC
+chuýp|TR W I4 PC
+chuỵp|TR W I5 PC
+chuyt|TR W I4 TC
+chuýt|TR W I4 TC
+chuỵt|TR W I5 TC
+chuyu|TR W I0 UZ
+chuỳu|TR W I1 UZ
+chuỷu|TR W I3 UZ
+chuỹu|TR W I2 UZ
+chuýu|TR W I4 UZ
+chuỵu|TR W I5 UZ
+chư|TR UW0
+chừ|TR UW1
+chử|TR UW3
+chữ|TR UW2
+chứ|TR UW4
+chự|TR UW5
+chưa|TR WA0
+chừa|TR WA1
+chửa|TR WA3
+chữa|TR WA2
+chứa|TR WA4
+chựa|TR WA5
+chức|TR UW4 KC
+chực|TR UW5 KC
+chưi|TR UW0 IZ
+chừi|TR UW1 IZ
+chửi|TR UW3 IZ
+chữi|TR UW2 IZ
+chứi|TR UW4 IZ
+chựi|TR UW5 IZ
+chưm|TR UW0 MZ
+chừm|TR UW1 MZ
+chửm|TR UW3 MZ
+chữm|TR UW2 MZ
+chứm|TR UW4 MZ
+chựm|TR UW5 MZ
+chưn|TR UW0 NZ
+chừn|TR UW1 NZ
+chửn|TR UW3 NZ
+chữn|TR UW2 NZ
+chứn|TR UW4 NZ
+chựn|TR UW5 NZ
+chưng|TR UW0 NGZ
+chừng|TR UW1 NGZ
+chửng|TR UW3 NGZ
+chững|TR UW2 NGZ
+chứng|TR UW4 NGZ
+chựng|TR UW5 NGZ
+chước|TR WA4 KC
+chược|TR WA5 KC
+chươi|TR WA0 IZ
+chười|TR WA1 IZ
+chưởi|TR WA3 IZ
+chưỡi|TR WA2 IZ
+chưới|TR WA4 IZ
+chượi|TR WA5 IZ
+chươm|TR WA0 MZ
+chườm|TR WA1 MZ
+chưởm|TR WA3 MZ
+chưỡm|TR WA2 MZ
+chướm|TR WA4 MZ
+chượm|TR WA5 MZ
+chươn|TR WA0 NZ
+chườn|TR WA1 NZ
+chưởn|TR WA3 NZ
+chưỡn|TR WA2 NZ
+chướn|TR WA4 NZ
+chượn|TR WA5 NZ
+chương|TR WA0 NGZ
+chường|TR WA1 NGZ
+chưởng|TR WA3 NGZ
+chưỡng|TR WA2 NGZ
+chướng|TR WA4 NGZ
+chượng|TR WA5 NGZ
+chướp|TR WA4 PC
+chượp|TR WA5 PC
+chướt|TR WA4 TC
+chượt|TR WA5 TC
+chươu|TR WA0 UZ
+chườu|TR WA1 UZ
+chưởu|TR WA3 UZ
+chưỡu|TR WA2 UZ
+chướu|TR WA4 UZ
+chượu|TR WA5 UZ
+chứt|TR UW4 TC
+chựt|TR UW5 TC
+chưu|TR UW0 UZ
+chừu|TR UW1 UZ
+chửu|TR UW3 UZ
+chữu|TR UW2 UZ
+chứu|TR UW4 UZ
+chựu|TR UW5 UZ
+chy|TR I0
+chỳ|TR I1
+chỷ|TR I3
+chỹ|TR I2
+chý|TR I4
+chỵ|TR I5
+ci|K IZ
+cin|K I0 NZ
+ciu|K I0 UZ
+clai|K L A0 IZ
+co|K O0
+cò|K O1
+cỏ|K O3
+cõ|K O2
+có|K O4
+cọ|K O5
+coa|K W A0
+còa|K W A1
+cỏa|K W A3
+cõa|K W A2
+cóa|K W A4
+cọa|K W A5
+coác|K W A4 KC
+coạc|K W A5 KC
+coách|K W EA4 KC
+coai|K W A0 IZ
+coài|K W A1 IZ
+coải|K W A3 IZ
+coãi|K W A2 IZ
+coái|K W A4 IZ
+coại|K W A5 IZ
+coát|K W A4 TC
+cóc|K OA4 KC
+cọc|K OA5 KC
+coem|K W E0 MZ
+coèm|K W E1 MZ
+coẻm|K W E3 MZ
+coẽm|K W E2 MZ
+coém|K W E4 MZ
+coẹm|K W E5 MZ
+coeo|K W E0 UZ
+coèo|K W E1 UZ
+coẻo|K W E3 UZ
+coẽo|K W E2 UZ
+coéo|K W E4 UZ
+coẹo|K W E5 UZ
+coi|K O0 IZ
+còi|K O1 IZ
+cỏi|K O3 IZ
+cõi|K O2 IZ
+cói|K O4 IZ
+cọi|K O5 IZ
+com|K O0 MZ
+còm|K O1 MZ
+cỏm|K O3 MZ
+cõm|K O2 MZ
+cóm|K O4 MZ
+cọm|K O5 MZ
+con|K O0 NZ
+còn|K O1 NZ
+cỏn|K O3 NZ
+cõn|K O2 NZ
+cón|K O4 NZ
+cọn|K O5 NZ
+cong|K OA0 NGZ
+còng|K OA1 NGZ
+cỏng|K OA3 NGZ
+cõng|K OA2 NGZ
+cóng|K OA4 NGZ
+cọng|K OA5 NGZ
+coóc|K O4 OA4 KC
+cóp|K O4 PC
+cọp|K O5 PC
+cót|K O4 TC
+cọt|K O5 TC
+cô|K OO0
+cồ|K OO1
+cổ|K OO3
+cỗ|K OO2
+cố|K OO4
+cộ|K OO5
+cốc|K OO4 KC
+cộc|K OO5 KC
+côi|K OO0 IZ
+cồi|K OO1 IZ
+cổi|K OO3 IZ
+cỗi|K OO2 IZ
+cối|K OO4 IZ
+cội|K OO5 IZ
+côm|K OO0 MZ
+cồm|K OO1 MZ
+cổm|K OO3 MZ
+cỗm|K OO2 MZ
+cốm|K OO4 MZ
+cộm|K OO5 MZ
+côn|K OO0 NZ
+cồn|K OO1 NZ
+cổn|K OO3 NZ
+cỗn|K OO2 NZ
+cốn|K OO4 NZ
+cộn|K OO5 NZ
+công|K OO0 NGZ
+cồng|K OO1 NGZ
+cổng|K OO3 NGZ
+cỗng|K OO2 NGZ
+cống|K OO4 NGZ
+cộng|K OO5 NGZ
+cốp|K OO4 PC
+cộp|K OO5 PC
+cốt|K OO4 TC
+cột|K OO5 TC
+cơ|K OW0
+cờ|K OW1
+cở|K OW3
+cỡ|K OW2
+cớ|K OW4
+cợ|K OW5
+cơi|K OW0 IZ
+cời|K OW1 IZ
+cởi|K OW3 IZ
+cỡi|K OW2 IZ
+cới|K OW4 IZ
+cợi|K OW5 IZ
+cơm|K OW0 MZ
+cờm|K OW1 MZ
+cởm|K OW3 MZ
+cỡm|K OW2 MZ
+cớm|K OW4 MZ
+cợm|K OW5 MZ
+cơn|K OW0 NZ
+cờn|K OW1 NZ
+cởn|K OW3 NZ
+cỡn|K OW2 NZ
+cớn|K OW4 NZ
+cợn|K OW5 NZ
+cớt|K OW4 TC
+cợt|K OW5 TC
+cu|K U0
+cù|K U1
+củ|K U3
+cũ|K U2
+cú|K U4
+cụ|K U5
+cua|K UO0
+cùa|K UO1
+của|K UO3
+cũa|K UO2
+cúa|K UO4
+cụa|K UO5
+cúc|K U4 KC
+cục|K U5 KC
+cui|K U0 IZ
+cùi|K U1 IZ
+củi|K U3 IZ
+cũi|K U2 IZ
+cúi|K U4 IZ
+cụi|K U5 IZ
+cum|K U0 MZ
+cùm|K U1 MZ
+củm|K U3 MZ
+cũm|K U2 MZ
+cúm|K U4 MZ
+cụm|K U5 MZ
+cun|K U0 NZ
+cùn|K U1 NZ
+củn|K U3 NZ
+cũn|K U2 NZ
+cún|K U4 NZ
+cụn|K U5 NZ
+cung|K U0 NGZ
+cùng|K U1 NGZ
+củng|K U3 NGZ
+cũng|K U2 NGZ
+cúng|K U4 NGZ
+cụng|K U5 NGZ
+cuốc|K UO4 KC
+cuộc|K UO5 KC
+cuối|K UO4 IZ
+cuội|K UO5 IZ
+cuỗm|K UO2 MZ
+cuồn|K UO1 NZ
+cuốn|K UO4 NZ
+cuộn|K UO5 NZ
+cuông|K UO0 NGZ
+cuồng|K UO1 NGZ
+cuổng|K UO3 NGZ
+cuỗng|K UO2 NGZ
+cuống|K UO4 NGZ
+cuộng|K UO5 NGZ
+cúp|K U4 PC
+cụp|K U5 PC
+cút|K U4 TC
+cụt|K U5 TC
+cuynh|K W I0 NGZ
+cuỳnh|K W I1 NGZ
+cuỷnh|K W I3 NGZ
+cuỹnh|K W I2 NGZ
+cuýnh|K W I4 NGZ
+cuỵnh|K W I5 NGZ
+cuyp|K W I4 PC
+cuýp|K W I4 PC
+cuỵp|K W I5 PC
+cuyt|K W I4 TC
+cuýt|K W I4 TC
+cuỵt|K W I5 TC
+cuyu|K W I0 UZ
+cuỳu|K W I1 UZ
+cuỷu|K W I3 UZ
+cuỹu|K W I2 UZ
+cuýu|K W I4 UZ
+cuỵu|K W I5 UZ
+cư|K UW0
+cừ|K UW1
+cử|K UW3
+cữ|K UW2
+cứ|K UW4
+cự|K UW5
+cưa|K WA0
+cừa|K WA1
+cửa|K WA3
+cữa|K WA2
+cứa|K WA4
+cựa|K WA5
+cực|K UW5 KC
+cửi|K UW3 IZ
+cừn|K UW1 NZ
+cưng|K UW0 NGZ
+cừng|K UW1 NGZ
+cửng|K UW3 NGZ
+cững|K UW2 NGZ
+cứng|K UW4 NGZ
+cựng|K UW5 NGZ
+cước|K WA4 KC
+cược|K WA5 KC
+cười|K WA1 IZ
+cưỡi|K WA2 IZ
+cưới|K WA4 IZ
+cườm|K WA1 MZ
+cương|K WA0 NGZ
+cường|K WA1 NGZ
+cưởng|K WA3 NGZ
+cưỡng|K WA2 NGZ
+cướng|K WA4 NGZ
+cượng|K WA5 NGZ
+cướp|K WA4 PC
+cứt|K UW4 TC
+cưu|K UW0 UZ
+cừu|K UW1 UZ
+cửu|K UW3 UZ
+cữu|K UW2 UZ
+cứu|K UW4 UZ
+cựu|K UW5 UZ
+da|D A0
+dà|D A1
+dả|D A3
+dã|D A2
+dá|D A4
+dạ|D A5
+dác|D A4 KC
+dạc|D A5 KC
+dách|D EA4 KC
+dai|D A0 IZ
+dài|D A1 IZ
+dải|D A3 IZ
+dãi|D A2 IZ
+dái|D A4 IZ
+dại|D A5 IZ
+dam|D A0 MZ
+dàm|D A1 MZ
+dảm|D A3 MZ
+dãm|D A2 MZ
+dám|D A4 MZ
+dạm|D A5 MZ
+dan|D A0 NZ
+dàn|D A1 NZ
+dản|D A3 NZ
+dãn|D A2 NZ
+dán|D A4 NZ
+dạn|D A5 NZ
+dang|D A0 NGZ
+dàng|D A1 NGZ
+dảng|D A3 NGZ
+dãng|D A2 NGZ
+dáng|D A4 NGZ
+dạng|D A5 NGZ
+danh|D EA0 NGZ
+dành|D EA1 NGZ
+dảnh|D EA3 NGZ
+dãnh|D EA2 NGZ
+dánh|D EA4 NGZ
+dạnh|D EA5 NGZ
+dao|D A0 UZ
+dào|D A1 UZ
+dảo|D A3 UZ
+dão|D A2 UZ
+dáo|D A4 UZ
+dạo|D A5 UZ
+dáp|D A4 PC
+dát|D A4 TC
+dạt|D A5 TC
+dau|D AW0 UZ
+dàu|D AW1 UZ
+dảu|D AW3 UZ
+dãu|D AW2 UZ
+dáu|D AW4 UZ
+dạu|D AW5 UZ
+day|D AW0 IZ
+dày|D AW1 IZ
+dảy|D AW3 IZ
+dãy|D AW2 IZ
+dáy|D AW4 IZ
+dạy|D AW5 IZ
+dắc|D AW4 KC
+dặc|D AW5 KC
+dăm|D AW0 MZ
+dằm|D AW1 MZ
+dẳm|D AW3 MZ
+dẵm|D AW2 MZ
+dắm|D AW4 MZ
+dặm|D AW5 MZ
+dằn|D AW1 NZ
+dặn|D AW5 NZ
+dăng|D AW0 NGZ
+dằng|D AW1 NGZ
+dẳng|D AW3 NGZ
+dẵng|D AW2 NGZ
+dắng|D AW4 NGZ
+dặng|D AW5 NGZ
+dắt|D AW4 TC
+dặt|D AW5 TC
+dâm|D AA0 MZ
+dầm|D AA1 MZ
+dẩm|D AA3 MZ
+dẫm|D AA2 MZ
+dấm|D AA4 MZ
+dậm|D AA5 MZ
+dân|D AA0 NZ
+dần|D AA1 NZ
+dẩn|D AA3 NZ
+dẫn|D AA2 NZ
+dấn|D AA4 NZ
+dận|D AA5 NZ
+dâng|D AA0 NGZ
+dầng|D AA1 NGZ
+dẩng|D AA3 NGZ
+dẫng|D AA2 NGZ
+dấng|D AA4 NGZ
+dậng|D AA5 NGZ
+dấp|D AA4 PC
+dập|D AA5 PC
+dật|D AA5 TC
+dâu|D AA0 UZ
+dầu|D AA1 UZ
+dẩu|D AA3 UZ
+dẫu|D AA2 UZ
+dấu|D AA4 UZ
+dậu|D AA5 UZ
+dây|D AA0 IZ
+dầy|D AA1 IZ
+dẩy|D AA3 IZ
+dẫy|D AA2 IZ
+dấy|D AA4 IZ
+dậy|D AA5 IZ
+de|D E0
+dè|D E1
+dẻ|D E3
+dẽ|D E2
+dé|D E4
+dẹ|D E5
+dem|D E0 MZ
+dèm|D E1 MZ
+dẻm|D E3 MZ
+dẽm|D E2 MZ
+dém|D E4 MZ
+dẹm|D E5 MZ
+den|D E0 NZ
+dèn|D E1 NZ
+dẻn|D E3 NZ
+dẽn|D E2 NZ
+dén|D E4 NZ
+dẹn|D E5 NZ
+deo|D E0 UZ
+dèo|D E1 UZ
+dẻo|D E3 UZ
+dẽo|D E2 UZ
+déo|D E4 UZ
+dẹo|D E5 UZ
+dép|D E4 PC
+dẹp|D E5 PC
+dét|D E4 TC
+dẹt|D E5 TC
+dê|D EE0
+dề|D EE1
+dể|D EE3
+dễ|D EE2
+dế|D EE4
+dệ|D EE5
+dếch|D EE4 KC
+dêm|D EE0 MZ
+dềm|D EE1 MZ
+dểm|D EE3 MZ
+dễm|D EE2 MZ
+dếm|D EE4 MZ
+dệm|D EE5 MZ
+dên|D EE0 NZ
+dền|D EE1 NZ
+dển|D EE3 NZ
+dễn|D EE2 NZ
+dến|D EE4 NZ
+dện|D EE5 NZ
+dềnh|D EE1 NGZ
+dệt|D EE5 TC
+dêu|D EE0 UZ
+dều|D EE1 UZ
+dểu|D EE3 UZ
+dễu|D EE2 UZ
+dếu|D EE4 UZ
+dệu|D EE5 UZ
+di|D I0
+dì|D I1
+dỉ|D I3
+dĩ|D I2
+dí|D I4
+dị|D I5
+dia|D IE0
+dìa|D IE1
+dỉa|D IE3
+dĩa|D IE2
+día|D IE4
+dịa|D IE5
+dích|D I4 KC
+dịch|D I5 KC
+diê|D IE0
+diếc|D IE4 KC
+diệc|D IE5 KC
+diêm|D IE0 MZ
+diềm|D IE1 MZ
+diểm|D IE3 MZ
+diễm|D IE2 MZ
+diếm|D IE4 MZ
+diệm|D IE5 MZ
+diên|D IE0 NZ
+diền|D IE1 NZ
+diển|D IE3 NZ
+diễn|D IE2 NZ
+diến|D IE4 NZ
+diện|D IE5 NZ
+diếp|D IE4 PC
+diệp|D IE5 PC
+diết|D IE4 TC
+diệt|D IE5 TC
+diêu|D IE0 UZ
+diều|D IE1 UZ
+diểu|D IE3 UZ
+diễu|D IE2 UZ
+diếu|D IE4 UZ
+diệu|D IE5 UZ
+dim|D I0 MZ
+dìm|D I1 MZ
+dỉm|D I3 MZ
+dĩm|D I2 MZ
+dím|D I4 MZ
+dịm|D I5 MZ
+din|D I0 NZ
+dìn|D I1 NZ
+dỉn|D I3 NZ
+dĩn|D I2 NZ
+dín|D I4 NZ
+dịn|D I5 NZ
+dinh|D I0 NGZ
+dình|D I1 NGZ
+dỉnh|D I3 NGZ
+dĩnh|D I2 NGZ
+dính|D I4 NGZ
+dịnh|D I5 NGZ
+díp|D I4 PC
+dịp|D I5 PC
+dít|D I4 TC
+dịt|D I5 TC
+diu|D I0 UZ
+dìu|D I1 UZ
+dỉu|D I3 UZ
+dĩu|D I2 UZ
+díu|D I4 UZ
+dịu|D I5 UZ
+do|D O0
+dò|D O1
+dỏ|D O3
+dõ|D O2
+dó|D O4
+dọ|D O5
+doa|D W A0
+doạ|D W A5
+dòa|D W A1
+dỏa|D W A3
+dõa|D W A2
+dóa|D W A4
+dọa|D W A5
+doan|D W A0 NZ
+doàn|D W A1 NZ
+doản|D W A3 NZ
+doãn|D W A2 NZ
+doán|D W A4 NZ
+doạn|D W A5 NZ
+dõan|D W A2 NZ
+doanh|D W EA0 NGZ
+doành|D W EA1 NGZ
+doảnh|D W EA3 NGZ
+doãnh|D W EA2 NGZ
+doánh|D W EA4 NGZ
+doạnh|D W EA5 NGZ
+dóc|D OA4 KC
+dọc|D OA5 KC
+doem|D W E0 MZ
+doèm|D W E1 MZ
+doẻm|D W E3 MZ
+doẽm|D W E2 MZ
+doém|D W E4 MZ
+doẹm|D W E5 MZ
+doenh|D W E0 NGZ
+doeo|D W E0 UZ
+doèo|D W E1 UZ
+doẻo|D W E3 UZ
+doẽo|D W E2 UZ
+doéo|D W E4 UZ
+doẹo|D W E5 UZ
+doi|D O0 IZ
+dòi|D O1 IZ
+dỏi|D O3 IZ
+dõi|D O2 IZ
+dói|D O4 IZ
+dọi|D O5 IZ
+dom|D O0 MZ
+dòm|D O1 MZ
+dỏm|D O3 MZ
+dõm|D O2 MZ
+dóm|D O4 MZ
+dọm|D O5 MZ
+don|D O0 NZ
+dòn|D O1 NZ
+dỏn|D O3 NZ
+dõn|D O2 NZ
+dón|D O4 NZ
+dọn|D O5 NZ
+dong|D OA0 NGZ
+dòng|D OA1 NGZ
+dỏng|D OA3 NGZ
+dõng|D OA2 NGZ
+dóng|D OA4 NGZ
+dọng|D OA5 NGZ
+doóc|D O4 OA4 KC
+dóp|D O4 PC
+dọp|D O5 PC
+dô|D OO0
+dồ|D OO1
+dổ|D OO3
+dỗ|D OO2
+dố|D OO4
+dộ|D OO5
+dốc|D OO4 KC
+dôi|D OO0 IZ
+dồi|D OO1 IZ
+dổi|D OO3 IZ
+dỗi|D OO2 IZ
+dối|D OO4 IZ
+dội|D OO5 IZ
+dôn|D OO0 NZ
+dồn|D OO1 NZ
+dổn|D OO3 NZ
+dỗn|D OO2 NZ
+dốn|D OO4 NZ
+dộn|D OO5 NZ
+dông|D OO0 NGZ
+dồng|D OO1 NGZ
+dổng|D OO3 NGZ
+dỗng|D OO2 NGZ
+dống|D OO4 NGZ
+dộng|D OO5 NGZ
+dốp|D OO4 PC
+dốt|D OO4 TC
+dột|D OO5 TC
+dơ|D OW0
+dờ|D OW1
+dở|D OW3
+dỡ|D OW2
+dớ|D OW4
+dợ|D OW5
+dơi|D OW0 IZ
+dời|D OW1 IZ
+dởi|D OW3 IZ
+dỡi|D OW2 IZ
+dới|D OW4 IZ
+dợi|D OW5 IZ
+dởm|D OW3 MZ
+dợm|D OW5 MZ
+dơn|D OW0 NZ
+dờn|D OW1 NZ
+dởn|D OW3 NZ
+dỡn|D OW2 NZ
+dớn|D OW4 NZ
+dợn|D OW5 NZ
+dớp|D OW4 PC
+dớt|D OW4 TC
+dợt|D OW5 TC
+du|D U0
+dù|D U1
+dủ|D U3
+dũ|D U2
+dú|D U4
+dụ|D U5
+dua|D UO0
+dùa|D UO1
+dủa|D UO3
+dũa|D UO2
+dúa|D UO4
+dụa|D UO5
+dúc|D U4 KC
+dục|D U5 KC
+duê|D W EE0
+duề|D W EE1
+duể|D W EE3
+duễ|D W EE2
+duế|D W EE4
+duệ|D W EE5
+duên|D W EE0 NZ
+dùi|D U1 IZ
+dũi|D U2 IZ
+dúi|D U4 IZ
+dụi|D U5 IZ
+dum|D U0 MZ
+dùm|D U1 MZ
+dủm|D U3 MZ
+dũm|D U2 MZ
+dúm|D U4 MZ
+dụm|D U5 MZ
+dun|D U0 NZ
+dùn|D U1 NZ
+dủn|D U3 NZ
+dũn|D U2 NZ
+dún|D U4 NZ
+dụn|D U5 NZ
+dung|D U0 NGZ
+dùng|D U1 NGZ
+dủng|D U3 NGZ
+dũng|D U2 NGZ
+dúng|D U4 NGZ
+dụng|D U5 NGZ
+duôi|D UO0 IZ
+duồi|D UO1 IZ
+duổi|D UO3 IZ
+duỗi|D UO2 IZ
+duối|D UO4 IZ
+duội|D UO5 IZ
+duông|D UO0 NGZ
+duồng|D UO1 NGZ
+duổng|D UO3 NGZ
+duỗng|D UO2 NGZ
+duống|D UO4 NGZ
+duộng|D UO5 NGZ
+dút|D U4 TC
+duy|D W I0
+dùy|D W I1
+dủy|D W I3
+dũy|D W I2
+dúy|D W I4
+dụy|D W I5
+duých|D W I4 KC
+duyên|D W IE0 NZ
+duyền|D W IE1 NZ
+duyển|D W IE3 NZ
+duyễn|D W IE2 NZ
+duyến|D W IE4 NZ
+duyện|D W IE5 NZ
+duyệt|D W IE5 TC
+duynh|D W I0 NGZ
+duỳnh|D W I1 NGZ
+duỷnh|D W I3 NGZ
+duỹnh|D W I2 NGZ
+duýnh|D W I4 NGZ
+duỵnh|D W I5 NGZ
+duyp|D W I4 PC
+duýp|D W I4 PC
+duỵp|D W I5 PC
+duyt|D W I4 TC
+duýt|D W I4 TC
+duỵt|D W I5 TC
+duyu|D W I0 UZ
+duỳu|D W I1 UZ
+duỷu|D W I3 UZ
+duỹu|D W I2 UZ
+duýu|D W I4 UZ
+duỵu|D W I5 UZ
+dư|D UW0
+dừ|D UW1
+dử|D UW3
+dữ|D UW2
+dứ|D UW4
+dự|D UW5
+dưa|D WA0
+dừa|D WA1
+dửa|D WA3
+dữa|D WA2
+dứa|D WA4
+dựa|D WA5
+dức|D UW4 KC
+dực|D UW5 KC
+dưm|D UW0 MZ
+dừm|D UW1 MZ
+dửm|D UW3 MZ
+dữm|D UW2 MZ
+dứm|D UW4 MZ
+dựm|D UW5 MZ
+dừn|D UW1 NZ
+dưng|D UW0 NGZ
+dừng|D UW1 NGZ
+dửng|D UW3 NGZ
+dững|D UW2 NGZ
+dứng|D UW4 NGZ
+dựng|D UW5 NGZ
+dược|D WA5 KC
+dưới|D WA4 IZ
+dương|D WA0 NGZ
+dường|D WA1 NGZ
+dưởng|D WA3 NGZ
+dưỡng|D WA2 NGZ
+dướng|D WA4 NGZ
+dượng|D WA5 NGZ
+dượt|D WA5 TC
+dứt|D UW4 TC
+đa|DD A0
+đà|DD A1
+đả|DD A3
+đã|DD A2
+đá|DD A4
+đạ|DD A5
+đác|DD A4 KC
+đạc|DD A5 KC
+đai|DD A0 IZ
+đài|DD A1 IZ
+đải|DD A3 IZ
+đãi|DD A2 IZ
+đái|DD A4 IZ
+đại|DD A5 IZ
+đam|DD A0 MZ
+đàm|DD A1 MZ
+đảm|DD A3 MZ
+đãm|DD A2 MZ
+đám|DD A4 MZ
+đạm|DD A5 MZ
+đan|DD A0 NZ
+đàn|DD A1 NZ
+đản|DD A3 NZ
+đãn|DD A2 NZ
+đán|DD A4 NZ
+đạn|DD A5 NZ
+đang|DD A0 NGZ
+đàng|DD A1 NGZ
+đảng|DD A3 NGZ
+đãng|DD A2 NGZ
+đáng|DD A4 NGZ
+đạng|DD A5 NGZ
+đanh|DD EA0 NGZ
+đành|DD EA1 NGZ
+đảnh|DD EA3 NGZ
+đãnh|DD EA2 NGZ
+đánh|DD EA4 NGZ
+đạnh|DD EA5 NGZ
+đao|DD A0 UZ
+đào|DD A1 UZ
+đảo|DD A3 UZ
+đão|DD A2 UZ
+đáo|DD A4 UZ
+đạo|DD A5 UZ
+đáp|DD A4 PC
+đạp|DD A5 PC
+đát|DD A4 TC
+đạt|DD A5 TC
+đau|DD AW0 UZ
+đàu|DD AW1 UZ
+đảu|DD AW3 UZ
+đãu|DD AW2 UZ
+đáu|DD AW4 UZ
+đạu|DD AW5 UZ
+đay|DD AW0 IZ
+đày|DD AW1 IZ
+đảy|DD AW3 IZ
+đãy|DD AW2 IZ
+đáy|DD AW4 IZ
+đạy|DD AW5 IZ
+đắc|DD AW4 KC
+đặc|DD AW5 KC
+đăm|DD AW0 MZ
+đằm|DD AW1 MZ
+đẳm|DD AW3 MZ
+đẵm|DD AW2 MZ
+đắm|DD AW4 MZ
+đặm|DD AW5 MZ
+đăn|DD AW0 NZ
+đằn|DD AW1 NZ
+đẳn|DD AW3 NZ
+đẵn|DD AW2 NZ
+đắn|DD AW4 NZ
+đặn|DD AW5 NZ
+đăng|DD AW0 NGZ
+đằng|DD AW1 NGZ
+đẳng|DD AW3 NGZ
+đẵng|DD AW2 NGZ
+đắng|DD AW4 NGZ
+đặng|DD AW5 NGZ
+đắp|DD AW4 PC
+đắt|DD AW4 TC
+đặt|DD AW5 TC
+đâm|DD AA0 MZ
+đầm|DD AA1 MZ
+đẩm|DD AA3 MZ
+đẫm|DD AA2 MZ
+đấm|DD AA4 MZ
+đậm|DD AA5 MZ
+đân|DD AA0 NZ
+đần|DD AA1 NZ
+đẩn|DD AA3 NZ
+đẫn|DD AA2 NZ
+đấn|DD AA4 NZ
+đận|DD AA5 NZ
+đấng|DD AA4 NGZ
+đập|DD AA5 PC
+đất|DD AA4 TC
+đật|DD AA5 TC
+đâu|DD AA0 UZ
+đầu|DD AA1 UZ
+đẩu|DD AA3 UZ
+đẫu|DD AA2 UZ
+đấu|DD AA4 UZ
+đậu|DD AA5 UZ
+đây|DD AA0 IZ
+đầy|DD AA1 IZ
+đẩy|DD AA3 IZ
+đẫy|DD AA2 IZ
+đấy|DD AA4 IZ
+đậy|DD AA5 IZ
+đe|DD E0
+đè|DD E1
+đẻ|DD E3
+đẽ|DD E2
+đé|DD E4
+đẹ|DD E5
+đéc|DD E4 KC
+đem|DD E0 MZ
+đèm|DD E1 MZ
+đẻm|DD E3 MZ
+đẽm|DD E2 MZ
+đém|DD E4 MZ
+đẹm|DD E5 MZ
+đen|DD E0 NZ
+đèn|DD E1 NZ
+đẻn|DD E3 NZ
+đẽn|DD E2 NZ
+đén|DD E4 NZ
+đẹn|DD E5 NZ
+đeo|DD E0 UZ
+đèo|DD E1 UZ
+đẻo|DD E3 UZ
+đẽo|DD E2 UZ
+đéo|DD E4 UZ
+đẹo|DD E5 UZ
+đép|DD E4 PC
+đẹp|DD E5 PC
+đét|DD E4 TC
+đẹt|DD E5 TC
+đê|DD EE0
+đề|DD EE1
+để|DD EE3
+đễ|DD EE2
+đế|DD EE4
+đệ|DD EE5
+đếch|DD EE4 KC
+đêm|DD EE0 MZ
+đềm|DD EE1 MZ
+đểm|DD EE3 MZ
+đễm|DD EE2 MZ
+đếm|DD EE4 MZ
+đệm|DD EE5 MZ
+đên|DD EE0 NZ
+đền|DD EE1 NZ
+đển|DD EE3 NZ
+đễn|DD EE2 NZ
+đến|DD EE4 NZ
+đện|DD EE5 NZ
+đênh|DD EE0 NGZ
+đềnh|DD EE1 NGZ
+đểnh|DD EE3 NGZ
+đễnh|DD EE2 NGZ
+đếnh|DD EE4 NGZ
+đệnh|DD EE5 NGZ
+đếp|DD EE4 PC
+đết|DD EE4 TC
+đêu|DD EE0 UZ
+đều|DD EE1 UZ
+đểu|DD EE3 UZ
+đễu|DD EE2 UZ
+đếu|DD EE4 UZ
+đệu|DD EE5 UZ
+đêy|DD EE0 IZ
+đi|DD I0
+đì|DD I1
+đỉ|DD I3
+đĩ|DD I2
+đí|DD I4
+đị|DD I5
+đia|DD IE0
+đìa|DD IE1
+đỉa|DD IE3
+đĩa|DD IE2
+đía|DD IE4
+địa|DD IE5
+đích|DD I4 KC
+địch|DD I5 KC
+điếc|DD IE4 KC
+điềm|DD IE1 MZ
+điểm|DD IE3 MZ
+điếm|DD IE4 MZ
+điên|DD IE0 NZ
+điền|DD IE1 NZ
+điển|DD IE3 NZ
+điễn|DD IE2 NZ
+điến|DD IE4 NZ
+điện|DD IE5 NZ
+điếng|DD IE4 NGZ
+điếp|DD IE4 PC
+điệp|DD IE5 PC
+điêu|DD IE0 UZ
+điều|DD IE1 UZ
+điểu|DD IE3 UZ
+điễu|DD IE2 UZ
+điếu|DD IE4 UZ
+điệu|DD IE5 UZ
+đim|DD I0 MZ
+đìm|DD I1 MZ
+đỉm|DD I3 MZ
+đĩm|DD I2 MZ
+đím|DD I4 MZ
+địm|DD I5 MZ
+đin|DD I0 NZ
+đìn|DD I1 NZ
+đỉn|DD I3 NZ
+đĩn|DD I2 NZ
+đín|DD I4 NZ
+địn|DD I5 NZ
+đinh|DD I0 NGZ
+đình|DD I1 NGZ
+đỉnh|DD I3 NGZ
+đĩnh|DD I2 NGZ
+đính|DD I4 NGZ
+định|DD I5 NGZ
+đíp|DD I4 PC
+đít|DD I4 TC
+địt|DD I5 TC
+điu|DD I0 UZ
+đìu|DD I1 UZ
+đỉu|DD I3 UZ
+đĩu|DD I2 UZ
+đíu|DD I4 UZ
+địu|DD I5 UZ
+đo|DD O0
+đò|DD O1
+đỏ|DD O3
+đõ|DD O2
+đó|DD O4
+đọ|DD O5
+đoá|DD W A4
+đoạ|DD W A5
+đóa|DD W A4
+đọa|DD W A5
+đoác|DD W A4 KC
+đóac|DD W A4 KC
+đoài|DD W A1 IZ
+đoái|DD W A4 IZ
+đòai|DD W A1 IZ
+đóai|DD W A4 IZ
+đoan|DD W A0 NZ
+đoàn|DD W A1 NZ
+đoản|DD W A3 NZ
+đoãn|DD W A2 NZ
+đoán|DD W A4 NZ
+đoạn|DD W A5 NZ
+đòan|DD W A1 NZ
+đỏan|DD W A3 NZ
+đóan|DD W A4 NZ
+đọan|DD W A5 NZ
+đoàng|DD W A1 NGZ
+đoảng|DD W A3 NGZ
+đòang|DD W A1 NGZ
+đỏang|DD W A3 NGZ
+đoạt|DD W A5 TC
+đọat|DD W A5 TC
+đóc|DD OA4 KC
+đọc|DD OA5 KC
+đoem|DD W E0 MZ
+đoèm|DD W E1 MZ
+đoẻm|DD W E3 MZ
+đoẽm|DD W E2 MZ
+đoém|DD W E4 MZ
+đoẹm|DD W E5 MZ
+đoeo|DD W E0 UZ
+đoèo|DD W E1 UZ
+đoẻo|DD W E3 UZ
+đoẽo|DD W E2 UZ
+đoéo|DD W E4 UZ
+đoẹo|DD W E5 UZ
+đoi|DD O0 IZ
+đòi|DD O1 IZ
+đỏi|DD O3 IZ
+đõi|DD O2 IZ
+đói|DD O4 IZ
+đọi|DD O5 IZ
+đom|DD O0 MZ
+đòm|DD O1 MZ
+đỏm|DD O3 MZ
+đõm|DD O2 MZ
+đóm|DD O4 MZ
+đọm|DD O5 MZ
+đon|DD O0 NZ
+đòn|DD O1 NZ
+đỏn|DD O3 NZ
+đõn|DD O2 NZ
+đón|DD O4 NZ
+đọn|DD O5 NZ
+đong|DD OA0 NGZ
+đòng|DD OA1 NGZ
+đỏng|DD OA3 NGZ
+đõng|DD OA2 NGZ
+đóng|DD OA4 NGZ
+đọng|DD OA5 NGZ
+đoóc|DD O4 OA4 KC
+đoọc|DD O5 OA5 KC
+đót|DD O4 TC
+đọt|DD O5 TC
+đô|DD OO0
+đồ|DD OO1
+đổ|DD OO3
+đỗ|DD OO2
+đố|DD OO4
+độ|DD OO5
+đốc|DD OO4 KC
+độc|DD OO5 KC
+đôi|DD OO0 IZ
+đồi|DD OO1 IZ
+đổi|DD OO3 IZ
+đỗi|DD OO2 IZ
+đối|DD OO4 IZ
+đội|DD OO5 IZ
+đôm|DD OO0 MZ
+đồm|DD OO1 MZ
+đổm|DD OO3 MZ
+đỗm|DD OO2 MZ
+đốm|DD OO4 MZ
+độm|DD OO5 MZ
+đôn|DD OO0 NZ
+đồn|DD OO1 NZ
+đổn|DD OO3 NZ
+đỗn|DD OO2 NZ
+đốn|DD OO4 NZ
+độn|DD OO5 NZ
+đông|DD OO0 NGZ
+đồng|DD OO1 NGZ
+đổng|DD OO3 NGZ
+đỗng|DD OO2 NGZ
+đống|DD OO4 NGZ
+động|DD OO5 NGZ
+đốp|DD OO4 PC
+độp|DD OO5 PC
+đốt|DD OO4 TC
+đột|DD OO5 TC
+đơ|DD OW0
+đờ|DD OW1
+đở|DD OW3
+đỡ|DD OW2
+đớ|DD OW4
+đợ|DD OW5
+đơi|DD OW0 IZ
+đời|DD OW1 IZ
+đởi|DD OW3 IZ
+đỡi|DD OW2 IZ
+đới|DD OW4 IZ
+đợi|DD OW5 IZ
+đơm|DD OW0 MZ
+đờm|DD OW1 MZ
+đởm|DD OW3 MZ
+đỡm|DD OW2 MZ
+đớm|DD OW4 MZ
+đợm|DD OW5 MZ
+đơn|DD OW0 NZ
+đờn|DD OW1 NZ
+đởn|DD OW3 NZ
+đỡn|DD OW2 NZ
+đớn|DD OW4 NZ
+đợn|DD OW5 NZ
+đớp|DD OW4 PC
+đợp|DD OW5 PC
+đớt|DD OW4 TC
+đợt|DD OW5 TC
+đu|DD U0
+đù|DD U1
+đủ|DD U3
+đũ|DD U2
+đú|DD U4
+đụ|DD U5
+đua|DD UO0
+đùa|DD UO1
+đủa|DD UO3
+đũa|DD UO2
+đúa|DD UO4
+đụa|DD UO5
+đúc|DD U4 KC
+đục|DD U5 KC
+đui|DD U0 IZ
+đùi|DD U1 IZ
+đủi|DD U3 IZ
+đũi|DD U2 IZ
+đúi|DD U4 IZ
+đụi|DD U5 IZ
+đum|DD U0 MZ
+đùm|DD U1 MZ
+đủm|DD U3 MZ
+đũm|DD U2 MZ
+đúm|DD U4 MZ
+đụm|DD U5 MZ
+đun|DD U0 NZ
+đùn|DD U1 NZ
+đủn|DD U3 NZ
+đũn|DD U2 NZ
+đún|DD U4 NZ
+đụn|DD U5 NZ
+đung|DD U0 NGZ
+đùng|DD U1 NGZ
+đủng|DD U3 NGZ
+đũng|DD U2 NGZ
+đúng|DD U4 NGZ
+đụng|DD U5 NGZ
+đuốc|DD UO4 KC
+đuôi|DD UO0 IZ
+đuồi|DD UO1 IZ
+đuổi|DD UO3 IZ
+đuỗi|DD UO2 IZ
+đuối|DD UO4 IZ
+đuội|DD UO5 IZ
+đuồn|DD UO1 NZ
+đúp|DD U4 PC
+đụp|DD U5 PC
+đút|DD U4 TC
+đuynh|DD W I0 NGZ
+đuỳnh|DD W I1 NGZ
+đuỷnh|DD W I3 NGZ
+đuỹnh|DD W I2 NGZ
+đuýnh|DD W I4 NGZ
+đuỵnh|DD W I5 NGZ
+đuyp|DD W I4 PC
+đuýp|DD W I4 PC
+đuỵp|DD W I5 PC
+đuyt|DD W I4 TC
+đuýt|DD W I4 TC
+đuỵt|DD W I5 TC
+đuyu|DD W I0 UZ
+đuỳu|DD W I1 UZ
+đuỷu|DD W I3 UZ
+đuỹu|DD W I2 UZ
+đuýu|DD W I4 UZ
+đuỵu|DD W I5 UZ
+đư|DD UW0
+đừ|DD UW1
+đử|DD UW3
+đữ|DD UW2
+đứ|DD UW4
+đự|DD UW5
+đưa|DD WA0
+đừa|DD WA1
+đửa|DD WA3
+đữa|DD WA2
+đứa|DD WA4
+đựa|DD WA5
+đức|DD UW4 KC
+đực|DD UW5 KC
+đừm|DD UW1 MZ
+đừn|DD UW1 NZ
+đừng|DD UW1 NGZ
+đứng|DD UW4 NGZ
+đựng|DD UW5 NGZ
+đước|DD WA4 KC
+được|DD WA5 KC
+đười|DD WA1 IZ
+đượm|DD WA5 MZ
+đương|DD WA0 NGZ
+đường|DD WA1 NGZ
+đưởng|DD WA3 NGZ
+đưỡng|DD WA2 NGZ
+đướng|DD WA4 NGZ
+đượng|DD WA5 NGZ
+đứt|DD UW4 TC
+đựt|DD UW5 TC
+đy|DD IZ
+đỳ|DD IZ
+đỷ|DD IZ
+đỹ|DD IZ
+đý|DD IZ
+đỵ|DD IZ
+e|E0
+è|E1
+ẻ|E3
+ẽ|E2
+é|E4
+ẹ|E5
+éc|E4 KC
+em|E0 MZ
+èm|E1 MZ
+ẻm|E3 MZ
+ẽm|E2 MZ
+ém|E4 MZ
+ẹm|E5 MZ
+en|E0 NZ
+èn|E1 NZ
+ẻn|E3 NZ
+ẽn|E2 NZ
+én|E4 NZ
+ẹn|E5 NZ
+eng|E0 NGZ
+èng|E1 NGZ
+ẻng|E3 NGZ
+ẽng|E2 NGZ
+éng|E4 NGZ
+ẹng|E5 NGZ
+eo|E0 UZ
+èo|E1 UZ
+ẻo|E3 UZ
+ẽo|E2 UZ
+éo|E4 UZ
+ẹo|E5 UZ
+ép|E4 PC
+ẹp|E5 PC
+ét|E4 TC
+ẹt|E5 TC
+eu|E0 UZ
+ê|EE0
+ề|EE1
+ể|EE3
+ễ|EE2
+ế|EE4
+ệ|EE5
+ếch|EE4 KC
+ệch|EE5 KC
+êm|EE0 MZ
+ềm|EE1 MZ
+ểm|EE3 MZ
+ễm|EE2 MZ
+ếm|EE4 MZ
+ệm|EE5 MZ
+ên|EE0 NZ
+ền|EE1 NZ
+ển|EE3 NZ
+ễn|EE2 NZ
+ến|EE4 NZ
+ện|EE5 NZ
+ễnh|EE2 NGZ
+ếp|EE4 PC
+ết|EE4 TC
+êu|EE0 UZ
+ều|EE1 UZ
+ểu|EE3 UZ
+ễu|EE2 UZ
+ếu|EE4 UZ
+ệu|EE5 UZ
+fờ|PH OW1
+ga|G A0
+gà|G A1
+gả|G A3
+gã|G A2
+gá|G A4
+gạ|G A5
+gác|G A4 KC
+gạc|G A5 KC
+gạch|G EA5 KC
+gai|G A0 IZ
+gài|G A1 IZ
+gải|G A3 IZ
+gãi|G A2 IZ
+gái|G A4 IZ
+gại|G A5 IZ
+gam|G A0 MZ
+gàm|G A1 MZ
+gảm|G A3 MZ
+gãm|G A2 MZ
+gám|G A4 MZ
+gạm|G A5 MZ
+gan|G A0 NZ
+gàn|G A1 NZ
+gản|G A3 NZ
+gãn|G A2 NZ
+gán|G A4 NZ
+gạn|G A5 NZ
+gang|G A0 NGZ
+gàng|G A1 NGZ
+gảng|G A3 NGZ
+gãng|G A2 NGZ
+gáng|G A4 NGZ
+gạng|G A5 NGZ
+ganh|G EA0 NGZ
+gành|G EA1 NGZ
+gảnh|G EA3 NGZ
+gãnh|G EA2 NGZ
+gánh|G EA4 NGZ
+gạnh|G EA5 NGZ
+gao|G A0 UZ
+gào|G A1 UZ
+gảo|G A3 UZ
+gão|G A2 UZ
+gáo|G A4 UZ
+gạo|G A5 UZ
+gáp|G A4 PC
+gát|G A4 TC
+gạt|G A5 TC
+gau|G AW0 UZ
+gàu|G AW1 UZ
+gảu|G AW3 UZ
+gãu|G AW2 UZ
+gáu|G AW4 UZ
+gạu|G AW5 UZ
+gay|G AW0 IZ
+gày|G AW1 IZ
+gảy|G AW3 IZ
+gãy|G AW2 IZ
+gáy|G AW4 IZ
+gạy|G AW5 IZ
+găm|G AW0 MZ
+gằm|G AW1 MZ
+gẳm|G AW3 MZ
+gẵm|G AW2 MZ
+gắm|G AW4 MZ
+gặm|G AW5 MZ
+găn|G AW0 NZ
+gằn|G AW1 NZ
+gẳn|G AW3 NZ
+gẵn|G AW2 NZ
+gắn|G AW4 NZ
+gặn|G AW5 NZ
+găng|G AW0 NGZ
+gằng|G AW1 NGZ
+gẳng|G AW3 NGZ
+gẵng|G AW2 NGZ
+gắng|G AW4 NGZ
+gặng|G AW5 NGZ
+gắp|G AW4 PC
+gặp|G AW5 PC
+gắt|G AW4 TC
+gặt|G AW5 TC
+gấc|G AA4 KC
+gầm|G AA1 MZ
+gẫm|G AA2 MZ
+gấm|G AA4 MZ
+gân|G AA0 NZ
+gần|G AA1 NZ
+gẩn|G AA3 NZ
+gẫn|G AA2 NZ
+gấn|G AA4 NZ
+gận|G AA5 NZ
+gấp|G AA4 PC
+gập|G AA5 PC
+gật|G AA5 TC
+gâu|G AA0 UZ
+gầu|G AA1 UZ
+gẩu|G AA3 UZ
+gẫu|G AA2 UZ
+gấu|G AA4 UZ
+gậu|G AA5 UZ
+gây|G AA0 IZ
+gầy|G AA1 IZ
+gẩy|G AA3 IZ
+gẫy|G AA2 IZ
+gấy|G AA4 IZ
+gậy|G AA5 IZ
+ge|G E0
+gem|G E0 MZ
+gen|G E0 NZ
+geng|G E0 NGZ
+gèng|G E1 NGZ
+gẻng|G E3 NGZ
+gẽng|G E2 NGZ
+géng|G E4 NGZ
+gẹng|G E5 NGZ
+geo|G E0 UZ
+gét|G E4 TC
+gê|G EE0
+gêm|G E0 MZ
+gên|G EE0 NZ
+gết|G EE4 TC
+ghan|G A0 NZ
+ghe|G E0
+ghè|G E1
+ghẻ|G E3
+ghẽ|G E2
+ghé|G E4
+ghẹ|G E5
+ghéc|G E4 KC
+ghẹc|G E5 KC
+ghém|G E4 MZ
+ghen|G E0 NZ
+ghèn|G E1 NZ
+ghẻn|G E3 NZ
+ghẽn|G E2 NZ
+ghén|G E4 NZ
+ghẹn|G E5 NZ
+gheng|G E0 NGZ
+ghèng|G E1 NGZ
+ghẻng|G E3 NGZ
+ghẽng|G E2 NGZ
+ghéng|G E4 NGZ
+ghẹng|G E5 NGZ
+ghẹo|G E5 UZ
+ghép|G E4 PC
+ghét|G E4 TC
+ghê|G EE0
+ghề|G EE1
+ghể|G EE3
+ghễ|G EE2
+ghế|G EE4
+ghệ|G EE5
+ghếch|G EE4 KC
+ghêm|G EE0 MZ
+ghềm|G EE1 MZ
+ghểm|G EE3 MZ
+ghễm|G EE2 MZ
+ghếm|G EE4 MZ
+ghệm|G EE5 MZ
+ghên|G EE0 NZ
+ghền|G EE1 NZ
+ghển|G EE3 NZ
+ghễn|G EE2 NZ
+ghến|G EE4 NZ
+ghện|G EE5 NZ
+ghềnh|G EE1 NGZ
+ghết|G EE4 TC
+ghi|G I0
+ghì|G I1
+ghỉ|G I3
+ghĩ|G I2
+ghí|G I4
+ghị|G I5
+ghia|G IE0
+ghìa|G IE1
+ghỉa|G IE3
+ghĩa|G IE2
+ghía|G IE4
+ghịa|G IE5
+ghích|G I4 KC
+ghịch|G I5 KC
+ghiếc|G IE4 KC
+ghiền|G IE1 NZ
+ghim|G I0 MZ
+ghìm|G I1 MZ
+ghỉm|G I3 MZ
+ghĩm|G I2 MZ
+ghím|G I4 MZ
+ghịm|G I5 MZ
+ghin|G I0 NZ
+ghìn|G I1 NZ
+ghỉn|G I3 NZ
+ghĩn|G I2 NZ
+ghín|G I4 NZ
+ghịn|G I5 NZ
+ghinh|G I0 NGZ
+ghình|G I1 NGZ
+ghỉnh|G I3 NGZ
+ghĩnh|G I2 NGZ
+ghính|G I4 NGZ
+ghịnh|G I5 NGZ
+ghip|G I0 PC
+ghíp|G I4 PC
+ghịp|G I5 PC
+ghít|G I4 TC
+ghiu|G I0 UZ
+ghìu|G I1 UZ
+ghỉu|G I3 UZ
+ghĩu|G I2 UZ
+ghíu|G I4 UZ
+ghịu|G I5 UZ
+gi|D I0
+gì|D I1
+gỉ|D I3
+gĩ|D I2
+gí|D I4
+gị|D I5
+gia|D A0
+già|D A1
+giả|D A3
+giã|D A2
+giá|D A4
+giạ|D A5
+gìa|D A1
+gỉa|D A3
+gĩa|D A2
+gía|D A4
+gịa|D A5
+giác|D A4 KC
+giách|D EA4 KC
+giai|D A0 IZ
+giài|D A1 IZ
+giải|D A3 IZ
+giãi|D A2 IZ
+giái|D A4 IZ
+giại|D A5 IZ
+giam|D A0 MZ
+giàm|D A1 MZ
+giảm|D A3 MZ
+giãm|D A2 MZ
+giám|D A4 MZ
+giạm|D A5 MZ
+gian|D A0 NZ
+giàn|D A1 NZ
+giản|D A3 NZ
+giãn|D A2 NZ
+gián|D A4 NZ
+giạn|D A5 NZ
+giang|D A0 NGZ
+giàng|D A1 NGZ
+giảng|D A3 NGZ
+giãng|D A2 NGZ
+giáng|D A4 NGZ
+giạng|D A5 NGZ
+gianh|D EA0 NGZ
+giành|D EA1 NGZ
+giảnh|D EA3 NGZ
+giãnh|D EA2 NGZ
+giánh|D EA4 NGZ
+giạnh|D EA5 NGZ
+giao|D A0 UZ
+giào|D A1 UZ
+giảo|D A3 UZ
+gião|D A2 UZ
+giáo|D A4 UZ
+giạo|D A5 UZ
+giáp|D A4 PC
+giát|D A4 TC
+giạt|D A5 TC
+giau|D AW0 UZ
+giàu|D AW1 UZ
+giảu|D AW3 UZ
+giãu|D AW2 UZ
+giáu|D AW4 UZ
+giạu|D AW5 UZ
+giày|D AW1 IZ
+giãy|D AW2 IZ
+giắc|D AW4 KC
+giặc|D AW5 KC
+giăm|D AW0 MZ
+giằm|D AW1 MZ
+giẳm|D AW3 MZ
+giẵm|D AW2 MZ
+giắm|D AW4 MZ
+giặm|D AW5 MZ
+giăng|D AW0 NGZ
+giằng|D AW1 NGZ
+giẳng|D AW3 NGZ
+giẵng|D AW2 NGZ
+giắng|D AW4 NGZ
+giặng|D AW5 NGZ
+giắt|D AW4 TC
+giặt|D AW5 TC
+giấc|D AA4 KC
+giâm|D AA0 MZ
+giầm|D AA1 MZ
+giẩm|D AA3 MZ
+giẫm|D AA2 MZ
+giấm|D AA4 MZ
+giậm|D AA5 MZ
+giần|D AA1 NZ
+giận|D AA5 NZ
+giập|D AA5 PC
+giật|D AA5 TC
+giầu|D AA1 UZ
+giấu|D AA4 UZ
+giậu|D AA5 UZ
+giây|D AA0 IZ
+giầy|D AA1 IZ
+giẩy|D AA3 IZ
+giẫy|D AA2 IZ
+giấy|D AA4 IZ
+giậy|D AA5 IZ
+gích|D I4 KC
+gie|D E0
+giè|D E1
+giẻ|D E3
+giẽ|D E2
+gié|D E4
+giẹ|D E5
+gièm|D E1 MZ
+gien|D E0 NZ
+gièn|D E1 NZ
+giẻn|D E3 NZ
+giẽn|D E2 NZ
+gién|D E4 NZ
+giẹn|D E5 NZ
+gieo|D E0 UZ
+gièo|D E1 UZ
+giẻo|D E3 UZ
+giẽo|D E2 UZ
+giéo|D E4 UZ
+giẹo|D E5 UZ
+giép|D E4 PC
+giê|D IE0
+giề|D IE1
+giể|D IE3
+giễ|D IE2
+giế|D IE4
+giệ|D IE5
+giêm|D IE0 MZ
+giềm|D IE1 MZ
+giểm|D IE3 MZ
+giễm|D IE2 MZ
+giếm|D IE4 MZ
+giệm|D IE5 MZ
+giên|D IE0 NZ
+giền|D IE1 NZ
+giển|D IE3 NZ
+giễn|D IE2 NZ
+giến|D IE4 NZ
+giện|D IE5 NZ
+giêng|D IE0 NGZ
+giềng|D IE1 NGZ
+giểng|D IE3 NGZ
+giễng|D IE2 NGZ
+giếng|D IE4 NGZ
+giệng|D IE5 NGZ
+giết|D IE4 TC
+giễu|D IE2 UZ
+gin|D NZ
+gìn|D I1 NZ
+gỉn|D NZ
+gĩn|D NZ
+gín|D NZ
+gịn|D NZ
+gio|D O0
+giò|D O1
+giỏ|D O3
+giõ|D O2
+gió|D O4
+giọ|D O5
+gioan|D W A0 NZ
+gioàn|D W A1 NZ
+gioản|D W A3 NZ
+gioãn|D W A2 NZ
+gioán|D W A4 NZ
+gioạn|D W A5 NZ
+gioăng|D W AW0 NGZ
+gioằng|D W AW1 NGZ
+gioẳng|D W AW3 NGZ
+gioẵng|D W AW2 NGZ
+gioắng|D W AW4 NGZ
+gioặng|D W AW5 NGZ
+gióc|D OA4 KC
+gioem|D W E0 MZ
+gioèm|D W E1 MZ
+gioẻm|D W E3 MZ
+gioẽm|D W E2 MZ
+gioém|D W E4 MZ
+gioẹm|D W E5 MZ
+gioeo|D W E0 UZ
+gioèo|D W E1 UZ
+gioẻo|D W E3 UZ
+gioẽo|D W E2 UZ
+gioéo|D W E4 UZ
+gioẹo|D W E5 UZ
+gioi|D O0 IZ
+giòi|D O1 IZ
+giỏi|D O3 IZ
+giõi|D O2 IZ
+giói|D O4 IZ
+giọi|D O5 IZ
+gion|D O0 NZ
+giòn|D O1 NZ
+giỏn|D O3 NZ
+giõn|D O2 NZ
+gión|D O4 NZ
+giọn|D O5 NZ
+giong|D OA0 NGZ
+giòng|D OA1 NGZ
+giỏng|D OA3 NGZ
+giõng|D OA2 NGZ
+gióng|D OA4 NGZ
+giọng|D OA5 NGZ
+gioóc|D O4 OA4 KC
+gióp|D O4 PC
+giọp|D O5 PC
+giọt|D O5 TC
+giô|D OO0
+giồ|D OO1
+giổ|D OO3
+giỗ|D OO2
+giố|D OO4
+giộ|D OO5
+giốc|D OO4 KC
+giôn|D OO0 NZ
+giồn|D OO1 NZ
+giổn|D OO3 NZ
+giỗn|D OO2 NZ
+giốn|D OO4 NZ
+giộn|D OO5 NZ
+giông|D OO0 NGZ
+giồng|D OO1 NGZ
+giổng|D OO3 NGZ
+giỗng|D OO2 NGZ
+giống|D OO4 NGZ
+giộng|D OO5 NGZ
+giơ|D OW0
+giờ|D OW1
+giở|D OW3
+giỡ|D OW2
+giớ|D OW4
+giợ|D OW5
+giơi|D OW0 IZ
+giời|D OW1 IZ
+giởi|D OW3 IZ
+giỡi|D OW2 IZ
+giới|D OW4 IZ
+giợi|D OW5 IZ
+giỡn|D OW2 NZ
+gíp|D I4 PC
+gít|D I4 TC
+giu|D UZ
+giù|D UZ
+giủ|D UZ
+giũ|D U2
+giú|D UZ
+giụ|D UZ
+gìu|D UZ
+gỉu|D UZ
+gĩu|D UZ
+gíu|D UZ
+gịu|D UZ
+giũa|D UO2
+giụa|D UO5
+giục|D U5 KC
+giúi|D U4 IZ
+giụi|D U5 IZ
+giùm|D U1 MZ
+giun|D U0 NZ
+giùn|D U1 NZ
+giủn|D U3 NZ
+giũn|D U2 NZ
+giún|D U4 NZ
+giụn|D U5 NZ
+giuộc|D UO5 KC
+giúp|D U4 PC
+giuynh|D W I0 NGZ
+giuỳnh|D W I1 NGZ
+giuỷnh|D W I3 NGZ
+giuỹnh|D W I2 NGZ
+giuýnh|D W I4 NGZ
+giuỵnh|D W I5 NGZ
+giuyp|D W I4 PC
+giuýp|D W I4 PC
+giuỵp|D W I5 PC
+giuyt|D W I4 TC
+giuýt|D W I4 TC
+giuỵt|D W I5 TC
+giuyu|D W I0 UZ
+giuỳu|D W I1 UZ
+giuỷu|D W I3 UZ
+giuỹu|D W I2 UZ
+giuýu|D W I4 UZ
+giuỵu|D W I5 UZ
+giư|D UW0
+giừ|D UW1
+giử|D UW3
+giữ|D UW2
+giứ|D UW4
+giự|D UW5
+giưa|D WA0
+giừa|D WA1
+giửa|D WA3
+giữa|D WA2
+giứa|D WA4
+giựa|D WA5
+giừn|D UW1 NZ
+giương|D WA0 NGZ
+giường|D WA1 NGZ
+giưởng|D WA3 NGZ
+giưỡng|D WA2 NGZ
+giướng|D WA4 NGZ
+giượng|D WA5 NGZ
+giựt|D UW5 TC
+glô|G L OO0
+go|G O0
+gò|G O1
+gỏ|G O3
+gõ|G O2
+gó|G O4
+gọ|G O5
+goa|G W A0
+goá|G W A4
+gòa|G W A1
+gỏa|G W A3
+gõa|G W A2
+góa|G W A4
+gọa|G W A5
+goác|G W A4 KC
+goai|G W A0 IZ
+goài|G W A1 IZ
+goải|G W A3 IZ
+goãi|G W A2 IZ
+goái|G W A4 IZ
+goại|G W A5 IZ
+goam|G W A0 MZ
+goàm|G W A1 MZ
+goảm|G W A3 MZ
+goãm|G W A2 MZ
+goám|G W A4 MZ
+goạm|G W A5 MZ
+goan|G W A0 NZ
+goàn|G W A1 NZ
+goản|G W A3 NZ
+goãn|G W A2 NZ
+goán|G W A4 NZ
+goạn|G W A5 NZ
+goáp|G W A4 PC
+goát|G W A4 TC
+goay|G W AW0 IZ
+goày|G W AW1 IZ
+goảy|G W AW3 IZ
+goãy|G W AW2 IZ
+goáy|G W AW4 IZ
+goạy|G W AW5 IZ
+goắc|G W AW4 KC
+goăn|G W AW0 NZ
+goằn|G W AW1 NZ
+goẳn|G W AW3 NZ
+goẵn|G W AW2 NZ
+goắn|G W AW4 NZ
+goặn|G W AW5 NZ
+goắt|G W AW4 TC
+góc|G OA4 KC
+goe|G W E0
+gòe|G W E1
+gỏe|G W E3
+gõe|G W E2
+góe|G W E4
+gọe|G W E5
+goéch|G W E4 KC
+goem|G W E0 MZ
+goèm|G W E1 MZ
+goẻm|G W E3 MZ
+goẽm|G W E2 MZ
+goém|G W E4 MZ
+goẹm|G W E5 MZ
+goen|G W E0 NZ
+goèn|G W E1 NZ
+goẻn|G W E3 NZ
+goẽn|G W E2 NZ
+goén|G W E4 NZ
+goẹn|G W E5 NZ
+goeo|G W E0 UZ
+goèo|G W E1 UZ
+goẻo|G W E3 UZ
+goẽo|G W E2 UZ
+goéo|G W E4 UZ
+goẹo|G W E5 UZ
+goép|G W E4 PC
+goét|G W E4 TC
+gỏi|G O3 IZ
+gói|G O4 IZ
+gọi|G O5 IZ
+gom|G O0 MZ
+gòm|G O1 MZ
+gỏm|G O3 MZ
+gõm|G O2 MZ
+góm|G O4 MZ
+gọm|G O5 MZ
+gon|G O0 NZ
+gòn|G O1 NZ
+gỏn|G O3 NZ
+gõn|G O2 NZ
+gón|G O4 NZ
+gọn|G O5 NZ
+gong|G OA0 NGZ
+gòng|G OA1 NGZ
+gỏng|G OA3 NGZ
+gõng|G OA2 NGZ
+góng|G OA4 NGZ
+gọng|G OA5 NGZ
+goóc|G O4 OA4 KC
+góp|G O4 PC
+gót|G O4 TC
+gọt|G O5 TC
+goy|G O0 IZ
+gô|G OO0
+gồ|G OO1
+gổ|G OO3
+gỗ|G OO2
+gố|G OO4
+gộ|G OO5
+gốc|G OO4 KC
+gộc|G OO5 KC
+gối|G OO4 IZ
+gội|G OO5 IZ
+gôm|G OO0 MZ
+gồm|G OO1 MZ
+gổm|G OO3 MZ
+gỗm|G OO2 MZ
+gốm|G OO4 MZ
+gộm|G OO5 MZ
+gôn|G OO0 NZ
+gồn|G OO1 NZ
+gổn|G OO3 NZ
+gỗn|G OO2 NZ
+gốn|G OO4 NZ
+gộn|G OO5 NZ
+gông|G OO0 NGZ
+gồng|G OO1 NGZ
+gổng|G OO3 NGZ
+gỗng|G OO2 NGZ
+gống|G OO4 NGZ
+gộng|G OO5 NGZ
+gốp|G OO4 PC
+gộp|G OO5 PC
+gốt|G OO4 TC
+gột|G OO5 TC
+gơ|G OW0
+gờ|G OW1
+gở|G OW3
+gỡ|G OW2
+gớ|G OW4
+gợ|G OW5
+gơi|G OW0 IZ
+gời|G OW1 IZ
+gởi|G OW3 IZ
+gỡi|G OW2 IZ
+gới|G OW4 IZ
+gợi|G OW5 IZ
+gờm|G OW1 MZ
+gớm|G OW4 MZ
+gơn|G OW0 NZ
+gờn|G OW1 NZ
+gởn|G OW3 NZ
+gỡn|G OW2 NZ
+gớn|G OW4 NZ
+gợn|G OW5 NZ
+gớt|G OW4 TC
+gsinh|G S I0 NGZ
+gtê|G T EE0
+gu|G U0
+gù|G U1
+gủ|G U3
+gũ|G U2
+gú|G U4
+gụ|G U5
+gua|G UO0
+gùa|G UO1
+gủa|G UO3
+gũa|G UO2
+gúa|G UO4
+gụa|G UO5
+guan|G UO0 NZ
+guang|G UO0 NGZ
+guát|G W A4 TC
+guắc|G W AW4 KC
+guây|G W AA0 IZ
+guầy|G W AA1 IZ
+guẩy|G W AA3 IZ
+guẫy|G W AA2 IZ
+guấy|G W AA4 IZ
+guậy|G W AA5 IZ
+gúc|G U4 KC
+gục|G U5 KC
+gue|G W E0
+guét|G W E4 TC
+guê|G W EE0
+guề|G W EE1
+guể|G W EE3
+guễ|G W EE2
+guế|G W EE4
+guệ|G W EE5
+guêch|W EE0 KC
+guếch|W EE4 KC
+guệch|W EE5 KC
+guên|G W EE0 NZ
+guết|G W EE4 TC
+guêu|G W EE0 UZ
+gui|G U0 IZ
+gùi|G U1 IZ
+gủi|G U3 IZ
+gũi|G U2 IZ
+gúi|G U4 IZ
+gụi|G U5 IZ
+gum|G U0 MZ
+gùm|G U1 MZ
+gủm|G U3 MZ
+gũm|G U2 MZ
+gúm|G U4 MZ
+gụm|G U5 MZ
+gun|G U0 NZ
+gùn|G U1 NZ
+gủn|G U3 NZ
+gũn|G U2 NZ
+gún|G U4 NZ
+gụn|G U5 NZ
+gung|G U0 NGZ
+gùng|G U1 NGZ
+gủng|G U3 NGZ
+gũng|G U2 NGZ
+gúng|G U4 NGZ
+gụng|G U5 NGZ
+guoa|G U0 W A0
+guoang|G U0 W A0 NGZ
+guoắc|G U4 W AW4 KC
+guoe|G U0 W E0
+guốc|G UO4 KC
+guộc|G UO5 KC
+guôn|G UO0 NZ
+guồn|G UO1 NZ
+guổn|G UO3 NZ
+guỗn|G UO2 NZ
+guốn|G UO4 NZ
+guộn|G UO5 NZ
+guồng|G UO1 NGZ
+guốt|G UO4 TC
+guớt|G W OW4 TC
+gút|G U4 TC
+guy|G W IZ
+gùy|G W IZ
+gủy|G W IZ
+gũy|G W IZ
+gúy|G W IZ
+gụy|G W IZ
+guých|G W I4 KC
+guyn|G W I0 NZ
+guỳn|G W I1 NZ
+guỷn|G W I3 NZ
+guỹn|G W I2 NZ
+guýn|G W I4 NZ
+guỵn|G W I5 NZ
+guynh|G W I0 NGZ
+guỳnh|G W I1 NGZ
+guỷnh|G W I3 NGZ
+guỹnh|G W I2 NGZ
+guýnh|G W I4 NGZ
+guỵnh|G W I5 NGZ
+guym|G W I0 MZ
+guỳm|G W I1 MZ
+guỷm|G W I3 MZ
+guỹm|G W I2 MZ
+guým|G W I4 MZ
+guỵm|G W I5 MZ
+guýp|G W I4 PC
+guỵp|G W I5 PC
+guyt|G W I4 TC
+guýt|G W I4 TC
+guỵt|G W I5 TC
+guyu|G W I0 UZ
+guỳu|G W I1 UZ
+guỷu|G W I3 UZ
+guỹu|G W I2 UZ
+guýu|G W I4 UZ
+guỵu|G W I5 UZ
+gư|G UW0
+gừ|G UW1
+gử|G UW3
+gữ|G UW2
+gứ|G UW4
+gự|G UW5
+gựa|G WA5
+gửi|G UW3 IZ
+gừn|G UW1 NZ
+gừng|G UW1 NGZ
+gươm|G WA0 MZ
+gườm|G WA1 MZ
+gưởm|G WA3 MZ
+gưỡm|G WA2 MZ
+gướm|G WA4 MZ
+gượm|G WA5 MZ
+gương|G WA0 NGZ
+gường|G WA1 NGZ
+gưởng|G WA3 NGZ
+gưỡng|G WA2 NGZ
+gướng|G WA4 NGZ
+gượng|G WA5 NGZ
+ha|H A0
+hà|H A1
+hả|H A3
+hã|H A2
+há|H A4
+hạ|H A5
+hác|H A4 KC
+hạc|H A5 KC
+hách|H EA4 KC
+hạch|H EA5 KC
+hai|H A0 IZ
+hài|H A1 IZ
+hải|H A3 IZ
+hãi|H A2 IZ
+hái|H A4 IZ
+hại|H A5 IZ
+ham|H A0 MZ
+hàm|H A1 MZ
+hảm|H A3 MZ
+hãm|H A2 MZ
+hám|H A4 MZ
+hạm|H A5 MZ
+han|H A0 NZ
+hàn|H A1 NZ
+hản|H A3 NZ
+hãn|H A2 NZ
+hán|H A4 NZ
+hạn|H A5 NZ
+hang|H A0 NGZ
+hàng|H A1 NGZ
+hảng|H A3 NGZ
+hãng|H A2 NGZ
+háng|H A4 NGZ
+hạng|H A5 NGZ
+hanh|H EA0 NGZ
+hành|H EA1 NGZ
+hảnh|H EA3 NGZ
+hãnh|H EA2 NGZ
+hánh|H EA4 NGZ
+hạnh|H EA5 NGZ
+hao|H A0 UZ
+hào|H A1 UZ
+hảo|H A3 UZ
+hão|H A2 UZ
+háo|H A4 UZ
+hạo|H A5 UZ
+háp|H A4 PC
+hạp|H A5 PC
+hát|H A4 TC
+hạt|H A5 TC
+hau|H AW0 UZ
+hàu|H AW1 UZ
+hảu|H AW3 UZ
+hãu|H AW2 UZ
+háu|H AW4 UZ
+hạu|H AW5 UZ
+hay|H AW0 IZ
+hày|H AW1 IZ
+hảy|H AW3 IZ
+hãy|H AW2 IZ
+háy|H AW4 IZ
+hạy|H AW5 IZ
+hắc|H AW4 KC
+hặc|H AW5 KC
+hăm|H AW0 MZ
+hằm|H AW1 MZ
+hẳm|H AW3 MZ
+hẵm|H AW2 MZ
+hắm|H AW4 MZ
+hặm|H AW5 MZ
+hăn|H AW0 NZ
+hằn|H AW1 NZ
+hẳn|H AW3 NZ
+hẵn|H AW2 NZ
+hắn|H AW4 NZ
+hặn|H AW5 NZ
+hăng|H AW0 NGZ
+hằng|H AW1 NGZ
+hẳng|H AW3 NGZ
+hẵng|H AW2 NGZ
+hắng|H AW4 NGZ
+hặng|H AW5 NGZ
+hắp|H AW4 PC
+hắt|H AW4 TC
+hâm|H AA0 MZ
+hầm|H AA1 MZ
+hẩm|H AA3 MZ
+hẫm|H AA2 MZ
+hấm|H AA4 MZ
+hậm|H AA5 MZ
+hân|H AA0 NZ
+hần|H AA1 NZ
+hẩn|H AA3 NZ
+hẫn|H AA2 NZ
+hấn|H AA4 NZ
+hận|H AA5 NZ
+hẫng|H AA2 NGZ
+hấp|H AA4 PC
+hập|H AA5 PC
+hất|H AA4 TC
+hâu|H AA0 UZ
+hầu|H AA1 UZ
+hẩu|H AA3 UZ
+hẫu|H AA2 UZ
+hấu|H AA4 UZ
+hậu|H AA5 UZ
+hây|H AA0 IZ
+hầy|H AA1 IZ
+hẩy|H AA3 IZ
+hẫy|H AA2 IZ
+hấy|H AA4 IZ
+hậy|H AA5 IZ
+he|H E0
+hè|H E1
+hẻ|H E3
+hẽ|H E2
+hé|H E4
+hẹ|H E5
+héc|H E4 KC
+hem|H E0 MZ
+hèm|H E1 MZ
+hẻm|H E3 MZ
+hẽm|H E2 MZ
+hém|H E4 MZ
+hẹm|H E5 MZ
+hen|H E0 NZ
+hèn|H E1 NZ
+hẻn|H E3 NZ
+hẽn|H E2 NZ
+hén|H E4 NZ
+hẹn|H E5 NZ
+heng|H E0 NGZ
+hèng|H E1 NGZ
+hẻng|H E3 NGZ
+hẽng|H E2 NGZ
+héng|H E4 NGZ
+hẹng|H E5 NGZ
+heo|H E0 UZ
+hèo|H E1 UZ
+hẻo|H E3 UZ
+hẽo|H E2 UZ
+héo|H E4 UZ
+hẹo|H E5 UZ
+hép|H E4 PC
+hẹp|H E5 PC
+hét|H E4 TC
+hê|H EE0
+hề|H EE1
+hể|H EE3
+hễ|H EE2
+hế|H EE4
+hệ|H EE5
+hếch|H EE4 KC
+hên|H EE0 NZ
+hền|H EE1 NZ
+hển|H EE3 NZ
+hễn|H EE2 NZ
+hến|H EE4 NZ
+hện|H EE5 NZ
+hênh|H EE0 NGZ
+hềnh|H EE1 NGZ
+hểnh|H EE3 NGZ
+hễnh|H EE2 NGZ
+hếnh|H EE4 NGZ
+hệnh|H EE5 NGZ
+hết|H EE4 TC
+hệt|H EE5 TC
+hêu|H EE0 UZ
+hều|H EE1 UZ
+hểu|H EE3 UZ
+hễu|H EE2 UZ
+hếu|H EE4 UZ
+hệu|H EE5 UZ
+hi|H I0
+hì|H I1
+hỉ|H I3
+hĩ|H I2
+hí|H I4
+hị|H I5
+hia|H IE0
+hìa|H IE1
+hỉa|H IE3
+hĩa|H IE2
+hía|H IE4
+hịa|H IE5
+hích|H I4 KC
+hiềm|H IE1 MZ
+hiểm|H IE3 MZ
+hiếm|H IE4 MZ
+hiên|H IE0 NZ
+hiền|H IE1 NZ
+hiển|H IE3 NZ
+hiễn|H IE2 NZ
+hiến|H IE4 NZ
+hiện|H IE5 NZ
+hiếp|H IE4 PC
+hiệp|H IE5 PC
+hiểu|H IE3 UZ
+hiếu|H IE4 UZ
+hiệu|H IE5 UZ
+him|H I0 MZ
+hìm|H I1 MZ
+hỉm|H I3 MZ
+hĩm|H I2 MZ
+hím|H I4 MZ
+hịm|H I5 MZ
+hin|H I0 NZ
+hìn|H I1 NZ
+hỉn|H I3 NZ
+hĩn|H I2 NZ
+hín|H I4 NZ
+hịn|H I5 NZ
+hinh|H I0 NGZ
+hình|H I1 NGZ
+hỉnh|H I3 NGZ
+hĩnh|H I2 NGZ
+hính|H I4 NGZ
+hịnh|H I5 NGZ
+híp|H I4 PC
+hít|H I4 TC
+hiu|H I0 UZ
+hìu|H I1 UZ
+hỉu|H I3 UZ
+hĩu|H I2 UZ
+híu|H I4 UZ
+hịu|H I5 UZ
+ho|H O0
+hò|H O1
+hỏ|H O3
+hõ|H O2
+hó|H O4
+họ|H O5
+hoa|H W A0
+hoà|H W A1
+hoả|H W A3
+hoá|H W A4
+hoạ|H W A5
+hòa|H W A1
+hỏa|H W A3
+hõa|H W A2
+hóa|H W A4
+họa|H W A5
+hoác|H W A4 KC
+hóac|H W A4 KC
+hoạch|H W EA5 KC
+họach|H W EA5 KC
+hoài|H W A1 IZ
+hoại|H W A5 IZ
+hòai|H W A1 IZ
+họai|H W A5 IZ
+hoan|H W A0 NZ
+hoàn|H W A1 NZ
+hoản|H W A3 NZ
+hoãn|H W A2 NZ
+hoán|H W A4 NZ
+hoạn|H W A5 NZ
+hòan|H W A1 NZ
+hõan|H W A2 NZ
+hóan|H W A4 NZ
+họan|H W A5 NZ
+hoang|H W A0 NGZ
+hoàng|H W A1 NGZ
+hoảng|H W A3 NGZ
+hoãng|H W A2 NGZ
+hoáng|H W A4 NGZ
+hoạng|H W A5 NGZ
+hòang|H W A1 NGZ
+hỏang|H W A3 NGZ
+hoành|H W EA1 NGZ
+hoảnh|H W EA3 NGZ
+hoánh|H W EA4 NGZ
+hoạnh|H W EA5 NGZ
+hòanh|H W EA1 NGZ
+hỏanh|H W EA3 NGZ
+hóanh|H W EA4 NGZ
+họanh|H W EA5 NGZ
+hoạt|H W A5 TC
+họat|H W A5 TC
+hoay|H W AW0 IZ
+hoày|H W AW1 IZ
+hoảy|H W AW3 IZ
+hoãy|H W AW2 IZ
+hoáy|H W AW4 IZ
+hoạy|H W AW5 IZ
+hóay|H W AW4 IZ
+hoắc|H W AW4 KC
+hoặc|H W AW5 KC
+hoắm|H W AW4 MZ
+hoằn|H W AW1 NZ
+hoằng|H W AW1 NGZ
+hoẵng|H W AW2 NGZ
+hoắt|H W AW4 TC
+hóc|H OA4 KC
+học|H OA5 KC
+hoe|H W E0
+hoè|H W E1
+hoẹ|H W E5
+hòe|H W E1
+hỏe|H W E3
+hõe|H W E2
+hóe|H W E4
+họe|H W E5
+hoem|H W E0 MZ
+hoèm|H W E1 MZ
+hoẻm|H W E3 MZ
+hoẽm|H W E2 MZ
+hoém|H W E4 MZ
+hoẹm|H W E5 MZ
+hoen|H W E0 NZ
+hoèn|H W E1 NZ
+hoẻn|H W E3 NZ
+hoẽn|H W E2 NZ
+hoén|H W E4 NZ
+hoẹn|H W E5 NZ
+hoeo|H W E0 UZ
+hoèo|H W E1 UZ
+hoẻo|H W E3 UZ
+hoẽo|H W E2 UZ
+hoéo|H W E4 UZ
+hoẹo|H W E5 UZ
+hoét|H W E4 TC
+hóet|H W E4 TC
+hoi|H O0 IZ
+hòi|H O1 IZ
+hỏi|H O3 IZ
+hõi|H O2 IZ
+hói|H O4 IZ
+họi|H O5 IZ
+hom|H O0 MZ
+hòm|H O1 MZ
+hỏm|H O3 MZ
+hõm|H O2 MZ
+hóm|H O4 MZ
+họm|H O5 MZ
+hon|H O0 NZ
+hòn|H O1 NZ
+hỏn|H O3 NZ
+hõn|H O2 NZ
+hón|H O4 NZ
+họn|H O5 NZ
+hong|H OA0 NGZ
+hòng|H OA1 NGZ
+hỏng|H OA3 NGZ
+hõng|H OA2 NGZ
+hóng|H OA4 NGZ
+họng|H OA5 NGZ
+hoóc|H O4 OA4 KC
+hóoc|H O4 OA4 KC
+hoót|H O4 O4 TC
+hóp|H O4 PC
+họp|H O5 PC
+hót|H O4 TC
+hô|H OO0
+hồ|H OO1
+hổ|H OO3
+hỗ|H OO2
+hố|H OO4
+hộ|H OO5
+hốc|H OO4 KC
+hộc|H OO5 KC
+hôi|H OO0 IZ
+hồi|H OO1 IZ
+hổi|H OO3 IZ
+hỗi|H OO2 IZ
+hối|H OO4 IZ
+hội|H OO5 IZ
+hôm|H OO0 MZ
+hồm|H OO1 MZ
+hổm|H OO3 MZ
+hỗm|H OO2 MZ
+hốm|H OO4 MZ
+hộm|H OO5 MZ
+hôn|H OO0 NZ
+hồn|H OO1 NZ
+hổn|H OO3 NZ
+hỗn|H OO2 NZ
+hốn|H OO4 NZ
+hộn|H OO5 NZ
+hông|H OO0 NGZ
+hồng|H OO1 NGZ
+hổng|H OO3 NGZ
+hỗng|H OO2 NGZ
+hống|H OO4 NGZ
+hộng|H OO5 NGZ
+hốp|H OO4 PC
+hộp|H OO5 PC
+hốt|H OO4 TC
+hột|H OO5 TC
+hơ|H OW0
+hờ|H OW1
+hở|H OW3
+hỡ|H OW2
+hớ|H OW4
+hợ|H OW5
+hơi|H OW0 IZ
+hời|H OW1 IZ
+hởi|H OW3 IZ
+hỡi|H OW2 IZ
+hới|H OW4 IZ
+hợi|H OW5 IZ
+hợm|H OW5 MZ
+hơn|H OW0 NZ
+hờn|H OW1 NZ
+hởn|H OW3 NZ
+hỡn|H OW2 NZ
+hớn|H OW4 NZ
+hợn|H OW5 NZ
+hớp|H OW4 PC
+hợp|H OW5 PC
+hớt|H OW4 TC
+hợt|H OW5 TC
+hu|H U0
+hù|H U1
+hủ|H U3
+hũ|H U2
+hú|H U4
+hụ|H U5
+hua|H UO0
+hùa|H UO1
+hủa|H UO3
+hũa|H UO2
+húa|H UO4
+hụa|H UO5
+huân|H W AA0 NZ
+huần|H W AA1 NZ
+huẩn|H W AA3 NZ
+huẫn|H W AA2 NZ
+huấn|H W AA4 NZ
+huận|H W AA5 NZ
+húc|H U4 KC
+hục|H U5 KC
+huê|H W EE0
+huề|H W EE1
+huể|H W EE3
+huễ|H W EE2
+huế|H W EE4
+huệ|H W EE5
+huếch|H W EE4 KC
+hui|H U0 IZ
+hùi|H U1 IZ
+hủi|H U3 IZ
+hũi|H U2 IZ
+húi|H U4 IZ
+hụi|H U5 IZ
+hum|H U0 MZ
+hùm|H U1 MZ
+hủm|H U3 MZ
+hũm|H U2 MZ
+húm|H U4 MZ
+hụm|H U5 MZ
+hun|H U0 NZ
+hùn|H U1 NZ
+hủn|H U3 NZ
+hũn|H U2 NZ
+hún|H U4 NZ
+hụn|H U5 NZ
+hung|H U0 NGZ
+hùng|H U1 NGZ
+hủng|H U3 NGZ
+hũng|H U2 NGZ
+húng|H U4 NGZ
+hụng|H U5 NGZ
+huống|H UO4 NGZ
+huơ|H W OW0
+huờ|H W OW1
+huở|H W OW3
+huỡ|H W OW2
+huớ|H W OW4
+huợ|H W OW5
+húp|H U4 PC
+hụp|H U5 PC
+hút|H U4 TC
+hụt|H U5 TC
+huy|H W I0
+huỷ|H W I3
+hùy|H W I1
+hủy|H W I3
+hũy|H W I2
+húy|H W I4
+hụy|H W I5
+huých|H W I4 KC
+huỵch|H W I5 KC
+húych|H W I4 KC
+hụych|H W I5 KC
+huyên|H W IE0 NZ
+huyền|H W IE1 NZ
+huyển|H W IE3 NZ
+huyễn|H W IE2 NZ
+huyến|H W IE4 NZ
+huyện|H W IE5 NZ
+huyết|H W IE4 TC
+huyệt|H W IE5 TC
+huyn|H W I0 NZ
+huỳn|H W I1 NZ
+huỷn|H W I3 NZ
+huỹn|H W I2 NZ
+huýn|H W I4 NZ
+huỵn|H W I5 NZ
+huynh|H W I0 NGZ
+huỳnh|H W I1 NGZ
+huỷnh|H W I3 NGZ
+huỹnh|H W I2 NGZ
+huýnh|H W I4 NGZ
+huỵnh|H W I5 NGZ
+hùynh|H W I1 NGZ
+huyp|H W I4 PC
+huýp|H W I4 PC
+huỵp|H W I5 PC
+huýt|H W I4 TC
+huỵt|H W I5 TC
+húyt|H W I4 TC
+huyu|H W I0 UZ
+huỳu|H W I1 UZ
+huỷu|H W I3 UZ
+huỹu|H W I2 UZ
+huýu|H W I4 UZ
+huỵu|H W I5 UZ
+hư|H UW0
+hừ|H UW1
+hử|H UW3
+hữ|H UW2
+hứ|H UW4
+hự|H UW5
+hứa|H WA4
+hức|H UW4 KC
+hực|H UW5 KC
+hưng|H UW0 NGZ
+hừng|H UW1 NGZ
+hửng|H UW3 NGZ
+hững|H UW2 NGZ
+hứng|H UW4 NGZ
+hựng|H UW5 NGZ
+hước|H WA4 KC
+hườm|H WA1 MZ
+hương|H WA0 NGZ
+hường|H WA1 NGZ
+hưởng|H WA3 NGZ
+hưỡng|H WA2 NGZ
+hướng|H WA4 NGZ
+hượng|H WA5 NGZ
+hươu|H WA0 UZ
+hườu|H WA1 UZ
+hưởu|H WA3 UZ
+hưỡu|H WA2 UZ
+hướu|H WA4 UZ
+hượu|H WA5 UZ
+hưu|H UW0 UZ
+hừu|H UW1 UZ
+hửu|H UW3 UZ
+hữu|H UW2 UZ
+hứu|H UW4 UZ
+hựu|H UW5 UZ
+hy|H I0
+hỳ|H I1
+hỷ|H I3
+hỹ|H I2
+hý|H I4
+hỵ|H I5
+i|I0
+ì|I1
+ỉ|I3
+ĩ|I2
+í|I4
+ị|I5
+ia|IE0
+ìa|IE1
+ỉa|IE3
+ĩa|IE2
+ía|IE4
+ịa|IE5
+íc|I4 KC
+ích|I4 KC
+ịch|I5 KC
+iê|IE0
+iển|IE3 NZ
+iến|IE4 NZ
+iếp|IE4 PC
+iết|IE4 TC
+im|I0 MZ
+ìm|I1 MZ
+ỉm|I3 MZ
+ĩm|I2 MZ
+ím|I4 MZ
+ịm|I5 MZ
+in|I0 NZ
+ìn|I1 NZ
+ỉn|I3 NZ
+ĩn|I2 NZ
+ín|I4 NZ
+ịn|I5 NZ
+ing|I0 NGZ
+inh|I0 NGZ
+ình|I1 NGZ
+ỉnh|I3 NGZ
+ĩnh|I2 NGZ
+ính|I4 NGZ
+ịnh|I5 NGZ
+íp|I4 PC
+ít|I4 TC
+iu|I0 UZ
+ìu|I1 UZ
+ỉu|I3 UZ
+ĩu|I2 UZ
+íu|I4 UZ
+ịu|I5 UZ
+jây|D AA0 IZ
+jét|D E4 TC
+ji|D IZ
+jiu|D I0 UZ
+ju|D UZ
+ka|K A0
+kác|K A4 KC
+kai|K A0 IZ
+kam|K A0 MZ
+kan|K A0 NZ
+kao|K A0 UZ
+káp|K A4 PC
+kát|K A4 TC
+kay|K AW0 IZ
+kắc|K AW4 KC
+kâu|K AA0 UZ
+kây|K AA0 IZ
+ke|K E0
+kè|K E1
+kẻ|K E3
+kẽ|K E2
+ké|K E4
+kẹ|K E5
+kem|K E0 MZ
+kèm|K E1 MZ
+kẻm|K E3 MZ
+kẽm|K E2 MZ
+kém|K E4 MZ
+kẹm|K E5 MZ
+ken|K E0 NZ
+kèn|K E1 NZ
+kẻn|K E3 NZ
+kẽn|K E2 NZ
+kén|K E4 NZ
+kẹn|K E5 NZ
+keng|K E0 NGZ
+kèng|K E1 NGZ
+kẻng|K E3 NGZ
+kẽng|K E2 NGZ
+kéng|K E4 NGZ
+kẹng|K E5 NGZ
+keo|K E0 UZ
+kèo|K E1 UZ
+kẻo|K E3 UZ
+kẽo|K E2 UZ
+kéo|K E4 UZ
+kẹo|K E5 UZ
+kép|K E4 PC
+kẹp|K E5 PC
+két|K E4 TC
+kẹt|K E5 TC
+kê|K EE0
+kề|K EE1
+kể|K EE3
+kễ|K EE2
+kế|K EE4
+kệ|K EE5
+kếch|K EE4 KC
+kệch|K EE5 KC
+kềm|K EE1 MZ
+kên|K EE0 NZ
+kền|K EE1 NZ
+kển|K EE3 NZ
+kễn|K EE2 NZ
+kến|K EE4 NZ
+kện|K EE5 NZ
+kênh|K EE0 NGZ
+kềnh|K EE1 NGZ
+kểnh|K EE3 NGZ
+kễnh|K EE2 NGZ
+kếnh|K EE4 NGZ
+kệnh|K EE5 NGZ
+kếp|K EE4 PC
+kết|K EE4 TC
+kêu|K EE0 UZ
+kều|K EE1 UZ
+kểu|K EE3 UZ
+kễu|K EE2 UZ
+kếu|K EE4 UZ
+kệu|K EE5 UZ
+kha|KH A0
+khà|KH A1
+khả|KH A3
+khã|KH A2
+khá|KH A4
+khạ|KH A5
+khác|KH A4 KC
+khạc|KH A5 KC
+khách|KH EA4 KC
+khạch|KH EA5 KC
+khai|KH A0 IZ
+khài|KH A1 IZ
+khải|KH A3 IZ
+khãi|KH A2 IZ
+khái|KH A4 IZ
+khại|KH A5 IZ
+kham|KH A0 MZ
+khàm|KH A1 MZ
+khảm|KH A3 MZ
+khãm|KH A2 MZ
+khám|KH A4 MZ
+khạm|KH A5 MZ
+khan|KH A0 NZ
+khàn|KH A1 NZ
+khản|KH A3 NZ
+khãn|KH A2 NZ
+khán|KH A4 NZ
+khạn|KH A5 NZ
+khang|KH A0 NGZ
+khàng|KH A1 NGZ
+khảng|KH A3 NGZ
+khãng|KH A2 NGZ
+kháng|KH A4 NGZ
+khạng|KH A5 NGZ
+khanh|KH EA0 NGZ
+khành|KH EA1 NGZ
+khảnh|KH EA3 NGZ
+khãnh|KH EA2 NGZ
+khánh|KH EA4 NGZ
+khạnh|KH EA5 NGZ
+khao|KH A0 UZ
+khào|KH A1 UZ
+khảo|KH A3 UZ
+khão|KH A2 UZ
+kháo|KH A4 UZ
+khạo|KH A5 UZ
+khát|KH A4 TC
+khau|KH AW0 UZ
+khàu|KH AW1 UZ
+khảu|KH AW3 UZ
+khãu|KH AW2 UZ
+kháu|KH AW4 UZ
+khạu|KH AW5 UZ
+khay|KH AW0 IZ
+khày|KH AW1 IZ
+khảy|KH AW3 IZ
+khãy|KH AW2 IZ
+kháy|KH AW4 IZ
+khạy|KH AW5 IZ
+khắc|KH AW4 KC
+khăm|KH AW0 MZ
+khằm|KH AW1 MZ
+khẳm|KH AW3 MZ
+khẵm|KH AW2 MZ
+khắm|KH AW4 MZ
+khặm|KH AW5 MZ
+khăn|KH AW0 NZ
+khằn|KH AW1 NZ
+khẳn|KH AW3 NZ
+khẵn|KH AW2 NZ
+khắn|KH AW4 NZ
+khặn|KH AW5 NZ
+khăng|KH AW0 NGZ
+khằng|KH AW1 NGZ
+khẳng|KH AW3 NGZ
+khẵng|KH AW2 NGZ
+khắng|KH AW4 NGZ
+khặng|KH AW5 NGZ
+khắp|KH AW4 PC
+khắt|KH AW4 TC
+khấc|KH AA4 KC
+khâm|KH AA0 MZ
+khầm|KH AA1 MZ
+khẩm|KH AA3 MZ
+khẫm|KH AA2 MZ
+khấm|KH AA4 MZ
+khậm|KH AA5 MZ
+khẩn|KH AA3 NZ
+khấn|KH AA4 NZ
+khấp|KH AA4 PC
+khập|KH AA5 PC
+khất|KH AA4 TC
+khâu|KH AA0 UZ
+khầu|KH AA1 UZ
+khẩu|KH AA3 UZ
+khẫu|KH AA2 UZ
+khấu|KH AA4 UZ
+khậu|KH AA5 UZ
+khẩy|KH AA3 IZ
+khe|KH E0
+khè|KH E1
+khẻ|KH E3
+khẽ|KH E2
+khé|KH E4
+khẹ|KH E5
+khéc|KH E4 KC
+khem|KH E0 MZ
+khèm|KH E1 MZ
+khẻm|KH E3 MZ
+khẽm|KH E2 MZ
+khém|KH E4 MZ
+khẹm|KH E5 MZ
+khen|KH E0 NZ
+khèn|KH E1 NZ
+khẻn|KH E3 NZ
+khẽn|KH E2 NZ
+khén|KH E4 NZ
+khẹn|KH E5 NZ
+kheo|KH E0 UZ
+khèo|KH E1 UZ
+khẻo|KH E3 UZ
+khẽo|KH E2 UZ
+khéo|KH E4 UZ
+khẹo|KH E5 UZ
+khép|KH E4 PC
+khét|KH E4 TC
+khê|KH EE0
+khề|KH EE1
+khể|KH EE3
+khễ|KH EE2
+khế|KH EE4
+khệ|KH EE5
+khênh|KH EE0 NGZ
+khềnh|KH EE1 NGZ
+khểnh|KH EE3 NGZ
+khễnh|KH EE2 NGZ
+khếnh|KH EE4 NGZ
+khệnh|KH EE5 NGZ
+khêu|KH EE0 UZ
+khều|KH EE1 UZ
+khểu|KH EE3 UZ
+khễu|KH EE2 UZ
+khếu|KH EE4 UZ
+khệu|KH EE5 UZ
+khi|KH I0
+khì|KH I1
+khỉ|KH I3
+khĩ|KH I2
+khí|KH I4
+khị|KH I5
+khía|KH IE4
+khịa|KH IE5
+khích|KH I4 KC
+khiêm|KH IE0 MZ
+khiềm|KH IE1 MZ
+khiểm|KH IE3 MZ
+khiễm|KH IE2 MZ
+khiếm|KH IE4 MZ
+khiệm|KH IE5 MZ
+khiên|KH IE0 NZ
+khiền|KH IE1 NZ
+khiển|KH IE3 NZ
+khiễn|KH IE2 NZ
+khiến|KH IE4 NZ
+khiện|KH IE5 NZ
+khiêng|KH IE0 NGZ
+khiềng|KH IE1 NGZ
+khiểng|KH IE3 NGZ
+khiễng|KH IE2 NGZ
+khiếng|KH IE4 NGZ
+khiệng|KH IE5 NGZ
+khiếp|KH IE4 PC
+khiết|KH IE4 TC
+khiêu|KH IE0 UZ
+khiều|KH IE1 UZ
+khiểu|KH IE3 UZ
+khiễu|KH IE2 UZ
+khiếu|KH IE4 UZ
+khiệu|KH IE5 UZ
+khin|KH I0 NZ
+khìn|KH I1 NZ
+khỉn|KH I3 NZ
+khĩn|KH I2 NZ
+khín|KH I4 NZ
+khịn|KH I5 NZ
+khinh|KH I0 NGZ
+khình|KH I1 NGZ
+khỉnh|KH I3 NGZ
+khĩnh|KH I2 NGZ
+khính|KH I4 NGZ
+khịnh|KH I5 NGZ
+khít|KH I4 TC
+khịt|KH I5 TC
+khiu|KH I0 UZ
+khìu|KH I1 UZ
+khỉu|KH I3 UZ
+khĩu|KH I2 UZ
+khíu|KH I4 UZ
+khịu|KH I5 UZ
+kho|KH O0
+khò|KH O1
+khỏ|KH O3
+khõ|KH O2
+khó|KH O4
+khọ|KH O5
+khoa|KH W A0
+khoả|KH W A3
+khoá|KH W A4
+khòa|KH W A1
+khỏa|KH W A3
+khõa|KH W A2
+khóa|KH W A4
+khọa|KH W A5
+khoác|KH W A4 KC
+khóac|KH W A4 KC
+khoai|KH W A0 IZ
+khoài|KH W A1 IZ
+khoải|KH W A3 IZ
+khoãi|KH W A2 IZ
+khoái|KH W A4 IZ
+khoại|KH W A5 IZ
+khỏai|KH W A3 IZ
+khóai|KH W A4 IZ
+khoan|KH W A0 NZ
+khoàn|KH W A1 NZ
+khoản|KH W A3 NZ
+khoãn|KH W A2 NZ
+khoán|KH W A4 NZ
+khoạn|KH W A5 NZ
+khỏan|KH W A3 NZ
+khóan|KH W A4 NZ
+khoang|KH W A0 NGZ
+khoàng|KH W A1 NGZ
+khoảng|KH W A3 NGZ
+khoãng|KH W A2 NGZ
+khoáng|KH W A4 NGZ
+khoạng|KH W A5 NGZ
+khỏang|KH W A3 NGZ
+khóang|KH W A4 NGZ
+khoanh|KH W EA0 NGZ
+khoành|KH W EA1 NGZ
+khoảnh|KH W EA3 NGZ
+khoãnh|KH W EA2 NGZ
+khoánh|KH W EA4 NGZ
+khoạnh|KH W EA5 NGZ
+khỏanh|KH W EA3 NGZ
+khoát|KH W A4 TC
+khóat|KH W A4 TC
+khoáy|KH W AW4 IZ
+khóay|KH W AW4 IZ
+khoằm|KH W AW1 MZ
+khoặm|KH W AW5 MZ
+khoăn|KH W AW0 NZ
+khoằn|KH W AW1 NZ
+khoẳn|KH W AW3 NZ
+khoẵn|KH W AW2 NZ
+khoắn|KH W AW4 NZ
+khoặn|KH W AW5 NZ
+khoắng|KH W AW4 NGZ
+khoắt|KH W AW4 TC
+khóc|KH OA4 KC
+khoe|KH W E0
+khoẻ|KH W E3
+khoé|KH W E4
+khòe|KH W E1
+khỏe|KH W E3
+khõe|KH W E2
+khóe|KH W E4
+khọe|KH W E5
+khoem|KH W E0 MZ
+khoèm|KH W E1 MZ
+khoẻm|KH W E3 MZ
+khoẽm|KH W E2 MZ
+khoém|KH W E4 MZ
+khoẹm|KH W E5 MZ
+khoen|KH W E0 NZ
+khoèn|KH W E1 NZ
+khoẻn|KH W E3 NZ
+khoẽn|KH W E2 NZ
+khoén|KH W E4 NZ
+khoẹn|KH W E5 NZ
+khoeo|KH W E0 UZ
+khoèo|KH W E1 UZ
+khoẻo|KH W E3 UZ
+khoẽo|KH W E2 UZ
+khoéo|KH W E4 UZ
+khoẹo|KH W E5 UZ
+khoét|KH W E4 TC
+khóet|KH W E4 TC
+khoi|KH O0 IZ
+khòi|KH O1 IZ
+khỏi|KH O3 IZ
+khõi|KH O2 IZ
+khói|KH O4 IZ
+khọi|KH O5 IZ
+khom|KH O0 MZ
+khòm|KH O1 MZ
+khỏm|KH O3 MZ
+khõm|KH O2 MZ
+khóm|KH O4 MZ
+khọm|KH O5 MZ
+khon|KH O0 NZ
+khòn|KH O1 NZ
+khỏn|KH O3 NZ
+khõn|KH O2 NZ
+khón|KH O4 NZ
+khọn|KH O5 NZ
+khô|KH OO0
+khồ|KH OO1
+khổ|KH OO3
+khỗ|KH OO2
+khố|KH OO4
+khộ|KH OO5
+khốc|KH OO4 KC
+khôi|KH OO0 IZ
+khồi|KH OO1 IZ
+khổi|KH OO3 IZ
+khỗi|KH OO2 IZ
+khối|KH OO4 IZ
+khội|KH OO5 IZ
+khôn|KH OO0 NZ
+khồn|KH OO1 NZ
+khổn|KH OO3 NZ
+khỗn|KH OO2 NZ
+khốn|KH OO4 NZ
+khộn|KH OO5 NZ
+không|KH OO0 NGZ
+khồng|KH OO1 NGZ
+khổng|KH OO3 NGZ
+khỗng|KH OO2 NGZ
+khống|KH OO4 NGZ
+khộng|KH OO5 NGZ
+khốp|KH OO4 PC
+khơ|KH OW0
+khờ|KH OW1
+khở|KH OW3
+khỡ|KH OW2
+khớ|KH OW4
+khợ|KH OW5
+khơi|KH OW0 IZ
+khời|KH OW1 IZ
+khởi|KH OW3 IZ
+khỡi|KH OW2 IZ
+khới|KH OW4 IZ
+khợi|KH OW5 IZ
+khớp|KH OW4 PC
+khu|KH U0
+khù|KH U1
+khủ|KH U3
+khũ|KH U2
+khú|KH U4
+khụ|KH U5
+khua|KH UO0
+khùa|KH UO1
+khủa|KH UO3
+khũa|KH UO2
+khúa|KH UO4
+khụa|KH UO5
+khuân|KH W AA0 NZ
+khuần|KH W AA1 NZ
+khuẩn|KH W AA3 NZ
+khuẫn|KH W AA2 NZ
+khuấn|KH W AA4 NZ
+khuận|KH W AA5 NZ
+khuâng|KH W AA0 NGZ
+khuầng|KH W AA1 NGZ
+khuẩng|KH W AA3 NGZ
+khuẫng|KH W AA2 NGZ
+khuấng|KH W AA4 NGZ
+khuậng|KH W AA5 NGZ
+khuất|KH W AA4 TC
+khuây|KH W AA0 IZ
+khuầy|KH W AA1 IZ
+khuẩy|KH W AA3 IZ
+khuẫy|KH W AA2 IZ
+khuấy|KH W AA4 IZ
+khuậy|KH W AA5 IZ
+khúc|KH U4 KC
+khuê|KH W EE0
+khuề|KH W EE1
+khuể|KH W EE3
+khuễ|KH W EE2
+khuế|KH W EE4
+khuệ|KH W EE5
+khuếch|KH W EE4 KC
+khui|KH U0 IZ
+khùi|KH U1 IZ
+khủi|KH U3 IZ
+khũi|KH U2 IZ
+khúi|KH U4 IZ
+khụi|KH U5 IZ
+khum|KH U0 MZ
+khùm|KH U1 MZ
+khủm|KH U3 MZ
+khũm|KH U2 MZ
+khúm|KH U4 MZ
+khụm|KH U5 MZ
+khun|KH U0 NZ
+khùn|KH U1 NZ
+khủn|KH U3 NZ
+khũn|KH U2 NZ
+khún|KH U4 NZ
+khụn|KH U5 NZ
+khung|KH U0 NGZ
+khùng|KH U1 NGZ
+khủng|KH U3 NGZ
+khũng|KH U2 NGZ
+khúng|KH U4 NGZ
+khụng|KH U5 NGZ
+khuôn|KH UO0 NZ
+khuồn|KH UO1 NZ
+khuổn|KH UO3 NZ
+khuỗn|KH UO2 NZ
+khuốn|KH UO4 NZ
+khuộn|KH UO5 NZ
+khuông|KH UO0 NGZ
+khuồng|KH UO1 NGZ
+khuổng|KH UO3 NGZ
+khuỗng|KH UO2 NGZ
+khuống|KH UO4 NGZ
+khuộng|KH UO5 NGZ
+khuy|KH W I0
+khuỷ|KH W I3
+khuỵ|KH W I5
+khùy|KH W I1
+khủy|KH W I3
+khũy|KH W I2
+khúy|KH W I4
+khụy|KH W I5
+khuya|KH W IE0
+khuỳa|KH W IE1
+khuỷa|KH W IE3
+khuỹa|KH W IE2
+khuýa|KH W IE4
+khuỵa|KH W IE5
+khuyếch|KH W IE4 KC
+khuyên|KH W IE0 NZ
+khuyền|KH W IE1 NZ
+khuyển|KH W IE3 NZ
+khuyễn|KH W IE2 NZ
+khuyến|KH W IE4 NZ
+khuyện|KH W IE5 NZ
+khuyết|KH W IE4 TC
+khuynh|KH W I0 NGZ
+khuỳnh|KH W I1 NGZ
+khuỷnh|KH W I3 NGZ
+khuỹnh|KH W I2 NGZ
+khuýnh|KH W I4 NGZ
+khuỵnh|KH W I5 NGZ
+khủynh|KH W I3 NGZ
+khuyp|KH W I4 PC
+khuýp|KH W I4 PC
+khuỵp|KH W I5 PC
+khuyt|KH W I4 TC
+khuýt|KH W I4 TC
+khuỵt|KH W I5 TC
+khuyu|KH W I0 UZ
+khuỳu|KH W I1 UZ
+khuỷu|KH W I3 UZ
+khuỹu|KH W I2 UZ
+khuýu|KH W I4 UZ
+khuỵu|KH W I5 UZ
+khủyu|KH W I3 UZ
+khư|KH UW0
+khừ|KH UW1
+khử|KH UW3
+khữ|KH UW2
+khứ|KH UW4
+khự|KH UW5
+khứa|KH WA4
+khừng|KH UW1 NGZ
+khựng|KH UW5 NGZ
+khước|KH WA4 KC
+khương|KH WA0 NGZ
+khường|KH WA1 NGZ
+khưởng|KH WA3 NGZ
+khưỡng|KH WA2 NGZ
+khướng|KH WA4 NGZ
+khượng|KH WA5 NGZ
+khướt|KH WA4 TC
+khướu|KH WA4 UZ
+khứu|KH UW4 UZ
+ki|K I0
+kì|K I1
+kỉ|K I3
+kĩ|K I2
+kí|K I4
+kị|K I5
+kia|K IE0
+kìa|K IE1
+kỉa|K IE3
+kĩa|K IE2
+kía|K IE4
+kịa|K IE5
+kích|K I4 KC
+kịch|K I5 KC
+kiêm|K IE0 MZ
+kiềm|K IE1 MZ
+kiểm|K IE3 MZ
+kiễm|K IE2 MZ
+kiếm|K IE4 MZ
+kiệm|K IE5 MZ
+kiên|K IE0 NZ
+kiền|K IE1 NZ
+kiển|K IE3 NZ
+kiễn|K IE2 NZ
+kiến|K IE4 NZ
+kiện|K IE5 NZ
+kiêng|K IE0 NGZ
+kiềng|K IE1 NGZ
+kiểng|K IE3 NGZ
+kiễng|K IE2 NGZ
+kiếng|K IE4 NGZ
+kiệng|K IE5 NGZ
+kiếp|K IE4 PC
+kiết|K IE4 TC
+kiệt|K IE5 TC
+kiêu|K IE0 UZ
+kiều|K IE1 UZ
+kiểu|K IE3 UZ
+kiễu|K IE2 UZ
+kiếu|K IE4 UZ
+kiệu|K IE5 UZ
+kim|K I0 MZ
+kìm|K I1 MZ
+kỉm|K I3 MZ
+kĩm|K I2 MZ
+kím|K I4 MZ
+kịm|K I5 MZ
+kin|K I0 NZ
+kìn|K I1 NZ
+kỉn|K I3 NZ
+kĩn|K I2 NZ
+kín|K I4 NZ
+kịn|K I5 NZ
+king|K I0 NGZ
+kinh|K I0 NGZ
+kình|K I1 NGZ
+kỉnh|K I3 NGZ
+kĩnh|K I2 NGZ
+kính|K I4 NGZ
+kịnh|K I5 NGZ
+kíp|K I4 PC
+kịp|K I5 PC
+kít|K I4 TC
+kịt|K I5 TC
+kiu|K I0 UZ
+kìu|K I1 UZ
+kỉu|K I3 UZ
+kĩu|K I2 UZ
+kíu|K I4 UZ
+kịu|K I5 UZ
+ko|K O0
+koa|K W A0
+koai|K W A0 IZ
+koan|K W A0 NZ
+koen|K W E0 NZ
+koét|K W E4 TC
+koi|K O0 IZ
+kom|K O0 MZ
+kon|K O0 NZ
+kót|K O4 TC
+kô|K OO0
+kồ|K OO1
+kốc|K OO4 KC
+kôm|K OO0 MZ
+kôn|K OO0 NZ
+kông|K OO0 NGZ
+kốp|K OO4 PC
+kốt|K OO4 TC
+kơ|K OW0
+kờ|K OW1
+kớp|K OW4 PC
+kớt|K OW4 TC
+ku|K UZ
+kua|K UO0
+kúc|K U4 KC
+kuê|K W EE0
+kun|K U0 NZ
+kung|K U0 NGZ
+kúp|K U4 PC
+kút|K U4 TC
+kuy|K W IZ
+kuyn|K W I0 NZ
+ky|K I0
+kỳ|K I1
+kỷ|K I3
+kỹ|K I2
+ký|K I4
+kỵ|K I5
+la|L A0
+là|L A1
+lả|L A3
+lã|L A2
+lá|L A4
+lạ|L A5
+lác|L A4 KC
+lạc|L A5 KC
+lách|L EA4 KC
+lạch|L EA5 KC
+lai|L A0 IZ
+lài|L A1 IZ
+lải|L A3 IZ
+lãi|L A2 IZ
+lái|L A4 IZ
+lại|L A5 IZ
+lam|L A0 MZ
+làm|L A1 MZ
+lảm|L A3 MZ
+lãm|L A2 MZ
+lám|L A4 MZ
+lạm|L A5 MZ
+lan|L A0 NZ
+làn|L A1 NZ
+lản|L A3 NZ
+lãn|L A2 NZ
+lán|L A4 NZ
+lạn|L A5 NZ
+lang|L A0 NGZ
+làng|L A1 NGZ
+lảng|L A3 NGZ
+lãng|L A2 NGZ
+láng|L A4 NGZ
+lạng|L A5 NGZ
+lanh|L EA0 NGZ
+lành|L EA1 NGZ
+lảnh|L EA3 NGZ
+lãnh|L EA2 NGZ
+lánh|L EA4 NGZ
+lạnh|L EA5 NGZ
+lao|L A0 UZ
+lào|L A1 UZ
+lảo|L A3 UZ
+lão|L A2 UZ
+láo|L A4 UZ
+lạo|L A5 UZ
+láp|L A4 PC
+lạp|L A5 PC
+lát|L A4 TC
+lạt|L A5 TC
+lau|L AW0 UZ
+làu|L AW1 UZ
+lảu|L AW3 UZ
+lãu|L AW2 UZ
+láu|L AW4 UZ
+lạu|L AW5 UZ
+lay|L AW0 IZ
+lày|L AW1 IZ
+lảy|L AW3 IZ
+lãy|L AW2 IZ
+láy|L AW4 IZ
+lạy|L AW5 IZ
+lắc|L AW4 KC
+lăm|L AW0 MZ
+lằm|L AW1 MZ
+lẳm|L AW3 MZ
+lẵm|L AW2 MZ
+lắm|L AW4 MZ
+lặm|L AW5 MZ
+lăn|L AW0 NZ
+lằn|L AW1 NZ
+lẳn|L AW3 NZ
+lẵn|L AW2 NZ
+lắn|L AW4 NZ
+lặn|L AW5 NZ
+lăng|L AW0 NGZ
+lằng|L AW1 NGZ
+lẳng|L AW3 NGZ
+lẵng|L AW2 NGZ
+lắng|L AW4 NGZ
+lặng|L AW5 NGZ
+lắp|L AW4 PC
+lặp|L AW5 PC
+lắt|L AW4 TC
+lặt|L AW5 TC
+lấc|L AA4 KC
+lâm|L AA0 MZ
+lầm|L AA1 MZ
+lẩm|L AA3 MZ
+lẫm|L AA2 MZ
+lấm|L AA4 MZ
+lậm|L AA5 MZ
+lân|L AA0 NZ
+lần|L AA1 NZ
+lẩn|L AA3 NZ
+lẫn|L AA2 NZ
+lấn|L AA4 NZ
+lận|L AA5 NZ
+lâng|L AA0 NGZ
+lầng|L AA1 NGZ
+lẩng|L AA3 NGZ
+lẫng|L AA2 NGZ
+lấng|L AA4 NGZ
+lậng|L AA5 NGZ
+lấp|L AA4 PC
+lập|L AA5 PC
+lất|L AA4 TC
+lật|L AA5 TC
+lâu|L AA0 UZ
+lầu|L AA1 UZ
+lẩu|L AA3 UZ
+lẫu|L AA2 UZ
+lấu|L AA4 UZ
+lậu|L AA5 UZ
+lây|L AA0 IZ
+lầy|L AA1 IZ
+lẩy|L AA3 IZ
+lẫy|L AA2 IZ
+lấy|L AA4 IZ
+lậy|L AA5 IZ
+le|L E0
+lè|L E1
+lẻ|L E3
+lẽ|L E2
+lé|L E4
+lẹ|L E5
+léc|L E4 KC
+léch|L E4 KC
+lem|L E0 MZ
+lèm|L E1 MZ
+lẻm|L E3 MZ
+lẽm|L E2 MZ
+lém|L E4 MZ
+lẹm|L E5 MZ
+len|L E0 NZ
+lèn|L E1 NZ
+lẻn|L E3 NZ
+lẽn|L E2 NZ
+lén|L E4 NZ
+lẹn|L E5 NZ
+leng|L E0 NGZ
+lèng|L E1 NGZ
+lẻng|L E3 NGZ
+lẽng|L E2 NGZ
+léng|L E4 NGZ
+lẹng|L E5 NGZ
+leo|L E0 UZ
+lèo|L E1 UZ
+lẻo|L E3 UZ
+lẽo|L E2 UZ
+léo|L E4 UZ
+lẹo|L E5 UZ
+lép|L E4 PC
+lẹp|L E5 PC
+lét|L E4 TC
+lẹt|L E5 TC
+lê|L EE0
+lề|L EE1
+lể|L EE3
+lễ|L EE2
+lế|L EE4
+lệ|L EE5
+lếc|L EE4 KC
+lếch|L EE4 KC
+lệch|L EE5 KC
+lên|L EE0 NZ
+lền|L EE1 NZ
+lển|L EE3 NZ
+lễn|L EE2 NZ
+lến|L EE4 NZ
+lện|L EE5 NZ
+lênh|L EE0 NGZ
+lềnh|L EE1 NGZ
+lểnh|L EE3 NGZ
+lễnh|L EE2 NGZ
+lếnh|L EE4 NGZ
+lệnh|L EE5 NGZ
+lếp|L EE4 PC
+lết|L EE4 TC
+lêu|L EE0 UZ
+lều|L EE1 UZ
+lểu|L EE3 UZ
+lễu|L EE2 UZ
+lếu|L EE4 UZ
+lệu|L EE5 UZ
+lêy|L EE0 IZ
+li|L I0
+lì|L I1
+lỉ|L I3
+lĩ|L I2
+lí|L I4
+lị|L I5
+lia|L IE0
+lìa|L IE1
+lỉa|L IE3
+lĩa|L IE2
+lía|L IE4
+lịa|L IE5
+líc|L I4 KC
+lích|L I4 KC
+lịch|L I5 KC
+liê|L IE0
+liếc|L IE4 KC
+liêm|L IE0 MZ
+liềm|L IE1 MZ
+liểm|L IE3 MZ
+liễm|L IE2 MZ
+liếm|L IE4 MZ
+liệm|L IE5 MZ
+liên|L IE0 NZ
+liền|L IE1 NZ
+liển|L IE3 NZ
+liễn|L IE2 NZ
+liến|L IE4 NZ
+liện|L IE5 NZ
+liêng|L IE0 NGZ
+liềng|L IE1 NGZ
+liểng|L IE3 NGZ
+liễng|L IE2 NGZ
+liếng|L IE4 NGZ
+liệng|L IE5 NGZ
+liếp|L IE4 PC
+liệp|L IE5 PC
+liệt|L IE5 TC
+liêu|L IE0 UZ
+liều|L IE1 UZ
+liểu|L IE3 UZ
+liễu|L IE2 UZ
+liếu|L IE4 UZ
+liệu|L IE5 UZ
+lim|L I0 MZ
+lìm|L I1 MZ
+lỉm|L I3 MZ
+lĩm|L I2 MZ
+lím|L I4 MZ
+lịm|L I5 MZ
+lin|L I0 NZ
+lìn|L I1 NZ
+lỉn|L I3 NZ
+lĩn|L I2 NZ
+lín|L I4 NZ
+lịn|L I5 NZ
+ling|L I0 NGZ
+linh|L I0 NGZ
+lình|L I1 NGZ
+lỉnh|L I3 NGZ
+lĩnh|L I2 NGZ
+lính|L I4 NGZ
+lịnh|L I5 NGZ
+líp|L I4 PC
+lít|L I4 TC
+lịt|L I5 TC
+liu|L I0 UZ
+lìu|L I1 UZ
+lỉu|L I3 UZ
+lĩu|L I2 UZ
+líu|L I4 UZ
+lịu|L I5 UZ
+lo|L O0
+lò|L O1
+lỏ|L O3
+lõ|L O2
+ló|L O4
+lọ|L O5
+loa|L W A0
+loà|L W A1
+loã|L W A2
+loá|L W A4
+lòa|L W A1
+lỏa|L W A3
+lõa|L W A2
+lóa|L W A4
+lọa|L W A5
+loạc|L W A5 KC
+loài|L W A1 IZ
+loại|L W A5 IZ
+lòai|L W A1 IZ
+lọai|L W A5 IZ
+loan|L W A0 NZ
+loàn|L W A1 NZ
+loản|L W A3 NZ
+loãn|L W A2 NZ
+loán|L W A4 NZ
+loạn|L W A5 NZ
+lòan|L W A1 NZ
+lọan|L W A5 NZ
+loang|L W A0 NGZ
+loàng|L W A1 NGZ
+loảng|L W A3 NGZ
+loãng|L W A2 NGZ
+loáng|L W A4 NGZ
+loạng|L W A5 NGZ
+lỏang|L W A3 NGZ
+lõang|L W A2 NGZ
+lóang|L W A4 NGZ
+lọang|L W A5 NGZ
+loanh|L W EA0 NGZ
+loành|L W EA1 NGZ
+loảnh|L W EA3 NGZ
+loãnh|L W EA2 NGZ
+loánh|L W EA4 NGZ
+loạnh|L W EA5 NGZ
+loát|L W A4 TC
+loạt|L W A5 TC
+lóat|L W A4 TC
+lọat|L W A5 TC
+loay|L W AW0 IZ
+loày|L W AW1 IZ
+loảy|L W AW3 IZ
+loãy|L W AW2 IZ
+loáy|L W AW4 IZ
+loạy|L W AW5 IZ
+loăn|L W AW0 NZ
+loằn|L W AW1 NZ
+loẳn|L W AW3 NZ
+loẵn|L W AW2 NZ
+loắn|L W AW4 NZ
+loặn|L W AW5 NZ
+loăng|L W AW0 NGZ
+loằng|L W AW1 NGZ
+loẳng|L W AW3 NGZ
+loẵng|L W AW2 NGZ
+loắng|L W AW4 NGZ
+loặng|L W AW5 NGZ
+lóc|L OA4 KC
+lọc|L OA5 KC
+loe|L W E0
+loè|L W E1
+loé|L W E4
+lòe|L W E1
+lỏe|L W E3
+lõe|L W E2
+lóe|L W E4
+lọe|L W E5
+loem|L W E0 MZ
+loèm|L W E1 MZ
+loẻm|L W E3 MZ
+loẽm|L W E2 MZ
+loém|L W E4 MZ
+loẹm|L W E5 MZ
+loeo|L W E0 UZ
+loèo|L W E1 UZ
+loẻo|L W E3 UZ
+loẽo|L W E2 UZ
+loéo|L W E4 UZ
+loẹo|L W E5 UZ
+loét|L W E4 TC
+loẹt|L W E5 TC
+lóet|L W E4 TC
+lọet|L W E5 TC
+loi|L O0 IZ
+lòi|L O1 IZ
+lỏi|L O3 IZ
+lõi|L O2 IZ
+lói|L O4 IZ
+lọi|L O5 IZ
+lom|L O0 MZ
+lòm|L O1 MZ
+lỏm|L O3 MZ
+lõm|L O2 MZ
+lóm|L O4 MZ
+lọm|L O5 MZ
+lon|L O0 NZ
+lòn|L O1 NZ
+lỏn|L O3 NZ
+lõn|L O2 NZ
+lón|L O4 NZ
+lọn|L O5 NZ
+long|L OA0 NGZ
+lòng|L OA1 NGZ
+lỏng|L OA3 NGZ
+lõng|L OA2 NGZ
+lóng|L OA4 NGZ
+lọng|L OA5 NGZ
+loong|L O0 NGZ
+loòng|L O1 NGZ
+loỏng|L O3 NGZ
+loõng|L O2 NGZ
+loóng|L O4 NGZ
+loọng|L O5 NGZ
+lóp|L O4 PC
+lót|L O4 TC
+lọt|L O5 TC
+lô|L OO0
+lồ|L OO1
+lổ|L OO3
+lỗ|L OO2
+lố|L OO4
+lộ|L OO5
+lốc|L OO4 KC
+lộc|L OO5 KC
+lôi|L OO0 IZ
+lồi|L OO1 IZ
+lổi|L OO3 IZ
+lỗi|L OO2 IZ
+lối|L OO4 IZ
+lội|L OO5 IZ
+lôm|L OO0 MZ
+lồm|L OO1 MZ
+lổm|L OO3 MZ
+lỗm|L OO2 MZ
+lốm|L OO4 MZ
+lộm|L OO5 MZ
+lôn|L OO0 NZ
+lồn|L OO1 NZ
+lổn|L OO3 NZ
+lỗn|L OO2 NZ
+lốn|L OO4 NZ
+lộn|L OO5 NZ
+lông|L OO0 NGZ
+lồng|L OO1 NGZ
+lổng|L OO3 NGZ
+lỗng|L OO2 NGZ
+lống|L OO4 NGZ
+lộng|L OO5 NGZ
+lốp|L OO4 PC
+lộp|L OO5 PC
+lốt|L OO4 TC
+lột|L OO5 TC
+lơ|L OW0
+lờ|L OW1
+lở|L OW3
+lỡ|L OW2
+lớ|L OW4
+lợ|L OW5
+lơi|L OW0 IZ
+lời|L OW1 IZ
+lởi|L OW3 IZ
+lỡi|L OW2 IZ
+lới|L OW4 IZ
+lợi|L OW5 IZ
+lơm|L OW0 MZ
+lờm|L OW1 MZ
+lởm|L OW3 MZ
+lỡm|L OW2 MZ
+lớm|L OW4 MZ
+lợm|L OW5 MZ
+lơn|L OW0 NZ
+lờn|L OW1 NZ
+lởn|L OW3 NZ
+lỡn|L OW2 NZ
+lớn|L OW4 NZ
+lợn|L OW5 NZ
+lớp|L OW4 PC
+lợp|L OW5 PC
+lớt|L OW4 TC
+lợt|L OW5 TC
+lu|L U0
+lù|L U1
+lủ|L U3
+lũ|L U2
+lú|L U4
+lụ|L UZ
+lua|L UO0
+lùa|L UO1
+lủa|L UO3
+lũa|L UO2
+lúa|L UO4
+lụa|L UO5
+luân|L W AA0 NZ
+luần|L W AA1 NZ
+luẩn|L W AA3 NZ
+luẫn|L W AA2 NZ
+luấn|L W AA4 NZ
+luận|L W AA5 NZ
+luật|L W AA5 TC
+lúc|L U4 KC
+lục|L U5 KC
+luênh|L W EE0 NGZ
+luềnh|L W EE1 NGZ
+luểnh|L W EE3 NGZ
+luễnh|L W EE2 NGZ
+luếnh|L W EE4 NGZ
+luệnh|L W EE5 NGZ
+lui|L U0 IZ
+lùi|L U1 IZ
+lủi|L U3 IZ
+lũi|L U2 IZ
+lúi|L U4 IZ
+lụi|L U5 IZ
+lum|L U0 MZ
+lùm|L U1 MZ
+lủm|L U3 MZ
+lũm|L U2 MZ
+lúm|L U4 MZ
+lụm|L U5 MZ
+lun|L U0 NZ
+lùn|L U1 NZ
+lủn|L U3 NZ
+lũn|L U2 NZ
+lún|L U4 NZ
+lụn|L U5 NZ
+lung|L U0 NGZ
+lùng|L U1 NGZ
+lủng|L U3 NGZ
+lũng|L U2 NGZ
+lúng|L U4 NGZ
+lụng|L U5 NGZ
+luô|L UO0
+luộc|L UO5 KC
+luộm|L UO5 MZ
+luôn|L UO0 NZ
+luồn|L UO1 NZ
+luổn|L UO3 NZ
+luỗn|L UO2 NZ
+luốn|L UO4 NZ
+luộn|L UO5 NZ
+luông|L UO0 NGZ
+luồng|L UO1 NGZ
+luổng|L UO3 NGZ
+luỗng|L UO2 NGZ
+luống|L UO4 NGZ
+luộng|L UO5 NGZ
+lúp|L U4 PC
+lụp|L U5 PC
+lút|L U4 TC
+lụt|L U5 TC
+luy|L W IZ
+luỹ|L W I2
+luý|L W I4
+luỵ|L W I5
+lùy|L W IZ
+lủy|L W IZ
+lũy|L W I2
+lúy|L W I4
+lụy|L W I5
+luya|L W IE0
+luỳa|L W IE1
+luỷa|L W IE3
+luỹa|L W IE2
+luýa|L W IE4
+luỵa|L W IE5
+luyên|L W IE0 NZ
+luyền|L W IE1 NZ
+luyển|L W IE3 NZ
+luyễn|L W IE2 NZ
+luyến|L W IE4 NZ
+luyện|L W IE5 NZ
+luyn|L W I0 NZ
+luỳn|L W I1 NZ
+luỷn|L W I3 NZ
+luỹn|L W I2 NZ
+luýn|L W I4 NZ
+luỵn|L W I5 NZ
+luynh|L W I0 NGZ
+luỳnh|L W I1 NGZ
+luỷnh|L W I3 NGZ
+luỹnh|L W I2 NGZ
+luýnh|L W I4 NGZ
+luỵnh|L W I5 NGZ
+luyp|L W I4 PC
+luýp|L W I4 PC
+luỵp|L W I5 PC
+luyt|L W I4 TC
+luýt|L W I4 TC
+luỵt|L W I5 TC
+luyu|L W I0 UZ
+luỳu|L W I1 UZ
+luỷu|L W I3 UZ
+luỹu|L W I2 UZ
+luýu|L W I4 UZ
+luỵu|L W I5 UZ
+lư|L UW0
+lừ|L UW1
+lử|L UW3
+lữ|L UW2
+lứ|L UW4
+lự|L UW5
+lưa|L WA0
+lừa|L WA1
+lửa|L WA3
+lữa|L WA2
+lứa|L WA4
+lựa|L WA5
+lức|L UW4 KC
+lực|L UW5 KC
+lưm|L UW0 MZ
+lừm|L UW1 MZ
+lửm|L UW3 MZ
+lữm|L UW2 MZ
+lứm|L UW4 MZ
+lựm|L UW5 MZ
+lừn|L UW1 NZ
+lưng|L UW0 NGZ
+lừng|L UW1 NGZ
+lửng|L UW3 NGZ
+lững|L UW2 NGZ
+lứng|L UW4 NGZ
+lựng|L UW5 NGZ
+lước|L WA4 KC
+lược|L WA5 KC
+lươi|L WA0 IZ
+lười|L WA1 IZ
+lưởi|L WA3 IZ
+lưỡi|L WA2 IZ
+lưới|L WA4 IZ
+lượi|L WA5 IZ
+lươm|L WA0 MZ
+lườm|L WA1 MZ
+lưởm|L WA3 MZ
+lưỡm|L WA2 MZ
+lướm|L WA4 MZ
+lượm|L WA5 MZ
+lươn|L WA0 NZ
+lườn|L WA1 NZ
+lưởn|L WA3 NZ
+lưỡn|L WA2 NZ
+lướn|L WA4 NZ
+lượn|L WA5 NZ
+lương|L WA0 NGZ
+lường|L WA1 NGZ
+lưởng|L WA3 NGZ
+lưỡng|L WA2 NGZ
+lướng|L WA4 NGZ
+lượng|L WA5 NGZ
+lướt|L WA4 TC
+lượt|L WA5 TC
+lưu|L UW0 UZ
+lừu|L UW1 UZ
+lửu|L UW3 UZ
+lữu|L UW2 UZ
+lứu|L UW4 UZ
+lựu|L UW5 UZ
+ly|L I0
+lỳ|L I1
+lỷ|L I3
+lỹ|L I2
+lý|L I4
+lỵ|L I5
+ma|M A0
+mà|M A1
+mả|M A3
+mã|M A2
+má|M A4
+mạ|M A5
+mác|M A4 KC
+mạc|M A5 KC
+mách|M EA4 KC
+mạch|M EA5 KC
+mai|M A0 IZ
+mài|M A1 IZ
+mải|M A3 IZ
+mãi|M A2 IZ
+mái|M A4 IZ
+mại|M A5 IZ
+mam|M A0 MZ
+màm|M A1 MZ
+mảm|M A3 MZ
+mãm|M A2 MZ
+mám|M A4 MZ
+mạm|M A5 MZ
+man|M A0 NZ
+màn|M A1 NZ
+mản|M A3 NZ
+mãn|M A2 NZ
+mán|M A4 NZ
+mạn|M A5 NZ
+mang|M A0 NGZ
+màng|M A1 NGZ
+mảng|M A3 NGZ
+mãng|M A2 NGZ
+máng|M A4 NGZ
+mạng|M A5 NGZ
+manh|M EA0 NGZ
+mành|M EA1 NGZ
+mảnh|M EA3 NGZ
+mãnh|M EA2 NGZ
+mánh|M EA4 NGZ
+mạnh|M EA5 NGZ
+mao|M A0 UZ
+mào|M A1 UZ
+mảo|M A3 UZ
+mão|M A2 UZ
+máo|M A4 UZ
+mạo|M A5 UZ
+máp|M A4 PC
+mạp|M A5 PC
+mát|M A4 TC
+mạt|M A5 TC
+mau|M AW0 UZ
+màu|M AW1 UZ
+mảu|M AW3 UZ
+mãu|M AW2 UZ
+máu|M AW4 UZ
+mạu|M AW5 UZ
+may|M AW0 IZ
+mày|M AW1 IZ
+mảy|M AW3 IZ
+mãy|M AW2 IZ
+máy|M AW4 IZ
+mạy|M AW5 IZ
+mắc|M AW4 KC
+mặc|M AW5 KC
+măm|M AW0 MZ
+mằm|M AW1 MZ
+mẳm|M AW3 MZ
+mẵm|M AW2 MZ
+mắm|M AW4 MZ
+mặm|M AW5 MZ
+măn|M AW0 NZ
+mằn|M AW1 NZ
+mẳn|M AW3 NZ
+mẵn|M AW2 NZ
+mắn|M AW4 NZ
+mặn|M AW5 NZ
+măng|M AW0 NGZ
+mằng|M AW1 NGZ
+mẳng|M AW3 NGZ
+mẵng|M AW2 NGZ
+mắng|M AW4 NGZ
+mặng|M AW5 NGZ
+mắt|M AW4 TC
+mặt|M AW5 TC
+mâm|M AA0 MZ
+mầm|M AA1 MZ
+mẩm|M AA3 MZ
+mẫm|M AA2 MZ
+mấm|M AA4 MZ
+mậm|M AA5 MZ
+mân|M AA0 NZ
+mần|M AA1 NZ
+mẩn|M AA3 NZ
+mẫn|M AA2 NZ
+mấn|M AA4 NZ
+mận|M AA5 NZ
+mấp|M AA4 PC
+mập|M AA5 PC
+mất|M AA4 TC
+mật|M AA5 TC
+mâu|M AA0 UZ
+mầu|M AA1 UZ
+mẩu|M AA3 UZ
+mẫu|M AA2 UZ
+mấu|M AA4 UZ
+mậu|M AA5 UZ
+mây|M AA0 IZ
+mầy|M AA1 IZ
+mẩy|M AA3 IZ
+mẫy|M AA2 IZ
+mấy|M AA4 IZ
+mậy|M AA5 IZ
+me|M E0
+mè|M E1
+mẻ|M E3
+mẽ|M E2
+mé|M E4
+mẹ|M E5
+méc|M E4 KC
+mem|M E0 MZ
+mèm|M E1 MZ
+mẻm|M E3 MZ
+mẽm|M E2 MZ
+mém|M E4 MZ
+mẹm|M E5 MZ
+men|M E0 NZ
+mèn|M E1 NZ
+mẻn|M E3 NZ
+mẽn|M E2 NZ
+mén|M E4 NZ
+mẹn|M E5 NZ
+mèng|M E1 NGZ
+meo|M E0 UZ
+mèo|M E1 UZ
+mẻo|M E3 UZ
+mẽo|M E2 UZ
+méo|M E4 UZ
+mẹo|M E5 UZ
+mép|M E4 PC
+mét|M E4 TC
+mẹt|M E5 TC
+mê|M EE0
+mề|M EE1
+mể|M EE3
+mễ|M EE2
+mế|M EE4
+mệ|M EE5
+mếc|M EE4 KC
+mếch|M EE4 KC
+mềm|M EE1 MZ
+mên|M EE0 NZ
+mền|M EE1 NZ
+mển|M EE3 NZ
+mễn|M EE2 NZ
+mến|M EE4 NZ
+mện|M EE5 NZ
+mênh|M EE0 NGZ
+mềnh|M EE1 NGZ
+mểnh|M EE3 NGZ
+mễnh|M EE2 NGZ
+mếnh|M EE4 NGZ
+mệnh|M EE5 NGZ
+mết|M EE4 TC
+mệt|M EE5 TC
+mêu|M EE0 UZ
+mều|M EE1 UZ
+mểu|M EE3 UZ
+mễu|M EE2 UZ
+mếu|M EE4 UZ
+mệu|M EE5 UZ
+mêy|M EE0 IZ
+mi|M I0
+mì|M I1
+mỉ|M I3
+mĩ|M I2
+mí|M I4
+mị|M I5
+mia|M IE0
+mìa|M IE1
+mỉa|M IE3
+mĩa|M IE2
+mía|M IE4
+mịa|M IE5
+míc|M I4 KC
+mích|M I4 KC
+mịch|M I5 KC
+miên|M IE0 NZ
+miền|M IE1 NZ
+miển|M IE3 NZ
+miễn|M IE2 NZ
+miến|M IE4 NZ
+miện|M IE5 NZ
+miềng|M IE1 NGZ
+miễng|M IE2 NGZ
+miếng|M IE4 NGZ
+miệng|M IE5 NGZ
+miếp|M IE4 PC
+miết|M IE4 TC
+miệt|M IE5 TC
+miêu|M IE0 UZ
+miều|M IE1 UZ
+miểu|M IE3 UZ
+miễu|M IE2 UZ
+miếu|M IE4 UZ
+miệu|M IE5 UZ
+mỉm|M I3 MZ
+mĩm|M I2 MZ
+mím|M I4 MZ
+min|M I0 NZ
+mìn|M I1 NZ
+mỉn|M I3 NZ
+mĩn|M I2 NZ
+mín|M I4 NZ
+mịn|M I5 NZ
+minh|M I0 NGZ
+mình|M I1 NGZ
+mỉnh|M I3 NGZ
+mĩnh|M I2 NGZ
+mính|M I4 NGZ
+mịnh|M I5 NGZ
+mít|M I4 TC
+mịt|M I5 TC
+miu|M I0 UZ
+mìu|M I1 UZ
+mỉu|M I3 UZ
+mĩu|M I2 UZ
+míu|M I4 UZ
+mịu|M I5 UZ
+mo|M O0
+mò|M O1
+mỏ|M O3
+mõ|M O2
+mó|M O4
+mọ|M O5
+móc|M OA4 KC
+mọc|M OA5 KC
+moem|M W E0 MZ
+moèm|M W E1 MZ
+moẻm|M W E3 MZ
+moẽm|M W E2 MZ
+moém|M W E4 MZ
+moẹm|M W E5 MZ
+moeo|M W E0 UZ
+moèo|M W E1 UZ
+moẻo|M W E3 UZ
+moẽo|M W E2 UZ
+moéo|M W E4 UZ
+moẹo|M W E5 UZ
+moi|M O0 IZ
+mòi|M O1 IZ
+mỏi|M O3 IZ
+mõi|M O2 IZ
+mói|M O4 IZ
+mọi|M O5 IZ
+mom|M O0 MZ
+mòm|M O1 MZ
+mỏm|M O3 MZ
+mõm|M O2 MZ
+móm|M O4 MZ
+mọm|M O5 MZ
+mon|M O0 NZ
+mòn|M O1 NZ
+mỏn|M O3 NZ
+mõn|M O2 NZ
+món|M O4 NZ
+mọn|M O5 NZ
+mong|M OA0 NGZ
+mòng|M OA1 NGZ
+mỏng|M OA3 NGZ
+mõng|M OA2 NGZ
+móng|M OA4 NGZ
+mọng|M OA5 NGZ
+moóc|M O4 OA4 KC
+moong|M O0 NGZ
+moòng|M O1 NGZ
+moỏng|M O3 NGZ
+moõng|M O2 NGZ
+moóng|M O4 NGZ
+moọng|M O5 NGZ
+móp|M O4 PC
+mọp|M O5 PC
+mót|M O4 TC
+mọt|M O5 TC
+mô|M OO0
+mồ|M OO1
+mổ|M OO3
+mỗ|M OO2
+mố|M OO4
+mộ|M OO5
+mốc|M OO4 KC
+mộc|M OO5 KC
+môi|M OO0 IZ
+mồi|M OO1 IZ
+mổi|M OO3 IZ
+mỗi|M OO2 IZ
+mối|M OO4 IZ
+mội|M OO5 IZ
+mồm|M OO1 MZ
+môn|M OO0 NZ
+mồn|M OO1 NZ
+mổn|M OO3 NZ
+mỗn|M OO2 NZ
+mốn|M OO4 NZ
+mộn|M OO5 NZ
+mông|M OO0 NGZ
+mồng|M OO1 NGZ
+mổng|M OO3 NGZ
+mỗng|M OO2 NGZ
+mống|M OO4 NGZ
+mộng|M OO5 NGZ
+mốp|M OO4 PC
+mốt|M OO4 TC
+một|M OO5 TC
+mơ|M OW0
+mờ|M OW1
+mở|M OW3
+mỡ|M OW2
+mớ|M OW4
+mợ|M OW5
+mớc|M OW4 KC
+mợc|M OW5 KC
+mơi|M OW0 IZ
+mời|M OW1 IZ
+mởi|M OW3 IZ
+mỡi|M OW2 IZ
+mới|M OW4 IZ
+mợi|M OW5 IZ
+mớm|M OW4 MZ
+mơn|M OW0 NZ
+mờn|M OW1 NZ
+mởn|M OW3 NZ
+mỡn|M OW2 NZ
+mớn|M OW4 NZ
+mợn|M OW5 NZ
+mớt|M OW4 TC
+mu|M U0
+mù|M U1
+mủ|M U3
+mũ|M U2
+mú|M U4
+mụ|M U5
+mua|M UO0
+mùa|M UO1
+mủa|M UO3
+mũa|M UO2
+múa|M UO4
+mụa|M UO5
+múc|M U4 KC
+mục|M U5 KC
+muen|M W E0 NZ
+mui|M U0 IZ
+mùi|M U1 IZ
+mủi|M U3 IZ
+mũi|M U2 IZ
+múi|M U4 IZ
+mụi|M U5 IZ
+mum|M U0 MZ
+mùm|M U1 MZ
+mủm|M U3 MZ
+mũm|M U2 MZ
+múm|M U4 MZ
+mụm|M U5 MZ
+mun|M U0 NZ
+mùn|M U1 NZ
+mủn|M U3 NZ
+mũn|M U2 NZ
+mún|M U4 NZ
+mụn|M U5 NZ
+mùng|M U1 NGZ
+mủng|M U3 NGZ
+muôi|M UO0 IZ
+muồi|M UO1 IZ
+muổi|M UO3 IZ
+muỗi|M UO2 IZ
+muối|M UO4 IZ
+muội|M UO5 IZ
+muỗm|M UO2 MZ
+muôn|M UO0 NZ
+muồn|M UO1 NZ
+muổn|M UO3 NZ
+muỗn|M UO2 NZ
+muốn|M UO4 NZ
+muộn|M UO5 NZ
+muông|M UO0 NGZ
+muồng|M UO1 NGZ
+muổng|M UO3 NGZ
+muỗng|M UO2 NGZ
+muống|M UO4 NGZ
+muộng|M UO5 NGZ
+muốt|M UO4 TC
+múp|M U4 PC
+mút|M U4 TC
+muynh|M W I0 NGZ
+muỳnh|M W I1 NGZ
+muỷnh|M W I3 NGZ
+muỹnh|M W I2 NGZ
+muýnh|M W I4 NGZ
+muỵnh|M W I5 NGZ
+muyp|M W I4 PC
+muýp|M W I4 PC
+muỵp|M W I5 PC
+muyt|M W I4 TC
+muýt|M W I4 TC
+muỵt|M W I4 TC
+muyu|M W I0 UZ
+muỳu|M W I1 UZ
+muỷu|M W I3 UZ
+muỹu|M W I2 UZ
+muýu|M W I4 UZ
+muỵu|M W I5 UZ
+mư|M UW0
+mừ|M UW1
+mử|M UW3
+mữ|M UW2
+mứ|M UW4
+mự|M UW5
+mưa|M WA0
+mừa|M WA1
+mửa|M WA3
+mữa|M WA2
+mứa|M WA4
+mựa|M WA5
+mức|M UW4 KC
+mực|M UW5 KC
+mưm|M UW0 MZ
+mừm|M UW1 MZ
+mửm|M UW3 MZ
+mữm|M UW2 MZ
+mứm|M UW4 MZ
+mựm|M UW5 MZ
+mừn|M UW1 NZ
+mưng|M UW0 NGZ
+mừng|M UW1 NGZ
+mửng|M UW3 NGZ
+mững|M UW2 NGZ
+mứng|M UW4 NGZ
+mựng|M UW5 NGZ
+mươi|M WA0 IZ
+mười|M WA1 IZ
+mưởi|M WA3 IZ
+mưỡi|M WA2 IZ
+mưới|M WA4 IZ
+mượi|M WA5 IZ
+mướn|M WA4 NZ
+mượn|M WA5 NZ
+mương|M WA0 NGZ
+mường|M WA1 NGZ
+mưởng|M WA3 NGZ
+mưỡng|M WA2 NGZ
+mướng|M WA4 NGZ
+mượng|M WA5 NGZ
+mướp|M WA4 PC
+mướt|M WA4 TC
+mượt|M WA5 TC
+mứt|M UW4 TC
+mưu|M UW0 UZ
+mừu|M UW1 UZ
+mửu|M UW3 UZ
+mữu|M UW2 UZ
+mứu|M UW4 UZ
+mựu|M UW5 UZ
+my|M I0
+mỳ|M I1
+mỷ|M I3
+mỹ|M I2
+mý|M I4
+mỵ|M I5
+n|NZ
+na|N A0
+nà|N A1
+nả|N A3
+nã|N A2
+ná|N A4
+nạ|N A5
+nác|N A4 KC
+nạc|N A5 KC
+nách|N EA4 KC
+nai|N A0 IZ
+nài|N A1 IZ
+nải|N A3 IZ
+nãi|N A2 IZ
+nái|N A4 IZ
+nại|N A5 IZ
+nam|N A0 MZ
+nàm|N A1 MZ
+nảm|N A3 MZ
+nãm|N A2 MZ
+nám|N A4 MZ
+nạm|N A5 MZ
+nan|N A0 NZ
+nàn|N A1 NZ
+nản|N A3 NZ
+nãn|N A2 NZ
+nán|N A4 NZ
+nạn|N A5 NZ
+nang|N A0 NGZ
+nàng|N A1 NGZ
+nảng|N A3 NGZ
+nãng|N A2 NGZ
+náng|N A4 NGZ
+nạng|N A5 NGZ
+nanh|N EA0 NGZ
+nành|N EA1 NGZ
+nảnh|N EA3 NGZ
+nãnh|N EA2 NGZ
+nánh|N EA4 NGZ
+nạnh|N EA5 NGZ
+nao|N A0 UZ
+nào|N A1 UZ
+nảo|N A3 UZ
+não|N A2 UZ
+náo|N A4 UZ
+nạo|N A5 UZ
+náp|N A4 PC
+nạp|N A5 PC
+nát|N A4 TC
+nạt|N A5 TC
+nau|N AW0 UZ
+nàu|N AW1 UZ
+nảu|N AW3 UZ
+nãu|N AW2 UZ
+náu|N AW4 UZ
+nạu|N AW5 UZ
+nay|N AW0 IZ
+này|N AW1 IZ
+nảy|N AW3 IZ
+nãy|N AW2 IZ
+náy|N AW4 IZ
+nạy|N AW5 IZ
+nắc|N AW4 KC
+nặc|N AW5 KC
+năm|N AW0 MZ
+nằm|N AW1 MZ
+nẳm|N AW3 MZ
+nẵm|N AW2 MZ
+nắm|N AW4 MZ
+nặm|N AW5 MZ
+năn|N AW0 NZ
+nằn|N AW1 NZ
+nẳn|N AW3 NZ
+nẵn|N AW2 NZ
+nắn|N AW4 NZ
+nặn|N AW5 NZ
+năng|N AW0 NGZ
+nằng|N AW1 NGZ
+nẳng|N AW3 NGZ
+nẵng|N AW2 NGZ
+nắng|N AW4 NGZ
+nặng|N AW5 NGZ
+nắp|N AW4 PC
+năt|N AW4 TC
+nắt|N AW4 TC
+nặt|N AW5 TC
+nấc|N AA4 KC
+nầm|N AA1 MZ
+nấm|N AA4 MZ
+nậm|N AA5 MZ
+nần|N AA1 NZ
+nấn|N AA4 NZ
+nâng|N AA0 NGZ
+nầng|N AA1 NGZ
+nẩng|N AA3 NGZ
+nẫng|N AA2 NGZ
+nấng|N AA4 NGZ
+nậng|N AA5 NGZ
+nấp|N AA4 PC
+nập|N AA5 PC
+nâu|N AA0 UZ
+nầu|N AA1 UZ
+nẩu|N AA3 UZ
+nẫu|N AA2 UZ
+nấu|N AA4 UZ
+nậu|N AA5 UZ
+nây|N AA0 IZ
+nầy|N AA1 IZ
+nẩy|N AA3 IZ
+nẫy|N AA2 IZ
+nấy|N AA4 IZ
+nậy|N AA5 IZ
+ne|N E0
+nè|N E1
+nẻ|N E3
+nẽ|N E2
+né|N E4
+nẹ|N E5
+nem|N E0 MZ
+nèm|N E1 MZ
+nẻm|N E3 MZ
+nẽm|N E2 MZ
+ném|N E4 MZ
+nẹm|N E5 MZ
+nen|N E0 NZ
+nèn|N E1 NZ
+nẻn|N E3 NZ
+nẽn|N E2 NZ
+nén|N E4 NZ
+nẹn|N E5 NZ
+neo|N E0 UZ
+nèo|N E1 UZ
+nẻo|N E3 UZ
+nẽo|N E2 UZ
+néo|N E4 UZ
+nẹo|N E5 UZ
+nép|N E4 PC
+nẹp|N E5 PC
+nét|N E4 TC
+nẹt|N E5 TC
+nê|N EE0
+nề|N EE1
+nể|N EE3
+nễ|N EE2
+nế|N EE4
+nệ|N EE5
+nếch|N EE4 KC
+nêm|N EE0 MZ
+nềm|N EE1 MZ
+nểm|N EE3 MZ
+nễm|N EE2 MZ
+nếm|N EE4 MZ
+nệm|N EE5 MZ
+nên|N EE0 NZ
+nền|N EE1 NZ
+nển|N EE3 NZ
+nễn|N EE2 NZ
+nến|N EE4 NZ
+nện|N EE5 NZ
+nếp|N EE4 PC
+nết|N EE4 TC
+nêu|N EE0 UZ
+nều|N EE1 UZ
+nểu|N EE3 UZ
+nễu|N EE2 UZ
+nếu|N EE4 UZ
+nệu|N EE5 UZ
+nêy|N EE0 IZ
+nga|NG A0
+ngà|NG A1
+ngả|NG A3
+ngã|NG A2
+ngá|NG A4
+ngạ|NG A5
+ngác|NG A4 KC
+ngạc|NG A5 KC
+ngách|NG EA4 KC
+ngạch|NG EA5 KC
+ngai|NG A0 IZ
+ngài|NG A1 IZ
+ngải|NG A3 IZ
+ngãi|NG A2 IZ
+ngái|NG A4 IZ
+ngại|NG A5 IZ
+ngan|NG A0 NZ
+ngàn|NG A1 NZ
+ngản|NG A3 NZ
+ngãn|NG A2 NZ
+ngán|NG A4 NZ
+ngạn|NG A5 NZ
+ngang|NG A0 NGZ
+ngàng|NG A1 NGZ
+ngảng|NG A3 NGZ
+ngãng|NG A2 NGZ
+ngáng|NG A4 NGZ
+ngạng|NG A5 NGZ
+ngành|NG EA1 NGZ
+ngạnh|NG EA5 NGZ
+ngao|NG A0 UZ
+ngào|NG A1 UZ
+ngảo|NG A3 UZ
+ngão|NG A2 UZ
+ngáo|NG A4 UZ
+ngạo|NG A5 UZ
+ngáp|NG A4 PC
+ngát|NG A4 TC
+ngạt|NG A5 TC
+ngay|NG AW0 IZ
+ngày|NG AW1 IZ
+ngảy|NG AW3 IZ
+ngãy|NG AW2 IZ
+ngáy|NG AW4 IZ
+ngạy|NG AW5 IZ
+ngắc|NG AW4 KC
+ngăm|NG AW0 MZ
+ngằm|NG AW1 MZ
+ngẳm|NG AW3 MZ
+ngẵm|NG AW2 MZ
+ngắm|NG AW4 MZ
+ngặm|NG AW5 MZ
+ngăn|NG AW0 NZ
+ngằn|NG AW1 NZ
+ngẳn|NG AW3 NZ
+ngẵn|NG AW2 NZ
+ngắn|NG AW4 NZ
+ngặn|NG AW5 NZ
+ngắt|NG AW4 TC
+ngặt|NG AW5 TC
+ngâm|NG AA0 MZ
+ngầm|NG AA1 MZ
+ngẩm|NG AA3 MZ
+ngẫm|NG AA2 MZ
+ngấm|NG AA4 MZ
+ngậm|NG AA5 MZ
+ngân|NG AA0 NZ
+ngần|NG AA1 NZ
+ngẩn|NG AA3 NZ
+ngẫn|NG AA2 NZ
+ngấn|NG AA4 NZ
+ngận|NG AA5 NZ
+ngẩng|NG AA3 NGZ
+ngấp|NG AA4 PC
+ngập|NG AA5 PC
+ngất|NG AA4 TC
+ngầu|NG AA1 UZ
+ngẫu|NG AA2 UZ
+ngấu|NG AA4 UZ
+ngây|NG AA0 IZ
+ngầy|NG AA1 IZ
+ngẩy|NG AA3 IZ
+ngẫy|NG AA2 IZ
+ngấy|NG AA4 IZ
+ngậy|NG AA5 IZ
+nghe|NG E0
+nghè|NG E1
+nghẻ|NG E3
+nghẽ|NG E2
+nghé|NG E4
+nghẹ|NG E5
+nghen|NG E0 NZ
+nghèn|NG E1 NZ
+nghẻn|NG E3 NZ
+nghẽn|NG E2 NZ
+nghén|NG E4 NZ
+nghẹn|NG E5 NZ
+nghèo|NG E1 UZ
+nghẽo|NG E2 UZ
+nghẹo|NG E5 UZ
+nghét|NG E4 TC
+nghẹt|NG E5 TC
+nghê|NG EE0
+nghề|NG EE1
+nghể|NG EE3
+nghễ|NG EE2
+nghế|NG EE4
+nghệ|NG EE5
+nghếch|NG EE4 KC
+nghệch|NG EE5 KC
+nghển|NG EE3 NZ
+nghênh|NG EE0 NGZ
+nghềnh|NG EE1 NGZ
+nghểnh|NG EE3 NGZ
+nghễnh|NG EE2 NGZ
+nghếnh|NG EE4 NGZ
+nghệnh|NG EE5 NGZ
+nghệt|NG EE5 TC
+nghêu|NG EE0 UZ
+nghều|NG EE1 UZ
+nghểu|NG EE3 UZ
+nghễu|NG EE2 UZ
+nghếu|NG EE4 UZ
+nghệu|NG EE5 UZ
+nghi|NG I0
+nghì|NG I1
+nghỉ|NG I3
+nghĩ|NG I2
+nghí|NG I4
+nghị|NG I5
+nghia|NG IE0
+nghìa|NG IE1
+nghỉa|NG IE3
+nghĩa|NG IE2
+nghía|NG IE4
+nghịa|NG IE5
+nghịch|NG I5 KC
+nghiêm|NG IE0 MZ
+nghiềm|NG IE1 MZ
+nghiểm|NG IE3 MZ
+nghiễm|NG IE2 MZ
+nghiếm|NG IE4 MZ
+nghiệm|NG IE5 MZ
+nghiên|NG IE0 NZ
+nghiền|NG IE1 NZ
+nghiển|NG IE3 NZ
+nghiễn|NG IE2 NZ
+nghiến|NG IE4 NZ
+nghiện|NG IE5 NZ
+nghiêng|NG IE0 NGZ
+nghiềng|NG IE1 NGZ
+nghiểng|NG IE3 NGZ
+nghiễng|NG IE2 NGZ
+nghiếng|NG IE4 NGZ
+nghiệng|NG IE5 NGZ
+nghiệp|NG IE5 PC
+nghiệt|NG IE5 TC
+nghỉm|NG I3 MZ
+nghìn|NG I1 NZ
+nghinh|NG I0 NGZ
+nghình|NG I1 NGZ
+nghỉnh|NG I3 NGZ
+nghĩnh|NG I2 NGZ
+nghính|NG I4 NGZ
+nghịnh|NG I5 NGZ
+nghịt|NG I5 TC
+nghỉu|NG I3 UZ
+nghịu|NG I5 UZ
+nghoeo|NG W E0 UZ
+ngo|NG O0
+ngò|NG O1
+ngỏ|NG O3
+ngõ|NG O2
+ngó|NG O4
+ngọ|NG O5
+ngoa|NG W A0
+ngòa|NG W A1
+ngỏa|NG W A3
+ngõa|NG W A2
+ngóa|NG W A4
+ngọa|NG W A5
+ngoác|NG W A4 KC
+ngoạc|NG W A5 KC
+ngóac|NG W A4 KC
+ngọac|NG W A5 KC
+ngoai|NG W A0 IZ
+ngoài|NG W A1 IZ
+ngoải|NG W A3 IZ
+ngoãi|NG W A2 IZ
+ngoái|NG W A4 IZ
+ngoại|NG W A5 IZ
+ngòai|NG W A1 IZ
+ngỏai|NG W A3 IZ
+ngóai|NG W A4 IZ
+ngọai|NG W A5 IZ
+ngoàm|NG W A1 MZ
+ngoạm|NG W A5 MZ
+ngọam|NG W A5 MZ
+ngoan|NG W A0 NZ
+ngoàn|NG W A1 NZ
+ngoản|NG W A3 NZ
+ngoãn|NG W A2 NZ
+ngoán|NG W A4 NZ
+ngoạn|NG W A5 NZ
+ngõan|NG W A2 NZ
+ngọan|NG W A5 NZ
+ngoảnh|NG W EA3 NGZ
+ngỏanh|NG W EA3 NGZ
+ngoáp|NG W A4 PC
+ngoảy|NG W AW3 IZ
+ngoáy|NG W AW4 IZ
+ngỏay|NG W AW3 IZ
+ngóay|NG W AW4 IZ
+ngoắc|NG W AW4 KC
+ngoặc|NG W AW5 KC
+ngoằn|NG W AW1 NZ
+ngoằng|NG W AW1 NGZ
+ngoẵng|NG W AW2 NGZ
+ngoắt|NG W AW4 TC
+ngoặt|NG W AW5 TC
+ngóc|NG OA4 KC
+ngọc|NG OA5 KC
+ngoe|NG W E0
+ngòe|NG W E1
+ngỏe|NG W E3
+ngõe|NG W E2
+ngóe|NG W E4
+ngọe|NG W E5
+ngoem|NG W E0 MZ
+ngoèm|NG W E1 MZ
+ngoẻm|NG W E3 MZ
+ngoẽm|NG W E2 MZ
+ngoém|NG W E4 MZ
+ngoẹm|NG W E5 MZ
+ngoeo|NG W E0 UZ
+ngoèo|NG W E1 UZ
+ngoẻo|NG W E3 UZ
+ngoẽo|NG W E2 UZ
+ngoéo|NG W E4 UZ
+ngoẹo|NG W E5 UZ
+ngòeo|NG W E1 UZ
+ngỏeo|NG W E3 UZ
+ngóeo|NG W E4 UZ
+ngọeo|NG W E5 UZ
+ngoét|NG W E4 TC
+ngóet|NG W E4 TC
+ngoi|NG O0 IZ
+ngòi|NG O1 IZ
+ngỏi|NG O3 IZ
+ngõi|NG O2 IZ
+ngói|NG O4 IZ
+ngọi|NG O5 IZ
+ngòm|NG O1 MZ
+ngóm|NG O4 MZ
+ngon|NG O0 NZ
+ngòn|NG O1 NZ
+ngỏn|NG O3 NZ
+ngõn|NG O2 NZ
+ngón|NG O4 NZ
+ngọn|NG O5 NZ
+ngong|NG OA0 NGZ
+ngòng|NG OA1 NGZ
+ngỏng|NG OA3 NGZ
+ngõng|NG OA2 NGZ
+ngóng|NG OA4 NGZ
+ngọng|NG OA5 NGZ
+ngoong|NG O0 NGZ
+ngoòng|NG O1 NGZ
+ngoỏng|NG O3 NGZ
+ngoõng|NG O2 NGZ
+ngoóng|NG O4 NGZ
+ngoọng|NG O5 NGZ
+ngóp|NG O4 PC
+ngót|NG O4 TC
+ngọt|NG O5 TC
+ngô|NG OO0
+ngồ|NG OO1
+ngổ|NG OO3
+ngỗ|NG OO2
+ngố|NG OO4
+ngộ|NG OO5
+ngốc|NG OO4 KC
+ngôi|NG OO0 IZ
+ngồi|NG OO1 IZ
+ngổi|NG OO3 IZ
+ngỗi|NG OO2 IZ
+ngối|NG OO4 IZ
+ngội|NG OO5 IZ
+ngồm|NG OO1 MZ
+ngổm|NG OO3 MZ
+ngôn|NG OO0 NZ
+ngồn|NG OO1 NZ
+ngổn|NG OO3 NZ
+ngỗn|NG OO2 NZ
+ngốn|NG OO4 NZ
+ngộn|NG OO5 NZ
+ngông|NG OO0 NGZ
+ngồng|NG OO1 NGZ
+ngổng|NG OO3 NGZ
+ngỗng|NG OO2 NGZ
+ngống|NG OO4 NGZ
+ngộng|NG OO5 NGZ
+ngộp|NG OO5 PC
+ngột|NG OO5 TC
+ngơ|NG OW0
+ngờ|NG OW1
+ngở|NG OW3
+ngỡ|NG OW2
+ngớ|NG OW4
+ngợ|NG OW5
+ngơi|NG OW0 IZ
+ngời|NG OW1 IZ
+ngởi|NG OW3 IZ
+ngỡi|NG OW2 IZ
+ngới|NG OW4 IZ
+ngợi|NG OW5 IZ
+ngờm|NG OW1 MZ
+ngợm|NG OW5 MZ
+ngợp|NG OW5 PC
+ngớt|NG OW4 TC
+ngu|NG U0
+ngù|NG U1
+ngủ|NG U3
+ngũ|NG U2
+ngú|NG U4
+ngụ|NG U5
+nguẩy|NG W AA3 IZ
+nguậy|NG W AA5 IZ
+ngúc|NG U4 KC
+ngục|NG U5 KC
+nguệch|NG W EE5 KC
+ngùi|NG U1 IZ
+ngủi|NG U3 IZ
+ngụm|NG U5 MZ
+ngùn|NG U1 NZ
+ngủn|NG U3 NZ
+ngùng|NG U1 NGZ
+ngúng|NG U4 NGZ
+nguôi|NG UO0 IZ
+nguồi|NG UO1 IZ
+nguổi|NG UO3 IZ
+nguỗi|NG UO2 IZ
+nguối|NG UO4 IZ
+nguội|NG UO5 IZ
+nguồn|NG UO1 NZ
+ngụp|NG U5 PC
+ngút|NG U4 TC
+ngụt|NG U5 TC
+nguy|NG W I0
+nguỵ|NG W I5
+ngùy|NG W I1
+ngủy|NG W I3
+ngũy|NG W I2
+ngúy|NG W I4
+ngụy|NG W I5
+nguyên|NG W IE0 NZ
+nguyền|NG W IE1 NZ
+nguyển|NG W IE3 NZ
+nguyễn|NG W IE2 NZ
+nguyến|NG W IE4 NZ
+nguyện|NG W IE5 NZ
+nguyệt|NG W IE5 TC
+nguynh|NG W I0 NGZ
+nguỳnh|NG W I1 NGZ
+nguỷnh|NG W I3 NGZ
+nguỹnh|NG W I2 NGZ
+nguýnh|NG W I4 NGZ
+nguỵnh|NG W I5 NGZ
+nguyp|NG W I4 PC
+nguýp|NG W I4 PC
+nguỵp|NG W I5 PC
+nguyt|NG W I4 TC
+nguýt|NG W I4 TC
+nguỵt|NG W I5 TC
+ngúyt|NG W I4 TC
+nguyu|NG W I0 UZ
+nguỳu|NG W I1 UZ
+nguỷu|NG W I3 UZ
+nguỹu|NG W I2 UZ
+nguýu|NG W I4 UZ
+nguỵu|NG W I5 UZ
+ngư|NG UW0
+ngừ|NG UW1
+ngử|NG UW3
+ngữ|NG UW2
+ngứ|NG UW4
+ngự|NG UW5
+ngừa|NG WA1
+ngửa|NG WA3
+ngứa|NG WA4
+ngựa|NG WA5
+ngực|NG UW5 KC
+ngửi|NG UW3 IZ
+ngưng|NG UW0 NGZ
+ngừng|NG UW1 NGZ
+ngửng|NG UW3 NGZ
+ngững|NG UW2 NGZ
+ngứng|NG UW4 NGZ
+ngựng|NG UW5 NGZ
+ngước|NG WA4 KC
+ngược|NG WA5 KC
+ngươi|NG WA0 IZ
+người|NG WA1 IZ
+ngưởi|NG WA3 IZ
+ngưỡi|NG WA2 IZ
+ngưới|NG WA4 IZ
+ngượi|NG WA5 IZ
+ngường|NG WA1 NGZ
+ngưởng|NG WA3 NGZ
+ngưỡng|NG WA2 NGZ
+ngượng|NG WA5 NGZ
+ngưu|NG UW0 UZ
+ngừu|NG UW1 UZ
+ngửu|NG UW3 UZ
+ngữu|NG UW2 UZ
+ngứu|NG UW4 UZ
+ngựu|NG UW5 UZ
+nha|NH A0
+nhà|NH A1
+nhả|NH A3
+nhã|NH A2
+nhá|NH A4
+nhạ|NH A5
+nhác|NH A4 KC
+nhạc|NH A5 KC
+nhách|NH EA4 KC
+nhai|NH A0 IZ
+nhài|NH A1 IZ
+nhải|NH A3 IZ
+nhãi|NH A2 IZ
+nhái|NH A4 IZ
+nhại|NH A5 IZ
+nham|NH A0 MZ
+nhàm|NH A1 MZ
+nhảm|NH A3 MZ
+nhãm|NH A2 MZ
+nhám|NH A4 MZ
+nhạm|NH A5 MZ
+nhan|NH A0 NZ
+nhàn|NH A1 NZ
+nhản|NH A3 NZ
+nhãn|NH A2 NZ
+nhán|NH A4 NZ
+nhạn|NH A5 NZ
+nhang|NH A0 NGZ
+nhàng|NH A1 NGZ
+nhảng|NH A3 NGZ
+nhãng|NH A2 NGZ
+nháng|NH A4 NGZ
+nhạng|NH A5 NGZ
+nhanh|NH EA0 NGZ
+nhành|NH EA1 NGZ
+nhảnh|NH EA3 NGZ
+nhãnh|NH EA2 NGZ
+nhánh|NH EA4 NGZ
+nhạnh|NH EA5 NGZ
+nhao|NH A0 UZ
+nhào|NH A1 UZ
+nhảo|NH A3 UZ
+nhão|NH A2 UZ
+nháo|NH A4 UZ
+nhạo|NH A5 UZ
+nháp|NH A4 PC
+nhát|NH A4 TC
+nhạt|NH A5 TC
+nhau|NH AW0 UZ
+nhàu|NH AW1 UZ
+nhảu|NH AW3 UZ
+nhãu|NH AW2 UZ
+nháu|NH AW4 UZ
+nhạu|NH AW5 UZ
+nhay|NH AW0 IZ
+nhày|NH AW1 IZ
+nhảy|NH AW3 IZ
+nhãy|NH AW2 IZ
+nháy|NH AW4 IZ
+nhạy|NH AW5 IZ
+nhắc|NH AW4 KC
+nhăm|NH AW0 MZ
+nhằm|NH AW1 MZ
+nhẳm|NH AW3 MZ
+nhẵm|NH AW2 MZ
+nhắm|NH AW4 MZ
+nhặm|NH AW5 MZ
+nhăn|NH AW0 NZ
+nhằn|NH AW1 NZ
+nhẳn|NH AW3 NZ
+nhẵn|NH AW2 NZ
+nhắn|NH AW4 NZ
+nhặn|NH AW5 NZ
+nhăng|NH AW0 NGZ
+nhằng|NH AW1 NGZ
+nhẳng|NH AW3 NGZ
+nhẵng|NH AW2 NGZ
+nhắng|NH AW4 NGZ
+nhặng|NH AW5 NGZ
+nhắt|NH AW4 TC
+nhặt|NH AW5 TC
+nhấc|NH AA4 KC
+nhâm|NH AA0 MZ
+nhầm|NH AA1 MZ
+nhẩm|NH AA3 MZ
+nhẫm|NH AA2 MZ
+nhấm|NH AA4 MZ
+nhậm|NH AA5 MZ
+nhân|NH AA0 NZ
+nhần|NH AA1 NZ
+nhẩn|NH AA3 NZ
+nhẫn|NH AA2 NZ
+nhấn|NH AA4 NZ
+nhận|NH AA5 NZ
+nhấp|NH AA4 PC
+nhập|NH AA5 PC
+nhất|NH AA4 TC
+nhật|NH AA5 TC
+nhẩu|NH AA3 UZ
+nhậu|NH AA5 UZ
+nhầy|NH AA1 IZ
+nhẩy|NH AA3 IZ
+nhẫy|NH AA2 IZ
+nhậy|NH AA5 IZ
+nhe|NH E0
+nhè|NH E1
+nhẻ|NH E3
+nhẽ|NH E2
+nhé|NH E4
+nhẹ|NH E5
+nhem|NH E0 MZ
+nhèm|NH E1 MZ
+nhẻm|NH E3 MZ
+nhẽm|NH E2 MZ
+nhém|NH E4 MZ
+nhẹm|NH E5 MZ
+nhen|NH E0 NZ
+nhèn|NH E1 NZ
+nhẻn|NH E3 NZ
+nhẽn|NH E2 NZ
+nhén|NH E4 NZ
+nhẹn|NH E5 NZ
+nheo|NH E0 UZ
+nhèo|NH E1 UZ
+nhẻo|NH E3 UZ
+nhẽo|NH E2 UZ
+nhéo|NH E4 UZ
+nhẹo|NH E5 UZ
+nhép|NH E4 PC
+nhét|NH E4 TC
+nhẹt|NH E5 TC
+nhễ|NH EE2
+nhếch|NH EE4 KC
+nhện|NH EE5 NZ
+nhi|NH I0
+nhì|NH I1
+nhỉ|NH I3
+nhĩ|NH I2
+nhí|NH I4
+nhị|NH I5
+nhích|NH I4 KC
+nhiếc|NH IE4 KC
+nhiễm|NH IE2 MZ
+nhiệm|NH IE5 MZ
+nhiên|NH IE0 NZ
+nhiền|NH IE1 NZ
+nhiển|NH IE3 NZ
+nhiễn|NH IE2 NZ
+nhiến|NH IE4 NZ
+nhiện|NH IE5 NZ
+nhiếp|NH IE4 PC
+nhiệt|NH IE5 TC
+nhiêu|NH IE0 UZ
+nhiều|NH IE1 UZ
+nhiểu|NH IE3 UZ
+nhiễu|NH IE2 UZ
+nhiếu|NH IE4 UZ
+nhiệu|NH IE5 UZ
+nhím|NH I4 MZ
+nhìn|NH I1 NZ
+nhịn|NH I5 NZ
+nhỉnh|NH I3 NGZ
+nhíp|NH I4 PC
+nhịp|NH I5 PC
+nhịt|NH I5 TC
+nhíu|NH I4 UZ
+nhịu|NH I5 UZ
+nho|NH O0
+nhò|NH O1
+nhỏ|NH O3
+nhõ|NH O2
+nhó|NH O4
+nhọ|NH O5
+nhoà|NH W A1
+nhòa|NH W A1
+nhoài|NH W A1 IZ
+nhòai|NH W A1 IZ
+nhoàm|NH W A1 MZ
+nhòam|NH W A1 MZ
+nhoáng|NH W A4 NGZ
+nhoạng|NH W A5 NGZ
+nhóang|NH W A4 NGZ
+nhọang|NH W A5 NGZ
+nhoay|NH W AW0 IZ
+nhoày|NH W AW1 IZ
+nhoảy|NH W AW3 IZ
+nhoãy|NH W AW2 IZ
+nhoáy|NH W AW4 IZ
+nhoạy|NH W AW5 IZ
+nhóay|NH W AW4 IZ
+nhóc|NH OA4 KC
+nhọc|NH OA5 KC
+nhoè|NH W E1
+nhòe|NH W E1
+nhoem|NH W E0 MZ
+nhoèm|NH W E1 MZ
+nhoẻm|NH W E3 MZ
+nhoẽm|NH W E2 MZ
+nhoém|NH W E4 MZ
+nhoẹm|NH W E5 MZ
+nhoèn|NH W E1 NZ
+nhoẻn|NH W E3 NZ
+nhòen|NH W E1 NZ
+nhỏen|NH W E3 NZ
+nhoeo|NH W E0 UZ
+nhoèo|NH W E1 UZ
+nhoẻo|NH W E3 UZ
+nhoẽo|NH W E2 UZ
+nhoéo|NH W E4 UZ
+nhoẹo|NH W E5 UZ
+nhoẹt|NH W E5 TC
+nhọet|NH W E5 TC
+nhoi|NH O0 IZ
+nhòi|NH O1 IZ
+nhỏi|NH O3 IZ
+nhõi|NH O2 IZ
+nhói|NH O4 IZ
+nhọi|NH O5 IZ
+nhom|NH O0 MZ
+nhòm|NH O1 MZ
+nhỏm|NH O3 MZ
+nhõm|NH O2 MZ
+nhóm|NH O4 MZ
+nhọm|NH O5 MZ
+nhon|NH O0 NZ
+nhòn|NH O1 NZ
+nhỏn|NH O3 NZ
+nhõn|NH O2 NZ
+nhón|NH O4 NZ
+nhọn|NH O5 NZ
+nhong|NH OA0 NGZ
+nhòng|NH OA1 NGZ
+nhỏng|NH OA3 NGZ
+nhõng|NH OA2 NGZ
+nhóng|NH OA4 NGZ
+nhọng|NH OA5 NGZ
+nhoong|NH O0 NGZ
+nhoòng|NH O1 NGZ
+nhoỏng|NH O3 NGZ
+nhoõng|NH O2 NGZ
+nhoóng|NH O4 NGZ
+nhoọng|NH O5 NGZ
+nhót|NH O4 TC
+nhọt|NH O5 TC
+nhô|NH OO0
+nhồ|NH OO1
+nhổ|NH OO3
+nhỗ|NH OO2
+nhố|NH OO4
+nhộ|NH OO5
+nhồi|NH OO1 IZ
+nhối|NH OO4 IZ
+nhôm|NH OO0 MZ
+nhồm|NH OO1 MZ
+nhổm|NH OO3 MZ
+nhỗm|NH OO2 MZ
+nhốm|NH OO4 MZ
+nhộm|NH OO5 MZ
+nhồn|NH OO1 NZ
+nhổn|NH OO3 NZ
+nhốn|NH OO4 NZ
+nhộn|NH OO5 NZ
+nhông|NH OO0 NGZ
+nhồng|NH OO1 NGZ
+nhổng|NH OO3 NGZ
+nhỗng|NH OO2 NGZ
+nhống|NH OO4 NGZ
+nhộng|NH OO5 NGZ
+nhốt|NH OO4 TC
+nhột|NH OO5 TC
+nhơ|NH OW0
+nhờ|NH OW1
+nhở|NH OW3
+nhỡ|NH OW2
+nhớ|NH OW4
+nhợ|NH OW5
+nhơi|NH OW0 IZ
+nhời|NH OW1 IZ
+nhởi|NH OW3 IZ
+nhỡi|NH OW2 IZ
+nhới|NH OW4 IZ
+nhợi|NH OW5 IZ
+nhơm|NH OW0 MZ
+nhờm|NH OW1 MZ
+nhởm|NH OW3 MZ
+nhỡm|NH OW2 MZ
+nhớm|NH OW4 MZ
+nhợm|NH OW5 MZ
+nhơn|NH OW0 NZ
+nhờn|NH OW1 NZ
+nhởn|NH OW3 NZ
+nhỡn|NH OW2 NZ
+nhớn|NH OW4 NZ
+nhợn|NH OW5 NZ
+nhớp|NH OW4 PC
+nhớt|NH OW4 TC
+nhợt|NH OW5 TC
+nhu|NH U0
+nhù|NH U1
+nhủ|NH U3
+nhũ|NH U2
+nhú|NH U4
+nhụ|NH U5
+nhúa|NH UO4
+nhụa|NH UO5
+nhuần|NH W AA1 NZ
+nhuận|NH W AA5 NZ
+nhúc|NH U4 KC
+nhục|NH U5 KC
+nhuế|NH W EE4
+nhuệ|NH W EE5
+nhùi|NH U1 IZ
+nhủi|NH U3 IZ
+nhụi|NH U5 IZ
+nhùm|NH U1 MZ
+nhúm|NH U4 MZ
+nhũn|NH U2 NZ
+nhún|NH U4 NZ
+nhung|NH U0 NGZ
+nhùng|NH U1 NGZ
+nhủng|NH U3 NGZ
+nhũng|NH U2 NGZ
+nhúng|NH U4 NGZ
+nhụng|NH U5 NGZ
+nhuốc|NH UO4 KC
+nhuôi|NH UO0 IZ
+nhuồi|NH UO1 IZ
+nhuổi|NH UO3 IZ
+nhuỗi|NH UO2 IZ
+nhuối|NH UO4 IZ
+nhuội|NH UO5 IZ
+nhuốm|NH UO4 MZ
+nhuộm|NH UO5 MZ
+nhút|NH U4 TC
+nhụt|NH U5 TC
+nhuỵ|NH W I5
+nhụy|NH W I5
+nhuyễn|NH W IE2 NZ
+nhuynh|NH W I0 NGZ
+nhuỳnh|NH W I1 NGZ
+nhuỷnh|NH W I3 NGZ
+nhuỹnh|NH W I2 NGZ
+nhuýnh|NH W I4 NGZ
+nhuỵnh|NH W I5 NGZ
+nhuyp|NH W I4 PC
+nhuýp|NH W I4 PC
+nhuỵp|NH W I5 PC
+nhuyt|NH W I4 TC
+nhuýt|NH W I4 TC
+nhuyu|NH W I0 UZ
+nhuỳu|NH W I1 UZ
+nhuỷu|NH W I3 UZ
+nhuỹu|NH W I2 UZ
+nhuýu|NH W I4 UZ
+nhuỵu|NH W I5 UZ
+như|NH UW0
+nhừ|NH UW1
+nhử|NH UW3
+nhữ|NH UW2
+nhứ|NH UW4
+nhự|NH UW5
+nhừa|NH WA1
+nhựa|NH WA5
+nhức|NH UW4 KC
+nhưng|NH UW0 NGZ
+nhừng|NH UW1 NGZ
+nhửng|NH UW3 NGZ
+những|NH UW2 NGZ
+nhứng|NH UW4 NGZ
+nhựng|NH UW5 NGZ
+nhược|NH WA5 KC
+nhướn|NH WA4 NZ
+nhương|NH WA0 NGZ
+nhường|NH WA1 NGZ
+nhưởng|NH WA3 NGZ
+nhưỡng|NH WA2 NGZ
+nhướng|NH WA4 NGZ
+nhượng|NH WA5 NGZ
+nhứt|NH UW4 TC
+nhựt|NH UW5 TC
+ni|N I0
+nì|N I1
+nỉ|N I3
+nĩ|N I2
+ní|N I4
+nị|N I5
+nia|N IE0
+nìa|N IE1
+nỉa|N IE3
+nĩa|N IE2
+nía|N IE4
+nịa|N IE5
+níc|N I4 KC
+ních|N I4 KC
+nịch|N I5 KC
+niêm|N IE0 MZ
+niềm|N IE1 MZ
+niểm|N IE3 MZ
+niễm|N IE2 MZ
+niếm|N IE4 MZ
+niệm|N IE5 MZ
+niên|N IE0 NZ
+niền|N IE1 NZ
+niển|N IE3 NZ
+niễn|N IE2 NZ
+niến|N IE4 NZ
+niện|N IE5 NZ
+niềng|N IE1 NGZ
+niễng|N IE2 NGZ
+niêp|N IE4 PC
+niếp|N IE4 PC
+niệp|N IE5 PC
+niết|N IE4 TC
+niêu|N IE0 UZ
+niều|N IE1 UZ
+niểu|N IE3 UZ
+niễu|N IE2 UZ
+niếu|N IE4 UZ
+niệu|N IE5 UZ
+nim|N I0 MZ
+nìm|N I1 MZ
+nỉm|N I3 MZ
+nĩm|N I2 MZ
+ním|N I4 MZ
+nịm|N I5 MZ
+nin|N I0 NZ
+nìn|N I1 NZ
+nỉn|N I3 NZ
+nĩn|N I2 NZ
+nín|N I4 NZ
+nịn|N I5 NZ
+ning|N I0 NGZ
+ninh|N I0 NGZ
+nình|N I1 NGZ
+nỉnh|N I3 NGZ
+nĩnh|N I2 NGZ
+nính|N I4 NGZ
+nịnh|N I5 NGZ
+níp|N I4 PC
+nít|N I4 TC
+nịt|N I5 TC
+niu|N I0 UZ
+nìu|N I1 UZ
+nỉu|N I3 UZ
+nĩu|N I2 UZ
+níu|N I4 UZ
+nịu|N I5 UZ
+no|N O0
+nò|N O1
+nỏ|N O3
+nõ|N O2
+nó|N O4
+nọ|N O5
+noa|N W A0
+nòa|N W A1
+nỏa|N W A3
+nõa|N W A2
+nóa|N W A4
+nọa|N W A5
+noãn|N W A2 NZ
+nõan|N W A2 NZ
+nóc|N OA4 KC
+nọc|N OA5 KC
+noem|N W E0 MZ
+noèm|N W E1 MZ
+noẻm|N W E3 MZ
+noẽm|N W E2 MZ
+noém|N W E4 MZ
+noẹm|N W E5 MZ
+noeo|N W E0 UZ
+noèo|N W E1 UZ
+noẻo|N W E3 UZ
+noẽo|N W E2 UZ
+noéo|N W E4 UZ
+noẹo|N W E5 UZ
+noi|N O0 IZ
+nòi|N O1 IZ
+nỏi|N O3 IZ
+nõi|N O2 IZ
+nói|N O4 IZ
+nọi|N O5 IZ
+nom|N O0 MZ
+nòm|N O1 MZ
+nỏm|N O3 MZ
+nõm|N O2 MZ
+nóm|N O4 MZ
+nọm|N O5 MZ
+non|N O0 NZ
+nòn|N O1 NZ
+nỏn|N O3 NZ
+nõn|N O2 NZ
+nón|N O4 NZ
+nọn|N O5 NZ
+nong|N OA0 NGZ
+nòng|N OA1 NGZ
+nỏng|N OA3 NGZ
+nõng|N OA2 NGZ
+nóng|N OA4 NGZ
+nọng|N OA5 NGZ
+noóc|N O4 OA4 KC
+noọc|N O5 OA5 KC
+nop|O0 PC
+nòp|O1 PC
+nỏp|O3 PC
+nõp|O2 PC
+nóp|O4 PC
+nọp|O5 PC
+nót|N O4 TC
+nọt|N O5 TC
+nô|N OO0
+nồ|N OO1
+nổ|N OO3
+nỗ|N OO2
+nố|N OO4
+nộ|N OO5
+nốc|N OO4 KC
+nôi|N OO0 IZ
+nồi|N OO1 IZ
+nổi|N OO3 IZ
+nỗi|N OO2 IZ
+nối|N OO4 IZ
+nội|N OO5 IZ
+nôm|N OO0 MZ
+nồm|N OO1 MZ
+nổm|N OO3 MZ
+nỗm|N OO2 MZ
+nốm|N OO4 MZ
+nộm|N OO5 MZ
+nôn|N OO0 NZ
+nồn|N OO1 NZ
+nổn|N OO3 NZ
+nỗn|N OO2 NZ
+nốn|N OO4 NZ
+nộn|N OO5 NZ
+nông|N OO0 NGZ
+nồng|N OO1 NGZ
+nổng|N OO3 NGZ
+nỗng|N OO2 NGZ
+nống|N OO4 NGZ
+nộng|N OO5 NGZ
+nốp|N OO4 PC
+nộp|N OO5 PC
+nốt|N OO4 TC
+nơ|N OW0
+nờ|N OW1
+nở|N OW3
+nỡ|N OW2
+nớ|N OW4
+nợ|N OW5
+nơi|N OW0 IZ
+nời|N OW1 IZ
+nởi|N OW3 IZ
+nỡi|N OW2 IZ
+nới|N OW4 IZ
+nợi|N OW5 IZ
+nơm|N OW0 MZ
+nờm|N OW1 MZ
+nởm|N OW3 MZ
+nỡm|N OW2 MZ
+nớm|N OW4 MZ
+nợm|N OW5 MZ
+nớp|N OW4 PC
+nớt|N OW4 TC
+nu|N U0
+nù|N U1
+nủ|N U3
+nũ|N U2
+nú|N U4
+nụ|N U5
+nua|N UO0
+nùa|N UO1
+nủa|N UO3
+nũa|N UO2
+núa|N UO4
+nụa|N UO5
+núc|N U4 KC
+nục|N U5 KC
+nui|N U0 IZ
+nùi|N U1 IZ
+nủi|N U3 IZ
+nũi|N U2 IZ
+núi|N U4 IZ
+nụi|N U5 IZ
+num|N U0 MZ
+nùm|N U1 MZ
+nủm|N U3 MZ
+nũm|N U2 MZ
+núm|N U4 MZ
+nụm|N U5 MZ
+nun|N U0 NZ
+nùn|N U1 NZ
+nủn|N U3 NZ
+nũn|N U2 NZ
+nún|N U4 NZ
+nụn|N U5 NZ
+nung|N U0 NGZ
+nùng|N U1 NGZ
+nủng|N U3 NGZ
+nũng|N U2 NGZ
+núng|N U4 NGZ
+nụng|N U5 NGZ
+nuôi|N UO0 IZ
+nuồi|N UO1 IZ
+nuổi|N UO3 IZ
+nuỗi|N UO2 IZ
+nuối|N UO4 IZ
+nuội|N UO5 IZ
+nuông|N UO0 NGZ
+nuồng|N UO1 NGZ
+nuổng|N UO3 NGZ
+nuỗng|N UO2 NGZ
+nuống|N UO4 NGZ
+nuộng|N UO5 NGZ
+nuốt|N UO4 TC
+nuột|N UO5 TC
+núp|N U4 PC
+nút|N U4 TC
+nuy|N W IZ
+nùy|N W IZ
+nủy|N W IZ
+nũy|N W IZ
+núy|N W IZ
+nụy|N W IZ
+nuynh|N W I0 NGZ
+nuỳnh|N W I1 NGZ
+nuỷnh|N W I3 NGZ
+nuỹnh|N W I2 NGZ
+nuýnh|N W I4 NGZ
+nuỵnh|N W I5 NGZ
+nuyp|N W I4 PC
+nuýp|N W I4 PC
+nuỵp|N W I5 PC
+nuyt|N W I4 TC
+nuýt|N W I4 TC
+nuỵt|N W I5 TC
+nuyu|N W I0 UZ
+nuỳu|N W I1 UZ
+nuỷu|N W I3 UZ
+nuỹu|N W I2 UZ
+nuýu|N W I4 UZ
+nuỵu|N W I5 UZ
+nư|N UW0
+nừ|N UW1
+nử|N UW3
+nữ|N UW2
+nứ|N UW4
+nự|N UW5
+nưa|N WA0
+nừa|N WA1
+nửa|N WA3
+nữa|N WA2
+nứa|N WA4
+nựa|N WA5
+nức|N UW4 KC
+nực|N UW5 KC
+nưm|N UW0 MZ
+nừm|N UW1 MZ
+nửm|N UW3 MZ
+nữm|N UW2 MZ
+nứm|N UW4 MZ
+nựm|N UW5 MZ
+nưn|N UW0 NZ
+nừn|N UW1 NZ
+nửn|N UW3 NZ
+nữn|N UW2 NZ
+nứn|N UW4 NZ
+nựn|N UW5 NZ
+nựng|N UW5 NGZ
+nước|N WA4 KC
+nược|N WA5 KC
+nườm|N WA1 MZ
+nương|N WA0 NGZ
+nường|N WA1 NGZ
+nưởng|N WA3 NGZ
+nưỡng|N WA2 NGZ
+nướng|N WA4 NGZ
+nượng|N WA5 NGZ
+nượp|N WA5 PC
+nướu|N WA4 UZ
+nứt|N UW4 TC
+ny|N I0
+nỳ|N I1
+nỷ|N I3
+nỹ|N I2
+ný|N I4
+nỵ|N I5
+o|O0
+ò|O1
+ỏ|O3
+õ|O2
+ó|O4
+ọ|O5
+oa|W A0
+oà|W A1
+òa|W A1
+ỏa|W A3
+õa|W A2
+óa|W A4
+ọa|W A5
+oách|W EA4 KC
+óach|W EA4 KC
+oai|W A0 IZ
+oài|W A1 IZ
+oải|W A3 IZ
+oãi|W A2 IZ
+oái|W A4 IZ
+oại|W A5 IZ
+ỏai|W A3 IZ
+óai|W A4 IZ
+oan|W A0 NZ
+oàn|W A1 NZ
+oản|W A3 NZ
+oãn|W A2 NZ
+oán|W A4 NZ
+oạn|W A5 NZ
+óan|W A4 NZ
+oang|W A0 NGZ
+oàng|W A1 NGZ
+oảng|W A3 NGZ
+oãng|W A2 NGZ
+oáng|W A4 NGZ
+oạng|W A5 NGZ
+oanh|W EA0 NGZ
+oành|W EA1 NGZ
+oảnh|W EA3 NGZ
+oãnh|W EA2 NGZ
+oánh|W EA4 NGZ
+oạnh|W EA5 NGZ
+oáp|W A4 PC
+oạp|W A5 PC
+oát|W A4 TC
+oắc|W AW4 KC
+oăm|W AW0 MZ
+oằm|W AW1 MZ
+oẳm|W AW3 MZ
+oẵm|W AW2 MZ
+oắm|W AW4 MZ
+oặm|W AW5 MZ
+oăn|W AW0 NZ
+oằn|W AW1 NZ
+oẳn|W AW3 NZ
+oẵn|W AW2 NZ
+oắn|W AW4 NZ
+oặn|W AW5 NZ
+oằng|W AW1 NGZ
+oặt|W AW5 TC
+óc|OA4 KC
+oe|W E0
+oẹ|W E5
+òe|W E1
+ỏe|W E3
+õe|W E2
+óe|W E4
+oé|W E4
+ọe|W E5
+oem|W E0 MZ
+oèm|W E1 MZ
+oẻm|W E3 MZ
+oẽm|W E2 MZ
+oém|W E4 MZ
+oẹm|W E5 MZ
+oeo|W E0 UZ
+oèo|W E1 UZ
+oẻo|W E3 UZ
+oẽo|W E2 UZ
+oéo|W E4 UZ
+oẹo|W E5 UZ
+oép|W E4 PC
+óep|W E4 PC
+oét|W E4 TC
+oi|O0 IZ
+òi|O1 IZ
+ỏi|O3 IZ
+õi|O2 IZ
+ói|O4 IZ
+ọi|O5 IZ
+om|O0 MZ
+òm|O1 MZ
+ỏm|O3 MZ
+õm|O2 MZ
+óm|O4 MZ
+ọm|O5 MZ
+on|O0 NZ
+òn|O1 NZ
+ỏn|O3 NZ
+õn|O2 NZ
+ón|O4 NZ
+ọn|O5 NZ
+ong|OA0 NGZ
+òng|OA1 NGZ
+ỏng|OA3 NGZ
+õng|OA2 NGZ
+óng|OA4 NGZ
+ọng|OA5 NGZ
+oóc|O4 OA4 KC
+oọc|O5 OA5 KC
+óp|O4 PC
+ọp|O5 PC
+ót|O4 TC
+ô|OO0
+ồ|OO1
+ổ|OO3
+ỗ|OO2
+ố|OO4
+ộ|OO5
+ốc|OO4 KC
+ộc|OO5 KC
+ôi|OO0 IZ
+ồi|OO1 IZ
+ổi|OO3 IZ
+ỗi|OO2 IZ
+ối|OO4 IZ
+ội|OO5 IZ
+ôm|OO0 MZ
+ồm|OO1 MZ
+ổm|OO3 MZ
+ỗm|OO2 MZ
+ốm|OO4 MZ
+ộm|OO5 MZ
+ôn|OO0 NZ
+ồn|OO1 NZ
+ổn|OO3 NZ
+ỗn|OO2 NZ
+ốn|OO4 NZ
+ộn|OO5 NZ
+ông|OO0 NGZ
+ồng|OO1 NGZ
+ổng|OO3 NGZ
+ỗng|OO2 NGZ
+ống|OO4 NGZ
+ộng|OO5 NGZ
+ốp|OO4 PC
+ốt|OO4 TC
+ơ|OW0
+ờ|OW1
+ở|OW3
+ỡ|OW2
+ớ|OW4
+ợ|OW5
+ơi|OW0 IZ
+ời|OW1 IZ
+ởi|OW3 IZ
+ỡi|OW2 IZ
+ới|OW4 IZ
+ợi|OW5 IZ
+ơm|OW0 MZ
+ờm|OW1 MZ
+ởm|OW3 MZ
+ỡm|OW2 MZ
+ớm|OW4 MZ
+ợm|OW5 MZ
+ơn|OW0 NZ
+ờn|OW1 NZ
+ởn|OW3 NZ
+ỡn|OW2 NZ
+ớn|OW4 NZ
+ợn|OW5 NZ
+ợp|OW5 PC
+ớt|OW4 TC
+ợt|OW5 TC
+pa|P A0
+pà|P A1
+pả|P A3
+pã|P A2
+pá|P A4
+pạ|P A5
+pac|P A0 KC
+pác|P A4 KC
+pạc|P A5 KC
+pách|P EA4 KC
+pai|P A0 IZ
+pài|P A1 IZ
+pải|P A3 IZ
+pãi|P A2 IZ
+pái|P A4 IZ
+pại|P A5 IZ
+pam|P A0 MZ
+pàm|P A1 MZ
+pảm|P A3 MZ
+pãm|P A2 MZ
+pám|P A4 MZ
+pạm|P A5 MZ
+pan|P A0 NZ
+pàn|P A1 NZ
+pản|P A3 NZ
+pãn|P A2 NZ
+pán|P A4 NZ
+pạn|P A5 NZ
+pang|P A0 NGZ
+pàng|P A1 NGZ
+pảng|P A3 NGZ
+pãng|P A2 NGZ
+páng|P A4 NGZ
+pạng|P A5 NGZ
+panh|P EA0 NGZ
+pành|P EA1 NGZ
+pảnh|P EA3 NGZ
+pãnh|P EA2 NGZ
+pánh|P EA4 NGZ
+pạnh|P EA5 NGZ
+pao|P A0 UZ
+pào|P A1 UZ
+pảo|P A3 UZ
+pão|P A2 UZ
+páo|P A4 UZ
+pạo|P A5 UZ
+páp|P A4 PC
+pát|P A4 TC
+pay|P AW0 IZ
+pày|P AW1 IZ
+pảy|P AW3 IZ
+pãy|P AW2 IZ
+páy|P AW4 IZ
+pạy|P AW5 IZ
+pắc|P AW4 KC
+păm|P AW0 MZ
+pằm|P AW1 MZ
+pẳm|P AW3 MZ
+pẵm|P AW2 MZ
+pắm|P AW4 MZ
+pặm|P AW5 MZ
+păn|P AW0 NZ
+pằn|P AW1 NZ
+pẳn|P AW3 NZ
+pẵn|P AW2 NZ
+pắn|P AW4 NZ
+pặn|P AW5 NZ
+păng|P AW0 NGZ
+pằng|P AW1 NGZ
+pẳng|P AW3 NGZ
+pẵng|P AW2 NGZ
+pắng|P AW4 NGZ
+pặng|P AW5 NGZ
+pắp|P AW4 PC
+pần|P AA1 NZ
+pâu|P AA0 UZ
+pầu|P AA1 UZ
+pẩu|P AA3 UZ
+pẫu|P AA2 UZ
+pấu|P AA4 UZ
+pậu|P AA5 UZ
+pây|P AA0 IZ
+pầy|P AA1 IZ
+pẩy|P AA3 IZ
+pẫy|P AA2 IZ
+pấy|P AA4 IZ
+pậy|P AA5 IZ
+pe|P E0
+pè|P E1
+pẻ|P E3
+pẽ|P E2
+pé|P E4
+pẹ|P E5
+péc|P E4 KC
+pem|B E0 MZ
+pèm|B E1 MZ
+pẻm|B E3 MZ
+pẽm|B E2 MZ
+pém|B E4 MZ
+pẹm|B E5 MZ
+pen|P E0 NZ
+pèn|P E1 NZ
+pẻn|P E3 NZ
+pẽn|P E2 NZ
+pén|P E4 NZ
+pẹn|P E5 NZ
+peo|P E0 UZ
+pèo|P E1 UZ
+pẻo|P E3 UZ
+pẽo|P E2 UZ
+péo|P E4 UZ
+pẹo|P E5 UZ
+pép|P E4 PC
+pét|P E4 TC
+pê|P EE0
+pề|P EE1
+pể|P EE3
+pễ|P EE2
+pế|P EE4
+pệ|P EE5
+pếch|P EE4 KC
+pên|P EE0 NZ
+pền|P EE1 NZ
+pển|P EE3 NZ
+pễn|P EE2 NZ
+pến|P EE4 NZ
+pện|P EE5 NZ
+pênh|P EE0 NGZ
+pềnh|P EE1 NGZ
+pểnh|P EE3 NGZ
+pễnh|P EE2 NGZ
+pếnh|P EE4 NGZ
+pệnh|P EE5 NGZ
+pếp|P EE4 PC
+pết|P EE4 TC
+pha|PH A0
+phà|PH A1
+phả|PH A3
+phã|PH A2
+phá|PH A4
+phạ|PH A5
+phác|PH A4 KC
+phạc|PH A5 KC
+phách|PH EA4 KC
+phạch|PH EA5 KC
+phai|PH A0 IZ
+phài|PH A1 IZ
+phải|PH A3 IZ
+phãi|PH A2 IZ
+phái|PH A4 IZ
+phại|PH A5 IZ
+pham|PH A0 MZ
+phàm|PH A1 MZ
+phảm|PH A3 MZ
+phãm|PH A2 MZ
+phám|PH A4 MZ
+phạm|PH A5 MZ
+phan|PH A0 NZ
+phàn|PH A1 NZ
+phản|PH A3 NZ
+phãn|PH A2 NZ
+phán|PH A4 NZ
+phạn|PH A5 NZ
+phang|PH A0 NGZ
+phàng|PH A1 NGZ
+phảng|PH A3 NGZ
+phãng|PH A2 NGZ
+pháng|PH A4 NGZ
+phạng|PH A5 NGZ
+phanh|PH EA0 NGZ
+phành|PH EA1 NGZ
+phảnh|PH EA3 NGZ
+phãnh|PH EA2 NGZ
+phánh|PH EA4 NGZ
+phạnh|PH EA5 NGZ
+phao|PH A0 UZ
+phào|PH A1 UZ
+phảo|PH A3 UZ
+phão|PH A2 UZ
+pháo|PH A4 UZ
+phạo|PH A5 UZ
+pháp|PH A4 PC
+phát|PH A4 TC
+phạt|PH A5 TC
+phau|PH AW0 UZ
+phàu|PH AW1 UZ
+phảu|PH AW3 UZ
+phãu|PH AW2 UZ
+pháu|PH AW4 UZ
+phạu|PH AW5 UZ
+phay|PH AW0 IZ
+phày|PH AW1 IZ
+phảy|PH AW3 IZ
+phãy|PH AW2 IZ
+pháy|PH AW4 IZ
+phạy|PH AW5 IZ
+phắc|PH AW4 KC
+phăm|PH AW0 MZ
+phằm|PH AW1 MZ
+phẳm|PH AW3 MZ
+phẵm|PH AW2 MZ
+phắm|PH AW4 MZ
+phặm|PH AW5 MZ
+phăn|PH AW0 NZ
+phằn|PH AW1 NZ
+phẳn|PH AW3 NZ
+phẵn|PH AW2 NZ
+phắn|PH AW4 NZ
+phặn|PH AW5 NZ
+phăng|PH AW0 NGZ
+phằng|PH AW1 NGZ
+phẳng|PH AW3 NGZ
+phẵng|PH AW2 NGZ
+phắng|PH AW4 NGZ
+phặng|PH AW5 NGZ
+phắt|PH AW4 TC
+phầm|PH AA1 MZ
+phẩm|PH AA3 MZ
+phân|PH AA0 NZ
+phần|PH AA1 NZ
+phẩn|PH AA3 NZ
+phẫn|PH AA2 NZ
+phấn|PH AA4 NZ
+phận|PH AA5 NZ
+phấp|PH AA4 PC
+phập|PH AA5 PC
+phất|PH AA4 TC
+phật|PH AA5 TC
+phâu|PH AA0 UZ
+phầu|PH AA1 UZ
+phẩu|PH AA3 UZ
+phẫu|PH AA2 UZ
+phấu|PH AA4 UZ
+phậu|PH AA5 UZ
+phây|PH AA0 IZ
+phầy|PH AA1 IZ
+phẩy|PH AA3 IZ
+phẫy|PH AA2 IZ
+phấy|PH AA4 IZ
+phậy|PH AA5 IZ
+phe|PH E0
+phè|PH E1
+phẻ|PH E3
+phẽ|PH E2
+phé|PH E4
+phẹ|PH E5
+phéc|PH E4 KC
+phem|PH E0 MZ
+phèm|PH E1 MZ
+phẻm|PH E3 MZ
+phẽm|PH E2 MZ
+phém|PH E4 MZ
+phẹm|PH E5 MZ
+phen|PH E0 NZ
+phèn|PH E1 NZ
+phẻn|PH E3 NZ
+phẽn|PH E2 NZ
+phén|PH E4 NZ
+phẹn|PH E5 NZ
+pheng|PH E0 NGZ
+phèng|PH E1 NGZ
+phẻng|PH E3 NGZ
+phẽng|PH E2 NGZ
+phéng|PH E4 NGZ
+phẹng|PH E5 NGZ
+phenh|PH E0 NGZ
+pheo|PH E0 UZ
+phèo|PH E1 UZ
+phẻo|PH E3 UZ
+phẽo|PH E2 UZ
+phéo|PH E4 UZ
+phẹo|PH E5 UZ
+phép|PH E4 PC
+phét|PH E4 TC
+phẹt|PH E5 TC
+phê|PH EE0
+phề|PH EE1
+phể|PH EE3
+phễ|PH EE2
+phế|PH EE4
+phệ|PH EE5
+phếch|PH EE4 KC
+phên|PH EE0 NZ
+phền|PH EE1 NZ
+phển|PH EE3 NZ
+phễn|PH EE2 NZ
+phến|PH EE4 NZ
+phện|PH EE5 NZ
+phết|PH EE4 TC
+phệt|PH EE5 TC
+phễu|PH EE2 UZ
+phếu|PH EE4 UZ
+phi|PH I0
+phì|PH I1
+phỉ|PH I3
+phĩ|PH I2
+phí|PH I4
+phị|PH I5
+phia|PH IE0
+phìa|PH IE1
+phỉa|PH IE3
+phĩa|PH IE2
+phía|PH IE4
+phịa|PH IE5
+phíc|PH I4 KC
+phích|PH I4 KC
+phịch|PH I5 KC
+phiếm|PH IE4 MZ
+phiên|PH IE0 NZ
+phiền|PH IE1 NZ
+phiển|PH IE3 NZ
+phiễn|PH IE2 NZ
+phiến|PH IE4 NZ
+phiện|PH IE5 NZ
+phiệt|PH IE5 TC
+phiêu|PH IE0 UZ
+phiều|PH IE1 UZ
+phiểu|PH IE3 UZ
+phiễu|PH IE2 UZ
+phiếu|PH IE4 UZ
+phiệu|PH IE5 UZ
+phim|PH I0 MZ
+phìm|PH I1 MZ
+phỉm|PH I3 MZ
+phĩm|PH I2 MZ
+phím|PH I4 MZ
+phịm|PH I5 MZ
+phin|PH I0 NZ
+phìn|PH I1 NZ
+phỉn|PH I3 NZ
+phĩn|PH I2 NZ
+phín|PH I4 NZ
+phịn|PH I5 NZ
+phinh|PH I0 NGZ
+phình|PH I1 NGZ
+phỉnh|PH I3 NGZ
+phĩnh|PH I2 NGZ
+phính|PH I4 NGZ
+phịnh|PH I5 NGZ
+phíp|PH I4 PC
+phít|PH I4 TC
+phịt|PH I5 TC
+phiu|PH I0 UZ
+phìu|PH I1 UZ
+phỉu|PH I3 UZ
+phĩu|PH I2 UZ
+phíu|PH I4 UZ
+phịu|PH I5 UZ
+pho|PH O0
+phò|PH O1
+phỏ|PH O3
+phõ|PH O2
+phó|PH O4
+phọ|PH O5
+phóc|PH OA4 KC
+phóch|PH OA4 KC
+phoem|PH W E0 MZ
+phoèm|PH W E1 MZ
+phoẻm|PH W E3 MZ
+phoẽm|PH W E2 MZ
+phoém|PH W E4 MZ
+phoẹm|PH W E5 MZ
+phoeo|PH W E0 UZ
+phoèo|PH W E1 UZ
+phoẻo|PH W E3 UZ
+phoẽo|PH W E2 UZ
+phoéo|PH W E4 UZ
+phoẹo|PH W E5 UZ
+phoi|PH O0 IZ
+phòi|PH O1 IZ
+phỏi|PH O3 IZ
+phõi|PH O2 IZ
+phói|PH O4 IZ
+phọi|PH O5 IZ
+phom|PH O0 MZ
+phòm|PH O1 MZ
+phỏm|PH O3 MZ
+phõm|PH O2 MZ
+phóm|PH O4 MZ
+phọm|PH O5 MZ
+phon|PH O0 NZ
+phòn|PH O1 NZ
+phỏn|PH O3 NZ
+phõn|PH O2 NZ
+phón|PH O4 NZ
+phọn|PH O5 NZ
+phong|PH OA0 NGZ
+phòng|PH OA1 NGZ
+phỏng|PH OA3 NGZ
+phõng|PH OA2 NGZ
+phóng|PH OA4 NGZ
+phọng|PH OA5 NGZ
+phoóc|PH O4 OA4 KC
+phoọc|PH O5 OA5 KC
+phóoc|PH O4 OA4 KC
+phót|PH O4 TC
+phô|PH OO0
+phồ|PH OO1
+phổ|PH OO3
+phỗ|PH OO2
+phố|PH OO4
+phộ|PH OO5
+phốc|PH OO4 KC
+phôi|PH OO0 IZ
+phồi|PH OO1 IZ
+phổi|PH OO3 IZ
+phỗi|PH OO2 IZ
+phối|PH OO4 IZ
+phội|PH OO5 IZ
+phôn|PH OO0 NZ
+phồn|PH OO1 NZ
+phổn|PH OO3 NZ
+phỗn|PH OO2 NZ
+phốn|PH OO4 NZ
+phộn|PH OO5 NZ
+phông|PH OO0 NGZ
+phồng|PH OO1 NGZ
+phổng|PH OO3 NGZ
+phỗng|PH OO2 NGZ
+phống|PH OO4 NGZ
+phộng|PH OO5 NGZ
+phốp|PH OO4 PC
+phốt|PH OO4 TC
+phơ|PH OW0
+phờ|PH OW1
+phở|PH OW3
+phỡ|PH OW2
+phớ|PH OW4
+phợ|PH OW5
+phơi|PH OW0 IZ
+phời|PH OW1 IZ
+phởi|PH OW3 IZ
+phỡi|PH OW2 IZ
+phới|PH OW4 IZ
+phợi|PH OW5 IZ
+phơm|PH OW0 MZ
+phờm|PH OW1 MZ
+phởm|PH OW3 MZ
+phỡm|PH OW2 MZ
+phớm|PH OW4 MZ
+phợm|PH OW5 MZ
+phơn|PH OW0 NZ
+phờn|PH OW1 NZ
+phởn|PH OW3 NZ
+phỡn|PH OW2 NZ
+phớn|PH OW4 NZ
+phợn|PH OW5 NZ
+phớt|PH OW4 TC
+phợt|PH OW5 TC
+phu|PH U0
+phù|PH U1
+phủ|PH U3
+phũ|PH U2
+phú|PH U4
+phụ|PH U5
+phúc|PH U4 KC
+phục|PH U5 KC
+phui|PH U0 IZ
+phùi|PH U1 IZ
+phủi|PH U3 IZ
+phũi|PH U2 IZ
+phúi|PH U4 IZ
+phụi|PH U5 IZ
+phun|PH U0 NZ
+phùn|PH U1 NZ
+phủn|PH U3 NZ
+phũn|PH U2 NZ
+phún|PH U4 NZ
+phụn|PH U5 NZ
+phung|PH U0 NGZ
+phùng|PH U1 NGZ
+phủng|PH U3 NGZ
+phũng|PH U2 NGZ
+phúng|PH U4 NGZ
+phụng|PH U5 NGZ
+phút|PH U4 TC
+phụt|PH U5 TC
+phuy|PH W I0
+phùy|PH W I1
+phủy|PH W I3
+phũy|PH W I2
+phúy|PH W I4
+phụy|PH W I5
+phuynh|PH W I0 NGZ
+phuỳnh|PH W I1 NGZ
+phuỷnh|PH W I3 NGZ
+phuỹnh|PH W I2 NGZ
+phuýnh|PH W I4 NGZ
+phuỵnh|PH W I5 NGZ
+phuyp|PH W I4 PC
+phuýp|PH W I4 PC
+phuỵp|PH W I5 PC
+phuyt|PH W I4 TC
+phuýt|PH W I4 TC
+phuỵt|PH W I5 TC
+phuyu|PH W I0 UZ
+phuỳu|PH W I1 UZ
+phuỷu|PH W I3 UZ
+phuỹu|PH W I2 UZ
+phuýu|PH W I4 UZ
+phuỵu|PH W I5 UZ
+phư|PH UW0
+phừ|PH UW1
+phử|PH UW3
+phữ|PH UW2
+phứ|PH UW4
+phự|PH UW5
+phức|PH UW4 KC
+phưn|PH UW0 NZ
+phừn|PH UW1 NZ
+phửn|PH UW3 NZ
+phữn|PH UW2 NZ
+phứn|PH UW4 NZ
+phựn|PH UW5 NZ
+phưng|PH UW0 NGZ
+phừng|PH UW1 NGZ
+phửng|PH UW3 NGZ
+phững|PH UW2 NGZ
+phứng|PH UW4 NGZ
+phựng|PH UW5 NGZ
+phước|PH WA4 KC
+phướn|PH WA4 NZ
+phương|PH WA0 NGZ
+phường|PH WA1 NGZ
+phưởng|PH WA3 NGZ
+phưỡng|PH WA2 NGZ
+phướng|PH WA4 NGZ
+phượng|PH WA5 NGZ
+phựt|PH UW5 TC
+pi|P I0
+pì|P I1
+pỉ|P I3
+pĩ|P I2
+pí|P I4
+pị|P I5
+pia|P IE0
+pìa|P IE1
+pỉa|P IE3
+pĩa|P IE2
+pía|P IE4
+pịa|P IE5
+píc|P I4 KC
+pích|P I4 KC
+piếc|P IE4 KC
+piêu|P IE0 UZ
+piều|P IE1 UZ
+piểu|P IE3 UZ
+piễu|P IE2 UZ
+piếu|P IE4 UZ
+piệu|P IE5 UZ
+pin|P I0 NZ
+pìn|P I1 NZ
+pỉn|P I3 NZ
+pĩn|P I2 NZ
+pín|P I4 NZ
+pịn|P I5 NZ
+ping|P I0 NGZ
+pinh|P I0 NGZ
+pình|P I1 NGZ
+pỉnh|P I3 NGZ
+pĩnh|P I2 NGZ
+pính|P I4 NGZ
+pịnh|P I5 NGZ
+píp|P I4 PC
+pit|P I0 TC
+pít|P I4 TC
+pịt|P I5 TC
+piu|P I0 UZ
+pìu|P I1 UZ
+pỉu|P I3 UZ
+pĩu|P I2 UZ
+píu|P I4 UZ
+pịu|P I5 UZ
+po|P O0
+pò|P O1
+pỏ|P O3
+põ|P O2
+pó|P O4
+pọ|P O5
+póc|P OA4 KC
+poem|P W E0 MZ
+poèm|P W E1 MZ
+poẻm|P W E3 MZ
+poẽm|P W E2 MZ
+poém|P W E4 MZ
+poẹm|P W E5 MZ
+poi|P O0 IZ
+pòi|P O1 IZ
+pỏi|P O3 IZ
+põi|P O2 IZ
+pói|P O4 IZ
+pọi|P O5 IZ
+pon|P O0 NZ
+pòn|P O1 NZ
+pỏn|P O3 NZ
+põn|P O2 NZ
+pón|P O4 NZ
+pọn|P O5 NZ
+pong|P OA0 NGZ
+pòng|P OA1 NGZ
+pỏng|P OA3 NGZ
+põng|P OA2 NGZ
+póng|P OA4 NGZ
+pọng|P OA5 NGZ
+poóc|P O4 OA4 KC
+poọc|P O5 OA5 KC
+póp|P O4 PC
+pót|P O4 TC
+pô|P OO0
+pồ|P OO1
+pổ|P OO3
+pỗ|P OO2
+pố|P OO4
+pộ|P OO5
+pốc|P OO4 KC
+pôn|P OO0 NZ
+pồn|P OO1 NZ
+pổn|P OO3 NZ
+pỗn|P OO2 NZ
+pốn|P OO4 NZ
+pộn|P OO5 NZ
+pông|P OO0 NGZ
+pồng|P OO1 NGZ
+pổng|P OO3 NGZ
+pỗng|P OO2 NGZ
+pống|P OO4 NGZ
+pộng|P OO5 NGZ
+pốp|P OO4 PC
+pốt|P OO4 TC
+pơ|P OW0
+pờ|P OW1
+pở|P OW3
+pỡ|P OW2
+pớ|P OW4
+pợ|P OW5
+pơi|P OW0 IZ
+pời|P OW1 IZ
+pởi|P OW3 IZ
+pỡi|P OW2 IZ
+pới|P OW4 IZ
+pợi|P OW5 IZ
+pơn|P OW0 NZ
+pờn|P OW1 NZ
+pởn|P OW3 NZ
+pỡn|P OW2 NZ
+pớn|P OW4 NZ
+pợn|P OW5 NZ
+pớt|P OW4 TC
+pợt|P OW5 TC
+pu|P U0
+pù|P U1
+pủ|P U3
+pũ|P U2
+pú|P U4
+pụ|P U5
+pua|P UO0
+pùa|P UO1
+pủa|P UO3
+pũa|P UO2
+púa|P UO4
+pụa|P UO5
+pun|P U0 NZ
+pùn|P U1 NZ
+pủn|P U3 NZ
+pũn|P U2 NZ
+pún|P U4 NZ
+pụn|P U5 NZ
+puô|P UO0
+pút|P U4 TC
+puynh|P W I0 NGZ
+puỳnh|P W I1 NGZ
+puỷnh|P W I3 NGZ
+puỹnh|P W I2 NGZ
+puýnh|P W I4 NGZ
+puỵnh|P W I5 NGZ
+puyp|P W I4 PC
+puýp|P W I4 PC
+puỵp|P W I5 PC
+puyt|P W I4 TC
+puýt|P W I4 TC
+puỵt|P W I5 TC
+puyu|P W I0 UZ
+puỳu|P W I1 UZ
+puỷu|P W I3 UZ
+puỹu|P W I2 UZ
+puýu|P W I4 UZ
+puỵu|P W I5 UZ
+pư|P UW0
+pừ|P UW1
+pử|P UW3
+pữ|P UW2
+pứ|P UW4
+pự|P UW5
+pừn|P UW1 NZ
+py|P I0
+pỳ|P I1
+pỷ|P I3
+pỹ|P I2
+pý|P I4
+pỵ|P I5
+qoa|K W A0
+qoác|K W A4 KC
+qoai|K W A0 IZ
+qoanh|K W EA0 NGZ
+qoát|K W A4 TC
+qoe|K W E0
+qoéch|K W E4 KC
+qoét|K W E4 TC
+qua|K W A0
+quà|K W A1
+quả|K W A3
+quã|K W A2
+quá|K W A4
+quạ|K W A5
+qùa|K W A1
+qủa|K W A3
+qũa|K W A2
+qúa|K W A4
+qụa|K W A5
+quác|K W A4 KC
+quạc|K W A5 KC
+quách|K W EA4 KC
+quạch|K W EA5 KC
+quai|K W A0 IZ
+quài|K W A1 IZ
+quải|K W A3 IZ
+quãi|K W A2 IZ
+quái|K W A4 IZ
+quại|K W A5 IZ
+quan|K W A0 NZ
+quàn|K W A1 NZ
+quản|K W A3 NZ
+quãn|K W A2 NZ
+quán|K W A4 NZ
+quạn|K W A5 NZ
+quang|K W A0 NGZ
+quàng|K W A1 NGZ
+quảng|K W A3 NGZ
+quãng|K W A2 NGZ
+quáng|K W A4 NGZ
+quạng|K W A5 NGZ
+quanh|K W EA0 NGZ
+quành|K W EA1 NGZ
+quảnh|K W EA3 NGZ
+quãnh|K W EA2 NGZ
+quánh|K W EA4 NGZ
+quạnh|K W EA5 NGZ
+quát|K W A4 TC
+quạt|K W A5 TC
+quay|K W AW0 IZ
+quày|K W AW1 IZ
+quảy|K W A3 IZ
+quãy|K W AW2 IZ
+quáy|K W AW4 IZ
+quạy|K W AW5 IZ
+quắc|K W AW4 KC
+quặc|K W AW5 KC
+quăm|K W AW0 MZ
+quằm|K W AW1 MZ
+quẳm|K W AW3 MZ
+quẵm|K W AW2 MZ
+quắm|K W AW4 MZ
+quặm|K W AW5 MZ
+quăn|K W AW0 NZ
+quằn|K W AW1 NZ
+quẳn|K W AW3 NZ
+quẵn|K W AW2 NZ
+quắn|K W AW4 NZ
+quặn|K W AW5 NZ
+quăng|K W AW0 NGZ
+quằng|K W AW1 NGZ
+quẳng|K W AW3 NGZ
+quẵng|K W AW2 NGZ
+quắng|K W AW4 NGZ
+quặng|K W AW5 NGZ
+quắp|K W AW4 PC
+quặp|K W AW5 PC
+quắt|K W AW4 TC
+quặt|K W AW5 TC
+quân|K W AA0 NZ
+quần|K W AA1 NZ
+quẩn|K W AA3 NZ
+quẫn|K W AA2 NZ
+quấn|K W AA4 NZ
+quận|K W AA5 NZ
+quầng|K W AA1 NGZ
+quất|K W AA4 TC
+quật|K W AA5 TC
+quây|K W AA0 IZ
+quầy|K W AA1 IZ
+quẩy|K W AA3 IZ
+quẫy|K W AA2 IZ
+quấy|K W AA4 IZ
+quậy|K W AA5 IZ
+que|K W E0
+què|K W E1
+quẻ|K W E3
+quẽ|K W E2
+qué|K W E4
+quẹ|K W E5
+quen|K W E0 NZ
+quèn|K W E1 NZ
+quẻn|K W E3 NZ
+quẽn|K W E2 NZ
+quén|K W E4 NZ
+quẹn|K W E5 NZ
+queo|K W E0 UZ
+quèo|K W E1 UZ
+quẻo|K W E3 UZ
+quẽo|K W E2 UZ
+quéo|K W E4 UZ
+quẹo|K W E5 UZ
+quét|K W E4 TC
+quẹt|K W E5 TC
+quê|K W EE0
+quề|K W EE1
+quể|K W EE3
+quễ|K W EE2
+quế|K W EE4
+quệ|K W EE5
+quên|K W EE0 NZ
+quền|K W EE1 NZ
+quển|K W EE3 NZ
+quễn|K W EE2 NZ
+quến|K W EE4 NZ
+quện|K W EE5 NZ
+quềnh|K W EE1 NGZ
+quếnh|K W EE4 NGZ
+quết|K W EE4 TC
+quệt|K W EE5 TC
+qui|K W I0
+quì|K W I1
+quỉ|K W I3
+quĩ|K W I2
+quí|K W I4
+quị|K W I5
+qùi|K W I1
+qủi|K W I3
+qũi|K W I2
+qúi|K W I4
+qụi|K W I5
+quích|K W I4 KC
+quin|K W I0 NZ
+quìn|K W I1 NZ
+quỉn|K W I3 NZ
+quĩn|K W I2 NZ
+quín|K W I4 NZ
+quịn|K W I5 NZ
+quít|K W I4 TC
+quịt|K W I5 TC
+quoa|K W W A0
+quoe|K W W E0
+quốc|K W OO4 KC
+quơ|K W OW0
+quờ|K W OW1
+quở|K W OW3
+quỡ|K W OW2
+quớ|K W OW4
+quợ|K W OW5
+quy|K W I0
+quỳ|K W I1
+quỷ|K W I3
+quỹ|K W I2
+quý|K W I4
+quỵ|K W I5
+qùy|K W I1
+qủy|K W I3
+qũy|K W I2
+qúy|K W I4
+qụy|K W I5
+quých|K W I4 KC
+quyên|K W IE0 NZ
+quyền|K W IE1 NZ
+quyển|K W IE3 NZ
+quyễn|K W IE2 NZ
+quyến|K W IE4 NZ
+quyện|K W IE5 NZ
+quyết|K W IE4 TC
+quyệt|K W IE5 TC
+quyn|K W I0 NZ
+quỳn|K W I1 NZ
+quỷn|K W I3 NZ
+quỹn|K W I2 NZ
+quýn|K W I4 NZ
+quỵn|K W I5 NZ
+quynh|K W I0 NGZ
+quỳnh|K W I1 NGZ
+quỷnh|K W I3 NGZ
+quỹnh|K W I2 NGZ
+quýnh|K W I4 NGZ
+quỵnh|K W I5 NGZ
+qùynh|K W I1 NGZ
+qúynh|K W I4 NGZ
+quyp|K W I4 PC
+quýp|K W I4 PC
+quỵp|5 W I4 PC
+quýt|K W I4 TC
+quỵt|K W I5 TC
+qúyt|K W I4 TC
+qụyt|K W I5 TC
+quyu|K W I0 UZ
+quỳu|K W I1 UZ
+quỷu|K W I3 UZ
+quỹu|K W I2 UZ
+quýu|K W I4 UZ
+quỵu|K W I5 UZ
+r|R
+ra|R A0
+rà|R A1
+rả|R A3
+rã|R A2
+rá|R A4
+rạ|R A5
+rác|R A4 KC
+rạc|R A5 KC
+rách|R EA4 KC
+rạch|R EA5 KC
+rai|R A0 IZ
+rài|R A1 IZ
+rải|R A3 IZ
+rãi|R A2 IZ
+rái|R A4 IZ
+rại|R A5 IZ
+ram|R A0 MZ
+ràm|R A1 MZ
+rảm|R A3 MZ
+rãm|R A2 MZ
+rám|R A4 MZ
+rạm|R A5 MZ
+ran|R A0 NZ
+ràn|R A1 NZ
+rản|R A3 NZ
+rãn|R A2 NZ
+rán|R A4 NZ
+rạn|R A5 NZ
+rang|R A0 NGZ
+ràng|R A1 NGZ
+rảng|R A3 NGZ
+rãng|R A2 NGZ
+ráng|R A4 NGZ
+rạng|R A5 NGZ
+ranh|R EA0 NGZ
+rành|R EA1 NGZ
+rảnh|R EA3 NGZ
+rãnh|R EA2 NGZ
+ránh|R EA4 NGZ
+rạnh|R EA5 NGZ
+rao|R A0 UZ
+rào|R A1 UZ
+rảo|R A3 UZ
+rão|R A2 UZ
+ráo|R A4 UZ
+rạo|R A5 UZ
+ráp|R A4 PC
+rạp|R A5 PC
+rát|R A4 TC
+rạt|R A5 TC
+rau|R AW0 UZ
+ràu|R AW1 UZ
+rảu|R AW3 UZ
+rãu|R AW2 UZ
+ráu|R AW4 UZ
+rạu|R AW5 UZ
+ray|R AW0 IZ
+rày|R AW1 IZ
+rảy|R AW3 IZ
+rãy|R AW2 IZ
+ráy|R AW4 IZ
+rạy|R AW5 IZ
+rắc|R AW4 KC
+răm|R AW0 MZ
+rằm|R AW1 MZ
+rẳm|R AW3 MZ
+rẵm|R AW2 MZ
+rắm|R AW4 MZ
+rặm|R AW5 MZ
+răn|R AW0 NZ
+rằn|R AW1 NZ
+rẳn|R AW3 NZ
+rẵn|R AW2 NZ
+rắn|R AW4 NZ
+rặn|R AW5 NZ
+răng|R AW0 NGZ
+rằng|R AW1 NGZ
+rẳng|R AW3 NGZ
+rẵng|R AW2 NGZ
+rắng|R AW4 NGZ
+rặng|R AW5 NGZ
+rắp|R AW4 PC
+rắt|R AW4 TC
+rặt|R AW5 TC
+râm|R AA0 MZ
+rầm|R AA1 MZ
+rẩm|R AA3 MZ
+rẫm|R AA2 MZ
+rấm|R AA4 MZ
+rậm|R AA5 MZ
+rần|R AA1 NZ
+rận|R AA5 NZ
+rầng|R AA1 NGZ
+rập|R AA5 PC
+rất|R AA4 TC
+rật|R AA5 TC
+râu|R AA0 UZ
+rầu|R AA1 UZ
+rẩu|R AA3 UZ
+rẫu|R AA2 UZ
+rấu|R AA4 UZ
+rậu|R AA5 UZ
+rây|R AA0 IZ
+rầy|R AA1 IZ
+rẩy|R AA3 IZ
+rẫy|R AA2 IZ
+rấy|R AA4 IZ
+rậy|R AA5 IZ
+re|R E0
+rè|R E1
+rẻ|R E3
+rẽ|R E2
+ré|R E4
+rẹ|R E5
+réc|R E4 KC
+rem|R E0 MZ
+rèm|R E1 MZ
+rẻm|R E3 MZ
+rẽm|R E2 MZ
+rém|R E4 MZ
+rẹm|R E5 MZ
+ren|R E0 NZ
+rèn|R E1 NZ
+rẻn|R E3 NZ
+rẽn|R E2 NZ
+rén|R E4 NZ
+rẹn|R E5 NZ
+reng|R E0 NGZ
+rèng|R E1 NGZ
+rẻng|R E3 NGZ
+rẽng|R E2 NGZ
+réng|R E4 NGZ
+rẹng|R E5 NGZ
+reo|R E0 UZ
+rèo|R E1 UZ
+rẻo|R E3 UZ
+rẽo|R E2 UZ
+réo|R E4 UZ
+rẹo|R E5 UZ
+rép|R E4 PC
+rét|R E4 TC
+rẹt|R E5 TC
+rê|R EE0
+rề|R EE1
+rể|R EE3
+rễ|R EE2
+rế|R EE4
+rệ|R EE5
+rếch|R EE4 KC
+rêm|R EE0 MZ
+rềm|R EE1 MZ
+rểm|R EE3 MZ
+rễm|R EE2 MZ
+rếm|R EE4 MZ
+rệm|R EE5 MZ
+rên|R EE0 NZ
+rền|R EE1 NZ
+rển|R EE3 NZ
+rễn|R EE2 NZ
+rến|R EE4 NZ
+rện|R EE5 NZ
+rếp|R EE4 PC
+rệp|R EE5 PC
+rết|R EE4 TC
+rệt|R EE5 TC
+rêu|R EE0 UZ
+rều|R EE1 UZ
+rểu|R EE3 UZ
+rễu|R EE2 UZ
+rếu|R EE4 UZ
+rệu|R EE5 UZ
+ri|R I0
+rì|R I1
+rỉ|R I3
+rĩ|R I2
+rí|R I4
+rị|R I5
+ria|R IE0
+rìa|R IE1
+rỉa|R IE3
+rĩa|R IE2
+ría|R IE4
+rịa|R IE5
+ríc|R I4 KC
+rích|R I4 KC
+rịch|R I5 KC
+riêng|R IE0 NGZ
+riềng|R IE1 NGZ
+riểng|R IE3 NGZ
+riễng|R IE2 NGZ
+riếng|R IE4 NGZ
+riệng|R IE5 NGZ
+riết|R IE4 TC
+riêu|R IE0 UZ
+riều|R IE1 UZ
+riểu|R IE3 UZ
+riễu|R IE2 UZ
+riếu|R IE4 UZ
+riệu|R IE5 UZ
+rim|R I0 MZ
+rìm|R I1 MZ
+rỉm|R I3 MZ
+rĩm|R I2 MZ
+rím|R I4 MZ
+rịm|R I5 MZ
+rin|R I0 NZ
+rìn|R I1 NZ
+rỉn|R I3 NZ
+rĩn|R I2 NZ
+rín|R I4 NZ
+rịn|R I5 NZ
+ring|R I0 NGZ
+rinh|R I0 NGZ
+rình|R I1 NGZ
+rỉnh|R I3 NGZ
+rĩnh|R I2 NGZ
+rính|R I4 NGZ
+rịnh|R I5 NGZ
+ríp|R I4 PC
+rịp|R I5 PC
+rít|R I4 TC
+rịt|R I5 TC
+riu|R I0 UZ
+rìu|R I1 UZ
+rỉu|R I3 UZ
+rĩu|R I2 UZ
+ríu|R I4 UZ
+rịu|R I5 UZ
+ro|R O0
+rò|R O1
+rỏ|R O3
+rõ|R O2
+ró|R O4
+rọ|R O5
+roa|R W A0
+ròa|R W A1
+rỏa|R W A3
+rõa|R W A2
+róa|R W A4
+rọa|R W A5
+roai|R W A0 IZ
+roài|R W A1 IZ
+roải|R W A3 IZ
+roãi|R W A2 IZ
+roái|R W A4 IZ
+roại|R W A5 IZ
+roan|R W A0 NZ
+roàn|R W A1 NZ
+roản|R W A3 NZ
+roãn|R W A2 NZ
+roán|R W A4 NZ
+roạn|R W A5 NZ
+roát|R W A4 TC
+róc|R OA4 KC
+rọc|R OA5 KC
+roem|R W E0 MZ
+roèm|R W E1 MZ
+roẻm|R W E3 MZ
+roẽm|R W E2 MZ
+roém|R W E4 MZ
+roẹm|R W E5 MZ
+roi|R O0 IZ
+ròi|R O1 IZ
+rỏi|R O3 IZ
+rõi|R O2 IZ
+rói|R O4 IZ
+rọi|R O5 IZ
+rom|R O0 MZ
+ròm|R O1 MZ
+rỏm|R O3 MZ
+rõm|R O2 MZ
+róm|R O4 MZ
+rọm|R O5 MZ
+ron|R O0 NZ
+ròn|R O1 NZ
+rỏn|R O3 NZ
+rõn|R O2 NZ
+rón|R O4 NZ
+rọn|R O5 NZ
+rong|R OA0 NGZ
+ròng|R OA1 NGZ
+rỏng|R OA3 NGZ
+rõng|R OA2 NGZ
+róng|R OA4 NGZ
+rọng|R OA5 NGZ
+roóc|R O4 OA4 KC
+roọc|R O5 OA5 KC
+róp|R O4 PC
+rót|R O4 TC
+rọt|R O5 TC
+rô|R OO0
+rồ|R OO1
+rổ|R OO3
+rỗ|R OO2
+rố|R OO4
+rộ|R OO5
+rốc|R OO4 KC
+rộc|R OO5 KC
+rồi|R OO1 IZ
+rỗi|R OO2 IZ
+rối|R OO4 IZ
+rôm|R OO0 MZ
+rồm|R OO1 MZ
+rổm|R OO3 MZ
+rỗm|R OO2 MZ
+rốm|R OO4 MZ
+rộm|R OO5 MZ
+rôn|R OO0 NZ
+rồn|R OO1 NZ
+rổn|R OO3 NZ
+rỗn|R OO2 NZ
+rốn|R OO4 NZ
+rộn|R OO5 NZ
+rông|R OO0 NGZ
+rồng|R OO1 NGZ
+rổng|R OO3 NGZ
+rỗng|R OO2 NGZ
+rống|R OO4 NGZ
+rộng|R OO5 NGZ
+rốp|R OO4 PC
+rộp|R OO5 PC
+rốt|R OO4 TC
+rơ|R OW0
+rờ|R OW1
+rở|R OW3
+rỡ|R OW2
+rớ|R OW4
+rợ|R OW5
+rơi|R OW0 IZ
+rời|R OW1 IZ
+rởi|R OW3 IZ
+rỡi|R OW2 IZ
+rới|R OW4 IZ
+rợi|R OW5 IZ
+rơm|R OW0 MZ
+rờm|R OW1 MZ
+rởm|R OW3 MZ
+rỡm|R OW2 MZ
+rớm|R OW4 MZ
+rợm|R OW5 MZ
+rơn|R OW0 NZ
+rờn|R OW1 NZ
+rởn|R OW3 NZ
+rỡn|R OW2 NZ
+rớn|R OW4 NZ
+rợn|R OW5 NZ
+rớp|R OW4 PC
+rợp|R OW5 PC
+rớt|R OW4 TC
+rợt|R OW5 TC
+ru|R U0
+rù|R U1
+rủ|R U3
+rũ|R U2
+rú|R U4
+rụ|R U5
+rua|R UO0
+rùa|R UO1
+rủa|R UO3
+rũa|R UO2
+rúa|R UO4
+rụa|R UO5
+ruây|W AA0 IZ
+ruầy|W AA1 IZ
+ruẩy|W AA3 IZ
+ruẫy|W AA2 IZ
+ruấy|W AA4 IZ
+ruậy|W AA5 IZ
+rúc|R U4 KC
+rục|R U5 KC
+rui|R U0 IZ
+rùi|R U1 IZ
+rủi|R U3 IZ
+rũi|R U2 IZ
+rúi|R U4 IZ
+rụi|R U5 IZ
+rum|R U0 MZ
+rùm|R U1 MZ
+rủm|R U3 MZ
+rũm|R U2 MZ
+rúm|R U4 MZ
+rụm|R U5 MZ
+run|R U0 NZ
+rùn|R U1 NZ
+rủn|R U3 NZ
+rũn|R U2 NZ
+rún|R U4 NZ
+rụn|R U5 NZ
+rung|R U0 NGZ
+rùng|R U1 NGZ
+rủng|R U3 NGZ
+rũng|R U2 NGZ
+rúng|R U4 NGZ
+rụng|R U5 NGZ
+ruốc|R UO4 KC
+ruồi|R UO1 IZ
+ruổi|R UO3 IZ
+ruối|R UO4 IZ
+ruộm|R UO5 MZ
+ruồng|R UO1 NGZ
+ruỗng|R UO2 NGZ
+ruộng|R UO5 NGZ
+ruột|R UO5 TC
+rúp|R U4 PC
+rụp|R U5 PC
+rút|R U4 TC
+rụt|R U5 TC
+ruy|R W I0
+rùy|R W I1
+rủy|R W I3
+rũy|R W I2
+rúy|R W I4
+rụy|R W I5
+ruynh|R W I0 NGZ
+ruỳnh|R W I1 NGZ
+ruỷnh|R W I3 NGZ
+ruỹnh|R W I2 NGZ
+ruýnh|R W I4 NGZ
+ruỵnh|R W I5 NGZ
+ruýp|T W I4 PC
+ruỵp|T W I5 PC
+ruyt|R W I4 TC
+ruýt|R W I4 TC
+ruỵt|R W I5 TC
+ruyu|R W I0 UZ
+ruỳu|R W I1 UZ
+ruỷu|R W I3 UZ
+ruỹu|R W I2 UZ
+ruýu|R W I4 UZ
+ruỵu|R W I5 UZ
+rư|R UW0
+rừ|R UW1
+rử|R UW3
+rữ|R UW2
+rứ|R UW4
+rự|R UW5
+rửa|R WA3
+rữa|R WA2
+rứa|R WA4
+rựa|R WA5
+rức|R UW4 KC
+rực|R UW5 KC
+rừn|R UW1 NZ
+rưng|R UW0 NGZ
+rừng|R UW1 NGZ
+rửng|R UW3 NGZ
+rững|R UW2 NGZ
+rứng|R UW4 NGZ
+rựng|R UW5 NGZ
+rước|R WA4 KC
+rưởi|R WA3 IZ
+rưỡi|R WA2 IZ
+rưới|R WA4 IZ
+rượi|R WA5 IZ
+rườm|R WA1 MZ
+rướn|R WA4 NZ
+rương|R WA0 NGZ
+rường|R WA1 NGZ
+rưởng|R WA3 NGZ
+rưỡng|R WA2 NGZ
+rướng|R WA4 NGZ
+rượng|R WA5 NGZ
+rượt|R WA5 TC
+rượu|R WA5 UZ
+rứt|R UW4 TC
+ry|R I0
+rỳ|R I1
+rỷ|R I3
+rỹ|R I2
+rý|R I4
+rỵ|R I5
+sa|S A0
+sà|S A1
+sả|S A3
+sã|S A2
+sá|S A4
+sạ|S A5
+sác|S A4 KC
+sạc|S A5 KC
+sách|S EA4 KC
+sạch|S EA5 KC
+sai|S A0 IZ
+sài|S A1 IZ
+sải|S A3 IZ
+sãi|S A2 IZ
+sái|S A4 IZ
+sại|S A5 IZ
+sam|S A0 MZ
+sàm|S A1 MZ
+sảm|S A3 MZ
+sãm|S A2 MZ
+sám|S A4 MZ
+sạm|S A5 MZ
+san|S A0 NZ
+sàn|S A1 NZ
+sản|S A3 NZ
+sãn|S A2 NZ
+sán|S A4 NZ
+sạn|S A5 NZ
+sang|S A0 NGZ
+sàng|S A1 NGZ
+sảng|S A3 NGZ
+sãng|S A2 NGZ
+sáng|S A4 NGZ
+sạng|S A5 NGZ
+sanh|S EA0 NGZ
+sành|S EA1 NGZ
+sảnh|S EA3 NGZ
+sãnh|S EA2 NGZ
+sánh|S EA4 NGZ
+sạnh|S EA5 NGZ
+sao|S A0 UZ
+sào|S A1 UZ
+sảo|S A3 UZ
+são|S A2 UZ
+sáo|S A4 UZ
+sạo|S A5 UZ
+sáp|S A4 PC
+sạp|S A5 PC
+sát|S A4 TC
+sạt|S A5 TC
+sau|S AW0 UZ
+sàu|S AW1 UZ
+sảu|S AW3 UZ
+sãu|S AW2 UZ
+sáu|S AW4 UZ
+sạu|S AW5 UZ
+say|S AW0 IZ
+sày|S AW1 IZ
+sảy|S AW3 IZ
+sãy|S AW2 IZ
+sáy|S AW4 IZ
+sạy|S AW5 IZ
+sắc|S AW4 KC
+sặc|S AW5 KC
+săm|S AW0 MZ
+sằm|S AW1 MZ
+sẳm|S AW3 MZ
+sẵm|S AW2 MZ
+sắm|S AW4 MZ
+sặm|S AW5 MZ
+săn|S AW0 NZ
+sằn|S AW1 NZ
+sẳn|S AW3 NZ
+sẵn|S AW2 NZ
+sắn|S AW4 NZ
+sặn|S AW5 NZ
+săng|S AW0 NGZ
+sằng|S AW1 NGZ
+sẳng|S AW3 NGZ
+sẵng|S AW2 NGZ
+sắng|S AW4 NGZ
+sặng|S AW5 NGZ
+sắp|S AW4 PC
+sắt|S AW4 TC
+sâm|S AA0 MZ
+sầm|S AA1 MZ
+sẩm|S AA3 MZ
+sẫm|S AA2 MZ
+sấm|S AA4 MZ
+sậm|S AA5 MZ
+sân|S AA0 NZ
+sần|S AA1 NZ
+sẩn|S AA3 NZ
+sẫn|S AA2 NZ
+sấn|S AA4 NZ
+sận|S AA5 NZ
+sấp|S AA4 PC
+sập|S AA5 PC
+sất|S AA4 TC
+sật|S AA5 TC
+sâu|S AA0 UZ
+sầu|S AA1 UZ
+sẩu|S AA3 UZ
+sẫu|S AA2 UZ
+sấu|S AA4 UZ
+sậu|S AA5 UZ
+sây|S AA0 IZ
+sầy|S AA1 IZ
+sẩy|S AA3 IZ
+sẫy|S AA2 IZ
+sấy|S AA4 IZ
+sậy|S AA5 IZ
+se|S E0
+sè|S E1
+sẻ|S E3
+sẽ|S E2
+sé|S E4
+sẹ|S E5
+séc|S E4 KC
+séch|S E4 KC
+sem|S E0 MZ
+sèm|S E1 MZ
+sẻm|S E3 MZ
+sẽm|S E2 MZ
+sém|S E4 MZ
+sẹm|S E5 MZ
+sen|S E0 NZ
+sèn|S E1 NZ
+sẻn|S E3 NZ
+sẽn|S E2 NZ
+sén|S E4 NZ
+sẹn|S E5 NZ
+seng|S E0 NGZ
+sèng|S E1 NGZ
+sẻng|S E3 NGZ
+sẽng|S E2 NGZ
+séng|S E4 NGZ
+sẹng|S E5 NGZ
+senh|S E0 NGZ
+seo|S E0 UZ
+sèo|S E1 UZ
+sẻo|S E3 UZ
+sẽo|S E2 UZ
+séo|S E4 UZ
+sẹo|S E5 UZ
+sép|S E4 PC
+sét|S E4 TC
+sey|S E0 IZ
+sê|S EE0
+sề|S EE1
+sể|S EE3
+sễ|S EE2
+sế|S EE4
+sệ|S EE5
+sếch|S EE4 KC
+sên|S EE0 NZ
+sền|S EE1 NZ
+sển|S EE3 NZ
+sễn|S EE2 NZ
+sến|S EE4 NZ
+sện|S EE5 NZ
+sểnh|S EE3 NGZ
+sếp|S EE4 PC
+sết|S EE4 TC
+sệt|S EE5 TC
+sêu|S EE0 UZ
+sều|S EE1 UZ
+sểu|S EE3 UZ
+sễu|S EE2 UZ
+sếu|S EE4 UZ
+sệu|S EE5 UZ
+sêy|S EE0 IZ
+shin|S H I0 NZ
+si|S I0
+sì|S I1
+sỉ|S I3
+sĩ|S I2
+sí|S I4
+sị|S I5
+sia|S IE0
+sìa|S IE1
+sỉa|S IE3
+sĩa|S IE2
+sía|S IE4
+sịa|S IE5
+sích|S I4 KC
+siêm|S IE0 MZ
+siềm|S IE1 MZ
+siểm|S IE3 MZ
+siễm|S IE2 MZ
+siếm|S IE4 MZ
+siệm|S IE5 MZ
+siêng|S IE0 NGZ
+siềng|S IE1 NGZ
+siểng|S IE3 NGZ
+siễng|S IE2 NGZ
+siếng|S IE4 NGZ
+siệng|S IE5 NGZ
+siết|S IE4 TC
+siêu|S IE0 UZ
+siều|S IE1 UZ
+siểu|S IE3 UZ
+siễu|S IE2 UZ
+siếu|S IE4 UZ
+siệu|S IE5 UZ
+sim|S I0 MZ
+sìm|S I1 MZ
+sỉm|S I3 MZ
+sĩm|S I2 MZ
+sím|S I4 MZ
+sịm|S I5 MZ
+sin|S I0 NZ
+sìn|S I1 NZ
+sỉn|S I3 NZ
+sĩn|S I2 NZ
+sín|S I4 NZ
+sịn|S I5 NZ
+sinh|S I0 NGZ
+sình|S I1 NGZ
+sỉnh|S I3 NGZ
+sĩnh|S I2 NGZ
+sính|S I4 NGZ
+sịnh|S I5 NGZ
+síp|S I4 PC
+sít|S I4 TC
+sịt|S I5 TC
+siu|S I0 UZ
+sìu|S I1 UZ
+sỉu|S I3 UZ
+sĩu|S I2 UZ
+síu|S I4 UZ
+sịu|S I5 UZ
+so|S O0
+sò|S O1
+sỏ|S O3
+sõ|S O2
+só|S O4
+sọ|S O5
+soa|S W A0
+sòa|S W A1
+sỏa|S W A3
+sõa|S W A2
+sóa|S W A4
+sọa|S W A5
+soài|S W A1 IZ
+soãi|S W A2 IZ
+soái|S W A4 IZ
+sòai|S W A1 IZ
+sõai|S W A2 IZ
+sóai|S W A4 IZ
+soán|S W A4 NZ
+soạn|S W A5 NZ
+sóan|S W A4 NZ
+sọan|S W A5 NZ
+soạng|S W A5 NGZ
+sọang|S W A5 NGZ
+soát|S W A4 TC
+soạt|S W A5 TC
+sóat|S W A4 TC
+sọat|S W A5 TC
+sóc|S OA4 KC
+sọc|S OA5 KC
+soem|S W E0 MZ
+soèm|S W E1 MZ
+soẻm|S W E3 MZ
+soẽm|S W E2 MZ
+soém|S W E4 MZ
+soẹm|S W E5 MZ
+soi|S O0 IZ
+sòi|S O1 IZ
+sỏi|S O3 IZ
+sõi|S O2 IZ
+sói|S O4 IZ
+sọi|S O5 IZ
+som|S O0 MZ
+sòm|S O1 MZ
+sỏm|S O3 MZ
+sõm|S O2 MZ
+sóm|S O4 MZ
+sọm|S O5 MZ
+son|S O0 NZ
+sòn|S O1 NZ
+sỏn|S O3 NZ
+sõn|S O2 NZ
+són|S O4 NZ
+sọn|S O5 NZ
+song|S OA0 NGZ
+sòng|S OA1 NGZ
+sỏng|S OA3 NGZ
+sõng|S OA2 NGZ
+sóng|S OA4 NGZ
+sọng|S OA5 NGZ
+sóp|S O4 PC
+sót|S O4 TC
+sọt|S O5 TC
+sô|S OO0
+sồ|S OO1
+sổ|S OO3
+sỗ|S OO2
+số|S OO4
+sộ|S OO5
+sốc|S OO4 KC
+sôi|S OO0 IZ
+sồi|S OO1 IZ
+sổi|S OO3 IZ
+sỗi|S OO2 IZ
+sối|S OO4 IZ
+sội|S OO5 IZ
+sôm|S OO0 MZ
+sồm|S OO1 MZ
+sổm|S OO3 MZ
+sỗm|S OO2 MZ
+sốm|S OO4 MZ
+sộm|S OO5 MZ
+sôn|S OO0 NZ
+sồn|S OO1 NZ
+sổn|S OO3 NZ
+sỗn|S OO2 NZ
+sốn|S OO4 NZ
+sộn|S OO5 NZ
+sông|S OO0 NGZ
+sồng|S OO1 NGZ
+sổng|S OO3 NGZ
+sỗng|S OO2 NGZ
+sống|S OO4 NGZ
+sộng|S OO5 NGZ
+sốp|S OO4 PC
+sộp|S OO5 PC
+sốt|S OO4 TC
+sột|S OO5 TC
+sơ|S OW0
+sờ|S OW1
+sở|S OW3
+sỡ|S OW2
+sớ|S OW4
+sợ|S OW5
+sơi|S OW0 IZ
+sời|P OW1 IZ
+sởi|S OW3 IZ
+sỡi|P OW2 IZ
+sới|S OW4 IZ
+sợi|S OW5 IZ
+sơm|S OW0 MZ
+sờm|S OW1 MZ
+sởm|S OW3 MZ
+sỡm|S OW2 MZ
+sớm|S OW4 MZ
+sợm|S OW5 MZ
+sơn|S OW0 NZ
+sờn|S OW1 NZ
+sởn|S OW3 NZ
+sỡn|S OW2 NZ
+sớn|S OW4 NZ
+sợn|S OW5 NZ
+sợp|S OW5 PC
+sớt|S OW4 TC
+sợt|S OW5 TC
+su|S U0
+sù|S U1
+sủ|S U3
+sũ|S U2
+sú|S U4
+sụ|S U5
+sua|S UO0
+sùa|S UO1
+sủa|S UO3
+sũa|S UO2
+súa|S UO4
+sụa|S UO5
+suất|S W AA4 TC
+súc|S U4 KC
+sục|S U5 KC
+suê|S W EE0
+suề|S W EE1
+suể|S W EE3
+suễ|S W EE2
+suế|S W EE4
+suệ|S W EE5
+sui|S U0 IZ
+sùi|S U1 IZ
+sủi|S U3 IZ
+sũi|S U2 IZ
+súi|S U4 IZ
+sụi|S U5 IZ
+sum|S U0 MZ
+sùm|S U1 MZ
+sủm|S U3 MZ
+sũm|S U2 MZ
+súm|S U4 MZ
+sụm|S U5 MZ
+sun|S U0 NZ
+sùn|S U1 NZ
+sủn|S U3 NZ
+sũn|S U2 NZ
+sún|S U4 NZ
+sụn|S U5 NZ
+sung|S U0 NGZ
+sùng|S U1 NGZ
+sủng|S U3 NGZ
+sũng|S U2 NGZ
+súng|S U4 NGZ
+sụng|S U5 NGZ
+suốc|S UO4 KC
+suối|S UO4 IZ
+suôn|S UO0 NZ
+suồn|S UO1 NZ
+suổn|S UO3 NZ
+suỗn|S UO2 NZ
+suốn|S UO4 NZ
+suộn|S UO5 NZ
+suông|S UO0 NGZ
+suồng|S UO1 NGZ
+suổng|S UO3 NGZ
+suỗng|S UO2 NGZ
+suống|S UO4 NGZ
+suộng|S UO5 NGZ
+suốt|S UO4 TC
+suột|S UO5 TC
+súp|S U4 PC
+sụp|S U5 PC
+sút|S U4 TC
+sụt|S U5 TC
+suy|S W I0
+suý|S W I4
+sùy|S W I1
+sủy|S W I3
+sũy|S W I2
+súy|S W I4
+sụy|S W I5
+suyển|S W IE3 NZ
+suyễn|S W IE2 NZ
+suynh|S W I0 NGZ
+suỳnh|S W I1 NGZ
+suỷnh|S W I3 NGZ
+suỹnh|S W I2 NGZ
+suýnh|S W I4 NGZ
+suỵnh|S W I5 NGZ
+suyp|S W I4 PC
+suýp|S W I4 PC
+suỵp|S W I5 PC
+suyt|S W I4 TC
+suýt|S W I4 TC
+suỵt|S W I5 TC
+súyt|S W I4 TC
+suyu|S W I0 UZ
+suỳu|S W I1 UZ
+suỷu|S W I3 UZ
+suỹu|S W I2 UZ
+suýu|S W I4 UZ
+suỵu|S W I5 UZ
+sư|S UW0
+sừ|S UW1
+sử|S UW3
+sữ|S UW2
+sứ|S UW4
+sự|S UW5
+sưa|S WA0
+sừa|S WA1
+sửa|S WA3
+sữa|S WA2
+sứa|S WA4
+sựa|S WA5
+sức|S UW4 KC
+sực|S UW5 KC
+sưn|S UW0 NZ
+sừn|S UW1 NZ
+sửn|S UW3 NZ
+sữn|S UW2 NZ
+sứn|S UW4 NZ
+sựn|S UW5 NZ
+sưng|S UW0 NGZ
+sừng|S UW1 NGZ
+sửng|S UW3 NGZ
+sững|S UW2 NGZ
+sứng|S UW4 NGZ
+sựng|S UW5 NGZ
+sưởi|S WA3 IZ
+sườn|S WA1 NZ
+sương|S WA0 NGZ
+sường|S WA1 NGZ
+sưởng|S WA3 NGZ
+sưỡng|S WA2 NGZ
+sướng|S WA4 NGZ
+sượng|S WA5 NGZ
+sướt|S WA4 TC
+sượt|S WA5 TC
+sứt|S UW4 TC
+sưu|S UW0 UZ
+sừu|S UW1 UZ
+sửu|S UW3 UZ
+sữu|S UW2 UZ
+sứu|S UW4 UZ
+sựu|S UW5 UZ
+sỹ|S I2
+ta|T A0
+tà|T A1
+tả|T A3
+tã|T A2
+tá|T A4
+tạ|T A5
+tác|T A4 KC
+tạc|T A5 KC
+tách|T EA4 KC
+tạch|T EA5 KC
+tai|T A0 IZ
+tài|T A1 IZ
+tải|T A3 IZ
+tãi|T A2 IZ
+tái|T A4 IZ
+tại|T A5 IZ
+tam|T A0 MZ
+tàm|T A1 MZ
+tảm|T A3 MZ
+tãm|T A2 MZ
+tám|T A4 MZ
+tạm|T A5 MZ
+tan|T A0 NZ
+tàn|T A1 NZ
+tản|T A3 NZ
+tãn|T A2 NZ
+tán|T A4 NZ
+tạn|T A5 NZ
+tang|T A0 NGZ
+tàng|T A1 NGZ
+tảng|T A3 NGZ
+tãng|T A2 NGZ
+táng|T A4 NGZ
+tạng|T A5 NGZ
+tanh|T EA0 NGZ
+tành|T EA1 NGZ
+tảnh|T EA3 NGZ
+tãnh|T EA2 NGZ
+tánh|T EA4 NGZ
+tạnh|T EA5 NGZ
+tao|T A0 UZ
+tào|T A1 UZ
+tảo|T A3 UZ
+tão|T A2 UZ
+táo|T A4 UZ
+tạo|T A5 UZ
+táp|T A4 PC
+tạp|T A5 PC
+tát|T A4 TC
+tạt|T A5 TC
+tau|T AW0 UZ
+tàu|T AW1 UZ
+tảu|T AW3 UZ
+tãu|T AW2 UZ
+táu|T AW4 UZ
+tạu|T AW5 UZ
+tay|T AW0 IZ
+tày|T AW1 IZ
+tảy|T AW3 IZ
+tãy|T AW2 IZ
+táy|T AW4 IZ
+tạy|T AW5 IZ
+tắc|T AW4 KC
+tặc|T AW5 KC
+tăm|T AW0 MZ
+tằm|T AW1 MZ
+tẳm|T AW3 MZ
+tẵm|T AW2 MZ
+tắm|T AW4 MZ
+tặm|T AW5 MZ
+tăn|T AW0 NZ
+tằn|T AW1 NZ
+tẳn|T AW3 NZ
+tẵn|T AW2 NZ
+tắn|T AW4 NZ
+tặn|T AW5 NZ
+tăng|T AW0 NGZ
+tằng|T AW1 NGZ
+tẳng|T AW3 NGZ
+tẵng|T AW2 NGZ
+tắng|T AW4 NGZ
+tặng|T AW5 NGZ
+tắp|T AW4 PC
+tắt|T AW4 TC
+tấc|T AA4 KC
+tâm|T AA0 MZ
+tầm|T AA1 MZ
+tẩm|T AA3 MZ
+tẫm|T AA2 MZ
+tấm|T AA4 MZ
+tậm|T AA5 MZ
+tân|T AA0 NZ
+tần|T AA1 NZ
+tẩn|T AA3 NZ
+tẫn|T AA2 NZ
+tấn|T AA4 NZ
+tận|T AA5 NZ
+tâng|T AA0 NGZ
+tầng|T AA1 NGZ
+tẩng|T AA3 NGZ
+tẫng|T AA2 NGZ
+tấng|T AA4 NGZ
+tậng|T AA5 NGZ
+tấp|T AA4 PC
+tập|T AA5 PC
+tất|T AA4 TC
+tật|T AA5 TC
+tâu|T AA0 UZ
+tầu|T AA1 UZ
+tẩu|T AA3 UZ
+tẫu|T AA2 UZ
+tấu|T AA4 UZ
+tậu|T AA5 UZ
+tây|T AA0 IZ
+tầy|T AA1 IZ
+tẩy|T AA3 IZ
+tẫy|T AA2 IZ
+tấy|T AA4 IZ
+tậy|T AA5 IZ
+te|T E0
+tè|T E1
+tẻ|T E3
+tẽ|T E2
+té|T E4
+tẹ|T E5
+téc|T E4 KC
+téch|T E4 KC
+tem|T E0 MZ
+tèm|T E1 MZ
+tẻm|T E3 MZ
+tẽm|T E2 MZ
+tém|T E4 MZ
+tẹm|T E5 MZ
+ten|T E0 NZ
+tèn|T E1 NZ
+tẻn|T E3 NZ
+tẽn|T E2 NZ
+tén|T E4 NZ
+tẹn|T E5 NZ
+teng|T E0 NGZ
+tèng|T E1 NGZ
+tẻng|T E3 NGZ
+tẽng|T E2 NGZ
+téng|T E4 NGZ
+tẹng|T E5 NGZ
+teo|T E0 UZ
+tèo|T E1 UZ
+tẻo|T E3 UZ
+tẽo|T E2 UZ
+téo|T E4 UZ
+tẹo|T E5 UZ
+tép|T E4 PC
+tét|T E4 TC
+tẹt|T E5 TC
+tê|T EE0
+tề|T EE1
+tể|T EE3
+tễ|T EE2
+tế|T EE4
+tệ|T EE5
+tếc|T EE4 KC
+tếch|T EE4 KC
+tên|T EE0 NZ
+tền|T EE1 NZ
+tển|T EE3 NZ
+tễn|T EE2 NZ
+tến|T EE4 NZ
+tện|T EE5 NZ
+tênh|T EE0 NGZ
+tềnh|T EE1 NGZ
+tểnh|T EE3 NGZ
+tễnh|T EE2 NGZ
+tếnh|T EE4 NGZ
+tệnh|T EE5 NGZ
+tệp|T EE5 PC
+tết|T EE4 TC
+têu|T EE0 UZ
+tều|T EE1 UZ
+tểu|T EE3 UZ
+tễu|T EE2 UZ
+tếu|T EE4 UZ
+tệu|T EE5 UZ
+tha|TH A0
+thà|TH A1
+thả|TH A3
+thã|TH A2
+thá|TH A4
+thạ|TH A5
+thác|TH A4 KC
+thạc|TH A5 KC
+thách|TH EA4 KC
+thạch|TH EA5 KC
+thai|TH A0 IZ
+thài|TH A1 IZ
+thải|TH A3 IZ
+thãi|TH A2 IZ
+thái|TH A4 IZ
+thại|TH A5 IZ
+tham|TH A0 MZ
+thàm|TH A1 MZ
+thảm|TH A3 MZ
+thãm|TH A2 MZ
+thám|TH A4 MZ
+thạm|TH A5 MZ
+than|TH A0 NZ
+thàn|TH A1 NZ
+thản|TH A3 NZ
+thãn|TH A2 NZ
+thán|TH A4 NZ
+thạn|TH A5 NZ
+thang|TH A0 NGZ
+thàng|TH A1 NGZ
+thảng|TH A3 NGZ
+thãng|TH A2 NGZ
+tháng|TH A4 NGZ
+thạng|TH A5 NGZ
+thanh|TH EA0 NGZ
+thành|TH EA1 NGZ
+thảnh|TH EA3 NGZ
+thãnh|TH EA2 NGZ
+thánh|TH EA4 NGZ
+thạnh|TH EA5 NGZ
+thao|TH A0 UZ
+thào|TH A1 UZ
+thảo|TH A3 UZ
+thão|TH A2 UZ
+tháo|TH A4 UZ
+thạo|TH A5 UZ
+tháp|TH A4 PC
+thạp|TH A5 PC
+thát|TH A4 TC
+thau|TH AW0 UZ
+thàu|TH AW1 UZ
+thảu|TH AW3 UZ
+thãu|TH AW2 UZ
+tháu|TH AW4 UZ
+thạu|TH AW5 UZ
+thay|TH AW0 IZ
+thày|TH AW1 IZ
+thảy|TH AW3 IZ
+thãy|TH AW2 IZ
+tháy|TH AW4 IZ
+thạy|TH AW5 IZ
+thắc|TH AW4 KC
+thăm|TH AW0 MZ
+thằm|TH AW1 MZ
+thẳm|TH AW3 MZ
+thẵm|TH AW2 MZ
+thắm|TH AW4 MZ
+thặm|TH AW5 MZ
+thăn|TH AW0 NZ
+thằn|TH AW1 NZ
+thẳn|TH AW3 NZ
+thẵn|TH AW2 NZ
+thắn|TH AW4 NZ
+thặn|TH AW5 NZ
+thăng|TH AW0 NGZ
+thằng|TH AW1 NGZ
+thẳng|TH AW3 NGZ
+thẵng|TH AW2 NGZ
+thắng|TH AW4 NGZ
+thặng|TH AW5 NGZ
+thắp|TH AW4 PC
+thắt|TH AW4 TC
+thâm|TH AA0 MZ
+thầm|TH AA1 MZ
+thẩm|TH AA3 MZ
+thẫm|TH AA2 MZ
+thấm|TH AA4 MZ
+thậm|TH AA5 MZ
+thân|TH AA0 NZ
+thần|TH AA1 NZ
+thẩn|TH AA3 NZ
+thẫn|TH AA2 NZ
+thấn|TH AA4 NZ
+thận|TH AA5 NZ
+thấp|TH AA4 PC
+thập|TH AA5 PC
+thất|TH AA4 TC
+thật|TH AA5 TC
+thâu|TH AA0 UZ
+thầu|TH AA1 UZ
+thẩu|TH AA3 UZ
+thẫu|TH AA2 UZ
+thấu|TH AA4 UZ
+thậu|TH AA5 UZ
+thây|TH AA0 IZ
+thầy|TH AA1 IZ
+thẩy|TH AA3 IZ
+thẫy|TH AA2 IZ
+thấy|TH AA4 IZ
+thậy|TH AA5 IZ
+the|TH E0
+thè|TH E1
+thẻ|TH E3
+thẽ|TH E2
+thé|TH E4
+thẹ|TH E5
+them|TH E0 MZ
+thèm|TH E1 MZ
+thẻm|TH E3 MZ
+thẽm|TH E2 MZ
+thém|TH E4 MZ
+thẹm|TH E5 MZ
+then|TH E0 NZ
+thèn|TH E1 NZ
+thẻn|TH E3 NZ
+thẽn|TH E2 NZ
+thén|TH E4 NZ
+thẹn|TH E5 NZ
+thèng|TH E1 NGZ
+theo|TH E0 UZ
+thèo|TH E1 UZ
+thẻo|TH E3 UZ
+thẽo|TH E2 UZ
+théo|TH E4 UZ
+thẹo|TH E5 UZ
+thép|TH E4 PC
+thét|TH E4 TC
+thê|TH EE0
+thề|TH EE1
+thể|TH EE3
+thễ|TH EE2
+thế|TH EE4
+thệ|TH EE5
+thếch|TH EE4 KC
+thêm|TH EE0 MZ
+thềm|TH EE1 MZ
+thểm|TH EE3 MZ
+thễm|TH EE2 MZ
+thếm|TH EE4 MZ
+thệm|TH EE5 MZ
+thên|TH EE0 NZ
+thền|TH EE1 NZ
+thển|TH EE3 NZ
+thễn|TH EE2 NZ
+thến|TH EE4 NZ
+thện|TH EE5 NZ
+thênh|TH EE0 NGZ
+thềnh|TH EE1 NGZ
+thểnh|TH EE3 NGZ
+thễnh|TH EE2 NGZ
+thếnh|TH EE4 NGZ
+thệnh|TH EE5 NGZ
+thếp|TH EE4 PC
+thết|TH EE4 TC
+thêu|TH EE0 UZ
+thều|TH EE1 UZ
+thểu|TH EE3 UZ
+thễu|TH EE2 UZ
+thếu|TH EE4 UZ
+thệu|TH EE5 UZ
+thi|TH I0
+thì|TH I1
+thỉ|TH I3
+thĩ|TH I2
+thí|TH I4
+thị|TH I5
+thia|TH IE0
+thìa|TH IE1
+thỉa|TH IE3
+thĩa|TH IE2
+thía|TH IE4
+thịa|TH IE5
+thích|TH I4 KC
+thịch|TH I5 KC
+thiếc|TH IE4 KC
+thiêm|TH IE0 MZ
+thiềm|TH IE1 MZ
+thiểm|TH IE3 MZ
+thiễm|TH IE2 MZ
+thiếm|TH IE4 MZ
+thiệm|TH IE5 MZ
+thiên|TH IE0 NZ
+thiền|TH IE1 NZ
+thiển|TH IE3 NZ
+thiễn|TH IE2 NZ
+thiến|TH IE4 NZ
+thiện|TH IE5 NZ
+thiêng|TH IE0 NGZ
+thiềng|TH IE1 NGZ
+thiểng|TH IE3 NGZ
+thiễng|TH IE2 NGZ
+thiếng|TH IE4 NGZ
+thiệng|TH IE5 NGZ
+thiếp|TH IE4 PC
+thiệp|TH IE5 PC
+thiết|TH IE4 TC
+thiệt|TH IE5 TC
+thiêu|TH IE0 UZ
+thiều|TH IE1 UZ
+thiểu|TH IE3 UZ
+thiễu|TH IE2 UZ
+thiếu|TH IE4 UZ
+thiệu|TH IE5 UZ
+thim|TH I0 MZ
+thìm|TH I1 MZ
+thỉm|TH I3 MZ
+thĩm|TH I2 MZ
+thím|TH I4 MZ
+thịm|TH I5 MZ
+thin|TH I0 NZ
+thìn|TH I1 NZ
+thỉn|TH I3 NZ
+thĩn|TH I2 NZ
+thín|TH I4 NZ
+thịn|TH I5 NZ
+thing|TH I0 NGZ
+thinh|TH I0 NGZ
+thình|TH I1 NGZ
+thỉnh|TH I3 NGZ
+thĩnh|TH I2 NGZ
+thính|TH I4 NGZ
+thịnh|TH I5 NGZ
+thíp|TH I4 PC
+thít|TH I4 TC
+thịt|TH I5 TC
+thiu|TH I0 UZ
+thìu|TH I1 UZ
+thỉu|TH I3 UZ
+thĩu|TH I2 UZ
+thíu|TH I4 UZ
+thịu|TH I5 UZ
+tho|TH O0
+thò|TH O1
+thỏ|TH O3
+thõ|TH O2
+thó|TH O4
+thọ|TH O5
+thoa|TH W A0
+thoả|TH W A3
+thoá|TH W A4
+thòa|TH W A1
+thỏa|TH W A3
+thõa|TH W A2
+thóa|TH W A4
+thọa|TH W A5
+thoai|TH W A0 IZ
+thoài|TH W A1 IZ
+thoải|TH W A3 IZ
+thoãi|TH W A2 IZ
+thoái|TH W A4 IZ
+thoại|TH W A5 IZ
+thỏai|TH W A3 IZ
+thóai|TH W A4 IZ
+thọai|TH W A5 IZ
+thoang|TH W A0 NGZ
+thoàng|TH W A1 NGZ
+thoảng|TH W A3 NGZ
+thoãng|TH W A2 NGZ
+thoáng|TH W A4 NGZ
+thoạng|TH W A5 NGZ
+thỏang|TH W A3 NGZ
+thóang|TH W A4 NGZ
+thoát|TH W A4 TC
+thoạt|TH W A5 TC
+thóat|TH W A4 TC
+thọat|TH W A5 TC
+thoăn|TH W AW0 NZ
+thoằn|TH W AW1 NZ
+thoẳn|TH W AW3 NZ
+thoẵn|TH W AW2 NZ
+thoắn|TH W AW4 NZ
+thoặn|TH W AW5 NZ
+thoắng|TH W AW4 NGZ
+thoắt|TH W AW4 TC
+thóc|TH OA4 KC
+thọc|TH OA5 KC
+thoem|TH W E0 MZ
+thoèm|TH W E1 MZ
+thoẻm|TH W E3 MZ
+thoẽm|TH W E2 MZE
+thoém|TH W E4 MZE
+thoẹm|TH W E5 MZE
+thoen|TH W E0 NZ
+thoèn|TH W E1 NZ
+thoẻn|TH W E3 NZ
+thoẽn|TH W E2 NZ
+thoén|TH W E4 NZ
+thoẹn|TH W E5 NZ
+thoi|TH O0 IZ
+thòi|TH O1 IZ
+thỏi|TH O3 IZ
+thõi|TH O2 IZ
+thói|TH O4 IZ
+thọi|TH O5 IZ
+thom|TH O0 MZ
+thòm|TH O1 MZ
+thỏm|TH O3 MZ
+thõm|TH O2 MZ
+thóm|TH O4 MZ
+thọm|TH O5 MZ
+thon|TH O0 NZ
+thòn|TH O1 NZ
+thỏn|TH O3 NZ
+thõn|TH O2 NZ
+thón|TH O4 NZ
+thọn|TH O5 NZ
+thong|TH OA0 NGZ
+thòng|TH OA1 NGZ
+thỏng|TH OA3 NGZ
+thõng|TH OA2 NGZ
+thóng|TH OA4 NGZ
+thọng|TH OA5 NGZ
+thoóc|TH O4 OA4 KC
+thóp|TH O4 PC
+thót|TH O4 TC
+thọt|TH O5 TC
+thô|TH OO0
+thồ|TH OO1
+thổ|TH OO3
+thỗ|TH OO2
+thố|TH OO4
+thộ|TH OO5
+thốc|TH OO4 KC
+thộc|TH OO5 KC
+thôi|TH OO0 IZ
+thồi|TH OO1 IZ
+thổi|TH OO3 IZ
+thỗi|TH OO2 IZ
+thối|TH OO4 IZ
+thội|TH OO5 IZ
+thôn|TH OO0 NZ
+thồn|TH OO1 NZ
+thổn|TH OO3 NZ
+thỗn|TH OO2 NZ
+thốn|TH OO4 NZ
+thộn|TH OO5 NZ
+thông|TH OO0 NGZ
+thồng|TH OO1 NGZ
+thổng|TH OO3 NGZ
+thỗng|TH OO2 NGZ
+thống|TH OO4 NGZ
+thộng|TH OO5 NGZ
+thốt|TH OO4 TC
+thơ|TH OW0
+thờ|TH OW1
+thở|TH OW3
+thỡ|TH OW2
+thớ|TH OW4
+thợ|TH OW5
+thơi|TH OW0 IZ
+thời|TH OW1 IZ
+thởi|TH OW3 IZ
+thỡi|TH OW2 IZ
+thới|TH OW4 IZ
+thợi|TH OW5 IZ
+thơm|TH OW0 MZ
+thờm|TH OW1 MZ
+thởm|TH OW3 MZ
+thỡm|TH OW2 MZ
+thớm|TH OW4 MZ
+thợm|TH OW5 MZ
+thơn|TH OW0 NZ
+thờn|TH OW1 NZ
+thởn|TH OW3 NZ
+thỡn|TH OW2 NZ
+thớn|TH OW4 NZ
+thợn|TH OW5 NZ
+thớt|TH OW4 TC
+thu|TH U0
+thù|TH U1
+thủ|TH U3
+thũ|TH U2
+thú|TH U4
+thụ|TH U5
+thua|TH UO0
+thùa|TH UO1
+thủa|TH UO3
+thũa|TH UO2
+thúa|TH UO4
+thụa|TH UO5
+thuần|TH W AA1 NZ
+thuẫn|TH W AA2 NZ
+thuấn|TH W AA4 NZ
+thuận|TH W AA5 NZ
+thuật|TH W AA5 TC
+thúc|TH U4 KC
+thục|TH U5 KC
+thuê|TH W EE0
+thuề|TH W EE1
+thuể|TH W EE3
+thuễ|TH W EE2
+thuế|TH W EE4
+thuệ|TH W EE5
+thui|TH U0 IZ
+thùi|TH U1 IZ
+thủi|TH U3 IZ
+thũi|TH U2 IZ
+thúi|TH U4 IZ
+thụi|TH U5 IZ
+thùm|TH U1 MZ
+thun|TH U0 NZ
+thùn|TH U1 NZ
+thủn|TH U3 NZ
+thũn|TH U2 NZ
+thún|TH U4 NZ
+thụn|TH U5 NZ
+thung|TH U0 NGZ
+thùng|TH U1 NGZ
+thủng|TH U3 NGZ
+thũng|TH U2 NGZ
+thúng|TH U4 NGZ
+thụng|TH U5 NGZ
+thuốc|TH UO4 KC
+thuộc|TH UO5 KC
+thuộm|TH UO5 MZ
+thuôn|TH UO0 NZ
+thuồn|TH UO1 NZ
+thuổn|TH UO3 NZ
+thuỗn|TH UO2 NZ
+thuốn|TH UO4 NZ
+thuộn|TH UO5 NZ
+thuồng|TH UO1 NGZ
+thuổng|TH UO3 NGZ
+thuột|TH UO5 TC
+thuở|TH W OW3
+thủơ|TH W OW3
+thụp|TH U5 PC
+thút|TH U4 TC
+thụt|TH U5 TC
+thuỳ|TH W I1
+thuỷ|TH W I3
+thuý|TH W I4
+thuỵ|TH W I5
+thùy|TH W I1
+thủy|TH W I3
+thúy|TH W I4
+thụy|TH W I5
+thuyên|TH W IE0 NZ
+thuyền|TH W IE1 NZ
+thuyển|TH W IE3 NZ
+thuyễn|TH W IE2 NZ
+thuyến|TH W IE4 NZ
+thuyện|TH W IE5 NZ
+thuyết|TH W IE4 TC
+thuyn|TH W I0 NZ
+thuỳn|TH W I1 NZ
+thuỷn|TH W I3 NZ
+thuỹn|TH W I2 NZ
+thuýn|TH W I4 NZ
+thuỵn|TH W I5 NZ
+thuynh|TH W I0 NGZ
+thuỳnh|TH W I1 NGZ
+thuỷnh|TH W I3 NGZ
+thuỹnh|TH W I2 NGZ
+thuýnh|TH W I4 NGZ
+thuỵnh|TH W I5 NGZ
+thuyp|TH W I4 PC
+thuýp|TH W I4 PC
+thuỵp|TH W I5 PC
+thuyt|TH W I4 TC
+thuýt|TH W I4 TC
+thuỵt|TH W I5 TC
+thuyu|TH W I0 UZ
+thuỳu|TH W I1 UZ
+thuỷu|TH W I3 UZ
+thuỹu|TH W I2 UZ
+thuýu|TH W I4 UZ
+thuỵu|TH W I5 UZ
+thư|TH UW0
+thừ|TH UW1
+thử|TH UW3
+thữ|TH UW2
+thứ|TH UW4
+thự|TH UW5
+thưa|TH WA0
+thừa|TH WA1
+thửa|TH WA3
+thữa|TH WA2
+thứa|TH WA4
+thựa|TH WA5
+thức|TH UW4 KC
+thực|TH UW5 KC
+thưn|TH UW0 NZ
+thừn|TH UW1 NZ
+thửn|TH UW3 NZ
+thữn|TH UW2 NZ
+thứn|TH UW4 NZ
+thựn|TH UW5 NZ
+thừng|TH UW1 NGZ
+thững|TH UW2 NGZ
+thước|TH WA4 KC
+thược|TH WA5 KC
+thương|TH WA0 NGZ
+thường|TH WA1 NGZ
+thưởng|TH WA3 NGZ
+thưỡng|TH WA2 NGZ
+thướng|TH WA4 NGZ
+thượng|TH WA5 NGZ
+thướt|TH WA4 TC
+thượt|TH WA5 TC
+ti|T I0
+tì|T I1
+tỉ|T I3
+tĩ|T I2
+tí|T I4
+tị|T I5
+tia|T IE0
+tìa|T IE1
+tỉa|T IE3
+tĩa|T IE2
+tía|T IE4
+tịa|T IE5
+tíc|T I4 KC
+tích|T I4 KC
+tịch|T I5 KC
+tiếc|T IE4 KC
+tiệc|T IE5 KC
+tiêm|T IE0 MZ
+tiềm|T IE1 MZ
+tiểm|T IE3 MZ
+tiễm|T IE2 MZ
+tiếm|T IE4 MZ
+tiệm|T IE5 MZ
+tiên|T IE0 NZ
+tiền|T IE1 NZ
+tiển|T IE3 NZ
+tiễn|T IE2 NZ
+tiến|T IE4 NZ
+tiện|T IE5 NZ
+tiêng|T IE0 NGZ
+tiềng|T IE1 NGZ
+tiểng|T IE3 NGZ
+tiễng|T IE2 NGZ
+tiếng|T IE4 NGZ
+tiệng|T IE5 NGZ
+tiếp|T IE4 PC
+tiệp|T IE5 PC
+tiết|T IE4 TC
+tiệt|T IE5 TC
+tiêu|T IE0 UZ
+tiều|T IE1 UZ
+tiểu|T IE3 UZ
+tiễu|T IE2 UZ
+tiếu|T IE4 UZ
+tiệu|T IE5 UZ
+tim|T I0 MZ
+tìm|T I1 MZ
+tỉm|T I3 MZ
+tĩm|T I2 MZ
+tím|T I4 MZ
+tịm|T I5 MZ
+tin|T I0 NZ
+tìn|T I1 NZ
+tỉn|T I3 NZ
+tĩn|T I2 NZ
+tín|T I4 NZ
+tịn|T I5 NZ
+ting|T I0 NGZ
+tinh|T I0 NGZ
+tình|T I1 NGZ
+tỉnh|T I3 NGZ
+tĩnh|T I2 NGZ
+tính|T I4 NGZ
+tịnh|T I5 NGZ
+típ|T I4 PC
+tịp|T I5 PC
+tít|T I4 TC
+tịt|T I5 TC
+tiu|T I0 UZ
+tìu|T I1 UZ
+tỉu|T I3 UZ
+tĩu|T I2 UZ
+tíu|T I4 UZ
+tịu|T I5 UZ
+to|T O0
+tò|T O1
+tỏ|T O3
+tõ|T O2
+tó|T O4
+tọ|T O5
+toa|T W A0
+toà|T W A1
+toả|T W A3
+toạ|T W A5
+tòa|T W A1
+tỏa|T W A3
+tõa|T W A2
+tóa|T W A4
+tọa|T W A5
+toác|T W A4 KC
+toạc|T W A5 KC
+tóac|T W A4 KC
+tọac|T W A5 KC
+toai|T W A0 IZ
+toài|T W A1 IZ
+toải|T W A3 IZ
+toãi|T W A2 IZ
+toái|T W A4 IZ
+toại|T W A5 IZ
+tòai|T W A1 IZ
+tóai|T W A4 IZ
+tọai|T W A5 IZ
+toan|T W A0 NZ
+toàn|T W A1 NZ
+toản|T W A3 NZ
+toãn|T W A2 NZ
+toán|T W A4 NZ
+toạn|T W A5 NZ
+tòan|T W A1 NZ
+tóan|T W A4 NZ
+toang|T W A0 NGZ
+toàng|T W A1 NGZ
+toảng|T W A3 NGZ
+toãng|T W A2 NGZ
+toáng|T W A4 NGZ
+toạng|T W A5 NGZ
+tòang|T W A1 NGZ
+tóang|T W A4 NGZ
+toanh|T W EA0 NGZ
+toành|T W EA1 NGZ
+toảnh|T W EA3 NGZ
+toãnh|T W EA2 NGZ
+toánh|T W EA4 NGZ
+toạnh|T W EA5 NGZ
+toát|T W A4 TC
+tóat|T W A4 TC
+tóc|T OA4 KC
+tọc|T OA5 KC
+toe|T W E0
+toè|T W E1
+toé|T W E4
+tòe|T W E1
+tỏe|T W E3
+tõe|T W E2
+tóe|T W E4
+tọe|T W E5
+toéch|T W E4 KC
+toem|T W E0 MZ
+toèm|T W E1 MZ
+toẻm|T W E3 MZ
+toẽm|T W E2 MZ
+toém|T W E4 MZ
+toẹm|T W E5 MZ
+toét|T W E4 TC
+toẹt|T W E5 TC
+tóet|T W E4 TC
+tọet|T W E5 TC
+toi|T O0 IZ
+tòi|T O1 IZ
+tỏi|T O3 IZ
+tõi|T O2 IZ
+tói|T O4 IZ
+tọi|T O5 IZ
+tom|T O0 MZ
+tòm|T O1 MZ
+tỏm|T O3 MZ
+tõm|T O2 MZ
+tóm|T O4 MZ
+tọm|T O5 MZ
+ton|T O0 NZ
+tòn|T O1 NZ
+tỏn|T O3 NZ
+tõn|T O2 NZ
+tón|T O4 NZ
+tọn|T O5 NZ
+tong|T OA0 NGZ
+tòng|T OA1 NGZ
+tỏng|T OA3 NGZ
+tõng|T OA2 NGZ
+tóng|T OA4 NGZ
+tọng|T OA5 NGZ
+toóc|T O4 OA4 KC
+toọc|T O5 OA5 KC
+top|T O0 PC
+tóp|T O4 PC
+tọp|T O5 PC
+tót|T O4 TC
+tọt|T O5 TC
+tô|T OO0
+tồ|T OO1
+tổ|T OO3
+tỗ|T OO2
+tố|T OO4
+tộ|T OO5
+tốc|T OO4 KC
+tộc|T OO5 KC
+tôi|T OO0 IZ
+tồi|T OO1 IZ
+tổi|T OO3 IZ
+tỗi|T OO2 IZ
+tối|T OO4 IZ
+tội|T OO5 IZ
+tôm|T OO0 MZ
+tồm|T OO1 MZ
+tổm|T OO3 MZ
+tỗm|T OO2 MZ
+tốm|T OO4 MZ
+tộm|T OO5 MZ
+tôn|T OO0 NZ
+tồn|T OO1 NZ
+tổn|T OO3 NZ
+tỗn|T OO2 NZ
+tốn|T OO4 NZ
+tộn|T OO5 NZ
+tông|T OO0 NGZ
+tồng|T OO1 NGZ
+tổng|T OO3 NGZ
+tỗng|T OO2 NGZ
+tống|T OO4 NGZ
+tộng|T OO5 NGZ
+tốp|T OO4 PC
+tốt|T OO4 TC
+tột|T OO5 TC
+tơ|T OW0
+tờ|T OW1
+tở|T OW3
+tỡ|T OW2
+tớ|T OW4
+tợ|T OW5
+tớc|TR OW4 KC
+tợc|TR OW5 KC
+tơi|T OW0 IZ
+tời|T OW1 IZ
+tởi|T OW3 IZ
+tỡi|T OW2 IZ
+tới|T OW4 IZ
+tợi|T OW5 IZ
+tơm|T OW0 MZ
+tờm|T OW1 MZ
+tởm|T OW3 MZ
+tỡm|T OW2 MZ
+tớm|T OW4 MZ
+tợm|T OW5 MZ
+tơn|T OW0 NZ
+tờn|T OW1 NZ
+tởn|T OW3 NZ
+tỡn|T OW2 NZ
+tớn|T OW4 NZ
+tợn|T OW5 NZ
+tớp|T OW4 PC
+tợp|T OW5 PC
+tớt|T OW4 TC
+tợt|T OW5 TC
+tra|TR A0
+trà|TR A1
+trả|TR A3
+trã|TR A2
+trá|TR A4
+trạ|TR A5
+trác|TR A4 KC
+trạc|TR A5 KC
+trách|TR EA4 KC
+trạch|TR EA5 KC
+trai|TR A0 IZ
+trài|TR A1 IZ
+trải|TR A3 IZ
+trãi|TR A2 IZ
+trái|TR A4 IZ
+trại|TR A5 IZ
+tràm|TR A1 MZ
+trảm|TR A3 MZ
+trám|TR A4 MZ
+trạm|TR A5 MZ
+tran|TR A0 NZ
+tràn|TR A1 NZ
+trản|TR A3 NZ
+trãn|TR A2 NZ
+trán|TR A4 NZ
+trạn|TR A5 NZ
+trang|TR A0 NGZ
+tràng|TR A1 NGZ
+trảng|TR A3 NGZ
+trãng|TR A2 NGZ
+tráng|TR A4 NGZ
+trạng|TR A5 NGZ
+tranh|TR EA0 NGZ
+trành|TR EA1 NGZ
+trảnh|TR EA3 NGZ
+trãnh|TR EA2 NGZ
+tránh|TR EA4 NGZ
+trạnh|TR EA5 NGZ
+trao|TR A0 UZ
+trào|TR A1 UZ
+trảo|TR A3 UZ
+trão|TR A2 UZ
+tráo|TR A4 UZ
+trạo|TR A5 UZ
+tráp|TR A4 PC
+trát|TR A4 TC
+trau|TR AW0 UZ
+tràu|TR AW1 UZ
+trảu|TR AW3 UZ
+trãu|TR AW2 UZ
+tráu|TR AW4 UZ
+trạu|TR AW5 UZ
+trảy|TR AW3 IZ
+trắc|TR AW4 KC
+trặc|TR AW5 KC
+trăm|TR AW0 MZ
+trằm|TR AW1 MZ
+trẳm|TR AW3 MZ
+trẵm|TR AW2 MZ
+trắm|TR AW4 MZ
+trặm|TR AW5 MZ
+trăn|TR AW0 NZ
+trằn|TR AW1 NZ
+trẳn|TR AW3 NZ
+trẵn|TR AW2 NZ
+trắn|TR AW4 NZ
+trặn|TR AW5 NZ
+trăng|TR AW0 NGZ
+trằng|TR AW1 NGZ
+trẳng|TR AW3 NGZ
+trẵng|TR AW2 NGZ
+trắng|TR AW4 NGZ
+trặng|TR AW5 NGZ
+trắp|TR AW4 PC
+trắt|TR AW4 TC
+trâm|TR AA0 MZ
+trầm|TR AA1 MZ
+trẩm|TR AA3 MZ
+trẫm|TR AA2 MZ
+trấm|TR AA4 MZ
+trậm|TR AA5 MZ
+trân|TR AA0 NZ
+trần|TR AA1 NZ
+trẩn|TR AA3 NZ
+trẫn|TR AA2 NZ
+trấn|TR AA4 NZ
+trận|TR AA5 NZ
+trập|TR AA5 PC
+trật|TR AA5 TC
+trâu|TR AA0 UZ
+trầu|TR AA1 UZ
+trẩu|TR AA3 UZ
+trẫu|TR AA2 UZ
+trấu|TR AA4 UZ
+trậu|TR AA5 UZ
+trây|TR AA0 IZ
+trầy|TR AA1 IZ
+trẩy|TR AA3 IZ
+trẫy|TR AA2 IZ
+trấy|TR AA4 IZ
+trậy|TR AA5 IZ
+tre|TR E0
+trè|TR E1
+trẻ|TR E3
+trẽ|TR E2
+tré|TR E4
+trẹ|TR E5
+trem|TR E0 MZ
+trèm|TR E1 MZ
+trẻm|TR E3 MZ
+trẽm|TR E2 MZ
+trém|TR E4 MZ
+trẹm|TR E5 MZ
+tren|TR E0 NZ
+trèn|TR E1 NZ
+trẻn|TR E3 NZ
+trẽn|TR E2 NZ
+trén|TR E4 NZ
+trẹn|TR E5 NZ
+treo|TR E0 UZ
+trèo|TR E1 UZ
+trẻo|TR E3 UZ
+trẽo|TR E2 UZ
+tréo|TR E4 UZ
+trẹo|TR E5 UZ
+trét|TR E4 TC
+trê|TR EE0
+trề|TR EE1
+trể|TR EE3
+trễ|TR EE2
+trế|TR EE4
+trệ|TR EE5
+trệch|TR EE5 KC
+trên|TR EE0 NZ
+trền|TR EE1 NZ
+trển|TR EE3 NZ
+trễn|TR EE2 NZ
+trến|TR EE4 NZ
+trện|TR EE5 NZ
+trết|TR EE4 TC
+trệt|TR EE5 TC
+trêu|TR EE0 UZ
+trều|TR EE1 UZ
+trểu|TR EE3 UZ
+trễu|TR EE2 UZ
+trếu|TR EE4 UZ
+trệu|TR EE5 UZ
+tri|TR I0
+trì|TR I1
+trỉ|TR I3
+trĩ|TR I2
+trí|TR I4
+trị|TR I5
+trịa|TR IE5
+trích|TR I4 KC
+trịch|TR I5 KC
+triền|TR IE1 NZ
+triển|TR IE3 NZ
+triện|TR IE5 NZ
+triêng|TR IE0 NGZ
+triềng|TR IE1 NGZ
+triểng|TR IE3 NGZ
+triễng|TR IE2 NGZ
+triếng|TR IE4 NGZ
+triệng|TR IE5 NGZ
+triết|TR IE4 TC
+triệt|TR IE5 TC
+triều|TR IE1 UZ
+triệu|TR IE5 UZ
+trim|TR I0 MZ
+trìm|TR I1 MZ
+trỉm|TR I3 MZ
+trĩm|TR I2 MZ
+trím|TR I4 MZ
+trịm|TR I5 MZ
+trinh|TR I0 NGZ
+trình|TR I1 NGZ
+trỉnh|TR I3 NGZ
+trĩnh|TR I2 NGZ
+trính|TR I4 NGZ
+trịnh|TR I5 NGZ
+tríp|TR I4 PC
+trít|TR I4 TC
+trìu|TR I1 UZ
+trĩu|TR I2 UZ
+tro|TR O0
+trò|TR O1
+trỏ|TR O3
+trõ|TR O2
+tró|TR O4
+trọ|TR O5
+troăm|TR W AW0 MZ
+troằm|TR W AW1 MZ
+troẳm|TR W AW3 MZ
+troẵm|TR W AW2 MZ
+troắm|TR W AW4 MZ
+troặm|TR W AW5 MZ
+tróc|TR OA4 KC
+trọc|TR OA5 KC
+troem|TR W E0 MZ
+troèm|TR W E1 MZ
+troẻm|TR W E3 MZ
+troẽm|TR W E2 MZ
+troém|TR W E4 MZ
+troẹm|TR W E5 MZ
+troi|TR O0 IZ
+tròi|TR O1 IZ
+trỏi|TR O3 IZ
+trõi|TR O2 IZ
+trói|TR O4 IZ
+trọi|TR O5 IZ
+tròm|TR O1 MZ
+tron|TR O0 NZ
+tròn|TR O1 NZ
+trỏn|TR O3 NZ
+trõn|TR O2 NZ
+trón|TR O4 NZ
+trọn|TR O5 NZ
+trong|TR OA0 NGZ
+tròng|TR OA1 NGZ
+trỏng|TR OA3 NGZ
+trõng|TR OA2 NGZ
+tróng|TR OA4 NGZ
+trọng|TR OA5 NGZ
+troong|TR O0 NGZ
+troòng|TR O1 NGZ
+troỏng|TR O3 NGZ
+troõng|TR O2 NGZ
+troóng|TR O4 NGZ
+troọng|TR O5 NGZ
+trót|TR O4 TC
+trọt|TR O5 TC
+trô|TR OO0
+trồ|TR OO1
+trổ|TR OO3
+trỗ|TR OO2
+trố|TR OO4
+trộ|TR OO5
+trốc|TR OO4 KC
+trôi|TR OO0 IZ
+trồi|TR OO1 IZ
+trổi|TR OO3 IZ
+trỗi|TR OO2 IZ
+trối|TR OO4 IZ
+trội|TR OO5 IZ
+trộm|TR OO5 MZ
+trôn|TR OO0 NZ
+trồn|TR OO1 NZ
+trổn|TR OO3 NZ
+trỗn|TR OO2 NZ
+trốn|TR OO4 NZ
+trộn|TR OO5 NZ
+trông|TR OO0 NGZ
+trồng|TR OO1 NGZ
+trổng|TR OO3 NGZ
+trỗng|TR OO2 NGZ
+trống|TR OO4 NGZ
+trộng|TR OO5 NGZ
+trốp|TR OO4 PC
+trốt|TR OO4 TC
+trơ|TR OW0
+trờ|TR OW1
+trở|TR OW3
+trỡ|TR OW2
+trớ|TR OW4
+trợ|TR OW5
+trơi|TR OW0 IZ
+trời|TR OW1 IZ
+trởi|TR OW3 IZ
+trỡi|TR OW2 IZ
+trới|TR OW4 IZ
+trợi|TR OW5 IZ
+trơn|TR OW0 NZ
+trờn|TR OW1 NZ
+trởn|TR OW3 NZ
+trỡn|TR OW2 NZ
+trớn|TR OW4 NZ
+trợn|TR OW5 NZ
+trớt|TR OW4 TC
+trợt|TR OW5 TC
+tru|TR U0
+trù|TR U1
+trủ|TR U3
+trũ|TR U2
+trú|TR U4
+trụ|TR U5
+trùa|TR UO1
+truân|TR W AA0 NZ
+truần|TR W AA1 NZ
+truẩn|TR W AA3 NZ
+truẫn|TR W AA2 NZ
+truấn|TR W AA4 NZ
+truận|TR W AA5 NZ
+truất|TR W AA4 TC
+trúc|TR U4 KC
+trục|TR U5 KC
+trui|TR U0 IZ
+trùi|TR U1 IZ
+trủi|TR U3 IZ
+trũi|TR U2 IZ
+trúi|TR U4 IZ
+trụi|TR U5 IZ
+trum|TR U0 MZ
+trùm|TR U1 MZ
+trủm|TR U3 MZ
+trũm|TR U2 MZ
+trúm|TR U4 MZ
+trụm|TR U5 MZ
+trùn|TR U1 NZ
+trung|TR U0 NGZ
+trùng|TR U1 NGZ
+trủng|TR U3 NGZ
+trũng|TR U2 NGZ
+trúng|TR U4 NGZ
+trụng|TR U5 NGZ
+truồng|TR UO1 NGZ
+trút|TR U4 TC
+truy|TR W I0
+truỵ|TR W I5
+trùy|TR W IZ
+trủy|TR W I3
+trũy|TR W I2
+trúy|TR W I4
+trụy|TR W I5
+truyền|TR W IE1 NZ
+truyện|TR W IE5 NZ
+truynh|TR W I0 NGZ
+truỳnh|TR W I1 NGZ
+truỷnh|TR W I3 NGZ
+truỹnh|TR W I2 NGZ
+truýnh|TR W I4 NGZ
+truỵnh|TR W I5 NGZ
+truyp|TR W I4 PC
+truýp|TR W I4 PC
+truỵp|TR W I5 PC
+truyt|TR W I4 TC
+truýt|TR W I4 TC
+truỵt|TR W I5 TC
+truyu|TR W I0 UZ
+truỳu|TR W I1 UZ
+truỷu|TR W I3 UZ
+truỹu|TR W I2 UZ
+truýu|TR W I4 UZ
+truỵu|TR W I5 UZ
+trư|TR UW0
+trừ|TR UW1
+trử|TR UW3
+trữ|TR UW2
+trứ|TR UW4
+trự|TR UW5
+trưa|TR WA0
+trừa|TR WA1
+trửa|TR WA3
+trữa|TR WA2
+trứa|TR WA4
+trựa|TR WA5
+trực|TR UW5 KC
+trưm|TR UW0 MZ
+trừm|TR UW1 MZ
+trửm|TR UW3 MZ
+trữm|TR UW2 MZ
+trứm|TR UW4 MZ
+trựm|TR UW5 MZ
+trưn|TR UW0 NZ
+trừn|TR UW1 NZ
+trửn|TR UW3 NZ
+trữn|TR UW2 NZ
+trứn|TR UW4 NZ
+trựn|TR UW5 NZ
+trưng|TR UW0 NGZ
+trừng|TR UW1 NGZ
+trửng|TR UW3 NGZ
+trững|TR UW2 NGZ
+trứng|TR UW4 NGZ
+trựng|TR UW5 NGZ
+trước|TR WA4 KC
+trườn|TR WA1 NZ
+trương|TR WA0 NGZ
+trường|TR WA1 NGZ
+trưởng|TR WA3 NGZ
+trưỡng|TR WA2 NGZ
+trướng|TR WA4 NGZ
+trượng|TR WA5 NGZ
+trượt|TR WA5 TC
+trừu|TR UW1 UZ
+tu|T U0
+tù|T U1
+tủ|T U3
+tũ|T U2
+tú|T U4
+tụ|T U5
+tua|T UO0
+tùa|T UO1
+tủa|T UO3
+tũa|T UO2
+túa|T UO4
+tụa|T UO5
+tuân|T W AA0 NZ
+tuần|T W AA1 NZ
+tuẩn|T W AA3 NZ
+tuẫn|T W AA2 NZ
+tuấn|T W AA4 NZ
+tuận|T W AA5 NZ
+tuất|T W AA4 TC
+túc|T U4 KC
+tục|T U5 KC
+tuế|T W EE4
+tuệ|T W EE5
+tuếch|T W EE4 KC
+tuềnh|T W EE1 NGZ
+tui|T U0 IZ
+tùi|T U1 IZ
+tủi|T U3 IZ
+tũi|T U2 IZ
+túi|T U4 IZ
+tụi|T U5 IZ
+tum|T U0 MZ
+tùm|T U1 MZ
+tủm|T U3 MZ
+tũm|T U2 MZ
+túm|T U4 MZ
+tụm|T U5 MZ
+tun|T U0 NZ
+tùn|T U1 NZ
+tủn|T U3 NZ
+tũn|T U2 NZ
+tún|T U4 NZ
+tụn|T U5 NZ
+tung|T U0 NGZ
+tùng|T U1 NGZ
+tủng|T U3 NGZ
+tũng|T U2 NGZ
+túng|T U4 NGZ
+tụng|T U5 NGZ
+tuộc|T UO5 KC
+tuổi|T UO3 IZ
+tuôn|T UO0 NZ
+tuồn|T UO1 NZ
+tuổn|T UO3 NZ
+tuỗn|T UO2 NZ
+tuốn|T UO4 NZ
+tuộn|T UO5 NZ
+tuông|T UO0 NGZ
+tuồng|T UO1 NGZ
+tuổng|T UO3 NGZ
+tuỗng|T UO2 NGZ
+tuống|T UO4 NGZ
+tuộng|T UO5 NGZ
+tuốt|T UO4 TC
+tuột|T UO5 TC
+túp|T U4 PC
+tút|T U4 TC
+tụt|T U5 TC
+tuy|T W I0
+tuỳ|T W I1
+tuỷ|T W I3
+tuý|T W I4
+tuỵ|T W I5
+tùy|T W I1
+tủy|T W I3
+tũy|T W I2
+túy|T W I4
+tụy|T W I5
+tuya|T W IE0
+tuỳa|T W IE1
+tuỷa|T W IE3
+tuỹa|T W IE2
+tuýa|T W IE4
+tuỵa|T W IE5
+tuých|T W I4 KC
+tuyên|T W IE0 NZ
+tuyền|T W IE1 NZ
+tuyển|T W IE3 NZ
+tuyễn|T W IE2 NZ
+tuyến|T W IE4 NZ
+tuyện|T W IE5 NZ
+tuyết|T W IE4 TC
+tuyệt|T W IE5 TC
+tuyn|T W I0 NZ
+tuỳn|T W I1 NZ
+tuỷn|T W I3 NZ
+tuỹn|T W I2 NZ
+tuýn|T W I4 NZ
+tuỵn|T W I5 NZ
+tuynh|T W I0 NGZ
+tuỳnh|T W I1 NGZ
+tuỷnh|T W I3 NGZ
+tuỹnh|T W I2 NGZ
+tuýnh|T W I4 NGZ
+tuỵnh|T W I5 NGZ
+tuýp|T W I4 PC
+tuỵp|T W I5 PC
+túyp|T W I4 PC
+tuyt|T W I4 TC
+tuýt|T W I4 TC
+tuỵt|T W I5 TC
+tuyu|T W I0 UZ
+tuỳu|T W I1 UZ
+tuỷu|T W I3 UZ
+tuỹu|T W I2 UZ
+tuýu|T W I4 UZ
+tuỵu|T W I5 UZ
+tư|T UW0
+từ|T UW1
+tử|T UW3
+tữ|T UW2
+tứ|T UW4
+tự|T UW5
+từa|T WA1
+tứa|T WA4
+tựa|T WA5
+tức|T UW4 KC
+tưm|T UW0 MZ
+từm|T UW1 MZ
+tửm|T UW3 MZ
+tữm|T UW2 MZ
+tứm|T UW4 MZ
+tựm|T UW5 MZ
+tưn|T UW0 NZ
+từn|T UW1 NZ
+tửn|T UW3 NZ
+tữn|T UW2 NZ
+tứn|T UW4 NZ
+tựn|T UW5 NZ
+tưng|T UW0 NGZ
+từng|T UW1 NGZ
+tửng|T UW3 NGZ
+tững|T UW2 NGZ
+tứng|T UW4 NGZ
+tựng|T UW5 NGZ
+tước|T WA4 KC
+tược|T WA5 KC
+tươi|T WA0 IZ
+tười|T WA1 IZ
+tưởi|T WA3 IZ
+tưỡi|T WA2 IZ
+tưới|T WA4 IZ
+tượi|T WA5 IZ
+tươm|T WA0 MZ
+tườm|T WA1 MZ
+tưởm|T WA3 MZ
+tưỡm|T WA2 MZ
+tướm|T WA4 MZ
+tượm|T WA5 MZ
+tương|T WA0 NGZ
+tường|T WA1 NGZ
+tưởng|T WA3 NGZ
+tưỡng|T WA2 NGZ
+tướng|T WA4 NGZ
+tượng|T WA5 NGZ
+tứt|T UW4 TC
+tựt|T UW5 TC
+tưu|T UW0 UZ
+từu|T UW1 UZ
+tửu|T UW3 UZ
+tữu|T UW2 UZ
+tứu|T UW4 UZ
+tựu|T UW5 UZ
+ty|T I0
+tỳ|T I1
+tỷ|T I3
+tỹ|T I2
+tý|T I4
+tỵ|T I5
+u|U0
+ù|U1
+ủ|U3
+ũ|U2
+ú|U4
+ụ|U5
+ua|UO0
+ùa|UO1
+ủa|UO3
+ũa|UO2
+úa|UO4
+ụa|UO5
+uẩn|W AA3 NZ
+uất|W AA4 TC
+uây|W AA0 IZ
+uầy|W AA1 IZ
+uẩy|W AA3 IZ
+uẫy|W AA2 IZ
+uấy|W AA4 IZ
+uậy|W AA5 IZ
+úc|U4 KC
+ục|U5 KC
+uen|W E0 NZ
+uể|W EE3
+uế|W EE4
+ui|U0 IZ
+ùi|U1 IZ
+ủi|U3 IZ
+ũi|U2 IZ
+úi|U4 IZ
+ụi|U5 IZ
+um|U0 MZ
+ùm|U1 MZ
+ủm|U3 MZ
+ũm|U2 MZ
+úm|U4 MZ
+ụm|U5 MZ
+un|U0 NZ
+ùn|U1 NZ
+ủn|U3 NZ
+ũn|U2 NZ
+ún|U4 NZ
+ụn|U5 NZ
+ung|U0 NGZ
+ùng|U1 NGZ
+ủng|U3 NGZ
+ũng|U2 NGZ
+úng|U4 NGZ
+ụng|U5 NGZ
+uôm|UO0 MZ
+uồm|UO1 MZ
+uổm|UO3 MZ
+uỗm|UO2 MZ
+uốm|UO4 MZ
+uộm|UO5 MZ
+uôn|UO0 NZ
+uồn|UO1 NZ
+uổn|UO3 NZ
+uỗn|UO2 NZ
+uốn|UO4 NZ
+uộn|UO5 NZ
+uông|UO0 NGZ
+uồng|UO1 NGZ
+uổng|UO3 NGZ
+uỗng|UO2 NGZ
+uống|UO4 NGZ
+uộng|UO5 NGZ
+uột|UO5 TC
+úp|U4 PC
+ụp|U5 PC
+út|U4 TC
+uy|W I0
+uỷ|W I3
+uý|W I4
+ùy|W I1
+ủy|W I3
+ũy|W I2
+úy|W I4
+ụy|W I5
+uỵch|W I5 KC
+ụych|W I5 KC
+uyên|W IE0 NZ
+uyền|W IE1 NZ
+uyển|W IE3 NZ
+uyễn|W IE2 NZ
+uyến|W IE4 NZ
+uyện|W IE5 NZ
+uyn|W I0 NZ
+uỳn|W I1 NZ
+uỷn|W I3 NZ
+uỹn|W I2 NZ
+uýn|W I4 NZ
+uỵn|W I5 NZ
+uynh|W I0 NGZ
+uỳnh|W I1 NGZ
+uỷnh|W I3 NGZ
+uỹnh|W I2 NGZ
+uýnh|W I4 NGZ
+uỵnh|W I5 NGZ
+ùynh|W I1 NGZ
+úynh|W I4 NGZ
+uýp|W I4 PC
+uỵp|W I5 PC
+uyt|W I4 TC
+uýt|W I4 TC
+uỵt|W I5 TC
+uyu|W I0 UZ
+uỳu|W I1 UZ
+uỷu|W I3 UZ
+uỹu|W I2 UZ
+uýu|W I4 UZ
+uỵu|W I5 UZ
+ư|UW0
+ừ|UW1
+ử|UW3
+ữ|UW2
+ứ|UW4
+ự|UW5
+ưa|WA0
+ừa|WA1
+ửa|WA3
+ữa|WA2
+ứa|WA4
+ựa|WA5
+ức|UW4 KC
+ực|UW5 KC
+ưm|UW0 MZ
+ừm|UW1 MZ
+ửm|UW3 MZ
+ữm|UW2 MZ
+ứm|UW4 MZ
+ựm|UW5 MZ
+ưn|UW0 NZ
+ừn|UW1 NZ
+ửn|UW3 NZ
+ữn|UW2 NZ
+ứn|UW4 NZ
+ựn|UW5 NZ
+ưng|UW0 NGZ
+ừng|UW1 NGZ
+ửng|UW3 NGZ
+ững|UW2 NGZ
+ứng|UW4 NGZ
+ựng|UW5 NGZ
+ước|WA4 KC
+ươi|WA0 IZ
+ười|WA1 IZ
+ưởi|WA3 IZ
+ưỡi|WA2 IZ
+ưới|WA4 IZ
+ượi|WA5 IZ
+ươm|WA0 MZ
+ườm|WA1 MZ
+ưởm|WA3 MZ
+ưỡm|WA2 MZ
+ướm|WA4 MZ
+ượm|WA5 MZ
+ươn|WA0 NZ
+ườn|WA1 NZ
+ưởn|WA3 NZ
+ưỡn|WA2 NZ
+ướn|WA4 NZ
+ượn|WA5 NZ
+ương|WA0 NGZ
+ường|WA1 NGZ
+ưởng|WA3 NGZ
+ưỡng|WA2 NGZ
+ướng|WA4 NGZ
+ượng|WA5 NGZ
+ướp|WA4 PC
+ướt|WA4 TC
+ưu|UW0 UZ
+ừu|UW1 UZ
+ửu|UW3 UZ
+ữu|UW2 UZ
+ứu|UW4 UZ
+ựu|UW5 UZ
+va|V A0
+và|V A1
+vả|V A3
+vã|V A2
+vá|V A4
+vạ|V A5
+vác|V A4 KC
+vạc|V A5 KC
+vách|V EA4 KC
+vạch|V EA5 KC
+vai|V A0 IZ
+vài|V A1 IZ
+vải|V A3 IZ
+vãi|V A2 IZ
+vái|V A4 IZ
+vại|V A5 IZ
+vam|V A0 MZ
+vàm|V A1 MZ
+vảm|V A3 MZ
+vãm|V A2 MZ
+vám|V A4 MZ
+vạm|V A5 MZ
+van|V A0 NZ
+vàn|V A1 NZ
+vản|V A3 NZ
+vãn|V A2 NZ
+ván|V A4 NZ
+vạn|V A5 NZ
+vang|V A0 NGZ
+vàng|V A1 NGZ
+vảng|V A3 NGZ
+vãng|V A2 NGZ
+váng|V A4 NGZ
+vạng|V A5 NGZ
+vanh|V EA0 NGZ
+vành|V EA1 NGZ
+vảnh|V EA3 NGZ
+vãnh|V EA2 NGZ
+vánh|V EA4 NGZ
+vạnh|V EA5 NGZ
+vao|V A0 UZ
+vào|V A1 UZ
+vảo|V A3 UZ
+vão|V A2 UZ
+váo|V A4 UZ
+vạo|V A5 UZ
+váp|V A4 PC
+vát|V A4 TC
+vạt|V A5 TC
+vau|V AW0 UZ
+vàu|V AW1 UZ
+vảu|V AW3 UZ
+vãu|V AW2 UZ
+váu|V AW4 UZ
+vạu|V AW5 UZ
+vay|V AW0 IZ
+vày|V AW1 IZ
+vảy|V AW3 IZ
+vãy|V AW2 IZ
+váy|V AW4 IZ
+vạy|V AW5 IZ
+vắc|V AW4 KC
+vặc|V AW5 KC
+vằm|V AW1 MZ
+văn|V AW0 NZ
+vằn|V AW1 NZ
+vẳn|V AW3 NZ
+vẵn|V AW2 NZ
+vắn|V AW4 NZ
+vặn|V AW5 NZ
+văng|V AW0 NGZ
+vằng|V AW1 NGZ
+vẳng|V AW3 NGZ
+vẵng|V AW2 NGZ
+vắng|V AW4 NGZ
+vặng|V AW5 NGZ
+vắt|V AW4 TC
+vặt|V AW5 TC
+vân|V AA0 NZ
+vần|V AA1 NZ
+vẩn|V AA3 NZ
+vẫn|V AA2 NZ
+vấn|V AA4 NZ
+vận|V AA5 NZ
+vâng|V AA0 NGZ
+vầng|V AA1 NGZ
+vẩng|V AA3 NGZ
+vẫng|V AA2 NGZ
+vấng|V AA4 NGZ
+vậng|V AA5 NGZ
+vấp|V AA4 PC
+vập|V AA5 PC
+vất|V AA4 TC
+vật|V AA5 TC
+vâu|V AA0 UZ
+vầu|V AA1 UZ
+vẩu|V AA3 UZ
+vẫu|V AA2 UZ
+vấu|V AA4 UZ
+vậu|V AA5 UZ
+vây|V AA0 IZ
+vầy|V AA1 IZ
+vẩy|V AA3 IZ
+vẫy|V AA2 IZ
+vấy|V AA4 IZ
+vậy|V AA5 IZ
+ve|V E0
+vè|V E1
+vẻ|V E3
+vẽ|V E2
+vé|V E4
+vẹ|V E5
+véc|V E4 KC
+vem|V E0 MZ
+vèm|V E1 MZ
+vẻm|V E3 MZ
+vẽm|V E2 MZ
+vém|V E4 MZ
+vẹm|V E5 MZ
+ven|V E0 NZ
+vèn|V E1 NZ
+vẻn|V E3 NZ
+vẽn|V E2 NZ
+vén|V E4 NZ
+vẹn|V E5 NZ
+veng|V E0 NGZ
+vèng|V E1 NGZ
+vẻng|V E3 NGZ
+vẽng|V E2 NGZ
+véng|V E4 NGZ
+vẹng|V E5 NGZ
+veo|V E0 UZ
+vèo|V E1 UZ
+vẻo|V E3 UZ
+vẽo|V E2 UZ
+véo|V E4 UZ
+vẹo|V E5 UZ
+vét|V E4 TC
+vẹt|V E5 TC
+vê|V EE0
+về|V EE1
+vể|V EE3
+vễ|V EE2
+vế|V EE4
+vệ|V EE5
+vện|V EE5 NZ
+vênh|V EE0 NGZ
+vềnh|V EE1 NGZ
+vểnh|V EE3 NGZ
+vễnh|V EE2 NGZ
+vếnh|V EE4 NGZ
+vệnh|V EE5 NGZ
+vết|V EE4 TC
+vệt|V EE5 TC
+vi|V I0
+vì|V I1
+vỉ|V I3
+vĩ|V I2
+ví|V I4
+vị|V I5
+vỉa|V IE3
+vía|V IE4
+víc|V I4 KC
+vích|V I4 KC
+việc|V IE5 KC
+viêm|V IE0 MZ
+viềm|V IE1 MZ
+viểm|V IE3 MZ
+viễm|V IE2 MZ
+viếm|V IE4 MZ
+việm|V IE5 MZ
+viên|V IE0 NZ
+viền|V IE1 NZ
+viển|V IE3 NZ
+viễn|V IE2 NZ
+viến|V IE4 NZ
+viện|V IE5 NZ
+viêng|V IE0 NGZ
+viềng|V IE1 NGZ
+viểng|V IE3 NGZ
+viễng|V IE2 NGZ
+viếng|V IE4 NGZ
+việng|V IE5 NGZ
+viết|V IE4 TC
+việt|V IE5 TC
+vim|V I0 MZ
+vìm|V I1 MZ
+vỉm|V I3 MZ
+vĩm|V I2 MZ
+vím|V I4 MZ
+vịm|V I5 MZ
+vin|V I0 NZ
+vìn|V I1 NZ
+vỉn|V I3 NZ
+vĩn|V I2 NZ
+vín|V I4 NZ
+vịn|V I5 NZ
+ving|V I0 NGZ
+vinh|V I0 NGZ
+vình|V I1 NGZ
+vỉnh|V I3 NGZ
+vĩnh|V I2 NGZ
+vính|V I4 NGZ
+vịnh|V I5 NGZ
+vip|V I4 PC
+víp|V I4 PC
+vịp|V I5 PC
+vít|V I4 TC
+vịt|V I5 TC
+viu|V I0 UZ
+vìu|V I1 UZ
+vỉu|V I3 UZ
+vĩu|V I2 UZ
+víu|V I4 UZ
+vịu|V I5 UZ
+vo|V O0
+vò|V O1
+vỏ|V O3
+võ|V O2
+vó|V O4
+vọ|V O5
+voa|V W A0
+vòa|V W A1
+vỏa|V W A3
+võa|V W A2
+vóa|V W A4
+vọa|V W A5
+voay|V W AW0 IZ
+voày|V W AW1 IZ
+voảy|V W AW3 IZ
+voãy|V W AW2 IZ
+voáy|V W AW4 IZ
+voạy|V W AW5 IZ
+voăng|V W AW0 NGZ
+voằng|V W AW1 NGZ
+voẳng|V W AW3 NGZ
+voẵng|V W AW2 NGZ
+voắng|V W AW4 NGZ
+voặng|V W AW5 NGZ
+vóc|V OA4 KC
+voem|V W E0 MZ
+voèm|V W E1 MZ
+voẻm|V W E3 MZ
+voẽm|V W E2 MZ
+voém|V W E4 MZ
+voẹm|V W E5 MZ
+voi|V O0 IZ
+vòi|V O1 IZ
+vỏi|V O3 IZ
+või|V O2 IZ
+vói|V O4 IZ
+vọi|V O5 IZ
+vòm|V O1 MZ
+von|V O0 NZ
+vòn|V O1 NZ
+vỏn|V O3 NZ
+võn|V O2 NZ
+vón|V O4 NZ
+vọn|V O5 NZ
+vong|V OA0 NGZ
+vòng|V OA1 NGZ
+vỏng|V OA3 NGZ
+võng|V OA2 NGZ
+vóng|V OA4 NGZ
+vọng|V OA5 NGZ
+vót|V O4 TC
+vọt|V O5 TC
+vô|V OO0
+vồ|V OO1
+vổ|V OO3
+vỗ|V OO2
+vố|V OO4
+vộ|V OO5
+vốc|V OO4 KC
+vôi|V OO0 IZ
+vồi|V OO1 IZ
+vổi|V OO3 IZ
+vỗi|V OO2 IZ
+vối|V OO4 IZ
+vội|V OO5 IZ
+vôn|V OO0 NZ
+vồn|V OO1 NZ
+vổn|V OO3 NZ
+vỗn|V OO2 NZ
+vốn|V OO4 NZ
+vộn|V OO5 NZ
+vông|V OO0 NGZ
+vồng|V OO1 NGZ
+vổng|V OO3 NGZ
+vỗng|V OO2 NGZ
+vống|V OO4 NGZ
+vộng|V OO5 NGZ
+vốt|V OO4 TC
+vơ|V OW0
+vờ|V OW1
+vở|V OW3
+vỡ|V OW2
+vớ|V OW4
+vợ|V OW5
+vơi|V OW0 IZ
+vời|V OW1 IZ
+vởi|V OW3 IZ
+vỡi|V OW2 IZ
+với|V OW4 IZ
+vợi|V OW5 IZ
+vờn|V OW1 NZ
+vởn|V OW3 NZ
+vớt|V OW4 TC
+vợt|V OW5 TC
+vu|V U0
+vù|V U1
+vủ|V U3
+vũ|V U2
+vú|V U4
+vụ|V U5
+vua|V UO0
+vùa|V UO1
+vủa|V UO3
+vũa|V UO2
+vúa|V UO4
+vụa|V UO5
+vục|V U5 KC
+vui|V U0 IZ
+vùi|V U1 IZ
+vủi|V U3 IZ
+vũi|V U2 IZ
+vúi|V U4 IZ
+vụi|V U5 IZ
+vun|V U0 NZ
+vùn|V U1 NZ
+vủn|V U3 NZ
+vũn|V U2 NZ
+vún|V U4 NZ
+vụn|V U5 NZ
+vung|V U0 NGZ
+vùng|V U1 NGZ
+vủng|V U3 NGZ
+vũng|V U2 NGZ
+vúng|V U4 NGZ
+vụng|V U5 NGZ
+vuong|V U0 OA0 NGZ
+vuôn|V UO0 NZ
+vuồn|V UO1 NZ
+vuổn|V UO3 NZ
+vuỗn|V UO2 NZ
+vuốn|V UO4 NZ
+vuộn|V UO5 NZ
+vuông|V UO0 NGZ
+vuồng|V UO1 NGZ
+vuổng|V UO3 NGZ
+vuỗng|V UO2 NGZ
+vuống|V UO4 NGZ
+vuộng|V UO5 NGZ
+vuốt|V UO4 TC
+vuột|V UO5 TC
+vút|V U4 TC
+vụt|V U5 TC
+vuyn|V W I0 NZ
+vuỳn|V W I1 NZ
+vuỷn|V W I3 NZ
+vuỹn|V W I2 NZ
+vuýn|V W I4 NZ
+vuỵn|V W I5 NZ
+vuynh|V W I0 NGZ
+vuỳnh|V W I1 NGZ
+vuỷnh|V W I3 NGZ
+vuỹnh|V W I2 NGZ
+vuýnh|V W I4 NGZ
+vuỵnh|V W I5 NGZ
+vuyp|V W I4 PC
+vuýp|V W I4 PC
+vuỵp|V W I5 PC
+vuyt|V W I4 TC
+vuýt|V W I4 TC
+vuỵt|V W I5 TC
+vuyu|V W I0 UZ
+vuỳu|V W I1 UZ
+vuỷu|V W I3 UZ
+vuỹu|V W I2 UZ
+vuýu|V W I4 UZ
+vuỵu|V W I5 UZ
+vư|V UW0
+vừ|V UW1
+vử|V UW3
+vữ|V UW2
+vứ|V UW4
+vự|V UW5
+vừa|V WA1
+vữa|V WA2
+vựa|V WA5
+vức|V UW4 KC
+vực|V UW5 KC
+vưn|V UW0 NZ
+vừn|V UW1 NZ
+vửn|V UW3 NZ
+vữn|V UW2 NZ
+vứn|V UW4 NZ
+vựn|V UW5 NZ
+vừng|V UW1 NGZ
+vững|V UW2 NGZ
+vựng|V UW5 NGZ
+vược|V WA5 KC
+vươn|V WA0 NZ
+vườn|V WA1 NZ
+vưởn|V WA3 NZ
+vưỡn|V WA2 NZ
+vướn|V WA4 NZ
+vượn|V WA5 NZ
+vương|V WA0 NGZ
+vường|V WA1 NGZ
+vưởng|V WA3 NGZ
+vưỡng|V WA2 NGZ
+vướng|V WA4 NGZ
+vượng|V WA5 NGZ
+vượt|V WA5 TC
+vứt|V UW4 TC
+vy|V I0
+vỳ|V I1
+vỷ|V I3
+vỹ|V I2
+vý|V I4
+vỵ|V I5
+xa|S A0
+xà|S A1
+xả|S A3
+xã|S A2
+xá|S A4
+xạ|S A5
+xác|S A4 KC
+xạc|S A5 KC
+xách|S EA4 KC
+xạch|S EA5 KC
+xai|S A0 IZ
+xài|S A1 IZ
+xải|S A3 IZ
+xãi|S A2 IZ
+xái|S A4 IZ
+xại|S A5 IZ
+xam|S A0 MZ
+xàm|S A1 MZ
+xảm|S A3 MZ
+xãm|S A2 MZ
+xám|S A4 MZ
+xạm|S A5 MZ
+xan|S A0 NZ
+xàn|S A1 NZ
+xản|S A3 NZ
+xãn|S A2 NZ
+xán|S A4 NZ
+xạn|S A5 NZ
+xang|S A0 NGZ
+xàng|S A1 NGZ
+xảng|S A3 NGZ
+xãng|S A2 NGZ
+xáng|S A4 NGZ
+xạng|S A5 NGZ
+xanh|S EA0 NGZ
+xành|S EA1 NGZ
+xảnh|S EA3 NGZ
+xãnh|S EA2 NGZ
+xánh|S EA4 NGZ
+xạnh|S EA5 NGZ
+xao|S A0 UZ
+xào|S A1 UZ
+xảo|S A3 UZ
+xão|S A2 UZ
+xáo|S A4 UZ
+xạo|S A5 UZ
+xáp|S A4 PC
+xạp|S A5 PC
+xát|S A4 TC
+xạt|S A5 TC
+xau|S AW0 UZ
+xàu|S AW1 UZ
+xảu|S AW3 UZ
+xãu|S AW2 UZ
+xáu|S AW4 UZ
+xạu|S AW5 UZ
+xay|S AW0 IZ
+xày|S AW1 IZ
+xảy|S AW3 IZ
+xãy|S AW2 IZ
+xáy|S AW4 IZ
+xạy|S AW5 IZ
+xắc|S AW4 KC
+xặc|S AW5 KC
+xăm|S AW0 MZ
+xằm|S AW1 MZ
+xẳm|S AW3 MZ
+xẵm|S AW2 MZ
+xắm|S AW4 MZ
+xặm|S AW5 MZ
+xăn|S AW0 NZ
+xằn|S AW1 NZ
+xẳn|S AW3 NZ
+xẵn|S AW2 NZ
+xắn|S AW4 NZ
+xặn|S AW5 NZ
+xăng|S AW0 NGZ
+xằng|S AW1 NGZ
+xẳng|S AW3 NGZ
+xẵng|S AW2 NGZ
+xắng|S AW4 NGZ
+xặng|S AW5 NGZ
+xắp|S AW4 PC
+xắt|S AW4 TC
+xấc|S AA4 KC
+xâm|S AA0 MZ
+xầm|S AA1 MZ
+xẩm|S AA3 MZ
+xẫm|S AA2 MZ
+xấm|S AA4 MZ
+xậm|S AA5 MZ
+xân|S AA0 NZ
+xần|S AA1 NZ
+xẩn|S AA3 NZ
+xẫn|S AA2 NZ
+xấn|S AA4 NZ
+xận|S AA5 NZ
+xấp|S AA4 PC
+xập|S AA5 PC
+xất|S AA4 TC
+xật|S AA5 TC
+xâu|S AA0 UZ
+xầu|S AA1 UZ
+xẩu|S AA3 UZ
+xẫu|S AA2 UZ
+xấu|S AA4 UZ
+xậu|S AA5 UZ
+xây|S AA0 IZ
+xầy|S AA1 IZ
+xẩy|S AA3 IZ
+xẫy|S AA2 IZ
+xấy|S AA4 IZ
+xậy|S AA5 IZ
+xe|S E0
+xè|S E1
+xẻ|S E3
+xẽ|S E2
+xé|S E4
+xẹ|S E5
+xéc|S E4 KC
+xem|S E0 MZ
+xèm|S E1 MZ
+xẻm|S E3 MZ
+xẽm|S E2 MZ
+xém|S E4 MZ
+xẹm|S E5 MZ
+xen|S E0 NZ
+xèn|S E1 NZ
+xẻn|S E3 NZ
+xẽn|S E2 NZ
+xén|S E4 NZ
+xẹn|S E5 NZ
+xèng|S E1 NGZ
+xẻng|S E3 NGZ
+xeo|S E0 UZ
+xèo|S E1 UZ
+xẻo|S E3 UZ
+xẽo|S E2 UZ
+xéo|S E4 UZ
+xẹo|S E5 UZ
+xép|S E4 PC
+xẹp|S E5 PC
+xét|S E4 TC
+xẹt|S E5 TC
+xê|S EE0
+xề|S EE1
+xể|S EE3
+xễ|S EE2
+xế|S EE4
+xệ|S EE5
+xếch|S EE4 KC
+xệch|S EE5 KC
+xên|S EE0 NZ
+xền|S EE1 NZ
+xển|S EE3 NZ
+xễn|S EE2 NZ
+xến|S EE4 NZ
+xện|S EE5 NZ
+xênh|S EE0 NGZ
+xềnh|S EE1 NGZ
+xểnh|S EE3 NGZ
+xễnh|S EE2 NGZ
+xếnh|S EE4 NGZ
+xệnh|S EE5 NGZ
+xếp|S EE4 PC
+xệp|S EE5 PC
+xết|S EE4 TC
+xệt|S EE5 TC
+xêu|S EE0 UZ
+xều|S EE1 UZ
+xểu|S EE3 UZ
+xễu|S EE2 UZ
+xếu|S EE4 UZ
+xệu|S EE5 UZ
+xi|S I0
+xì|S I1
+xỉ|S I3
+xĩ|S I2
+xí|S I4
+xị|S I5
+xia|S IE0
+xìa|S IE1
+xỉa|S IE3
+xĩa|S IE2
+xía|S IE4
+xịa|S IE5
+xích|S I4 KC
+xịch|S I5 KC
+xiếc|S IE4 KC
+xiêm|S IE0 MZ
+xiềm|S IE1 MZ
+xiểm|S IE3 MZ
+xiễm|S IE2 MZ
+xiếm|S IE4 MZ
+xiệm|S IE5 MZ
+xiên|S IE0 NZ
+xiền|S IE1 NZ
+xiển|S IE3 NZ
+xiễn|S IE2 NZ
+xiến|S IE4 NZ
+xiện|S IE5 NZ
+xiêng|S IE0 NGZ
+xiềng|S IE1 NGZ
+xiểng|S IE3 NGZ
+xiễng|S IE2 NGZ
+xiếng|S IE4 NGZ
+xiệng|S IE5 NGZ
+xiết|S IE4 TC
+xiêu|S IE0 UZ
+xiều|S IE1 UZ
+xiểu|S IE3 UZ
+xiễu|S IE2 UZ
+xiếu|S IE4 UZ
+xiệu|S IE5 UZ
+xim|S I0 MZ
+xìm|S I1 MZ
+xỉm|S I3 MZ
+xĩm|S I2 MZ
+xím|S I4 MZ
+xịm|S I5 MZ
+xin|S I0 NZ
+xìn|S I1 NZ
+xỉn|S I3 NZ
+xĩn|S I2 NZ
+xín|S I4 NZ
+xịn|S I5 NZ
+xinh|S I0 NGZ
+xình|S I1 NGZ
+xỉnh|S I3 NGZ
+xĩnh|S I2 NGZ
+xính|S I4 NGZ
+xịnh|S I5 NGZ
+xíp|S I4 PC
+xịp|S I5 PC
+xít|S I4 TC
+xịt|S I5 TC
+xiu|S I0 UZ
+xìu|S I1 UZ
+xỉu|S I3 UZ
+xĩu|S I2 UZ
+xíu|S I4 UZ
+xịu|S I5 UZ
+xo|S O0
+xò|S O1
+xỏ|S O3
+xõ|S O2
+xó|S O4
+xọ|S O5
+xoa|S W A0
+xoà|S W A1
+xoả|S W A3
+xoã|S W A2
+xoá|S W A4
+xòa|S W A1
+xỏa|S W A3
+xõa|S W A2
+xóa|S W A4
+xọa|S W A5
+xoạc|S W A5 KC
+xọac|S W A5 KC
+xoạch|S W EA5 KC
+xọach|S W EA5 KC
+xoài|S W A1 IZ
+xoải|S W A3 IZ
+xoãi|S W A2 IZ
+xoái|S W A4 IZ
+xòai|S W A1 IZ
+xỏai|S W A3 IZ
+xõai|S W A2 IZ
+xóai|S W A4 IZ
+xoan|S W A0 NZ
+xoàn|S W A1 NZ
+xoản|S W A3 NZ
+xoãn|S W A2 NZ
+xoán|S W A4 NZ
+xoạn|S W A5 NZ
+xòan|S W A1 NZ
+xóan|S W A4 NZ
+xọan|S W A5 NZ
+xoang|S W A0 NGZ
+xoàng|S W A1 NGZ
+xoảng|S W A3 NGZ
+xoãng|S W A2 NGZ
+xoáng|S W A4 NGZ
+xoạng|S W A5 NGZ
+xòang|S W A1 NGZ
+xỏang|S W A3 NGZ
+xọang|S W A5 NGZ
+xoành|S W EA1 NGZ
+xòanh|S W EA1 NGZ
+xoát|S W A4 TC
+xoạt|S W A5 TC
+xóat|S W A4 TC
+xọat|S W A5 TC
+xoay|S W AW0 IZ
+xoày|S W AW1 IZ
+xoảy|S W AW3 IZ
+xoãy|S W AW2 IZ
+xoáy|S W AW4 IZ
+xoạy|S W AW5 IZ
+xóay|S W AW4 IZ
+xoăn|S W AW0 NZ
+xoằn|S W AW1 NZ
+xoẳn|S W AW3 NZ
+xoẵn|S W AW2 NZ
+xoắn|S W AW4 NZ
+xoặn|S W AW5 NZ
+xóc|S OA4 KC
+xọc|S OA5 KC
+xoe|S W E0
+xoè|S W E1
+xoé|S W E4
+xòe|S W E1
+xỏe|S W E3
+xõe|S W E2
+xóe|S W E4
+xọe|S W E5
+xoem|S W E0 MZ
+xoèm|S W E1 MZ
+xoẻm|S W E3 MZ
+xoẽm|S W E2 MZ
+xoém|S W E4 MZ
+xoẹm|S W E5 MZ
+xoen|S W E0 NZ
+xoèn|S W E1 NZ
+xoẻn|S W E3 NZ
+xoẽn|S W E2 NZ
+xoén|S W E4 NZ
+xoẹn|S W E5 NZ
+xòen|S W E1 NZ
+xoẹt|S W E5 TC
+xọet|S W E5 TC
+xoi|S O0 IZ
+xòi|S O1 IZ
+xỏi|S O3 IZ
+xõi|S O2 IZ
+xói|S O4 IZ
+xọi|S O5 IZ
+xòm|S O1 MZ
+xóm|S O4 MZ
+xọm|S O5 MZ
+xon|S O0 NZ
+xòn|S O1 NZ
+xỏn|S O3 NZ
+xõn|S O2 NZ
+xón|S O4 NZ
+xọn|S O5 NZ
+xong|S OA0 NGZ
+xòng|S OA1 NGZ
+xỏng|S OA3 NGZ
+xõng|S OA2 NGZ
+xóng|S OA4 NGZ
+xọng|S OA5 NGZ
+xoóc|S O4 OA4 KC
+xoọc|S O5 OA5 KC
+xoong|S O0 NGZ
+xoòng|S O1 NGZ
+xoỏng|S O3 NGZ
+xoõng|S O2 NGZ
+xoóng|S O4 NGZ
+xoọng|S O5 NGZ
+xóp|S O4 PC
+xọp|S O5 PC
+xót|S O4 TC
+xọt|S O5 TC
+xô|S OO0
+xồ|S OO1
+xổ|S OO3
+xỗ|S OO2
+xố|S OO4
+xộ|S OO5
+xốc|S OO4 KC
+xộc|S OO5 KC
+xôi|S OO0 IZ
+xồi|S OO1 IZ
+xổi|S OO3 IZ
+xỗi|S OO2 IZ
+xối|S OO4 IZ
+xội|S OO5 IZ
+xôm|S OO0 MZ
+xồm|S OO1 MZ
+xổm|S OO3 MZ
+xỗm|S OO2 MZ
+xốm|S OO4 MZ
+xộm|S OO5 MZ
+xôn|S OO0 NZ
+xồn|S OO1 NZ
+xổn|S OO3 NZ
+xỗn|S OO2 NZ
+xốn|S OO4 NZ
+xộn|S OO5 NZ
+xông|S OO0 NGZ
+xồng|S OO1 NGZ
+xổng|S OO3 NGZ
+xỗng|S OO2 NGZ
+xống|S OO4 NGZ
+xộng|S OO5 NGZ
+xốp|S OO4 PC
+xộp|S OO5 PC
+xốt|S OO4 TC
+xột|S OO5 TC
+xơ|S OW0
+xờ|S OW1
+xở|S OW3
+xỡ|S OW2
+xớ|S OW4
+xợ|S OW5
+xơi|S OW0 IZ
+xời|S OW1 IZ
+xởi|S OW3 IZ
+xỡi|S OW2 IZ
+xới|S OW4 IZ
+xợi|S OW5 IZ
+xơm|S OW0 MZ
+xờm|S OW1 MZ
+xởm|S OW3 MZ
+xỡm|S OW2 MZ
+xớm|S OW4 MZ
+xợm|S OW5 MZ
+xơn|S OW0 NZ
+xờn|S OW1 NZ
+xởn|S OW3 NZ
+xỡn|S OW2 NZ
+xớn|S OW4 NZ
+xợn|S OW5 NZ
+xớt|S OW4 TC
+xu|S U0
+xù|S U1
+xủ|S U3
+xũ|S U2
+xú|S U4
+xụ|S U5
+xua|S UO0
+xùa|S UO1
+xủa|S UO3
+xũa|S UO2
+xúa|S UO4
+xụa|S UO5
+xuân|S W AA0 NZ
+xuần|S W AA1 NZ
+xuẩn|S W AA3 NZ
+xuẫn|S W AA2 NZ
+xuấn|S W AA4 NZ
+xuận|S W AA5 NZ
+xuất|S W AA4 TC
+xúc|S U4 KC
+xục|S U5 KC
+xuê|S W EE0
+xuề|S W EE1
+xuể|S W EE3
+xuễ|S W EE2
+xuế|S W EE4
+xuệ|S W EE5
+xuềnh|S W EE1 NGZ
+xui|S U0 IZ
+xùi|S U1 IZ
+xủi|S U3 IZ
+xũi|S U2 IZ
+xúi|S U4 IZ
+xụi|S U5 IZ
+xum|S U0 MZ
+xùm|S U1 MZ
+xủm|S U3 MZ
+xũm|S U2 MZ
+xúm|S U4 MZ
+xụm|S U5 MZ
+xun|S U0 NZ
+xùn|S U1 NZ
+xủn|S U3 NZ
+xũn|S U2 NZ
+xún|S U4 NZ
+xụn|S U5 NZ
+xung|S U0 NGZ
+xùng|S U1 NGZ
+xủng|S U3 NGZ
+xũng|S U2 NGZ
+xúng|S U4 NGZ
+xụng|S U5 NGZ
+xuong|S U0 OA0 NGZ
+xuôi|S UO0 IZ
+xuồi|S UO1 IZ
+xuổi|S UO3 IZ
+xuỗi|S UO2 IZ
+xuối|S UO4 IZ
+xuội|S UO5 IZ
+xuôn|S UO0 NZ
+xuồn|S UO1 NZ
+xuổn|S UO3 NZ
+xuỗn|S UO2 NZ
+xuốn|S UO4 NZ
+xuộn|S UO5 NZ
+xuông|S UO0 NGZ
+xuồng|S UO1 NGZ
+xuổng|S UO3 NGZ
+xuỗng|S UO2 NGZ
+xuống|S UO4 NGZ
+xuộng|S UO5 NGZ
+xuốt|S UO4 TC
+xuột|S UO5 TC
+xúp|S U4 PC
+xụp|S U5 PC
+xút|S U4 TC
+xụt|S U5 TC
+xuy|S W I0
+xuý|S W I4
+xùy|S W I1
+xủy|S W I3
+xũy|S W I2
+xúy|S W I4
+xụy|S W I5
+xuyên|S W IE0 NZ
+xuyền|S W IE1 NZ
+xuyển|S W IE3 NZ
+xuyễn|S W IE2 NZ
+xuyến|S W IE4 NZ
+xuyện|S W IE5 NZ
+xuyết|S W IE4 TC
+xuyn|S W I0 NZ
+xuỳn|S W I1 NZ
+xuỷn|S W I3 NZ
+xuỹn|S W I2 NZ
+xuýn|S W I4 NZ
+xuỵn|S W I5 NZ
+xuynh|S W I0 NGZ
+xuỳnh|S W I1 NGZ
+xuỷnh|S W I3 NGZ
+xuỹnh|S W I2 NGZ
+xuýnh|S W I4 NGZ
+xuỵnh|S W I5 NGZ
+xuyp|S W I4 PC
+xuýp|S W I4 PC
+xuỵp|S W I5 PC
+xuyt|S W I4 TC
+xuýt|S W I4 TC
+xuỵt|S W I5 TC
+xúyt|S W I4 TC
+xuyu|S W I0 UZ
+xuỳu|S W I1 UZ
+xuỷu|S W I3 UZ
+xuỹu|S W I2 UZ
+xuýu|S W I4 UZ
+xuỵu|S W I5 UZ
+xư|S UW0
+xừ|S UW1
+xử|S UW3
+xữ|S UW2
+xứ|S UW4
+xự|S UW5
+xưa|S WA0
+xừa|S WA1
+xửa|S WA3
+xữa|S WA2
+xứa|S WA4
+xựa|S WA5
+xức|S UW4 KC
+xực|S UW5 KC
+xưm|S UW0 MZ
+xừm|S UW1 MZ
+xửm|S UW3 MZ
+xữm|S UW2 MZ
+xứm|S UW4 MZ
+xựm|S UW5 MZ
+xừn|S UW1 NZ
+xưng|S UW0 NGZ
+xừng|S UW1 NGZ
+xửng|S UW3 NGZ
+xững|S UW2 NGZ
+xứng|S UW4 NGZ
+xựng|S UW5 NGZ
+xước|S WA4 KC
+xược|S WA5 KC
+xưởi|S WA3 IZ
+xườn|S WA1 NZ
+xương|S WA0 NGZ
+xường|S WA1 NGZ
+xưởng|S WA3 NGZ
+xưỡng|S WA2 NGZ
+xướng|S WA4 NGZ
+xượng|S WA5 NGZ
+xướt|S WA4 TC
+xượt|S WA5 TC
+xứt|S UW4 TC
+xưu|S UW0 UZ
+xừu|S UW1 UZ
+xửu|S UW3 UZ
+xữu|S UW2 UZ
+xứu|S UW4 UZ
+xựu|S UW5 UZ
+xy|S I0
+xỳ|S I1
+xỷ|S I3
+xỹ|S I2
+xý|S I4
+xỵ|S I5
+y|I0
+ỳ|I1
+ỷ|I3
+ỹ|IZ
+ý|I4
+ỵ|I5
+yêm|IE0 MZ
+yềm|IE1 MZ
+yểm|IE3 MZ
+yễm|IE2 MZ
+yếm|IE4 MZ
+yệm|IE5 MZ
+yên|IE0 NZ
+yền|IE1 NZ
+yển|IE3 NZ
+yễn|IE2 NZ
+yến|IE4 NZ
+yện|IE5 NZ
+yết|IE4 TC
+yêu|IE0 UZ
+yều|IE1 UZ
+yểu|IE3 UZ
+yễu|IE2 UZ
+yếu|IE4 UZ
+yệu|IE5 UZ
+zi|D IZ
+zô|D OO0
+zơ|D OW0
+zờ|D OW1
+'|'
+~|~
+,|,
+.|.
+*|*
+#|#
+_|_
+-|-
+!|!
+:|:
+;|;
+?|?
+(|(
+)|)
+"|"

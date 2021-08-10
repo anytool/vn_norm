@@ -65,7 +65,7 @@ setup(
     long_description_content_type="text/markdown",
     license="Apache-2.0",
     packages=find_packages(include=["vn_norm*"]),
-    package_data={'vn_norm': ['text/*.txt']},
+    package_data={'vn_norm': ['text/mapping/*.txt']},
     install_requires=install_requires,
     setup_requires=setup_requires,
     tests_require=tests_require,
