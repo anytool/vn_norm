@@ -20,7 +20,7 @@ class G2p:
 
 
 if __name__ == '__main__':
-    text = 'Hello, how are you! ANTQ antq, dáh Nếu nổi tiếng một cách "chân chính" 100, tôi thấy đó là niềm vinh dự'
+    text = 'Hello, how are you! ANTQ antq, dáh Nếu nổi tiếng một cách "chân chính" 100, tôi thấy đó là "niềm vinh dự'
     g2p = G2p()
     # t = g2p.g2p_en(text)
     # print(t)

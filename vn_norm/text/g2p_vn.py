@@ -49,7 +49,18 @@ class G2pVn:
         result = []
         sents = sent_tokenize(text)
         for sent in sents:
-            # print(sent)
+            # '"' symbol
+            quote_count = 0
+            last_quote_index = -1
+            while True:
+                quote_index = sent.find('"', last_quote_index + 1)
+                if quote_index >= 0:
+                    last_quote_index = quote_index
+                    quote_count +=1
+                else:
+                    break
+            if quote_count % 2 == 1 and last_quote_index + 1 < len(sent):
+                sent += '"'
             sent_result = []
             space_flag = False
             depends = word_tokenize(sent)
