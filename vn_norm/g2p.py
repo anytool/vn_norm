@@ -15,12 +15,12 @@ class G2p:
     def g2p_en(self, text: str):
         text = self._g2pvn.punctuation_norm(text)
         result = self._g2pen(text)
-        result = filter(lambda x: x != ' ', result)
+        result = map(lambda x: '_' if x == ' ' else x, result)
         return self._delimit.join(result)
 
 
 if __name__ == '__main__':
-    text = 'ANTQ antq dáh Nếu nổi tiếng một cách "chân chính" 100, tôi thấy đó là niềm vinh dự'
+    text = 'Hello, how are you! ANTQ antq, dáh Nếu nổi tiếng một cách "chân chính" 100, tôi thấy đó là niềm vinh dự'
     g2p = G2p()
     # t = g2p.g2p_en(text)
     # print(t)

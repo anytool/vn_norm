@@ -22,7 +22,7 @@ class G2pVn:
                  teen_code_replacer=TeenCodeReplacer(),
                  g2p_vn_replacer=G2pVnReplacer(),
                  end_punctuation=True,
-                 delimit = ' '
+                 delimit = '_'
                  ):
         self._pre_processes = pre_processes
         self._try_other = try_other
@@ -51,6 +51,7 @@ class G2pVn:
         for sent in sents:
             # print(sent)
             sent_result = []
+            space_flag = False
             depends = word_tokenize(sent)
             if self._end_punctuation and depends[len(depends) - 1] not in punctuations:
                 depends.append('.')
@@ -60,6 +61,7 @@ class G2pVn:
                 # words, _, word_type = depend
                 if len(words) == 1 and words in punctuations:
                     sent_result.append(words)
+                    space_flag = False
                 else:
                     words = self._custom_simple_replacer(words)
                     words = self._acronym_replacer(words)
@@ -71,7 +73,10 @@ class G2pVn:
                         word = self._acronym_replacer(word)
                         word = self._teen_code_replacer(word)
                         word = self._g2p_vn_replacer(word.lower(), try_other=self._try_other)
-                        sent_result.extend(word.split())
+                        if space_flag:
+                            sent_result.append(self._delimit)
+                        sent_result.append(word)
+                        space_flag = True
             sent_result = ' '.join(sent_result)
             result.append(sent_result)
         return result
