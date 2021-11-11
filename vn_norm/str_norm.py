@@ -77,7 +77,7 @@ _punc_map = [
     # unit
     (re.compile(x[0], re.IGNORECASE), x[1])
     for x in [
-        ("...", "."),
+        ("\.\.\.", "."),
     ]
 ]
 
@@ -86,7 +86,6 @@ _alias_map = np.concatenate((_abbreviations, _punc_map))
 
 
 def str_norm(text):
-    print('Hello')
     for regex, replacement in _alias_map:
         text = re.sub(regex, replacement, text)
     return text
@@ -94,4 +93,4 @@ def str_norm(text):
 
 if __name__ == '__main__':
     # print(re.search(re.compile("(\\bkm/h)^(?!/)(\\W)"), "tốc độ 300 km/h "))
-    print(str_norm("mr. peter đi xe đạp tốc độ 300 km/h "))
+    print(str_norm("mr. peter ...đi xe đạp tốc độ 300 km/h "))
