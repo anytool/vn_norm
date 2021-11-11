@@ -27,7 +27,7 @@ requirements = {
         "roman>=3.3",
         "numpy>=1.18.5",
         "unidecode @ git+https://github.com/anytool/unidecode_ext.git",
-        "underthesea @ git+https://github.com/anytool/underthesea.git#80c15fb3f2bab9041dddd1e28fee621c9beff7bb"
+        "underthesea @ git+https://github.com/anytool/underthesea.git"
         "g2p_en",
         "espnet_tts_frontend"
     ],
