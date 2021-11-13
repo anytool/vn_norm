@@ -5,17 +5,16 @@ from vn_norm.text.replacer.custom_simple_replacer import CustomSimpleReplacer
 from vn_norm.text.replacer.custom_regex_replacer import CustomRegexReplacer
 from vn_norm.text.symbols import punctuations
 from vn_norm import vn_norm
-from nltk.tokenize import sent_tokenize, word_tokenize
-import nltk
-from vn_norm.text.uni_std import UniStd
-import re
+from underthesea import word_tokenize, sent_tokenize
+from vietnamese_cleaner.vietnameseNormUniStd import UniStd
 
-nltk.download('punkt')
+from g2p_en import G2p
+import re
 
 
 class G2pVn:
     def __init__(self,
-                 try_other=None,
+                 try_other=G2p(),
                  pre_processes: list = [],
                  custom_regex_replacer=CustomRegexReplacer(),
                  custom_simple_replacer=CustomSimpleReplacer(),
@@ -79,6 +78,7 @@ class G2pVn:
                     words = self._acronym_replacer(words)
                     words = self._teen_code_replacer(words)
                     words = vn_norm(words)
+                    words = re.sub(r'[\?\.!,\-:;\' \*\)\(\[\]]+', ' ', words)
                     word_split = words.split()
                     for word in word_split:
                         word = self._custom_simple_replacer(word)

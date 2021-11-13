@@ -9,10 +9,13 @@ import codecs
 class G2pVnReplacer(BaseSimpleReplacer):
     def __init__(self, dict_path=path.join(path.dirname(__file__), '../mapping/mfag2p.txt')):
         BaseSimpleReplacer.__init__(self, dict_path)
-        self._model_path = os.path.join(
+        self._vn_model_path = os.path.join(
             os.getcwd(), 'dict/models/vietnamese_g2p.zip')
+        self._en_model_path = os.path.join(
+            os.getcwd(), 'dict/models/english_g2p.zip')
         self._new_words_path = os.path.join(os.getcwd(), 'new-words.txt')
-        self._model = G2PModel(self._model_path)
+        self._vn_model = G2PModel(self._vn_model_path)
+        self._en_model = G2PModel(self._en_model_path)
         self.load_replace_map(self.load_replace_map(self._new_words_path))
 
     def __call__(self, text: str, try_other=None) -> str:
@@ -21,14 +24,18 @@ class G2pVnReplacer(BaseSimpleReplacer):
         elif try_other is not None:
             return ' '.join(list(filter(lambda x: x != ' ', try_other(text))))
         else:
+            print(['new text', text])
             self.gen_new_words(text)
             if text in self._dict:
                 return self._dict[text]
         return ''
 
     def gen_new_words(self, word):
-        gen = PyniniDictionaryGenerator(self._model, [word])
+        gen = PyniniDictionaryGenerator(self._vn_model, [word])
         results = gen.generate()
+        if results is None or results[word] == [''] or len(results) == 0:
+            gen = PyniniDictionaryGenerator(self._en_model, [word])
+            results = gen.generate()
         with codecs.open(self._new_words_path, 'a', 'utf-8') as f:
             for (word, pronunciation) in results.items():
                 if not pronunciation:
