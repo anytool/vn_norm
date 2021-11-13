@@ -1,3 +1,3 @@
-underthesea @ git+https://github.com/anytool/underthesea.git
+# underthesea @ git+https://github.com/anytool/underthesea.git
 vn_norm @ git+https://github.com/anytool/vn_norm.git
 unidecode @ git+https://github.com/anytool/unidecode_ext.git

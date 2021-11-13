@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  phonti:
+    image: phonetisaurus/phonetisaurus
+    tty: true
+    command: /bin/bash
+    volumes:
+      - ./dict:/work

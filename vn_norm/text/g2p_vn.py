@@ -5,16 +5,17 @@ from vn_norm.text.replacer.custom_simple_replacer import CustomSimpleReplacer
 from vn_norm.text.replacer.custom_regex_replacer import CustomRegexReplacer
 from vn_norm.text.symbols import punctuations
 from vn_norm import vn_norm
-from underthesea import word_tokenize, sent_tokenize
-from vietnamese_cleaner.vietnameseNormUniStd import UniStd
-
-from g2p_en import G2p
+from nltk.tokenize import sent_tokenize, word_tokenize
+import nltk
+from vn_norm.text.uni_std import UniStd
 import re
+
+nltk.download('punkt')
 
 
 class G2pVn:
     def __init__(self,
-                 try_other=G2p(),
+                 try_other=None,
                  pre_processes: list = [],
                  custom_regex_replacer=CustomRegexReplacer(),
                  custom_simple_replacer=CustomSimpleReplacer(),
@@ -22,7 +23,7 @@ class G2pVn:
                  teen_code_replacer=TeenCodeReplacer(),
                  g2p_vn_replacer=G2pVnReplacer(),
                  end_punctuation=True,
-                 delimit = '_'
+                 delimit='_'
                  ):
         self._pre_processes = pre_processes
         self._try_other = try_other
@@ -56,7 +57,7 @@ class G2pVn:
                 quote_index = sent.find('"', last_quote_index + 1)
                 if quote_index >= 0:
                     last_quote_index = quote_index
-                    quote_count +=1
+                    quote_count += 1
                 else:
                     break
             if quote_count % 2 == 1 and last_quote_index + 1 < len(sent):
@@ -83,7 +84,8 @@ class G2pVn:
                         word = self._custom_simple_replacer(word)
                         word = self._acronym_replacer(word)
                         word = self._teen_code_replacer(word)
-                        word = self._g2p_vn_replacer(word.lower(), try_other=self._try_other)
+                        word = self._g2p_vn_replacer(
+                            word.lower(), try_other=self._try_other)
                         if space_flag:
                             sent_result.append(self._delimit)
                         sent_result.append(word)
@@ -91,8 +93,8 @@ class G2pVn:
             sent_result = ' '.join(sent_result)
             result.append(sent_result)
         return result
-    
-    def parseAndJoinSents(self, text:str, join_str = '\n'):
+
+    def parseAndJoinSents(self, text: str, join_str='\n'):
         return join_str.join(self.__call__(text))
 
 
