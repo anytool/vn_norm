@@ -10294,390 +10294,390 @@ tớp|t o3_T3 p
 tợp|t o3_T6 p
 tớt|t o3_T3 t
 tợt|t o3_T6 t
-tra|ch a1_T1
-trà|ch a1_T2
-trả|ch a1_T4
-trã|ch a1_T5
-trá|ch a1_T3
-trạ|ch a1_T6
+tra|tr a1_T1
+trà|tr a1_T2
+trả|tr a1_T4
+trã|tr a1_T5
+trá|tr a1_T3
+trạ|tr a1_T6
 trác|tr a1_T3 k
-trạc|ch a1_T6 k
-trách|ch a1_T3 ch
-trạch|ch a1_T6 ch
-trai|ch ai_T1
-trài|ch ai_T2
-trải|ch ai_T4
-trãi|ch ai_T5
-trái|ch ai_T3
-trại|ch ai_T6
+trạc|tr a1_T6 k
+trách|tr a1_T3 ch
+trạch|tr a1_T6 ch
+trai|tr ai_T1
+trài|tr ai_T2
+trải|tr ai_T4
+trãi|tr ai_T5
+trái|tr ai_T3
+trại|tr ai_T6
 tràm|tr a1_T2 m
-trảm|ch a1_T4 m
-trám|ch a1_T3 m
-trạm|ch a1_T6 m
-tran|ch a1_T1 n
-tràn|ch a1_T2 n
-trản|ch a1_T4 n
-trãn|ch a1_T5 n
-trán|ch a1_T3 n
-trạn|ch a1_T6 n
-trang|ch a1_T1 ng
-tràng|ch a1_T2 ng
-trảng|ch a1_T4 ng
-trãng|ch a1_T5 ng
-tráng|ch a1_T3 ng
-trạng|ch a1_T6 ng
-tranh|ch a1_T1 nh
+trảm|tr a1_T4 m
+trám|tr a1_T3 m
+trạm|tr a1_T6 m
+tran|tr a1_T1 n
+tràn|tr a1_T2 n
+trản|tr a1_T4 n
+trãn|tr a1_T5 n
+trán|tr a1_T3 n
+trạn|tr a1_T6 n
+trang|tr a1_T1 ng
+tràng|tr a1_T2 ng
+trảng|tr a1_T4 ng
+trãng|tr a1_T5 ng
+tráng|tr a1_T3 ng
+trạng|tr a1_T6 ng
+tranh|tr a1_T1 nh
 trành|tr a1_T2 nh
-trảnh|ch a1_T4 nh
-trãnh|ch a1_T5 nh
-tránh|ch a1_T3 nh
-trạnh|ch a1_T6 nh
+trảnh|tr a1_T4 nh
+trãnh|tr a1_T5 nh
+tránh|tr a1_T3 nh
+trạnh|tr a1_T6 nh
 trao|tr ao_T1
-trào|ch ao_T2
-trảo|ch ao_T4
-trão|ch ao_T5
-tráo|ch ao_T3
+trào|tr ao_T2
+trảo|tr ao_T4
+trão|tr ao_T5
+tráo|tr ao_T3
 trạo|tr ao_T6
-tráp|ch a1_T3 p
-trát|ch a1_T3 t
+tráp|tr a1_T3 p
+trát|tr a1_T3 t
 trau|tr au_T1
-tràu|ch au_T2
-trảu|ch au_T4
-trãu|ch au_T5
-tráu|ch au_T3
-trạu|ch au_T6
-trảy|ch ay_T4
-trắc|ch a2_T3 k
+tràu|tr au_T2
+trảu|tr au_T4
+trãu|tr au_T5
+tráu|tr au_T3
+trạu|tr au_T6
+trảy|tr ay_T4
+trắc|tr a2_T3 k
 trặc|tr a2_T6 k
-trăm|ch a2_T1 m
-trằm|ch a2_T2 m
-trẳm|ch a2_T4 m
-trẵm|ch a2_T5 m
-trắm|ch a2_T3 m
-trặm|ch a2_T6 m
-trăn|ch a2_T1 n
-trằn|ch a2_T2 n
-trẳn|ch a2_T4 n
-trẵn|ch a2_T5 n
-trắn|ch a2_T3 n
+trăm|tr a2_T1 m
+trằm|tr a2_T2 m
+trẳm|tr a2_T4 m
+trẵm|tr a2_T5 m
+trắm|tr a2_T3 m
+trặm|tr a2_T6 m
+trăn|tr a2_T1 n
+trằn|tr a2_T2 n
+trẳn|tr a2_T4 n
+trẵn|tr a2_T5 n
+trắn|tr a2_T3 n
 trặn|tr a2_T6 n
-trăng|ch a2_T1 ng
-trằng|ch a2_T2 ng
-trẳng|ch a2_T4 ng
-trẵng|ch a2_T5 ng
-trắng|ch a2_T3 ng
-trặng|ch a2_T6 ng
-trắp|ch a2_T3 p
-trắt|ch a2_T3 t
-trâm|ch a3_T1 m
-trầm|ch a3_T2 m
-trẩm|ch a3_T4 m
-trẫm|ch a3_T5 m
-trấm|ch a3_T3 m
-trậm|ch a3_T6 m
-trân|ch a3_T1 n
-trần|ch a3_T2 n
-trẩn|ch a3_T4 n
-trẫn|ch a3_T5 n
-trấn|ch a3_T3 n
-trận|ch a3_T6 n
-trập|ch a3_T6 p
+trăng|tr a2_T1 ng
+trằng|tr a2_T2 ng
+trẳng|tr a2_T4 ng
+trẵng|tr a2_T5 ng
+trắng|tr a2_T3 ng
+trặng|tr a2_T6 ng
+trắp|tr a2_T3 p
+trắt|tr a2_T3 t
+trâm|tr a3_T1 m
+trầm|tr a3_T2 m
+trẩm|tr a3_T4 m
+trẫm|tr a3_T5 m
+trấm|tr a3_T3 m
+trậm|tr a3_T6 m
+trân|tr a3_T1 n
+trần|tr a3_T2 n
+trẩn|tr a3_T4 n
+trẫn|tr a3_T5 n
+trấn|tr a3_T3 n
+trận|tr a3_T6 n
+trập|tr a3_T6 p
 trật|tr a3_T6 t
-trâu|ch au3_T1
-trầu|ch au3_T2
-trẩu|ch au3_T4
-trẫu|ch au3_T5
-trấu|ch au3_T3
-trậu|ch au3_T6
-trây|ch ay3_T1
-trầy|ch ay3_T2
-trẩy|ch ay3_T4
-trẫy|ch ay3_T5
-trấy|ch ay3_T3
-trậy|ch ay3_T6
-tre|ch e1_T1
-trè|ch e1_T2
-trẻ|ch e1_T4
-trẽ|ch e1_T5
-tré|ch e1_T3
+trâu|tr au3_T1
+trầu|tr au3_T2
+trẩu|tr au3_T4
+trẫu|tr au3_T5
+trấu|tr au3_T3
+trậu|tr au3_T6
+trây|tr ay3_T1
+trầy|tr ay3_T2
+trẩy|tr ay3_T4
+trẫy|tr ay3_T5
+trấy|tr ay3_T3
+trậy|tr ay3_T6
+tre|tr e1_T1
+trè|tr e1_T2
+trẻ|tr e1_T4
+trẽ|tr e1_T5
+tré|tr e1_T3
 trẹ|tr e1_T6
-trem|ch e1_T1 m
+trem|tr e1_T1 m
 trèm|tr e1_T2 m
-trẻm|ch e1_T4 m
-trẽm|ch e1_T5 m
-trém|ch e1_T3 m
+trẻm|tr e1_T4 m
+trẽm|tr e1_T5 m
+trém|tr e1_T3 m
 trẹm|tr e1_T6 m
-tren|ch e1_T1 n
-trèn|ch e1_T2 n
-trẻn|ch e1_T4 n
+tren|tr e1_T1 n
+trèn|tr e1_T2 n
+trẻn|tr e1_T4 n
 trẽn|tr e1_T5 n
-trén|ch e1_T3 n
+trén|tr e1_T3 n
 trẹn|tr e1_T6 n
-treo|ch eo_T1
-trèo|ch eo_T2
+treo|tr eo_T1
+trèo|tr eo_T2
 trẻo|tr eo_T4
-trẽo|ch eo_T5
+trẽo|tr eo_T5
 tréo|tr eo_T3
 trẹo|tr eo_T6
-trét|ch e1_T3 t
-trê|ch e2_T1
+trét|tr e1_T3 t
+trê|tr e2_T1
 trề|tr e2_T2
-trể|ch e2_T4
-trễ|ch e2_T5
-trế|ch e2_T3
-trệ|ch e2_T6
-trệch|ch e2_T6 ch
+trể|tr e2_T4
+trễ|tr e2_T5
+trế|tr e2_T3
+trệ|tr e2_T6
+trệch|tr e2_T6 ch
 trên|tr e2_T1 n
-trền|ch e2_T2 n
-trển|ch e2_T4 n
-trễn|ch e2_T5 n
-trến|ch e2_T3 n
-trện|ch e2_T6 n
-trết|ch e2_T3 t
-trệt|ch e2_T6 t
+trền|tr e2_T2 n
+trển|tr e2_T4 n
+trễn|tr e2_T5 n
+trến|tr e2_T3 n
+trện|tr e2_T6 n
+trết|tr e2_T3 t
+trệt|tr e2_T6 t
 trêu|tr e2_T1 u1_T1
-trều|ch eu_T2
-trểu|ch eu_T4
-trễu|ch eu_T5
-trếu|ch eu_T3
-trệu|ch eu_T6
-tri|ch i_T1
-trì|ch i_T2
-trỉ|ch i_T4
-trĩ|ch i_T5
-trí|ch i_T3
-trị|ch i_T6
+trều|tr eu_T2
+trểu|tr eu_T4
+trễu|tr eu_T5
+trếu|tr eu_T3
+trệu|tr eu_T6
+tri|tr i_T1
+trì|tr i_T2
+trỉ|tr i_T4
+trĩ|tr i_T5
+trí|tr i_T3
+trị|tr i_T6
 trịa|tr i_T6 a1_T1
-trích|ch i_T3 ch
-trịch|ch i_T6 ch
-triền|ch ie2_T2 n
+trích|tr i_T3 ch
+trịch|tr i_T6 ch
+triền|tr ie2_T2 n
 triển|tr ie2_T4 n
-triện|ch ie2_T6 n
-triêng|ch ie2_T1 ng
-triềng|ch ie2_T2 ng
-triểng|ch ie2_T4 ng
-triễng|ch ie2_T5 ng
-triếng|ch ie2_T3 ng
-triệng|ch ie2_T6 ng
-triết|ch ie2_T3 t
-triệt|ch ie2_T6 t
-triều|ch ieu_T2
-triệu|ch ieu_T6
-trim|ch i_T1 m
-trìm|ch i_T2 m
-trỉm|ch i_T4 m
-trĩm|ch i_T5 m
-trím|ch i_T3 m
-trịm|ch i_T6 m
-trinh|ch i_T1 nh
-trình|ch i_T2 nh
-trỉnh|ch i_T4 nh
+triện|tr ie2_T6 n
+triêng|tr ie2_T1 ng
+triềng|tr ie2_T2 ng
+triểng|tr ie2_T4 ng
+triễng|tr ie2_T5 ng
+triếng|tr ie2_T3 ng
+triệng|tr ie2_T6 ng
+triết|tr ie2_T3 t
+triệt|tr ie2_T6 t
+triều|tr ieu_T2
+triệu|tr ieu_T6
+trim|tr i_T1 m
+trìm|tr i_T2 m
+trỉm|tr i_T4 m
+trĩm|tr i_T5 m
+trím|tr i_T3 m
+trịm|tr i_T6 m
+trinh|tr i_T1 nh
+trình|tr i_T2 nh
+trỉnh|tr i_T4 nh
 trĩnh|tr i_T5 nh
-trính|ch i_T3 nh
-trịnh|ch i_T6 nh
-tríp|ch i_T3 p
-trít|ch i_T3 t
-trìu|ch iu_T2
-trĩu|ch iu_T5
-tro|ch o1_T1
-trò|ch o1_T2
-trỏ|ch o1_T4
-trõ|ch o1_T5
-tró|ch o1_T3
-trọ|ch o1_T6
-troăm|ch o1_T1 a2_T1 m
-troằm|ch o1_T1 a2_T2 m
-troẳm|ch o1_T1 a2_T4 m
-troẵm|ch o1_T1 a2_T5 m
-troắm|ch o1_T1 a2_T3 m
-troặm|ch o1_T1 a2_T6 m
+trính|tr i_T3 nh
+trịnh|tr i_T6 nh
+tríp|tr i_T3 p
+trít|tr i_T3 t
+trìu|tr iu_T2
+trĩu|tr iu_T5
+tro|tr o1_T1
+trò|tr o1_T2
+trỏ|tr o1_T4
+trõ|tr o1_T5
+tró|tr o1_T3
+trọ|tr o1_T6
+troăm|tr o1_T1 a2_T1 m
+troằm|tr o1_T1 a2_T2 m
+troẳm|tr o1_T1 a2_T4 m
+troẵm|tr o1_T1 a2_T5 m
+troắm|tr o1_T1 a2_T3 m
+troặm|tr o1_T1 a2_T6 m
 tróc|tr o1_T3 k
-trọc|ch o1_T6 k
-troem|ch o2_T1 e1_T1 m
-troèm|ch o1_T1 e1_T2 m
-troẻm|ch o1_T1 e1_T4 m
-troẽm|ch o1_T1 e1_T5 m
-troém|ch o1_T1 e1_T3 m
-troẹm|ch o1_T1 e1_T6 m
-troi|ch oi_T1
-tròi|ch oi_T2
-trỏi|ch oi_T4
-trõi|ch oi_T5
-trói|ch oi_T3
+trọc|tr o1_T6 k
+troem|tr o2_T1 e1_T1 m
+troèm|tr o1_T1 e1_T2 m
+troẻm|tr o1_T1 e1_T4 m
+troẽm|tr o1_T1 e1_T5 m
+troém|tr o1_T1 e1_T3 m
+troẹm|tr o1_T1 e1_T6 m
+troi|tr oi_T1
+tròi|tr oi_T2
+trỏi|tr oi_T4
+trõi|tr oi_T5
+trói|tr oi_T3
 trọi|tr oi_T6
-tròm|ch o1_T2 m
-tron|ch o1_T1 n
-tròn|ch o1_T2 n
-trỏn|ch o1_T4 n
-trõn|ch o1_T5 n
-trón|ch o1_T3 n
+tròm|tr o1_T2 m
+tron|tr o1_T1 n
+tròn|tr o1_T2 n
+trỏn|tr o1_T4 n
+trõn|tr o1_T5 n
+trón|tr o1_T3 n
 trọn|tr o1_T6 n
-trong|ch o1_T1 ng
-tròng|ch o1_T2 ng
-trỏng|ch o1_T4 ng
-trõng|ch o1_T5 ng
-tróng|ch o1_T3 ng
-trọng|ch o1_T6 ng
-troong|ch o1_T1 o1_T1 ng
-troòng|ch o1_T1 o1_T2 ng
-troỏng|ch o1_T1 o1_T4 ng
-troõng|ch o1_T1 o1_T5 ng
-troóng|ch o1_T1 o1_T3 ng
-troọng|ch o1_T1 o1_T6 ng
-trót|ch o1_T3 t
+trong|tr o1_T1 ng
+tròng|tr o1_T2 ng
+trỏng|tr o1_T4 ng
+trõng|tr o1_T5 ng
+tróng|tr o1_T3 ng
+trọng|tr o1_T6 ng
+troong|tr o1_T1 o1_T1 ng
+troòng|tr o1_T1 o1_T2 ng
+troỏng|tr o1_T1 o1_T4 ng
+troõng|tr o1_T1 o1_T5 ng
+troóng|tr o1_T1 o1_T3 ng
+troọng|tr o1_T1 o1_T6 ng
+trót|tr o1_T3 t
 trọt|tr o1_T6 t
-trô|ch o2_T1
+trô|tr o2_T1
 trồ|tr o2_T2
-trổ|ch o2_T4
-trỗ|ch o2_T5
-trố|ch o2_T3
-trộ|ch o2_T6
-trốc|ch o2_T3 k
-trôi|ch oi2_T1
-trồi|ch oi2_T2
+trổ|tr o2_T4
+trỗ|tr o2_T5
+trố|tr o2_T3
+trộ|tr o2_T6
+trốc|tr o2_T3 k
+trôi|tr oi2_T1
+trồi|tr oi2_T2
 trổi|tr oi2_T4
-trỗi|ch oi2_T5
-trối|ch oi2_T3
-trội|ch oi2_T6
-trộm|ch o2_T6 m
-trôn|ch o2_T1 n
-trồn|ch o2_T2 n
-trổn|ch o2_T4 n
-trỗn|ch o2_T5 n
-trốn|ch o2_T3 n
-trộn|ch o2_T6 n
-trông|ch o2_T1 ng
-trồng|ch o2_T2 ng
-trổng|ch o2_T4 ng
-trỗng|ch o2_T5 ng
-trống|ch o2_T3 ng
-trộng|ch o2_T6 ng
-trốp|ch o2_T3 p
-trốt|ch o2_T3 t
-trơ|ch o3_T1
-trờ|ch o3_T2
-trở|ch o3_T4
-trỡ|ch o3_T5
-trớ|ch o3_T3
-trợ|ch o3_T6
-trơi|ch oi3_T1
-trời|ch oi3_T2
-trởi|ch oi3_T4
-trỡi|ch oi3_T5
-trới|ch oi3_T3
-trợi|ch oi3_T6
-trơn|ch o3_T1 n
-trờn|ch o3_T2 n
-trởn|ch o3_T4 n
-trỡn|ch o3_T5 n
-trớn|ch o3_T3 n
-trợn|ch o3_T6 n
-trớt|ch o3_T3 t
+trỗi|tr oi2_T5
+trối|tr oi2_T3
+trội|tr oi2_T6
+trộm|tr o2_T6 m
+trôn|tr o2_T1 n
+trồn|tr o2_T2 n
+trổn|tr o2_T4 n
+trỗn|tr o2_T5 n
+trốn|tr o2_T3 n
+trộn|tr o2_T6 n
+trông|tr o2_T1 ng
+trồng|tr o2_T2 ng
+trổng|tr o2_T4 ng
+trỗng|tr o2_T5 ng
+trống|tr o2_T3 ng
+trộng|tr o2_T6 ng
+trốp|tr o2_T3 p
+trốt|tr o2_T3 t
+trơ|tr o3_T1
+trờ|tr o3_T2
+trở|tr o3_T4
+trỡ|tr o3_T5
+trớ|tr o3_T3
+trợ|tr o3_T6
+trơi|tr oi3_T1
+trời|tr oi3_T2
+trởi|tr oi3_T4
+trỡi|tr oi3_T5
+trới|tr oi3_T3
+trợi|tr oi3_T6
+trơn|tr o3_T1 n
+trờn|tr o3_T2 n
+trởn|tr o3_T4 n
+trỡn|tr o3_T5 n
+trớn|tr o3_T3 n
+trợn|tr o3_T6 n
+trớt|tr o3_T3 t
 trợt|tr o3_T6 t
 tru|tr u1_T1
-trù|ch u1_T2
-trủ|ch u1_T4
-trũ|ch u1_T5
-trú|ch u1_T3
-trụ|ch u1_T6
-trùa|ch ua_T2
-truân|ch u1_T1 a3_T1 n
-truần|ch ua_T2 n
-truẩn|ch ua_T4 n
-truẫn|ch u1_T1 a3_T5 n
-truấn|ch ua_T3 n
-truận|ch ua_T6 n
-truất|ch ua_T3 t
-trúc|ch u1_T3 k
-trục|ch u1_T6 k
-trui|ch ui_T1
-trùi|ch ui_T2
-trủi|ch ui_T4
-trũi|ch ui_T5
-trúi|ch ui_T3
+trù|tr u1_T2
+trủ|tr u1_T4
+trũ|tr u1_T5
+trú|tr u1_T3
+trụ|tr u1_T6
+trùa|tr ua_T2
+truân|tr u1_T1 a3_T1 n
+truần|tr ua_T2 n
+truẩn|tr ua_T4 n
+truẫn|tr u1_T1 a3_T5 n
+truấn|tr ua_T3 n
+truận|tr ua_T6 n
+truất|tr ua_T3 t
+trúc|tr u1_T3 k
+trục|tr u1_T6 k
+trui|tr ui_T1
+trùi|tr ui_T2
+trủi|tr ui_T4
+trũi|tr ui_T5
+trúi|tr ui_T3
 trụi|tr ui_T6
-trum|ch u1_T1 m
-trùm|ch u1_T2 m
-trủm|ch u1_T4 m
-trũm|ch u1_T5 m
-trúm|ch u1_T3 m
-trụm|ch u1_T6 m
-trùn|ch u1_T2 n
-trung|ch u1_T1 ng
-trùng|ch u1_T2 ng
-trủng|ch u1_T4 ng
-trũng|ch u1_T5 ng
+trum|tr u1_T1 m
+trùm|tr u1_T2 m
+trủm|tr u1_T4 m
+trũm|tr u1_T5 m
+trúm|tr u1_T3 m
+trụm|tr u1_T6 m
+trùn|tr u1_T2 n
+trung|tr u1_T1 ng
+trùng|tr u1_T2 ng
+trủng|tr u1_T4 ng
+trũng|tr u1_T5 ng
 trúng|tr u1_T3 ng
-trụng|ch u1_T6 ng
-truồng|ch ua_T2 ng
-trút|ch u1_T3 t
-truy|ch uy_T1
-trụy|ch u1_T6 i_T1
-trùy|ch u1_T2 i_T1
-trủy|ch uy_T4
-trũy|ch u1_T5 i_T1
-trúy|ch u1_T3 i_T1
+trụng|tr u1_T6 ng
+truồng|tr ua_T2 ng
+trút|tr u1_T3 t
+truy|tr uy_T1
+trụy|tr u1_T6 i_T1
+trùy|tr u1_T2 i_T1
+trủy|tr uy_T4
+trũy|tr u1_T5 i_T1
+trúy|tr u1_T3 i_T1
 truyền|tr uy_T1 e2_T2 n
 truyện|tr uy_T1 e2_T6 n
-truynh|ch uy_T1 nh
-truỳnh|ch uy_T2 nh
-truỷnh|ch uy_T4 nh
-truỹnh|ch uy_T5 nh
-truýnh|ch uy_T3 nh
-truỵnh|ch uy_T6 nh
-truyp|ch uy_T1 p
-truýp|ch uy_T3 p
-truỵp|ch uy_T6 p
-truyt|ch uy_T1 t
-truýt|ch uy_T3 t
-truỵt|ch uy_T6 t
-truyu|ch uy_T1
-truỳu|ch uy_T2
-truỷu|ch uy_T4 u1_T1
-truỹu|ch uy_T5
-truýu|ch uy_T3
-truỵu|ch uy_T6 u1_T1
-trư|ch u2_T1
-trừ|ch u2_T2
-trử|ch u2_T4
-trữ|ch u2_T5
+truynh|tr uy_T1 nh
+truỳnh|tr uy_T2 nh
+truỷnh|tr uy_T4 nh
+truỹnh|tr uy_T5 nh
+truýnh|tr uy_T3 nh
+truỵnh|tr uy_T6 nh
+truyp|tr uy_T1 p
+truýp|tr uy_T3 p
+truỵp|tr uy_T6 p
+truyt|tr uy_T1 t
+truýt|tr uy_T3 t
+truỵt|tr uy_T6 t
+truyu|tr uy_T1
+truỳu|tr uy_T2
+truỷu|tr uy_T4 u1_T1
+truỹu|tr uy_T5
+truýu|tr uy_T3
+truỵu|tr uy_T6 u1_T1
+trư|tr u2_T1
+trừ|tr u2_T2
+trử|tr u2_T4
+trữ|tr u2_T5
 trứ|tr u2_T3
-trự|ch u2_T6
-trưa|ch ua2_T1
-trừa|ch ua2_T2
-trửa|ch ua2_T4
-trữa|ch ua2_T5
-trứa|ch ua2_T3
-trựa|ch ua2_T6
-trực|ch u2_T6 k
-trưm|ch m
-trừm|ch u2_T2 m
-trửm|ch u2_T4 m
-trữm|ch u2_T5 m
+trự|tr u2_T6
+trưa|tr ua2_T1
+trừa|tr ua2_T2
+trửa|tr ua2_T4
+trữa|tr ua2_T5
+trứa|tr ua2_T3
+trựa|tr ua2_T6
+trực|tr u2_T6 k
+trưm|tr m
+trừm|tr u2_T2 m
+trửm|tr u2_T4 m
+trữm|tr u2_T5 m
 trứm|tr u2_T3 m
-trựm|ch u2_T6 m
-trưn|ch u2_T1 n
-trừn|ch u2_T2 n
-trửn|ch u2_T4 n
-trữn|ch u2_T5 n
+trựm|tr u2_T6 m
+trưn|tr u2_T1 n
+trừn|tr u2_T2 n
+trửn|tr u2_T4 n
+trữn|tr u2_T5 n
 trứn|tr u2_T3 n
-trựn|ch u2_T6 n
-trưng|ch u2_T1 ng
-trừng|ch u2_T2 ng
-trửng|ch u2_T4 ng
-trững|ch u2_T5 ng
+trựn|tr u2_T6 n
+trưng|tr u2_T1 ng
+trừng|tr u2_T2 ng
+trửng|tr u2_T4 ng
+trững|tr u2_T5 ng
 trứng|tr u2_T3 ng
-trựng|ch u2_T6 ng
-trước|ch ua2_T3 k
-trườn|ch ua2_T4 n
-trương|ch ua2_T1 ng
+trựng|tr u2_T6 ng
+trước|tr ua2_T3 k
+trườn|tr ua2_T4 n
+trương|tr ua2_T1 ng
 trường|tr ua2_T2 ng
 trưởng|tr ua2_T4 ng
-trưỡng|ch ua2_T5 ng
-trướng|ch ua2_T3 ng
-trượng|ch ua2_T6 ng
-trượt|ch ua2_T6 t
-trừu|ch uu2_T2
+trưỡng|tr ua2_T5 ng
+trướng|tr ua2_T3 ng
+trượng|tr ua2_T6 ng
+trượt|tr ua2_T6 t
+trừu|tr uu2_T2
 tu|t u1_T1
 tù|t u1_T2
 tủ|t u1_T4
@@ -12174,7 +12174,7 @@ toong|t o1_T1 o1_T1 ng
 nưng|n u2_T1 ng
 ngậu|ng au3_T6
 tango|t a1_T1 ng o1_T1
-trếch|ch e2_T3 ch
+trếch|tr e2_T3 ch
 khặc|kh a2_T6 k
 gồi|g oi2_T2
 phưỡn|ph ua2_T5 n
@@ -12283,9 +12283,9 @@ eq|e2_T1 k
 tivi|t v i_T1
 umh|u1_T1 m t
 thạt|th a1_T6 t
-truơc|ch u1_T1 o3_T1 k
+truơc|tr u1_T1 o3_T1 k
 cuc|k u1_T1 k
-truơng|ch u1_T1 ua2_T1 ng
+truơng|tr u1_T1 ua2_T1 ng
 liêc|l ie2_T1 k
 rôi|r oi2_T1
 đưng|d2 u2_T1 ng
@@ -12339,7 +12339,7 @@ centimet|k e1_T1 n t i_T1 m e1_T1 t
 nguơc|ng u1_T1 o3_T1 k
 web|e1_T1 b
 lẹnh|l e1_T6 n nh
-trach|ch ch
+trach|tr ch
 nhiẹm|nh e1_T6 m
 soải|x oa_T4 i_T1
 đệt|d2 e2_T6 t
@@ -12543,7 +12543,7 @@ maseru|m a1_T1 x e1_T1 d1 u1_T1
 liberia|l i_T1 b e1_T1 r i_T1 a1_T1
 monrovia|m o1_T1 n o1_T1 n i_T1 a1_T1
 libya|l i_T1 b uy_T1 a1_T1
-tripoli|ch p o1_T1 l i_T1
+tripoli|tr p o1_T1 l i_T1
 liechtenstein|l e1_T1 ch t e1_T1 n x t e1_T1 n
 vaduz|v a1_T1 j u1_T1 e2_T1
 litva|l i_T1 t v a1_T1
@@ -12683,9 +12683,9 @@ lomé|l o1_T1 m e1_T3
 tonga|t o1_T1 ng a1_T1
 nuku|n u1_T1 k
 alofa|a1_T1 l o1_T1 ph
-transnistria|ch a1_T1 n x x ch i_T1 a1_T1
+transnistria|tr a1_T1 n x x ch i_T1 a1_T1
 tiraspol|t d1 a1_T1 x p o1_T1 n
-trinidad|ch i_T1 d2 a1_T1 d1
+trinidad|tr i_T1 d2 a1_T1 d1
 tobago|t b a1_T1 g o1_T1
 of|ph
 spain|x p a1_T1 i_T1 n
@@ -12981,7 +12981,7 @@ kaiden|k ai_T1 d1 e1_T1 n
 oakley|oa_T1 k l i_T1
 olly|o2_T1 l i_T1
 miles|m i_T1 l e1_T3 t
-tristan|ch x t a1_T1 n
+tristan|tr x t a1_T1 n
 alan|a1_T1 l a1_T1 n
 ashton|a1_T1 x t o2_T1 ng
 grayson|g r ay_T1 x o1_T1 n
@@ -13081,7 +13081,7 @@ fabian|e1_T3 ph b i_T1 a1_T1 n
 lennon|l e1_T1 n o2_T1 ng
 julian|j u1_T1 l i_T1 a1_T1 n
 harris|h a1_T1 d1 r x
-travis|ch a1_T1 j x
+travis|tr a1_T1 j x
 josiah|j o2_T1 x i_T1 a1_T1 h
 nicolas|n i_T1 k o1_T1 l a1_T1 x
 brodie|b o2_T1 d2 e1_T1
@@ -13132,7 +13132,7 @@ bentley|b e1_T1 n t l i_T1
 harri|h a1_T1 d1 r i_T1
 micah|m i_T1 k a1_T1 h
 sami|x a1_T1 m i_T1
-troy|ch o1_T1 i_T1
+troy|tr o1_T1 i_T1
 wyatt|uy_T1 a1_T1 t t
 jeremiah|j e1_T1 r e1_T1 m i_T1 a1_T1 h
 jimmy|j i_T1 m m i_T1
@@ -13690,7 +13690,7 @@ kush|k u1_T3 t
 lyle|l i_T1 l e1_T1
 simeon|x i_T1 m e1_T1 o1_T1 n
 timur|t i_T1 m
-trey|ch e1_T1 i_T1
+trey|tr e1_T1 i_T1
 yassin|i_T1 t x i_T1 n
 abubakar|a1_T1 b u1_T1 b a1_T1 k a1_T1
 aditya|a1_T1 j i_T1 t uy_T1 a1_T1
@@ -13736,7 +13736,7 @@ saxon|x a1_T1 x o1_T1 n
 seamus|x e1_T3 e2_T1 m u1_T3
 shiv|x i_T1 n
 terry|t e1_T1 d1 r i_T1
-trystan|ch ay_T1 x t a1_T1 n
+trystan|tr ay_T1 x t a1_T1 n
 tyrell|t i_T1 r e1_T1 n
 abubakr|a1_T1 b u1_T1 b a1_T1 k r
 arun|a1_T1 d1 u1_T1 n
@@ -14421,7 +14421,7 @@ ines|i_T1 n e1_T3 t
 rosemary|r o2_T1 x e1_T1 m a1_T1 r i_T1
 savanna|x a1_T1 j a1_T1 n a1_T1
 sky|x k i_T1
-trinity|ch i_T1 i_T1 t i_T1
+trinity|tr i_T1 i_T1 t i_T1
 jannah|j a1_T1 n a1_T1 h
 kacey|k ch e2_T1 i_T1
 leona|l eo_T1 n a1_T1
@@ -14721,7 +14721,7 @@ president|p r e1_T3 t d1 e1_T1 n t
 reconstruction|r e1_T1 k o1_T1 n x ch u1_T1 k t i_T1 o2_T1 ng
 this|th x
 bus|b u1_T3
-trip|ch i_T1 p
+trip|tr i_T1 p
 secret|s e1_T1 k d1 e1_T3 t
 service|s e1_T1 d1 v i_T1 k e1_T1
 fbi|e1_T3 ph b i_T1
@@ -14967,7 +14967,7 @@ section|s e1_T1 k t i_T1 o2_T1 ng
 sixth|x x th
 floor|e1_T3 ph l o1_T3
 baker|b a1_T1 k e1_T1 r
-truly|ch u1_T1 n i_T1
+truly|tr u1_T1 n i_T1
 arrived|a1_T1 d1 r v e2_T1 d2 e2_T1
 commission|k o1_T1 m m t x i_T1 o2_T1 ng
 counsel|k o1_T1 u1_T1 n x e1_T1 n
@@ -15065,7 +15065,7 @@ houston|h o1_T1 u1_T3 t o2_T1 ng
 street|x ch e1_T1 e1_T3 t
 forms|e1_T3 ph o1_T3 m x
 base|b a1_T1 x e1_T1
-triangle|ch a1_T1 ng l e1_T1
+triangle|tr a1_T1 ng l e1_T1
 streets|x ch e1_T1 e1_T3 t x
 commerce|k o1_T1 m m e1_T1 d1 k e1_T1
 main|m a1_T1 i_T1 n
@@ -15158,7 +15158,7 @@ inspectors|i_T1 n x p e1_T1 k t o1_T3 t x
 wound|o1_T1 u1_T1 d2 e2_T1
 still|x t i_T1 n
 more|m o2_T1
-trenchant|ch e1_T1 n ch a1_T1 n t
+trenchant|tr e1_T1 n ch a1_T1 n t
 language|l a1_T1 ng u1_T1 a1_T1 g e1_T1
 axe|a1_T1 x e1_T1
 existence|e2_T1 x x t e1_T1 n e1_T1
@@ -15255,7 +15255,7 @@ high|h i_T1 j t
 motivation|m o1_T1 t v a1_T1 t i_T1 o2_T1 ng
 longer|l o1_T1 ng e1_T1 r
 recruit|r e1_T1 k d1 ui_T1 t
-training|ch ai_T1 i_T1 ng
+training|tr ai_T1 i_T1 ng
 care|k a1_T3 k
 drill|d1 d1 i_T1 n
 instructor|i_T1 n x ch u1_T1 k t o2_T1
@@ -15421,7 +15421,7 @@ sure|x
 firing|e1_T3 ph d1 i_T1 ng
 courvoisier|k o1_T1 v oi_T1 x e1_T1 r
 put|p u1_T1 t
-trial|ch a1_T1 n
+trial|tr a1_T1 n
 pleaded|p o3_T2 l d2 e2_T1 d2 e2_T1
 guilty|g i_T1 l t i_T1
 closely|k l o2_T1 x e1_T1 l i_T1
@@ -15445,7 +15445,7 @@ surgeons|x g oe_T1 o1_T1 n x
 dissection|d1 t x e1_T1 k t i_T1 o2_T1 ng
 perry|p e2_T1 d1 r i_T1
 performed|p e2_T1 d1 ph o1_T3 m e2_T1 d2 e2_T1
-tracheotomy|ch ch eo_T1 o1_T3 o1_T1 m i_T1
+tracheotomy|tr ch eo_T1 o1_T3 o1_T1 m i_T1
 required|r e1_T1 k ui_T1 r e2_T1 d2 e2_T1
 determined|d1 e1_T1 t e1_T1 d1 m i_T1 e2_T1 d2 e2_T1
 addiction|a1_T1 j d1 i_T1 k t i_T1 o2_T1 ng
@@ -15518,7 +15518,7 @@ pretended|p r e1_T3 t e1_T1 d2 e2_T1 d2 e2_T1
 lucky|l u1_T1 k k i_T1
 stock|x t o1_T1 k k
 exchange|e2_T1 x ch a1_T1 ng e1_T1
-true|ch u1_T1 e1_T1
+true|tr u1_T1 e1_T1
 scheme|x ch e1_T1 m e1_T1
 systematic|x ay_T1 x t e1_T1 m a1_T1 t i_T1 k
 forgery|e1_T3 ph o1_T3 g e1_T1 r i_T1
@@ -15534,7 +15534,7 @@ reached|r e1_T1 ch e2_T1 d2 e2_T1
 actually|a1_T1 k t ua_T1 n i_T1
 slightly|x l g t l i_T1
 elevator|e2_T1 l v a1_T1 t o2_T1
-tremendous|ch e1_T1 m e1_T1 n d1 o1_T1 u1_T3
+tremendous|tr e1_T1 m e1_T1 n d1 o1_T1 u1_T3
 gain|g a1_T1 i_T1 n
 principles|p r i_T1 n p o3_T2 l e1_T3 t
 democracy|d1 e1_T1 m o1_T1 k d1 a1_T1 k i_T1
@@ -15787,7 +15787,7 @@ hour|h o1_T1
 terminated|t e1_T1 d1 m i_T1 n a1_T3 t e2_T1 d2 e2_T1
 career|k a1_T3 k e1_T1 r
 crime|k r i_T1 m e1_T1
-trump|ch u1_T1 i_T1 e1_T1 m p i_T1
+trump|tr u1_T1 i_T1 e1_T1 m p i_T1
 false|e1_T3 ph o1_T3 x e1_T1
 complaint|k o1_T1 m p o3_T2 l a1_T1 i_T1 n t
 get|g e1_T1 t
@@ -15850,7 +15850,7 @@ above|a1_T1 b o1_T1 j e1_T1
 photographs|ph o1_T1 t o1_T1 g d1 a1_T1 ph x
 nearby|n e1_T1 a1_T3 k b i_T1
 railroad|r i_T1 l r oa_T1 d2 e2_T1
-tracks|ch a1_T1 k k x
+tracks|tr a1_T1 k k x
 circumstances|k r k u1_T1 m x t a1_T1 n e1_T3 t
 officers|ph ph i_T1 k e1_T1 n x
 strike|x ch k e1_T1
@@ -15867,7 +15867,7 @@ ear|e2_T1 a1_T1
 dreamy|d1 r e1_T1 e2_T1 m i_T1
 murmur|m m
 addition|a1_T1 j d1 i_T1 t i_T1 o2_T1 ng
-treasury|ch e1_T1 a1_T1 x u1_T1 r i_T1
+treasury|tr e1_T1 a1_T1 x u1_T1 r i_T1
 additional|a1_T1 j d1 i_T1 t i_T1 o2_T1 n a1_T1 n
 prompt|p d1 o1_T1 m p t
 dealing|d2 e2_T1 a1_T1 l i_T1 ng
@@ -15916,7 +15916,7 @@ carry|k a1_T1 r r i_T1
 rounded|r o1_T1 u1_T1 d2 e2_T1 d2 e2_T1
 conception|k o1_T1 n e2_T1 p t i_T1 o2_T1 ng
 national|n a1_T1 t i_T1 o2_T1 n a1_T1 n
-transportation|ch a1_T1 n x p o1_T3 t th a1_T1 t i_T1 o2_T1 ng
+transportation|tr a1_T1 n x p o1_T3 t th a1_T1 t i_T1 o2_T1 ng
 each|e2_T1 ch
 detect|d1 e1_T1 t e1_T1 k t
 outline|u1_T1 t l i_T1 n e1_T1
@@ -15928,7 +15928,7 @@ operation|o1_T1 p e2_T1 d1 a1_T1 t i_T1 o2_T1 ng
 misstatements|m t x t a1_T1 t e1_T1 m e1_T1 n t x
 doctor|d1 o1_T1 k t o2_T1
 carrico|k a1_T1 r r i_T1 k o1_T1
-treated|ch e1_T1 a1_T1 t e2_T1 d2 e2_T1
+treated|tr e1_T1 a1_T1 t e2_T1 d2 e2_T1
 insufficiency|i_T1 n x u1_T1 ph ph i_T1 k e1_T1 n i_T1
 administering|a1_T1 j m i_T1 n i_T1 x t e1_T1 d1 i_T1 ng
 hydrocortisone|h i_T1 d2 d1 o1_T1 k o1_T3 t th x o1_T1 n e1_T1
@@ -15997,14 +15997,14 @@ culture|k u1_T1 n t
 procedure|p d1 o1_T1 k e2_T1 d2
 route|r o1_T1 u1_T1 t e1_T1
 signs|x i_T1 j i_T1 e1_T1 n x
-trouble|ch o1_T1 u1_T1 b l e1_T1
+trouble|tr o1_T1 u1_T1 b l e1_T1
 responsibility|r e1_T3 t p o1_T1 n x i_T1 b i_T1 l i_T1 t i_T1
 rests|r e1_T3 t t x
 arrest|a1_T1 d1 r e1_T3 t t
 attacker|a1_T1 t t ch k e1_T1 r
 freedom|e1_T3 ph r e1_T1 e2_T1 d2 o1_T1 m
 speech|x p e2_T1 e2_T1 ch
-travel|ch a1_T1 v e1_T1 n
+travel|tr a1_T1 v e1_T1 n
 outspoken|u1_T1 t t x p o1_T1 k e1_T1 n
 opposition|o1_T1 p p o2_T1 x i_T1 t i_T1 o2_T1 ng
 unpopular|u1_T1 n p o1_T1 p u1_T1 l a1_T1
@@ -16075,7 +16075,7 @@ inmates|i_T1 n m a1_T1 t e1_T3 t
 euphemistically|e2_T1 u1_T1 ph e1_T1 m x t i_T1 k a1_T1 n i_T1
 styled|x t i_T1 l e2_T1 d2 e2_T1
 collegians|k o1_T1 l l j a1_T1 n x
-transferred|ch a1_T1 n x ph e1_T1 d1 r e2_T1 d2 e2_T1
+transferred|tr a1_T1 n x ph e1_T1 d1 r e2_T1 d2 e2_T1
 make|m a1_T1 k e1_T1
 neighborhood|n e1_T1 g b o1_T3 t o1_T3 d2 e2_T1
 know|k o2_T1
@@ -16131,7 +16131,7 @@ necessary|n e1_T1 k e1_T3 t x a1_T1 r i_T1
 subject|s u1_T1 b j e1_T1 k t
 wallaces|ai_T1 n ch e1_T3 t
 committed|k o1_T1 m m i_T1 t t e2_T1 d2 e2_T1
-tried|ch e2_T1 d2 e2_T1
+tried|tr e2_T1 d2 e2_T1
 old|o1_T1 n d2 e2_T1
 unwilling|u1_T1 o2_T1 l i_T1 ng
 motive|m o1_T1 t j e1_T1
@@ -16151,13 +16151,13 @@ available|a1_T1 j i_T1 l a1_T1 b l e1_T1
 protect|p d1 o1_T1 t e1_T1 k t
 kind|k i_T1 d2 e2_T1
 little|l i_T1 t t l e1_T1
-trot|ch o1_T1 t
+trot|tr o1_T1 t
 headed|h e1_T1 d2 e2_T1 d2 e2_T1
 jefferson|j e2_T1 ph ph e1_T1 d1 x o1_T1 n
 boulevard|b o1_T1 u1_T1 n e2_T1 v a1_T1 t d2 e2_T1
 block|b l o1_T1 k k
 easily|e2_T1 a1_T1 x i_T1 l i_T1
-transported|ch a1_T1 n x p o1_T3 t th e2_T1 d2 e2_T1
+transported|tr a1_T1 n x p o1_T3 t th e2_T1 d2 e2_T1
 plant|p o3_T2 l a1_T1 n t
 increase|i_T1 n r e1_T1 a1_T1 x e1_T1
 manslaughter|m a1_T1 n x l au_T1 g t e1_T1 r
@@ -16196,7 +16196,7 @@ defect|d2 e2_T1 ph e1_T1 k t
 landing|l a1_T1 n j i_T1 ng
 door|d1 o1_T3
 avoid|a1_T1 j oi_T1 d2 e2_T1
-traffic|ch a1_T1 ph ph k
+traffic|tr a1_T1 ph ph k
 hazards|h a1_T1 j a1_T1 r d2 x
 otherwise|t th e1_T1 n x e1_T1
 exist|e2_T1 x x t
@@ -16228,7 +16228,7 @@ great|g r e1_T1 a1_T3 t
 press|p r e1_T3 t x
 actual|a1_T1 k t ua_T1 n
 process|p d1 o1_T1 k e1_T3 t x
-tries|ch e1_T3 t
+tries|tr e1_T3 t
 unmoved|u1_T1 m o1_T1 j e2_T1 d2 e2_T1
 eye|e2_T1 i_T1 e1_T1
 wanders|ai_T1 n d2 e2_T1 d1 x
@@ -16264,7 +16264,7 @@ cells|k e1_T1 n x
 rooms|r o1_T1 o1_T1 m x
 labor|l a1_T1 b o1_T3
 compulsory|k o1_T1 m p u1_T1 n x o1_T3 i_T1
-transports|ch a1_T1 n x p o1_T3 t x
+transports|tr a1_T1 n x p o1_T3 t x
 sentenced|x e1_T1 n t e1_T1 n e2_T1 d2 e2_T1
 hard|h a1_T1 d1 d2 e2_T1
 towel|t e1_T1 l
@@ -16695,7 +16695,7 @@ threats|th r e1_T1 a1_T1 t x
 diversity|d1 v e2_T1 d1 x i_T1 t i_T1
 arise|a1_T1 d1 x e1_T1
 cities|k i_T1 t e1_T3 t
-trifling|ch ph l i_T1 ng
+trifling|tr ph l i_T1 ng
 magnified|m a1_T1 g ph e2_T1 d2 e2_T1
 offenses|ph ph e1_T1 n x e1_T3 t
 carriage|k a1_T1 r r i_T1 a1_T1 g e1_T1
@@ -16742,7 +16742,7 @@ funds|e1_T3 ph u1_T1 n j x
 events|e2_T1 v e1_T1 n t x
 evening|e2_T1 v e1_T1 n i_T1 ng
 appreciated|ay3_T1 p p r e1_T1 k i_T1 a1_T1 t e2_T1 d2 e2_T1
-transparent|ch a1_T1 n x p a1_T1 d1 e1_T1 n t
+transparent|tr a1_T1 n x p a1_T1 d1 e1_T1 n t
 digress|d1 g d1 e1_T3 t x
 moment|m o1_T1 m e1_T1 n t
 particulars|p a1_T1 r t i_T1 k u1_T1 n a1_T1 x
@@ -16786,7 +16786,7 @@ relations|r e2_T1 l a1_T1 t i_T1 o2_T1 n x
 disclosure|d1 x k l o2_T1 x
 defection|d2 e2_T1 ph e1_T1 k t i_T1 o2_T1 ng
 alone|a1_T1 l o1_T1 n e1_T1
-transacted|ch a1_T1 n x oa_T1 k t e2_T1 d2 e2_T1
+transacted|tr a1_T1 n x oa_T1 k t e2_T1 d2 e2_T1
 business|b u1_T3 i_T1 e1_T3 t x
 resulted|r e1_T3 t u1_T1 n t e2_T1 d2 e2_T1
 jeanne|j e2_T1 a1_T1 n e1_T3
@@ -16917,7 +16917,7 @@ several|x e1_T3 v e2_T1 r a1_T1 n
 military|m i_T1 l t a1_T1 r i_T1
 crank|k r a1_T1 n k
 similar|x i_T1 m i_T1 l a1_T1
-transmits|ch a1_T1 n x m i_T1 t x
+transmits|tr a1_T1 n x m i_T1 t x
 defectors|d2 e2_T1 ph e1_T1 k t o1_T3 t x
 avoids|a1_T1 j oi_T1 d2 x
 marguerite|m a1_T1 r g u1_T1 e1_T1 d1 i_T1 t e1_T1
@@ -16979,7 +16979,7 @@ punctually|p u1_T1 n t ua_T1 n i_T1
 obeyed|b e1_T1 i_T1 e2_T1 d2 e2_T1
 inquiry|i_T1 n k ui_T1 r i_T1
 reduce|r e2_T1 d2 u1_T1 k e1_T1
-tragedy|ch a1_T1 g e2_T1 d2 i_T1
+tragedy|tr a1_T1 g e2_T1 d2 i_T1
 records|r e1_T1 k o1_T3 t d2 x
 forgeries|e1_T3 ph o1_T3 g e1_T1 d1 e1_T3 t
 thefts|th e1_T1 ph t x
@@ -16991,7 +16991,7 @@ politician|p o1_T1 l i_T1 t i_T1 k a1_T1 n
 basic|b a1_T1 x k
 sight|x g t
 manipulation|m a1_T1 n i_T1 p u1_T1 o3_T2 l a1_T1 t i_T1 o2_T1 ng
-trigger|ch g g e1_T1 r
+trigger|tr g g e1_T1 r
 squeeze|x k u1_T1 e1_T1 e2_T1 e1_T1
 sighting|x g t i_T1 ng
 appeared|ay3_T1 p p e2_T1 a1_T1 r e2_T1 d2 e2_T1
@@ -17041,7 +17041,7 @@ observed|b x e1_T1 d1 v e2_T1 d2 e2_T1
 blood|b l o1_T1 o1_T1 d2 e2_T1
 murphy|m ph i_T1
 averaging|a1_T1 j e2_T1 d1 a1_T1 g i_T1 ng
-trips|ch p x
+trips|tr p x
 esteemed|e1_T3 t t e1_T1 e1_T1 m e2_T1 d2 e2_T1
 respected|r e1_T3 t p e1_T1 k t e2_T1 d2 e2_T1
 finance|e1_T3 ph i_T1 n a1_T1 n e1_T1
@@ -17145,7 +17145,7 @@ cents|k e1_T1 n t x
 forcible|e1_T3 ph o1_T3 k i_T1 b l e1_T1
 compelled|k o1_T1 m p e1_T1 n e2_T1 d2 e2_T1
 quit|k ui_T1 t
-trust|ch u1_T3 t
+trust|tr u1_T3 t
 myself|m ay_T1 x e1_T1 l ph
 hardship|h a1_T1 d1 d2 u1_T3 t i_T1 p
 holders|h o1_T1 n d2 e2_T1 d1 x
@@ -17170,7 +17170,7 @@ danced|d1 a1_T1 n e2_T1 d2 e2_T1
 sides|x d2 e2_T1 x
 stream|x ch e1_T1 a1_T1 m
 enemy|e1_T1 e1_T1 m i_T1
-trap|ch a1_T1 p
+trap|tr a1_T1 p
 confessed|k o1_T1 n ph e1_T3 t x e2_T1 d2 e2_T1
 gigantic|j g a1_T1 n t i_T1 k
 mistake|m x t a1_T1 k e1_T1
@@ -17216,8 +17216,8 @@ leg|l e1_T1 j i_T1
 petitioned|p e2_T1 tr i_T1 t i_T1 o2_T1 ng e2_T1 d2 e2_T1
 success|s u1_T1 k k e1_T3 t x
 pension|p e1_T1 n x i_T1 o2_T1 ng
-trade|ch a1_T1 j e1_T1
-try|ch i_T1
+trade|tr a1_T1 j e1_T1
+try|tr i_T1
 tell|t e1_T1 n
 exceptional|e2_T1 x k e1_T1 p t i_T1 o2_T1 n a1_T1 n
 failure|e1_T3 ph i_T1 l
@@ -17238,7 +17238,7 @@ greer|g r e1_T1 e1_T1 r
 lifted|l ph t e2_T1 d2 e2_T1
 stretcher|x ch e1_T1 t ch e1_T1 n
 pushed|p u1_T3 t e2_T1 d2 e2_T1
-trauma|ch a1_T1 u1_T1 m a1_T1
+trauma|tr a1_T1 u1_T1 m a1_T1
 room|r o1_T1 o1_T1 m
 stand|x t a1_T1 n d2 e2_T1
 pieces|p i_T1 e1_T1 k e1_T3 t
@@ -17278,8 +17278,8 @@ clubs|k l u1_T1 b x
 army|a1_T1 d1 m i_T1
 navy|n a1_T1 j i_T1
 establishment|e1_T3 t t a1_T1 b l u1_T3 t m e1_T1 n t
-tradition|ch a1_T1 j i_T1 t i_T1 o2_T1 ng
-traits|ch ai_T1 t x
+tradition|tr a1_T1 j i_T1 t i_T1 o2_T1 ng
+traits|tr ai_T1 t x
 establish|e1_T3 t t a1_T1 b l u1_T3 t
 conclusively|k o1_T1 n l u1_T3 v e2_T1 l i_T1
 collected|k o1_T1 l l e1_T1 k t e2_T1 d2 e2_T1
@@ -17413,7 +17413,7 @@ excluded|e2_T1 x k l u1_T1 d2 e2_T1 d2 e2_T1
 beasts|b e1_T1 a1_T1 x t x
 soldiers|x o1_T1 n d2 e1_T1 n x
 partly|p a1_T1 r t l i_T1
-transferring|ch a1_T1 n x ph e1_T1 d1 r i_T1 ng
+transferring|tr a1_T1 n x ph e1_T1 d1 r i_T1 ng
 operations|o1_T1 p e2_T1 d1 a1_T1 t i_T1 o2_T1 n x
 yarmouth|i_T1 a1_T1 r m o1_T1 u1_T1 th
 seriousness|s e1_T1 d1 i_T1 o2_T1 u1_T3 e1_T3 t x
@@ -17641,7 +17641,7 @@ experimentalize|e2_T1 x p e2_T1 r i_T1 m e1_T1 n t o1_T3 j e1_T1
 anomalous|a1_T1 n o2_T1 m a1_T1 l o1_T1 u1_T3
 youngblood|i_T1 o1_T1 u1_T1 ng b l o1_T1 o1_T1 d2 e2_T1
 felon|e1_T3 ph e1_T1 l o1_T1 n
-transport|ch a1_T1 n x p o1_T3 t th
+transport|tr a1_T1 n x p o1_T3 t th
 awaiting|a1_T1 ai_T1 t i_T1 ng
 removal|r e1_T1 m o1_T1 j a1_T1 n
 undecided|u1_T1 n j e1_T1 k d2 e2_T1 d2 e2_T1
@@ -17693,7 +17693,7 @@ thurtell|th t e1_T1 n
 weare|e1_T1 a1_T3 k
 won|o1_T1 n
 counties|k o1_T1 u1_T1 n t i_T1 e1_T3 t
-transfer|ch a1_T1 n x ph e1_T1 r
+transfer|tr a1_T1 n x ph e1_T1 r
 honest|h o1_T1 e1_T3 t t
 forbearance|e1_T3 ph o1_T3 b e1_T1 a1_T1 r a1_T1 n e1_T1
 kings|k i_T1 ng x
@@ -17744,7 +17744,7 @@ processing|p d1 o1_T1 k e1_T3 t x i_T1 ng
 techniques|t e1_T1 ch k u1_T1 e1_T3 t
 curves|k v e1_T3 t
 southwesterly|x o1_T1 u1_T1 th e1_T3 t t e1_T1 d1 l i_T1
-triple|ch p o3_T2 l e1_T1
+triple|tr p o3_T2 l e1_T1
 underpass|u1_T1 d2 e2_T1 d1 p a1_T1 t x
 stemmons|x t e1_T1 m m o1_T1 n x
 upstairs|u1_T1 p x t ai_T1 x
@@ -17764,7 +17764,7 @@ hire|h
 qualified|k u1_T1 a1_T1 l ph e2_T1 d2 e2_T1
 insuperable|i_T1 n x u1_T1 p e2_T1 d1 a1_T1 b l e1_T1
 difficulties|d1 ph ph i_T1 k u1_T1 n t e1_T3 t
-trades|ch a1_T1 j e1_T3 t
+trades|tr a1_T1 j e1_T3 t
 reviewing|r e1_T1 n e1_T1 i_T1 ng
 marksmanship|m a1_T1 r k x m a1_T1 n x i_T1 p
 enabled|e1_T1 n a1_T1 b l e2_T1 d2 e2_T1
@@ -17854,7 +17854,7 @@ aggravated|a1_T1 g g d1 a1_T1 j a1_T1 t e2_T1 d2 e2_T1
 manual|m a1_T1 n ua_T1 n
 filing|e1_T3 ph i_T1 l i_T1 ng
 obsolete|b x o1_T1 l e1_T3 t e1_T1
-truthfulness|ch u1_T1 th ph u1_T1 n e1_T3 t x
+truthfulness|tr u1_T1 th ph u1_T1 n e1_T3 t x
 candor|k a1_T1 n d1 o1_T1 r
 potentially|p o1_T1 t e1_T1 n t i_T1 a1_T1 n i_T1
 dangerous|d1 a1_T1 ng e1_T1 d1 oi_T1 u1_T3
@@ -17909,7 +17909,7 @@ amounted|a1_T1 m o1_T1 u1_T1 n t e2_T1 d2 e2_T1
 bed|b e2_T1 d2 e2_T1
 retrace|r e2_T1 ch ch e1_T1
 speak|x p e2_T1 k
-treatment|ch e1_T1 a1_T1 t m e1_T1 n t
+treatment|tr e1_T1 a1_T1 t m e1_T1 n t
 bloodthirsty|b l o1_T1 o1_T1 d2 th x t i_T1
 brutally|b d1 u1_T1 t a1_T1 n i_T1
 indifferent|i_T1 n j ph ph e1_T1 d1 e1_T1 n t
@@ -17994,7 +17994,7 @@ receiver|r e1_T1 k e1_T1 v e2_T1 r
 obviously|b v i_T1 o2_T1 u1_T3 l i_T1
 fostered|e1_T3 ph o2_T1 x t e1_T1 d1 e2_T1 d2 e2_T1
 origin|o1_T3 i_T1 j i_T1 n
-tragic|ch a1_T1 j k
+tragic|tr a1_T1 j k
 unquestionably|u1_T1 k u1_T1 e1_T3 t t i_T1 o2_T1 n a1_T3 b l i_T1
 taffir|t a1_T1 ph ph r
 mate|m a1_T1 t e1_T1
@@ -18005,7 +18005,7 @@ beliefs|b e1_T1 l e1_T1 ph x
 extraordinary|e2_T1 x t d1 a1_T1 o1_T3 t d2 i_T1 n a1_T1 r i_T1
 linking|l i_T1 k i_T1 ng
 linear|l i_T1 e1_T3 a1_T1
-tract|ch a1_T1 k t
+tract|tr a1_T1 k t
 specially|x p e1_T1 k i_T1 a1_T1 n i_T1
 modified|m o1_T1 d2 ph e2_T1 d2 e2_T1
 points|p oi_T1 n t x
@@ -18045,7 +18045,7 @@ choose|ch o1_T3 x e1_T1
 methods|m e1_T1 t o1_T1 d2 x
 solving|x o1_T1 l v i_T1 ng
 poverty|p o1_T1 j e2_T1 d1 t i_T1
-tripped|ch p p e2_T1 d2 e2_T1
+tripped|tr p p e2_T1 d2 e2_T1
 alacrity|a1_T1 l a1_T1 k d1 i_T1 t i_T1
 ask|a1_T1 x k
 ourselves|x e1_T1 n v e1_T3 t
@@ -18126,7 +18126,7 @@ destruction|d1 e1_T3 t ch u1_T1 k t i_T1 o2_T1 ng
 jeopardized|j eo_T1 p a1_T1 r d2 j e2_T1 d2 e2_T1
 dependent|d2 e2_T1 p e1_T1 n j e1_T1 n t
 perhaps|p e2_T1 d1 a1_T3 p x
-travelers|ch a1_T1 j e2_T1 l e1_T1 d1 x
+travelers|tr a1_T1 j e2_T1 l e1_T1 d1 x
 likely|l k e1_T1 l i_T1
 ilchester|i_T1 l ch e1_T3 t t e1_T1 r
 beneath|b e1_T1 e1_T3 a1_T1 t t
@@ -18174,7 +18174,7 @@ spinning|x p i_T1 n i_T1 ng
 prosperously|p o2_T1 x p e1_T1 d1 oi_T1 u1_T3 l i_T1
 lie|l e1_T1
 stepping|x t e1_T1 p p i_T1 ng
-treading|ch e1_T1 a1_T1 j i_T1 ng
+treading|tr e1_T1 a1_T1 j i_T1 ng
 helpful|h e1_T1 l p e2_T1 e1_T3 ph u1_T1 n
 feature|e1_T3 ph e1_T1 a1_T1 t
 insurance|i_T1 n x u1_T1 r a1_T1 n e1_T1
@@ -18192,7 +18192,7 @@ pump|p u1_T1 i_T1 e1_T1 m p i_T1
 visitors|v x i_T1 t o1_T3 t x
 unprotected|u1_T1 n p d1 o1_T1 t e1_T1 k t e2_T1 d2 e2_T1
 weather|e1_T1 t th e1_T1 n
-transition|ch a1_T1 n x i_T1 t i_T1 o2_T1 ng
+transition|tr a1_T1 n x i_T1 t i_T1 o2_T1 ng
 subiaco|s u1_T1 b i_T1 a1_T1 k o1_T1
 flow|e1_T3 ph l o2_T1
 younger|i_T1 o1_T1 u1_T1 ng e1_T1 r
@@ -18266,7 +18266,7 @@ nitrites|n i_T1 t d1 i_T1 t e1_T3 t
 nitrates|n i_T1 t d1 a1_T1 t e1_T3 t
 solution|x o1_T1 l u1_T1 t i_T1 o2_T1 ng
 pursuit|p x ui_T1 t
-traced|ch a1_T1 k e2_T1 d2 e2_T1
+traced|tr a1_T1 k e2_T1 d2 e2_T1
 huddersfield|h u1_T1 d2 e2_T1 d2 e2_T1 d1 x ph e1_T1 n d2 e2_T1
 jumbled|j u1_T1 m b l e2_T1 d2 e2_T1
 murderer|m d2 e2_T1 d1 e1_T1 r
@@ -18330,7 +18330,7 @@ coat|k o1_T1 a1_T3 t
 encumbrance|e1_T1 k u1_T1 m b r a1_T1 n e1_T1
 barefoot|b a1_T1 ph o1_T1 o1_T1 t
 bareheaded|b a1_T1 e1_T1 d2 e2_T1 d2 e2_T1
-trustees|ch u1_T3 t th e2_T1 e1_T3 t
+trustees|tr u1_T3 t th e2_T1 e1_T3 t
 moderate|m o1_T1 d2 e2_T1 d1 a1_T1 t e1_T1
 accommodation|a1_T1 k k o1_T1 m m o1_T1 d2 a1_T1 t i_T1 o2_T1 ng
 prevailed|p eo_T1 n i_T1 l e2_T1 d2 e2_T1
@@ -18360,7 +18360,7 @@ huddled|h u1_T1 d2 e2_T1 d2 l e2_T1 d2 e2_T1
 discrimination|d1 x k r i_T1 m i_T1 n a1_T3 t i_T1 o2_T1 ng
 oversight|o1_T1 j e2_T1 d1 x g t
 theatre|th e1_T1 a1_T1 t d1 e1_T1
-trying|ch i_T1 i_T1 ng
+trying|tr i_T1 i_T1 ng
 habit|h a1_T1 b i_T1 t
 frequently|e1_T3 ph r e1_T1 k u1_T1 e1_T1 n t l i_T1
 domestic|d1 o1_T1 m e1_T3 t t k
@@ -18382,12 +18382,12 @@ plight|p o3_T2 l g t
 cecil|k e1_T1 k i_T1 n
 mcwatters|m k ai_T1 o1_T3 t e1_T1 d1 x
 busdriver|b u1_T3 t d2 d1 v e2_T1 r
-transit|ch a1_T1 n x i_T1 t
+transit|tr a1_T1 n x i_T1 t
 crawford|k d1 a1_T1 ph o1_T3 t d2 e2_T1
 reverend|r e1_T1 v e2_T1 d1 e1_T1 n d2 e2_T1
 whitworth|h i_T1 t o1_T3 t th
 bricklayer|b d1 i_T1 k k l ay_T1 e1_T1 r
-trunk|ch u1_T1 k
+trunk|tr u1_T1 k
 edgeware|e2_T1 d2 g e1_T1 a1_T3 k
 fainted|e1_T3 ph i_T1 n t e2_T1 d2 e2_T1
 bulk|b u1_T1 o1_T3 k
@@ -18516,7 +18516,7 @@ thousands|th o1_T1 u1_T3 j x
 circulars|k r k u1_T1 n a1_T1 x
 improper|i_T1 m p d1 o1_T1 p e2_T1 r
 catnach|k a1_T3 t ch
-truthful|ch u1_T1 th ph u1_T1 n
+truthful|tr u1_T1 th ph u1_T1 n
 cooperative|k o1_T1 o1_T1 p e2_T1 d1 a1_T1 t i_T1 j e1_T1
 interrogated|i_T1 n t e1_T1 d1 r o1_T1 g a1_T1 t e2_T1 d2 e2_T1
 reproducing|r e1_T1 p o2_T1 d1 u1_T1 k i_T1 ng
@@ -18654,7 +18654,7 @@ insist|i_T1 n x x t
 spirit|x p i_T1 d1 i_T1 t
 detection|d1 e1_T1 t e1_T1 k t i_T1 o2_T1 ng
 interval|i_T1 n t e1_T1 d1 v a1_T1 n
-troops|ch o1_T1 o1_T1 p x
+troops|tr o1_T1 o1_T1 p x
 mask|m a1_T1 x k
 fasson|e1_T3 ph t x o1_T1 n
 subordinate|s u1_T1 b o1_T3 t d2 i_T1 n a1_T3 t e1_T1
@@ -18768,7 +18768,7 @@ ugliness|u1_T1 g l i_T1 e1_T3 t x
 modern|m o1_T1 d2 e2_T1 d1 n
 desired|d1 e1_T3 t r e2_T1 d2 e2_T1
 monetary|m o1_T1 n e1_T3 t a1_T1 r i_T1
-transactions|ch a1_T1 n x oa_T1 k t i_T1 o2_T1 n x
+transactions|tr a1_T1 n x oa_T1 k t i_T1 o2_T1 n x
 spoken|x p o1_T1 k e1_T1 n
 academy|a1_T1 k a1_T3 d2 e2_T1 m i_T1
 colorado|k o2_T1 l o2_T1 a1_T1 j o1_T1
@@ -18794,7 +18794,7 @@ offender|ph ph e1_T1 d2 e2_T1 r
 previously|p r e1_T1 v i_T1 o2_T1 u1_T3 l i_T1
 pardon|p a1_T1 r d2 o2_T1 ng
 specialization|x p e1_T1 k i_T1 a1_T1 l j a1_T1 t i_T1 o2_T1 ng
-traditional|ch a1_T1 j i_T1 t i_T1 o2_T1 n a1_T1 n
+traditional|tr a1_T1 j i_T1 t i_T1 o2_T1 n a1_T1 n
 drive|d1 d1 j e1_T1
 assessment|a1_T1 t x e1_T3 t x m e1_T1 n t
 congregate|k o1_T1 ng r e1_T1 g a1_T1 t e1_T1
@@ -18813,7 +18813,7 @@ writings|d1 i_T1 t i_T1 ng x
 angles|a1_T1 ng l e1_T3 t
 compactness|k o1_T1 m p a1_T1 k t e1_T3 t x
 adjustment|a1_T1 j j u1_T3 t th m e1_T1 n t
-traveled|ch a1_T1 j e2_T1 l e2_T1 d2 e2_T1
+traveled|tr a1_T1 j e2_T1 l e2_T1 d2 e2_T1
 keys|k e1_T1 ay_T1 x
 manufactured|m a1_T1 n u1_T1 ph ch t e2_T1 d2 e2_T1
 excretions|e2_T1 x k d1 e1_T3 t i_T1 o2_T1 n x
@@ -19211,7 +19211,7 @@ girl|j r n
 hocker|h o1_T1 k k e1_T1 r
 ladies|l a1_T1 j e1_T3 t
 approval|ay3_T1 p p o1_T1 n a1_T1 n
-trenched|ch e1_T1 n ch e2_T1 d2 e2_T1
+trenched|tr e1_T1 n ch e2_T1 d2 e2_T1
 province|p o1_T1 n i_T1 n e1_T1
 resurrectionist|r e1_T3 t r e1_T1 k t i_T1 o2_T1 n i_T1 x t
 board|b oa_T1 t d2 e2_T1
@@ -19301,7 +19301,7 @@ variety|v a1_T1 d1 e1_T3 t i_T1
 acquaintance|a1_T1 k k ua_T1 i_T1 n t a1_T1 n e1_T1
 watson|ai_T1 t x o1_T1 n
 arraigned|a1_T1 d1 r ai_T1 g e2_T1 d2 e2_T1
-treasonable|ch e1_T1 a1_T1 x oi_T1 n a1_T3 b l e1_T1
+treasonable|tr e1_T1 a1_T1 x oi_T1 n a1_T3 b l e1_T1
 imprisoned|i_T1 m p d1 x o1_T1 n e2_T1 d2 e2_T1
 tobacconist|t b ch k o2_T1 n i_T1 x t
 laverstock|l a1_T1 j e2_T1 d1 x t o1_T1 k k
@@ -19445,7 +19445,7 @@ tough|t u1_T1 g
 opaque|o1_T1 p a1_T1 k u1_T1 e1_T1
 contains|k o1_T1 n t ai_T1 n x
 liar|l i_T1 a1_T1
-truth|ch u1_T1 th
+truth|tr u1_T1 th
 expressing|e2_T1 x p r e1_T3 t x i_T1 ng
 regret|r e1_T1 g d1 e1_T3 t
 assertion|a1_T1 t x e1_T1 d1 t i_T1 o2_T1 ng
@@ -19594,7 +19594,7 @@ punched|p u1_T1 n ch e2_T1 d2 e2_T1
 places|p o3_T2 l a1_T1 k e1_T3 t
 nagging|n a1_T1 g j i_T1 ng
 represented|r e1_T1 p r e1_T3 t e1_T1 n t e2_T1 d2 e2_T1
-truculent|ch u1_T1 k u1_T1 n e1_T1 n t
+truculent|tr u1_T1 k u1_T1 n e1_T1 n t
 scoundrels|x k o2_T1 u1_T1 n j d1 e1_T1 n x
 brooding|b r o1_T3 d1 i_T1 ng
 fancied|e1_T3 ph e2_T1 d2 e2_T1
@@ -19658,7 +19658,7 @@ hits|h i_T1 t x
 roles|r o1_T1 l e1_T3 t
 supposing|s u1_T1 p p o2_T1 x i_T1 ng
 mrs|m x
-traversed|ch a1_T1 j e2_T1 d1 x e2_T1 d2 e2_T1
+traversed|tr a1_T1 j e2_T1 d1 x e2_T1 d2 e2_T1
 ratcliffe|r a1_T1 t k l ph ph e1_T1
 halting|h a1_T1 l t i_T1 ng
 quarter|k u1_T1 a1_T1 r t e1_T1 r
@@ -19733,7 +19733,7 @@ index|i_T1 n d2 e2_T1 x
 executing|e2_T1 x e1_T1 k u1_T1 t i_T1 ng
 siege|x e1_T1 g e1_T1
 irritable|d1 r t a1_T1 b l e1_T1
-trivial|ch v i_T1 a1_T1 n
+trivial|tr v i_T1 a1_T1 n
 rarely|r a1_T1 r e1_T1 l i_T1
 exceeded|e2_T1 x k e1_T1 e2_T1 d2 e2_T1 d2 e2_T1
 overcrowded|o1_T1 j e2_T1 d1 k d1 o1_T1 d2 e2_T1 d2 e2_T1
@@ -19814,7 +19814,7 @@ forthcoming|e1_T3 ph o1_T3 t th k o1_T1 m i_T1 ng
 suggest|s u1_T1 g g e1_T3 t t
 beneficial|b e1_T1 e1_T3 ph i_T1 k i_T1 a1_T1 n
 circulate|k r k u1_T1 o3_T2 l a1_T1 t e1_T1
-tracts|ch a1_T1 k t x
+tracts|tr a1_T1 k t x
 demonstrating|d1 e1_T1 m o1_T1 n x t d1 a1_T1 t i_T1 ng
 advantages|a1_T1 j v a1_T1 n t a1_T1 g e1_T3 t
 physical|ph ay_T1 x i_T1 k a1_T1 n
@@ -19905,7 +19905,7 @@ heed|h e1_T1 e2_T1 d2 e2_T1
 oppressive|o1_T1 p p r e1_T3 t x j e1_T1
 disinclination|d1 x i_T1 n l i_T1 n a1_T3 t i_T1 o2_T1 ng
 confronted|k o1_T1 n ph d1 oi_T1 n t e2_T1 d2 e2_T1
-travels|ch a1_T1 j e2_T1 l x
+travels|tr a1_T1 j e2_T1 l x
 variation|v a1_T1 r i_T1 a1_T1 t i_T1 o2_T1 ng
 appetite|ay3_T1 p p e2_T1 tr i_T1 t e1_T1
 precarious|p r e1_T1 k a1_T3 k i_T1 o2_T1 u1_T3
@@ -19915,7 +19915,7 @@ hall|h a1_T1 n
 spokes|x p o1_T1 k e1_T3 t
 ashy|a1_T1 x i_T1
 paleness|p a1_T1 l e1_T1 e1_T3 t x
-trickling|ch i_T1 k k l i_T1 ng
+trickling|tr i_T1 k k l i_T1 ng
 lip|l i_T3 p WB
 accorded|a1_T1 k k o1_T3 t d2 e2_T1 d2 e2_T1
 betraying|b e2_T1 ch ay_T1 i_T1 ng
@@ -19929,7 +19929,7 @@ needed|n e1_T1 e2_T1 d2 e2_T1 d2 e2_T1
 wrapper|r a1_T1 p p e2_T1 r
 apron|ay3_T1 p o1_T1 n
 producer|p o2_T1 d1 u1_T1 k e1_T1 r
-trader|ch a1_T1 d2 e2_T1 r
+trader|tr a1_T1 d2 e2_T1 r
 pentonville|p e1_T1 n t o2_T1 n v o2_T1 l e1_T1
 rate|r a1_T1 t e1_T1
 expense|e2_T1 x p e1_T1 n x e1_T1
@@ -20243,7 +20243,7 @@ nervous|n e1_T1 d1 v o1_T1 u1_T3
 introducing|i_T1 n ch o2_T1 d1 u1_T1 k i_T1 ng
 procurable|p d1 o1_T1 k b l e1_T1
 weed|e1_T1 e2_T1 d2 e2_T1
-transpired|ch a1_T1 n x p i_T1 r e2_T1 d2 e2_T1
+transpired|tr a1_T1 n x p i_T1 r e2_T1 d2 e2_T1
 marksman|m a1_T1 r k x m a1_T1 n
 harrowby|h a1_T1 d1 r o1_T1 b i_T1
 entertain|e1_T1 n t e1_T1 d1 t ai_T1 n
@@ -20304,7 +20304,7 @@ strangers|x t d1 a1_T1 ng e1_T1 d1 x
 bail|b a1_T1 i_T1 n
 perennibranchs|p e2_T1 d1 e1_T1 n i_T1 b r a1_T1 n ch x
 permian|p e2_T1 d1 m i_T1 a1_T1 n
-triassic|ch ie2_T1 t x k
+triassic|tr ie2_T1 t x k
 caducibranch|k a1_T1 j u1_T1 k i_T1 b r a1_T1 n ch
 opposed|o1_T1 p p o2_T1 x e2_T1 d2 e2_T1
 publican|p u1_T1 b l i_T1 k a1_T1 n
@@ -20318,12 +20318,12 @@ sensibility|x e1_T1 n x i_T1 b i_T1 l i_T1 t i_T1
 packages|p a1_T1 k k a1_T1 g e1_T3 t
 consigned|k o1_T1 n x i_T1 j e2_T1 d2 e2_T1
 shroeder|x o2_T1 e2_T1 d2 e2_T1 r
-train|ch a1_T1 i_T1 n
+train|tr a1_T1 i_T1 n
 approaching|ay3_T1 p p o2_T1 ch i_T1 ng
 folkestone|e1_T3 ph o1_T1 o1_T3 k e1_T3 t t o2_T1 n e1_T1
 hid|h d2 e2_T1
 pickup|p i_T1 k k u1_T1 p
-truck|ch u1_T1 k k
+truck|tr u1_T1 k k
 diminution|d1 i_T1 m i_T1 u1_T1 t i_T1 o2_T1 ng
 succeeding|s u1_T1 k k e1_T1 e2_T1 d2 i_T1 ng
 undreamed|u1_T1 n j r e1_T1 e2_T1 m d2 e2_T1
@@ -20536,7 +20536,7 @@ detected|d1 e1_T1 t e1_T1 k t e2_T1 d2 e2_T1
 forgers|e1_T3 ph o1_T3 g e1_T1 d1 x
 misconduct|m x k o1_T1 n j u1_T1 k t
 policeman|p o1_T1 l i_T1 k e1_T1 m a1_T1 n
-trounce|ch o1_T1 u1_T1 n e1_T1
+trounce|tr o1_T1 u1_T1 n e1_T1
 professed|p o2_T1 ph e1_T3 t x e2_T1 d2 e2_T1
 likelihood|l k e1_T1 l h o1_T3 d2 e2_T1
 spaces|x p a1_T1 k e1_T3 t
@@ -20559,7 +20559,7 @@ linked|l i_T1 k e2_T1 d2 e2_T1
 praised|p d1 ai_T1 x e2_T1 d2 e2_T1
 khrushchev|kh d1 u1_T3 t ch e1_T1 n
 mcbride|m k b d1 d1 e1_T1
-trampled|ch a1_T1 m p o3_T2 l e2_T1 d2 e2_T1
+trampled|tr a1_T1 m p o3_T2 l e2_T1 d2 e2_T1
 universal|u1_T1 n i_T1 v e2_T1 d1 x a1_T1 n
 grey|g r e1_T1 i_T1
 growing|g r o1_T1 i_T1 ng
@@ -20580,7 +20580,7 @@ uncle|u1_T1 n l e1_T1
 mvd|m v d1
 gross|g r o1_T1 t x
 routine|r o1_T1 u1_T1 t i_T1 n e1_T1
-transfers|ch a1_T1 n x ph e1_T1 d1 x
+transfers|tr a1_T1 n x ph e1_T1 d1 x
 vanishing|v a1_T1 n i_T1 u1_T3 t i_T1 ng
 evasion|e2_T1 v a1_T1 x i_T1 o2_T1 ng
 lecture|l e1_T1 k t
@@ -20631,13 +20631,13 @@ snatchers|x a1_T3 t ch e1_T1 n x
 hamper|h a1_T1 m p e2_T1 r
 delectable|d2 e2_T1 l e1_T1 k t a1_T1 b l e1_T1
 enticed|e1_T1 n t i_T1 k e2_T1 d2 e2_T1
-treason|ch e1_T1 a1_T1 x o1_T1 n
+treason|tr e1_T1 a1_T1 x o1_T1 n
 reigns|r e1_T1 i_T1 j i_T1 e1_T1 n x
 mad|m a1_T1 d1
 nicholson|n ch o1_T1 l x o1_T1 n
 careworn|k a1_T3 k o1_T3
 older|o1_T1 n d2 e2_T1 r
-trusted|ch u1_T3 t th e2_T1 d2 e2_T1
+trusted|tr u1_T3 t th e2_T1 d2 e2_T1
 brewer|b r e1_T1 e1_T1 r
 funny|e1_T3 ph u1_T1 n i_T1
 northwest|n o1_T3 t th e1_T3 t t
@@ -20850,7 +20850,7 @@ workman|o1_T3 k m a1_T1 n
 drain|d1 d1 ai_T1 n
 macclesfield|m a1_T1 k k l e1_T3 t ph e1_T1 n d2 e2_T1
 inherit|i_T1 nh e1_T1 d1 i_T1 t
-traces|ch a1_T1 k e1_T3 t
+traces|tr a1_T1 k e1_T3 t
 fin|e1_T3 ph i_T1 n
 reptile|r e1_T1 p t i_T1 l e1_T1
 mammal|m a1_T1 m m a1_T1 n
@@ -20913,7 +20913,7 @@ addressing|a1_T1 j d2 r e1_T3 t x i_T1 ng
 impending|i_T1 m p e1_T1 n j i_T1 ng
 hostile|h o2_T1 x t i_T1 l e1_T1
 selection|s e1_T1 l e1_T1 k t i_T1 o2_T1 ng
-trained|ch ai_T1 e2_T1 d2 e2_T1
+trained|tr ai_T1 e2_T1 d2 e2_T1
 scan|x k a1_T1 n
 observation|b x e1_T1 d1 v a1_T1 t i_T1 o2_T1 ng
 greedy|g r e1_T1 e2_T1 d2 i_T1
@@ -21052,7 +21052,7 @@ occurs|o1_T1 k k x
 unfavorable|u1_T1 ph a1_T1 j o1_T3 b l e1_T1
 millimeters|m o2_T1 l i_T1 m e1_T1 t e1_T1 d1 x
 delirium|d2 e2_T1 l d1 iu_T1 m
-tremens|ch e1_T1 m e1_T1 n x
+tremens|tr e1_T1 m e1_T1 n x
 stimulants|x t i_T1 m u1_T1 l a1_T1 n t x
 concludes|k o1_T1 n l u1_T1 d2 e2_T1 x
 devout|d2 e2_T1 v o1_T1 u1_T1 t
@@ -21116,7 +21116,7 @@ educated|e2_T1 d2 u1_T1 k a1_T3 t e2_T1 d2 e2_T1
 dickson|d1 i_T1 k k x o1_T1 n
 bath|b a1_T1 t t
 situated|x i_T1 t u1_T1 a1_T1 t e2_T1 d2 e2_T1
-tribunal|ch i_T1 b u1_T1 n a1_T1 n
+tribunal|tr i_T1 b u1_T1 n a1_T1 n
 romanes|r o1_T1 m a1_T1 n e1_T3 t
 safeguard|x a1_T1 ph e1_T1 g u1_T1 a1_T1 t d2 e2_T1
 improving|i_T1 m p o1_T1 n i_T1 ng
@@ -21125,7 +21125,7 @@ mortally|m o1_T3 t th a1_T1 n i_T1
 wounded|o1_T1 u1_T1 d2 e2_T1 d2 e2_T1
 similarity|x i_T1 m i_T1 l a1_T1 d1 i_T1 t i_T1
 nominally|n o1_T1 m i_T1 n a1_T1 n i_T1
-trading|ch a1_T1 j i_T1 ng
+trading|tr a1_T1 j i_T1 ng
 maltby|m a1_T1 l t b i_T1
 priests|p d1 e1_T3 t t x
 deception|d1 e1_T1 k e1_T1 p t i_T1 o2_T1 ng
@@ -21138,7 +21138,7 @@ immorality|i_T1 m m o1_T3 a1_T1 l i_T1 t i_T1
 announced|a1_T1 n o2_T1 u1_T1 n e2_T1 d2 e2_T1
 article|a1_T1 d1 t i_T1 k l e1_T1
 correlating|k o2_T1 r e2_T1 l a1_T1 t i_T1 ng
-treble|ch e1_T1 b l e1_T1
+treble|tr e1_T1 b l e1_T1
 damages|d1 a1_T1 m a1_T1 g e1_T3 t
 aggrieved|a1_T1 g g r i_T1 e2_T1 v e2_T1 d2 e2_T1
 composure|k o1_T1 m p o2_T1 x
@@ -21172,7 +21172,7 @@ peacefully|p e2_T1 ch e2_T1 ph u1_T1 n i_T1
 adjudged|a1_T1 j j u1_T1 d2 g e2_T1 d2 e2_T1
 libels|l i_T1 b e1_T1 l x
 comments|k o1_T1 m m e1_T1 n t x
-treachery|ch eo_T1 n ch e1_T1 r i_T1
+treachery|tr eo_T1 n ch e1_T1 r i_T1
 temple|t e1_T1 m p o3_T2 l e1_T1
 vehicles|v e2_T1 h i_T1 k l e1_T3 t
 retrospect|r e2_T1 ch o2_T1 x p e1_T1 k t
@@ -21280,7 +21280,7 @@ probate|p o2_T1 b a1_T1 t e1_T1
 overbury|o1_T1 j e2_T1 d1 b u1_T1 r i_T1
 rochester|r o1_T1 ch e1_T3 t t e1_T1 r
 cunning|k u1_T1 n i_T1 ng
-truculence|ch u1_T1 k u1_T1 n e1_T1 n e1_T1
+truculence|tr u1_T1 k u1_T1 n e1_T1 n e1_T1
 aggregate|a1_T1 g g d1 e1_T1 g a1_T1 t e1_T1
 sued|s u1_T1 e2_T1 d2 e2_T1
 roe|r oe_T1
@@ -21361,7 +21361,7 @@ writers|d1 i_T1 t e1_T1 d1 x
 morphology|m o1_T3 ph o1_T1 l o1_T1 g i_T1
 embryology|e2_T1 m b r i_T1 o1_T1 l o1_T1 g i_T1
 circle|k r k l e1_T1
-transporting|ch a1_T1 n x p o1_T3 t th i_T1 ng
+transporting|tr a1_T1 n x p o1_T3 t th i_T1 ng
 manufacturing|m a1_T1 n u1_T1 ph ch t i_T1 ng
 distributing|d1 x ch i_T1 b u1_T1 t i_T1 ng
 reside|r e1_T3 t d1 e1_T1
@@ -21381,7 +21381,7 @@ patent|p a1_T1 t e1_T1 n t
 chubbs|ch u1_T1 b i_T1 b x
 hooked|h o1_T3 k e2_T1 d2 e2_T1
 meaningless|m e1_T1 n i_T1 ng l e1_T3 t x
-traveling|ch a1_T1 j e2_T1 l i_T1 ng
+traveling|tr a1_T1 j e2_T1 l i_T1 ng
 expenses|e2_T1 x p e1_T1 n x e1_T3 t
 shropshire|x d1 o1_T1 p u1_T3 t
 disappearance|d1 x a1_T1 p p e2_T1 a1_T1 r a1_T1 n e1_T1
@@ -21419,7 +21419,7 @@ vote|v o1_T1 t e1_T1
 speculated|x p e1_T1 k u1_T1 o3_T2 l a1_T1 t e2_T1 d2 e2_T1
 unrelated|u1_T1 r e2_T1 l a1_T1 t e2_T1 d2 e2_T1
 comparisons|k o1_T1 m p a1_T1 d1 x o1_T1 n x
-translated|ch a1_T1 n x o3_T2 l a1_T1 t e2_T1 d2 e2_T1
+translated|tr a1_T1 n x o3_T2 l a1_T1 t e2_T1 d2 e2_T1
 applicable|ay3_T1 p p o3_T2 l i_T1 k a1_T1 b l e1_T1
 floured|e1_T3 ph l o2_T1 e2_T1 d2 e2_T1
 cakes|k a1_T3 k e1_T3 t
@@ -21469,7 +21469,7 @@ changing|ch a1_T1 ng i_T1 ng
 mattresses|m a1_T1 t ch e1_T3 t x e1_T3 t
 readiness|r e1_T1 a1_T1 j i_T1 e1_T3 t x
 warder|a1_T1 r d2 e2_T1 r
-truancy|ch ua_T1 i_T1
+truancy|tr ua_T1 i_T1
 alleging|a1_T1 n e2_T1 j i_T1 ng
 insofar|i_T1 n x o1_T1 ph a1_T1
 inducements|i_T1 n j u1_T1 k e1_T1 m e1_T1 n t x
@@ -21782,7 +21782,7 @@ initiative|i_T1 n i_T1 t i_T1 a1_T1 t i_T1 j e1_T1
 reexamining|r e1_T1 e2_T1 x a1_T1 m i_T1 n i_T1 ng
 thoughtful|th o1_T1 u1_T1 g t ph u1_T1 n
 exercised|e2_T1 x e1_T1 d1 k x e2_T1 d2 e2_T1
-treating|ch e1_T1 a1_T1 t i_T1 ng
+treating|tr e1_T1 a1_T1 t i_T1 ng
 effectually|e2_T1 ph ph e1_T1 k t ua_T1 n i_T1
 rebuke|r e1_T1 b u1_T1 k e1_T1
 abash|a1_T1 b a1_T1 u1_T3 t
@@ -21860,7 +21860,7 @@ evaporation|e2_T1 v a1_T1 p o1_T3 a1_T1 t i_T1 o2_T1 ng
 lake|l a1_T1 k e1_T1
 shores|x o2_T1 x
 fringed|e1_T3 ph r i_T1 n g e2_T1 d2 e2_T1
-trees|ch e1_T1 e1_T3 t
+trees|tr e1_T1 e1_T3 t
 woolwich|o1_T1 o1_T1 l ch
 tumult|t u1_T1 m u1_T1 n t
 rioters|r i_T1 o2_T1 t e1_T1 d1 x
@@ -21917,7 +21917,7 @@ manchester|m a1_T1 n ch e1_T3 t t e1_T1 r
 nose|n o2_T1 x e1_T1
 scar|x k a1_T1
 dirty|d1 r t i_T1
-trickled|ch i_T1 k k l e2_T1 d2 e2_T1
+trickled|tr i_T1 k k l e2_T1 d2 e2_T1
 protists|p d1 o1_T1 t x t x
 evolved|e2_T1 v o1_T1 l v e2_T1 d2 e2_T1
 divergent|d1 v e2_T1 d1 g e1_T1 n t
@@ -22236,7 +22236,7 @@ reckoned|r e1_T1 k k o1_T1 e2_T1 d2 e2_T1
 sloppiness|x l o1_T1 p p i_T1 n e1_T3 t x
 sided|x d2 e2_T1 d2 e2_T1
 summed|x u1_T1 m m e2_T1 d2 e2_T1
-trisect|ch x e1_T1 k t
+trisect|tr x e1_T1 k t
 plaza|p o3_T2 l a1_T1 j
 converging|k o1_T1 n v e2_T1 d1 j i_T1 ng
 apex|a1_T1 p e1_T1 x
@@ -22255,7 +22255,7 @@ manpower|m a1_T1 n p o1_T1 e1_T1 r
 wriggle|d1 i_T1 j g l e1_T1
 absentee|a1_T1 b x e1_T1 n t e1_T1 e1_T1
 seaport|x e1_T3 a1_T1 p o1_T3 t th
-traders|ch a1_T1 d2 e2_T1 d1 x
+traders|tr a1_T1 d2 e2_T1 d1 x
 incorporated|i_T1 n o1_T3 p o1_T3 a1_T1 t e2_T1 d2 e2_T1
 indian|i_T1 n j a1_T1 n
 meal|m e1_T1 a1_T1 n
@@ -22264,7 +22264,7 @@ teaspoonfuls|t e1_T1 a1_T1 x p o1_T1 o1_T1 ph u1_T1 n x
 soda|x o1_T1 d2 a1_T1
 pea|p e2_T1
 lousy|l o1_T1 u1_T3 i_T1
-trick|ch i_T1 k k
+trick|tr i_T1 k k
 hell|h e1_T1 n
 cupboard|k u1_T1 p i_T1 b oa_T1 t d2 e2_T1
 sailors|x oa_T1 i_T1 l o2_T1 x
@@ -22307,7 +22307,7 @@ entertained|e1_T1 n t e1_T1 d1 t ai_T1 n e2_T1 d2 e2_T1
 touch|t u1_T1 ch
 horseback|h o1_T3 x e1_T1 b ch k
 values|v a1_T1 l u1_T1 e1_T3 t
-transcript|ch a1_T1 n x k d1 p t
+transcript|tr a1_T1 n x k d1 p t
 patriot|p a1_T1 t d1 o1_T1 t
 paint|p a1_T1 i_T1 n t
 cried|k d1 e2_T1 d2 e2_T1
@@ -22477,7 +22477,7 @@ nails|n ai_T1 l x
 resolution|r e1_T3 t o1_T1 l u1_T1 t i_T1 o2_T1 ng
 smooth|x m o1_T3 th
 persecuted|p e2_T1 x e1_T1 k u1_T1 t e2_T1 d2 e2_T1
-trials|ch i_T1 a1_T1 l x
+trials|tr i_T1 a1_T1 l x
 putting|p u1_T1 o1_T3 t i_T1 ng
 stretching|x ch e1_T1 t ch i_T1 ng
 tying|t i_T1 i_T1 ng
@@ -22503,7 +22503,7 @@ enacted|e1_T1 n a1_T1 k t e2_T1 d2 e2_T1
 hedge|h e2_T1 d2 g e1_T1
 shock|x o1_T1 k k
 seam|x e1_T3 a1_T1 m
-trousers|ch o1_T1 u1_T3 e1_T1 d1 x
+trousers|tr o1_T1 u1_T3 e1_T1 d1 x
 tear|t e1_T1 a1_T1
 garb|g a1_T1 d1 i_T1 b i_T1
 wretched|r e1_T3 t ch e2_T1 d2 e2_T1
@@ -22859,7 +22859,7 @@ reasoning|r e1_T1 a1_T1 x oi_T1 n i_T1 ng
 verify|v e2_T1 d1 ph i_T1
 stormy|x t o2_T1 m i_T1
 disillusioned|d1 x i_T1 n u1_T3 i_T1 o2_T1 ng e2_T1 d2 e2_T1
-tray|ch ay_T1
+tray|tr ay_T1
 mash|m a1_T1 u1_T3 t
 beetle|b e1_T1 e1_T3 t l e1_T1
 watching|ai_T1 t ch i_T1 ng
@@ -22869,7 +22869,7 @@ abstained|a1_T1 b x t ai_T1 n e2_T1 d2 e2_T1
 zapruder|j a1_T1 p d1 u1_T1 d2 e2_T1 r
 frames|e1_T3 ph d1 a1_T1 m e1_T1 x
 proof|p r o1_T3 ph
-tribunals|ch i_T1 b u1_T1 n a1_T1 n x
+tribunals|tr i_T1 b u1_T1 n a1_T1 n x
 plus|p o3_T2 l u1_T3
 consignee|k o1_T1 n x i_T1 j e1_T3 e1_T1
 whenever|e1_T1 e1_T3 v e2_T1 r
@@ -23031,7 +23031,7 @@ manilla|m a1_T1 n i_T1 l l a1_T1
 divisions|d1 v x i_T1 o2_T1 n x
 indexes|i_T1 n d2 e2_T1 x e1_T3 t
 stiffly|x t ph ph l i_T1
-traps|ch a1_T1 p x
+traps|tr a1_T1 p x
 openings|o1_T1 p e1_T1 n i_T1 ng x
 wharfage|h a1_T1 d1 ph a1_T1 g e1_T1
 dues|d1 u1_T1 e1_T3 t
@@ -23098,7 +23098,7 @@ consummate|k o1_T1 n x u1_T1 m m a1_T1 t e1_T1
 boot|b o1_T1 o1_T1 t
 fleetingly|e1_T3 ph l e1_T3 t i_T1 ng l i_T1
 recalcitrant|r e1_T1 k a1_T1 l k i_T1 t r a1_T1 n t
-trend|ch e1_T1 n d2 e2_T1
+trend|tr e1_T1 n d2 e2_T1
 cure|k
 dressing|d1 r e1_T3 t x i_T1 ng
 season|x e1_T3 a1_T1 x o1_T1 n
@@ -23193,7 +23193,7 @@ riches|r ch e1_T3 t
 judicial|j u1_T1 d1 i_T1 k i_T1 a1_T1 n
 cemetery|k e1_T1 m e1_T1 t e1_T1 r i_T1
 genealogy|g e1_T1 n e1_T3 a1_T1 l o1_T1 g i_T1
-truss|ch u1_T1 t x
+truss|tr u1_T1 t x
 attested|a1_T1 t t e1_T3 t t e2_T1 d2 e2_T1
 researches|r e1_T3 t e2_T1 a1_T1 r ch e1_T3 t
 stick|x t i_T1 k k
@@ -23247,7 +23247,7 @@ voraciously|v o1_T3 ch i_T1 o2_T1 u1_T3 l i_T1
 cram|k d1 a1_T1 m
 alienate|a1_T1 l e1_T1 n a1_T1 t e1_T1
 controverted|k o1_T1 n ch o1_T1 n e1_T1 d1 t e2_T1 d2 e2_T1
-tremble|ch e1_T1 m b l e1_T1
+tremble|tr e1_T1 m b l e1_T1
 upside|u1_T1 p x d1 e1_T1
 inquisitive|i_T1 n k ui_T1 x i_T1 t j e1_T1
 glove|g l o1_T1 j e1_T1
@@ -23303,7 +23303,7 @@ partisan|p a1_T1 r t x a1_T1 n
 intimated|i_T1 n t i_T1 m a1_T1 t e2_T1 d2 e2_T1
 begging|b e1_T1 g j i_T1 ng
 uproarious|u1_T1 p o2_T1 a1_T1 d1 i_T1 o2_T1 u1_T3
-triumphal|ch iu_T1 m ph a1_T1 n
+triumphal|tr iu_T1 m ph a1_T1 n
 refreshed|r e1_T1 ph r e1_T3 t e2_T1 d2 e2_T1
 disarmed|d1 x a1_T1 r m e2_T1 d2 e2_T1
 interfere|i_T1 n t e1_T1 d1 ph e1_T1 d1 e1_T1
@@ -23462,7 +23462,7 @@ pretext|p r e1_T3 t e1_T1 x t
 humanity|h u1_T1 m a1_T1 n i_T1 t i_T1
 duplication|d1 u1_T1 p o3_T2 l i_T1 k a1_T1 t i_T1 o2_T1 ng
 whirlwind|r l i_T1 d2 e2_T1
-tramped|ch a1_T1 m p e2_T1 d2 e2_T1
+tramped|tr a1_T1 m p e2_T1 d2 e2_T1
 tunbridge|t u1_T1 b d1 d2 g e1_T1
 laborer|l a1_T1 b o2_T1 r
 representations|r e1_T1 p r e1_T3 t e1_T1 n t a1_T1 t i_T1 o2_T1 n x
@@ -23485,7 +23485,7 @@ withheld|th e1_T1 n d2 e2_T1
 estimates|e1_T3 t t i_T1 m a1_T1 t e1_T3 t
 prudent|p d1 u1_T1 d1 e1_T1 n t
 habitual|h a1_T1 b i_T1 t ua_T1 n
-trifles|ch ph l e1_T3 t
+trifles|tr ph l e1_T3 t
 evade|e2_T1 v a1_T1 j e1_T1
 chemists|ch e1_T1 m x t x
 slowed|x l o2_T1 e2_T1 d2 e2_T1
@@ -23555,7 +23555,7 @@ obscurity|b x k i_T1 t i_T1
 conceivably|k o1_T1 n e2_T1 v a1_T1 b l i_T1
 oblivion|b l v i_T1 o2_T1 ng
 rediscovered|r e2_T1 d2 x k o1_T1 j e2_T1 d1 e2_T1 d2 e2_T1
-treviranus|ch eo_T1 n r a1_T1 n u1_T3
+treviranus|tr eo_T1 n r a1_T1 n u1_T3
 publications|p u1_T1 b l i_T1 k a1_T1 t i_T1 o2_T1 n x
 retouching|r e1_T1 t o2_T1 u1_T1 ch i_T1 ng
 delicate|d2 e2_T1 l i_T1 k a1_T1 t e1_T1
@@ -23610,7 +23610,7 @@ launched|l au_T1 ch e2_T1 d2 e2_T1
 eternity|e2_T1 tr e1_T1 n i_T1 t i_T1
 overwhelming|o1_T1 j e2_T1 d1 e1_T1 n m i_T1 ng
 voted|v o1_T1 t e2_T1 d2 e2_T1
-traitors|ch ai_T1 t o1_T3 t x
+traitors|tr ai_T1 t o1_T3 t x
 aimed|a1_T1 i_T1 m e2_T1 d2 e2_T1
 cooperate|k o1_T1 o1_T1 p e2_T1 d1 a1_T1 t e1_T1
 discontent|d1 x k o1_T1 n t e1_T1 n t
@@ -23706,7 +23706,7 @@ uttering|u1_T1 o1_T3 t e1_T1 d1 i_T1 ng
 liabilities|l i_T1 a1_T1 b i_T1 l i_T1 t e1_T3 t
 devote|d2 e2_T1 v o1_T1 t e1_T1
 agriculture|a1_T1 g r i_T1 k u1_T1 n t
-transaction|ch a1_T1 n x oa_T1 k t i_T1 o2_T1 ng
+transaction|tr a1_T1 n x oa_T1 k t i_T1 o2_T1 ng
 roast|r o1_T1 a1_T1 x t
 duck|d1 u1_T1 k k
 deck|d1 e1_T1 k k
@@ -23718,7 +23718,7 @@ submission|s u1_T1 b m t x i_T1 o2_T1 ng
 heretofore|h e1_T1 d1 e1_T3 t o2_T1 ph o2_T1
 assize|a1_T1 t x j e1_T1
 propagated|p d1 o1_T1 p a1_T1 g a1_T1 t e2_T1 d2 e2_T1
-transhipped|ch a1_T1 n x h i_T1 ph p e2_T1 d2 e2_T1
+transhipped|tr a1_T1 n x h i_T1 ph p e2_T1 d2 e2_T1
 falmouth|e1_T3 ph o1_T3 m o1_T1 u1_T1 th
 lonely|l o1_T1 n e1_T1 l i_T1
 longest|l o1_T1 ng e1_T3 t t
@@ -23883,7 +23883,7 @@ wickedness|i_T1 k k e2_T1 d2 e1_T3 t x
 levity|l e1_T1 v i_T1 t i_T1
 plotted|p o3_T2 l o1_T3 t e2_T1 d2 e2_T1
 yoke|i_T1 o1_T1 k e1_T1
-tracheal|ch ch e1_T1 a1_T1 n
+tracheal|tr ch e1_T1 a1_T1 n
 imagination|i_T1 m a1_T1 j i_T1 n a1_T1 t i_T1 o2_T1 ng
 fantasy|e1_T3 ph a1_T1 n t a1_T1 x i_T1
 unfounded|u1_T1 ph o1_T1 u1_T1 d2 e2_T1 d2 e2_T1
@@ -23962,7 +23962,7 @@ generation|g e1_T1 n e1_T1 d1 a1_T1 t i_T1 o2_T1 ng
 hackney|h a1_T1 k k e1_T3 i_T1
 doubly|d2 o2_T1 u1_T1 b l i_T1
 earned|e2_T1 a1_T1 r e2_T1 d2 e2_T1
-transfixed|ch a1_T1 n x ph x e2_T1 d2 e2_T1
+transfixed|tr a1_T1 n x ph x e2_T1 d2 e2_T1
 chapters|ch a1_T1 p t e1_T1 d1 x
 occurrences|o1_T1 k k u1_T1 d1 r e1_T1 n e1_T3 t
 meetings|m e1_T1 e1_T3 t i_T1 ng x
@@ -24068,12 +24068,12 @@ underpay|u1_T1 d2 e2_T1 d1 p ay_T1
 enveloped|e1_T1 v e2_T1 l o1_T1 p e2_T1 d2 e2_T1
 wylde|i_T1 n d2 e2_T1
 epitomizing|e2_T1 p i_T1 t o1_T1 m nh i_T1 ng
-treatises|ch e1_T1 a1_T1 t i_T1 x e1_T3 t
+treatises|tr e1_T1 a1_T1 t i_T1 x e1_T3 t
 widower|d2 o2_T1 e1_T1 r
 nutritive|n u1_T1 ch i_T1 t j e1_T1
 swollen|x o2_T1 l e1_T1 n
 nonreferral|n o1_T1 n r e1_T1 ph e1_T1 d1 r a1_T1 n
-trucks|ch u1_T1 k k x
+trucks|tr u1_T1 k k x
 reprieve|r e1_T1 p d1 e1_T1 j e1_T1
 sundays|x u1_T1 n j ay_T1 x
 wednesdays|e2_T1 d2 e1_T3 t d1 ay_T1 x
@@ -24091,7 +24091,7 @@ xerxes|x e1_T1 d1 x e1_T3 t
 rebelled|r e1_T1 b e1_T1 n e2_T1 d2 e2_T1
 demolished|d1 e1_T1 m o1_T1 l u1_T3 t e2_T1 d2 e2_T1
 doubled|d2 o2_T1 u1_T1 b l e2_T1 d2 e2_T1
-trebled|ch e1_T1 b l e2_T1 d2 e2_T1
+trebled|tr e1_T1 b l e2_T1 d2 e2_T1
 weigh|e1_T1 g
 dine|d1 i_T1 e1_T1
 buffalo|b u1_T1 ph ph a1_T1 l o1_T1
@@ -24170,7 +24170,7 @@ prizes|p d1 j e1_T3 t
 tempt|t e1_T1 m p t
 thievish|th eo_T1 n u1_T3 t
 instinct|i_T1 n x t i_T1 n t
-transmitting|ch a1_T1 n x m i_T1 t t i_T1 ng
+transmitting|tr a1_T1 n x m i_T1 t t i_T1 ng
 rail|r i_T1 n
 rowed|r o1_T1 e2_T1 d2 e2_T1
 woods|o1_T3 d2 x
@@ -24295,7 +24295,7 @@ urgent|g e1_T1 n t
 moats|m o1_T1 a1_T1 t x
 drifting|d1 d1 ph t i_T1 ng
 cherished|ch e1_T1 n u1_T3 t e2_T1 d2 e2_T1
-traditions|ch a1_T1 j i_T1 t i_T1 o2_T1 n x
+traditions|tr a1_T1 j i_T1 t i_T1 o2_T1 n x
 bizarre|b j a1_T1 r r e1_T1
 abusive|a1_T1 b u1_T3 j e1_T1
 malignant|m a1_T1 l i_T1 j i_T1 e1_T1 n a1_T1 n t
@@ -24423,7 +24423,7 @@ edgewise|e2_T1 d2 g e1_T1 x e1_T1
 directive|d1 r e1_T1 k t j e1_T1
 contaminating|k o1_T1 n t a1_T1 m i_T1 n a1_T1 t i_T1 ng
 likewise|l k e1_T1 x e1_T1
-tribute|ch i_T1 b u1_T1 t e1_T1
+tribute|tr i_T1 b u1_T1 t e1_T1
 favors|e1_T3 ph a1_T1 j o1_T3 t x
 adhered|a1_T1 j h e1_T1 d1 e2_T1 d2 e2_T1
 precision|p r e1_T1 k x i_T1 o2_T1 ng
@@ -24434,7 +24434,7 @@ blair|b l ai_T1 r
 rican|r i_T1 k a1_T1 n
 nationalists|n a1_T1 t i_T1 o2_T1 n a1_T1 n x t x
 coordinating|k o1_T3 t d2 i_T1 n a1_T1 t i_T1 ng
-transitional|ch a1_T1 n x i_T1 t i_T1 o2_T1 n a1_T1 n
+transitional|tr a1_T1 n x i_T1 t i_T1 o2_T1 n a1_T1 n
 marsh|m a1_T1 r u1_T3 t
 perpetration|p e2_T1 d1 p e2_T1 ch a1_T1 t i_T1 o2_T1 ng
 unexceptional|u1_T1 e1_T3 x k e1_T1 p t i_T1 o2_T1 n a1_T1 n
@@ -24477,7 +24477,7 @@ tourist|t x t
 residing|r e1_T3 t d1 i_T1 ng
 plied|p o3_T2 l e2_T1 d2 e2_T1
 brandy|b r a1_T1 n j i_T1
-transpiration|ch a1_T1 n x p i_T1 d1 a1_T1 t i_T1 o2_T1 ng
+transpiration|tr a1_T1 n x p i_T1 d1 a1_T1 t i_T1 o2_T1 ng
 vapor|v a1_T1 p o1_T3
 contentedly|k o1_T1 n t e1_T1 n t e2_T1 d2 l i_T1
 stagnant|x t a1_T1 g n a1_T1 n t
@@ -24636,7 +24636,7 @@ gums|g u1_T1 m x
 adjustments|a1_T1 j j u1_T3 t th m e1_T1 n t x
 disagreement|d1 x a1_T1 g d1 e1_T1 e1_T1 m e1_T1 n t
 misspellings|m u1_T3 t x p e1_T1 n i_T1 ng x
-translation|ch a1_T1 n x o3_T2 l a1_T1 t i_T1 o2_T1 ng
+translation|tr a1_T1 n x o3_T2 l a1_T1 t i_T1 o2_T1 ng
 carlo|k a1_T3 k l o1_T1
 ferrari|e1_T3 ph e1_T1 d1 r a1_T1 r i_T1
 exhibiting|e2_T1 x h i_T1 b i_T1 t i_T1 ng
@@ -24867,7 +24867,7 @@ magazines|m a1_T1 g e2_T1 nh i_T1 n e1_T3 t
 minimize|m i_T1 n i_T1 m j e1_T1
 garments|g a1_T1 d1 m e1_T1 n t x
 saturated|x a1_T1 t u1_T1 d1 a1_T1 t e2_T1 d2 e2_T1
-transformed|ch a1_T1 n x ph o1_T3 m e2_T1 d2 e2_T1
+transformed|tr a1_T1 n x ph o1_T3 m e2_T1 d2 e2_T1
 kerbela|k e1_T1 n b e2_T1 l a1_T1
 nejef|n e1_T1 j e2_T1 ph
 enzyme|e1_T1 j i_T1 m e1_T1
@@ -25054,7 +25054,7 @@ fearing|e1_T3 ph e1_T1 a1_T1 d1 i_T1 ng
 lurk|l k
 tents|t e1_T1 n t x
 risings|r x i_T1 ng x
-treat|ch e1_T1 a1_T3 t
+treat|tr e1_T1 a1_T3 t
 acutely|a1_T1 k u1_T1 t e1_T1 l i_T1
 airway|a1_T1 i_T1 r ay_T1
 abinger|a1_T1 b i_T1 n g e1_T1 r
@@ -25084,7 +25084,7 @@ akkad|a1_T1 k k a1_T1 d1
 opis|o1_T1 p i_T1 x
 salsallat|x a1_T1 l x a1_T1 n a1_T3 t
 vanity|v a1_T1 n i_T1 t i_T1
-tracked|ch a1_T1 k k e2_T1 d2 e2_T1
+tracked|tr a1_T1 k k e2_T1 d2 e2_T1
 holborn|h o1_T1 l b o1_T1 n
 vile|v i_T1 l e1_T1
 rogers|r o1_T1 g e1_T1 d1 x
@@ -25156,7 +25156,7 @@ graciously|g r a1_T1 k i_T1 o2_T1 u1_T3 l i_T1
 maryland|m a1_T1 r i_T1 l a1_T1 n d2 e2_T1
 reed|r e1_T1 e2_T1 d2 e2_T1
 emigrate|e2_T1 m g d1 a1_T1 t e1_T1
-traversing|ch a1_T1 j e2_T1 d1 x i_T1 ng
+traversing|tr a1_T1 j e2_T1 d1 x i_T1 ng
 paget|p a1_T1 g e1_T3 t
 stinking|x t i_T1 k i_T1 ng
 politicians|p o1_T1 l i_T1 t i_T1 k i_T1 a1_T1 n x
@@ -25166,7 +25166,7 @@ distributes|d1 x ch i_T1 b u1_T1 t e1_T3 t
 intestine|i_T1 n t e1_T3 t t i_T1 n e1_T1
 digestion|d1 i_T1 j e1_T3 t t i_T1 o2_T1 ng
 historical|h x t o2_T1 i_T1 k a1_T1 n
-trustworthy|ch u1_T3 t th o1_T3 t th i_T1
+trustworthy|tr u1_T3 t th o1_T3 t th i_T1
 retail|r e1_T1 t ai_T1 n
 outlets|u1_T1 t l e1_T3 t x
 contriving|k o1_T1 n ch v i_T1 ng
@@ -25180,7 +25180,7 @@ nice|n i_T1 k e1_T1
 billion|b i_T1 n i_T1 o2_T1 ng
 implement|i_T1 m p o3_T2 l e1_T1 m e1_T1 n t
 kean|k e1_T1 n
-tragedian|ch a1_T1 g e2_T1 d2 a1_T1 n
+tragedian|tr a1_T1 g e2_T1 d2 a1_T1 n
 excessively|e2_T1 x k e1_T3 t x v e2_T1 l i_T1
 acquire|a1_T1 k k ui_T1
 naked|n a1_T3 k e2_T1 d2 e2_T1
@@ -25188,7 +25188,7 @@ piemen|p i_T1 e1_T1 m e1_T1 n
 wares|a1_T1 r e1_T3 t
 basket|b a1_T1 x k e1_T1 t
 stool|x t o1_T1 o1_T1 n
-trailing|ch a1_T1 i_T1 l i_T1 ng
+trailing|tr a1_T1 i_T1 l i_T1 ng
 peas|p e2_T1 a1_T1 x
 pines|p i_T1 n e1_T3 t
 asparagus|a1_T1 x p a1_T1 d1 a1_T1 g u1_T3
@@ -25384,7 +25384,7 @@ adjust|a1_T1 j j u1_T3 t
 passive|p a1_T1 t x j e1_T1
 unceasingly|u1_T1 n e2_T1 a1_T1 x i_T1 ng l i_T1
 affording|a1_T1 ph ph o1_T3 t d2 i_T1 ng
-triumphant|ch iu_T1 m ph a1_T1 n t
+triumphant|tr iu_T1 m ph a1_T1 n t
 loathing|l oa_T1 th i_T1 ng
 sufferer|s u1_T1 ph ph e1_T1 d1 e1_T1 r
 unaware|u1_T1 n a1_T1 ai_T1
@@ -25396,7 +25396,7 @@ correspond|k o2_T1 r e1_T3 t p o1_T1 n d1
 emory|e2_T1 m o1_T3 i_T1
 reasoned|r e1_T1 a1_T1 x oi_T1 n e2_T1 d2 e2_T1
 languid|l a1_T1 ng ui_T1 d2 e2_T1
-trembled|ch e1_T1 m b l e2_T1 d2 e2_T1
+trembled|tr e1_T1 m b l e2_T1 d2 e2_T1
 dove|d1 o1_T1 j e1_T1
 resembling|r e1_T3 t e1_T1 m b l i_T1 ng
 scuffle|x k u1_T1 ph ph l e1_T1
@@ -25484,7 +25484,7 @@ classics|k l a1_T1 t x i_T1 k x
 glories|g l o2_T1 e1_T3 t
 mortgage|m o1_T3 t th g a1_T1 g e1_T1
 miami|m i_T1 a1_T1 m i_T1
-truman|ch u1_T1 m a1_T1 n
+truman|tr u1_T1 m a1_T1 n
 camberwell|k a1_T1 m b e1_T1 d1 e1_T1 n
 hopelessly|h o1_T1 p e2_T1 l e1_T3 t x l i_T1
 imparted|i_T1 m p a1_T1 r t e2_T1 d2 e2_T1
@@ -25512,7 +25512,7 @@ perplexity|p e2_T1 d1 p o3_T2 l x i_T1 t i_T1
 combatants|k o1_T1 m b a1_T1 t a1_T1 n t x
 adapt|a1_T1 d1 a1_T1 p t
 dominant|d1 o1_T1 m i_T1 n a1_T1 n t
-trait|ch a1_T1 i_T1 t
+trait|tr a1_T1 i_T1 t
 fullest|e1_T3 ph u1_T1 n e1_T3 t t
 fairest|e1_T3 ph ai_T1 r e1_T3 t t
 allay|a1_T1 n ay_T1
@@ -25552,11 +25552,11 @@ lobe|l o1_T1 b e1_T1
 venus|v e1_T1 n u1_T3
 flytrap|e1_T3 ph l i_T1 t r a1_T1 p
 unequivocally|u1_T1 e1_T3 k ui_T1 v o1_T1 k a1_T1 n i_T1
-transmitted|ch a1_T1 n x m i_T1 t t e2_T1 d2 e2_T1
+transmitted|tr a1_T1 n x m i_T1 t t e2_T1 d2 e2_T1
 clearer|k l a1_T1 r e1_T1 r
 crop|k d1 o1_T1 p
 bakers|b a1_T1 k e1_T1 d1 x
-trifle|ch ph l e1_T1
+trifle|tr ph l e1_T1
 tonight|t o2_T1 n i_T1 j t
 slackness|x l ch k e1_T3 t x
 catastrophes|k a1_T1 t a1_T1 x ch o2_T1 ph e1_T3 t
@@ -25564,7 +25564,7 @@ detachable|d1 e1_T1 t ch a1_T3 b l e1_T1
 ventilated|v e1_T1 n t i_T1 l a1_T1 t e2_T1 d2 e2_T1
 artificially|a1_T1 d1 t ph i_T1 k i_T1 a1_T1 n i_T1
 unwholesomely|u1_T1 o1_T1 l e1_T3 t o1_T1 m e1_T1 l i_T1
-trembles|ch e1_T1 m b l e1_T3 t
+trembles|tr e1_T1 m b l e1_T3 t
 knees|k e1_T3 e1_T3 t
 droops|d1 d1 o1_T1 o1_T1 p x
 choicest|ch oi_T1 k e1_T3 t t
@@ -25672,7 +25672,7 @@ departing|d2 e2_T1 p a1_T1 r t i_T1 ng
 squirrels|x k ui_T1 d1 r e1_T1 n x
 rabbits|r a1_T1 i_T1 b i_T1 b i_T1 t x
 ranging|r a1_T1 ng i_T1 ng
-trembling|ch e1_T1 m b l i_T1 ng
+trembling|tr e1_T1 m b l i_T1 ng
 morpeth|m o1_T3 p e2_T1 tr t
 disproved|d1 t x p o1_T1 n e2_T1 d2 e2_T1
 whispers|t x p e2_T1 d1 x
@@ -25750,7 +25750,7 @@ brings|b r i_T1 n g x
 crude|k d1 u1_T1 d1 e1_T1
 debaucheries|d1 e1_T1 b a1_T1 u1_T1 ch e1_T1 n e1_T3 t
 clearance|k l a1_T1 r a1_T1 n e1_T1
-tradesmen|ch a1_T1 j e1_T3 t m e1_T1 n
+tradesmen|tr a1_T1 j e1_T3 t m e1_T1 n
 curving|k v i_T1 ng
 semitic|s e1_T1 m i_T1 t k
 intensify|i_T1 n t e1_T1 n x ph i_T1
@@ -25966,7 +25966,7 @@ upsets|u1_T1 p x e1_T3 t x
 tapster|t a1_T1 p x t e1_T1 r
 geographical|g e1_T1 o1_T1 g d1 a1_T1 ph i_T1 k a1_T1 n
 unmarked|u1_T1 m a1_T1 r k e2_T1 d2 e2_T1
-triton|ch i_T1 t o2_T1 ng
+triton|tr i_T1 t o2_T1 ng
 salamander|x a1_T1 l a1_T1 m a1_T1 n d2 e2_T1 r
 caducibranchs|k a1_T1 j u1_T1 k i_T1 b r a1_T1 n ch x
 acknowledge|a1_T1 k k o2_T1 l e2_T1 d2 g e1_T1
@@ -26088,7 +26088,7 @@ converted|k o1_T1 n v e2_T1 d1 t e2_T1 d2 e2_T1
 pursuance|p x ua_T1 e1_T1
 airy|a1_T1 i_T1 r i_T1
 casual|k a1_T1 x u1_T1 a1_T1 n
-track|ch a1_T1 k k
+track|tr a1_T1 k k
 santa|x a1_T1 n t a1_T1
 feed|e1_T3 ph e1_T1 e2_T1 d2 e2_T1
 strenuously|x ch e1_T1 n u1_T1 o1_T1 u1_T3 l i_T1
@@ -26155,7 +26155,7 @@ luggage|l u1_T1 g g a1_T1 g e1_T1
 spy|x p i_T1
 imperturbable|i_T1 m p e2_T1 d1 t u1_T1 k b a1_T1 b l e1_T1
 literally|l i_T1 t e1_T1 r a1_T1 n i_T1
-tribes|ch i_T1 b e1_T3 t
+tribes|tr i_T1 b e1_T3 t
 roam|r o1_T1 a1_T1 m
 socialist|x o1_T1 k i_T1 a1_T1 l x t
 ridden|r d2 e2_T1 d2 e1_T1 n
@@ -26531,7 +26531,7 @@ clearness|k l a1_T1 r e1_T3 t x
 restraining|r e1_T3 t ch ai_T1 i_T1 ng
 relapsed|r e2_T1 l a1_T1 p x e2_T1 d2 e2_T1
 uncleanly|u1_T1 n l e1_T1 n l i_T1
-trotskyite|ch o1_T1 t x k i_T1 i_T1 t e1_T1
+trotskyite|tr o1_T1 t x k i_T1 i_T1 t e1_T1
 enlightenment|e1_T1 l g t e1_T1 m e1_T1 n t
 valets|v a1_T1 n e1_T3 t x
 famine|e1_T3 ph e2_T1 m i_T1 n e1_T1
@@ -26593,7 +26593,7 @@ keyhole|k e1_T1 i_T1 o1_T1 l e1_T1
 doorway|d1 o1_T3 ay_T1
 aggression|a1_T1 g g d1 e1_T3 t x i_T1 o2_T1 ng
 surround|x o2_T1 u1_T1 d2 e2_T1
-transient|ch a1_T1 n x e1_T1 n t
+transient|tr a1_T1 n x e1_T1 n t
 paralyzed|p a1_T1 d1 a1_T1 l i_T1 j e2_T1 d2 e2_T1
 pledging|p o3_T2 l e2_T1 d2 j i_T1 ng
 outright|u1_T1 ch g t
@@ -26744,7 +26744,7 @@ empires|e2_T1 m p i_T1 r e1_T3 t
 flourished|e1_T3 ph l o2_T1 u1_T3 t e2_T1 d2 e2_T1
 flushing|e1_T3 ph l u1_T3 t i_T1 ng
 purchases|p ch a1_T1 x e1_T3 t
-trusty|ch u1_T3 t i_T1
+trusty|tr u1_T3 t i_T1
 constituting|k o1_T1 n x t i_T1 t u1_T1 t i_T1 ng
 admittance|a1_T1 j m i_T1 t t a1_T1 n e1_T1
 surveillance|x v e2_T1 o2_T1 l a1_T1 n e1_T1
@@ -26768,7 +26768,7 @@ creeping|k d1 e1_T1 e2_T1 p i_T1 ng
 goodge|g o1_T3 d2 g e1_T1
 widowed|d2 o2_T1 e2_T1 d2 e2_T1
 inflamed|i_T1 n ph l a1_T1 m e2_T1 d2 e2_T1
-trace|ch a1_T1 k e1_T1
+trace|tr a1_T1 k e1_T1
 brisk|b d1 x k
 alibi|a1_T1 l i_T1 b i_T1
 skeletons|x k e1_T1 l e1_T3 t o2_T1 n x
@@ -26780,7 +26780,7 @@ smiling|x m i_T1 l i_T1 ng
 assyrian|a1_T1 t x i_T1 r i_T1 a1_T1 n
 slabs|x l a1_T1 b x
 advertising|a1_T1 j v e2_T1 d1 t x i_T1 ng
-trainee|ch ai_T1 e1_T3 e1_T1
+trainee|tr ai_T1 e1_T3 e1_T1
 chronometer|ch d1 oi_T1 n o1_T1 m e1_T1 t e1_T1 r
 vigilant|v i_T1 j i_T1 l a1_T1 n t
 informants|i_T1 n ph o1_T3 m a1_T1 n t x
@@ -26808,7 +26808,7 @@ clamp|k l a1_T1 m p i_T1
 exquisite|e2_T1 x k ui_T1 x i_T1 t e1_T1
 torture|t o1_T3 t th
 motions|m o1_T1 t i_T1 o2_T1 n x
-tradescantia|ch a1_T1 j e1_T3 t k a1_T1 n t i_T1 a1_T1
+tradescantia|tr a1_T1 j e1_T3 t k a1_T1 n t i_T1 a1_T1
 restorer|r e1_T3 t t o2_T1 r
 idolaters|d2 o2_T1 l a1_T1 t e1_T1 d1 x
 thickest|th i_T1 k k e1_T3 t t
@@ -26909,7 +26909,7 @@ phylogeny|ph i_T1 l o1_T1 g e1_T1 n i_T1
 smile|x m i_T1 l e1_T1
 interwoven|i_T1 n t e1_T1 d1 o1_T1 v e1_T1 n
 pugnacious|p u1_T1 g a1_T3 k i_T1 o2_T1 u1_T3
-troublemaker|ch o1_T1 u1_T1 b l e1_T1 m a1_T1 k e1_T1 r
+troublemaker|tr o1_T1 u1_T1 b l e1_T1 m a1_T1 k e1_T1 r
 twelfth|t e1_T1 l ph th
 mss|m t x
 caustic|k au_T1 u1_T3 t th k
@@ -27161,7 +27161,7 @@ billfolds|b o2_T1 l ph oi_T1 n d2 x
 deficiency|d2 e2_T1 ph i_T1 k e1_T1 n i_T1
 unglazed|u1_T1 ng l a1_T1 j e2_T1 d2 e2_T1
 definitive|d2 e2_T1 ph i_T1 n i_T1 t j e1_T1
-transpire|ch a1_T1 n x p i_T1
+transpire|tr a1_T1 n x p i_T1
 embryo|e2_T1 m b r i_T1 o1_T1
 larva|l a1_T1 r v a1_T1
 toad|t oa_T1 d2 e2_T1
@@ -27236,7 +27236,7 @@ lantern|l a1_T1 n t e1_T1 n
 cashier|k a1_T1 x e1_T1 r
 chicanery|ch i_T1 k a1_T1 n e1_T1 r i_T1
 inclination|i_T1 n l i_T1 n a1_T3 t i_T1 o2_T1 ng
-transmission|ch a1_T1 n x m t x i_T1 o2_T1 ng
+transmission|tr a1_T1 n x m t x i_T1 o2_T1 ng
 watkin|ai_T1 t k i_T1 n
 wynn|i_T1 n
 baronet|b a1_T1 o1_T1 n e1_T3 t
@@ -27245,7 +27245,7 @@ redundant|r e2_T1 d2 u1_T1 d2 a1_T1 n t
 confederation|k o1_T1 n ph e2_T1 d2 e2_T1 d1 a1_T1 t i_T1 o2_T1 ng
 contractility|k o1_T1 n t d1 a1_T1 k t i_T1 l i_T1 t i_T1
 searchers|x e1_T3 a1_T1 r ch e1_T1 n x
-trusses|ch u1_T3 t x e1_T3 t
+trusses|tr u1_T3 t x e1_T3 t
 headless|h e1_T1 a1_T1 j l e1_T3 t x
 reiterating|r e1_T1 i_T1 t e1_T1 d1 a1_T1 t i_T1 ng
 contend|k o1_T1 n t e1_T1 d2 e2_T1
@@ -27256,7 +27256,7 @@ lintels|l i_T1 n t e1_T1 l x
 sideposts|x d2 e2_T1 p o2_T1 x t x
 protectionists|p d1 o1_T1 t e1_T1 k t i_T1 o2_T1 n i_T1 x t x
 depress|d2 e2_T1 p r e1_T3 t x
-traction|ch a1_T1 k t i_T1 o2_T1 ng
+traction|tr a1_T1 k t i_T1 o2_T1 ng
 godwin|g o2_T1 d2 i_T1 n
 elucidated|e2_T1 l u1_T1 k d2 a1_T1 t e2_T1 d2 e2_T1
 biographic|b o1_T1 g d1 a1_T1 ph i_T1 k
@@ -27558,7 +27558,7 @@ insignificant|i_T1 n x i_T1 j ph i_T1 k a1_T1 n t
 township|t u1_T3 t i_T1 p
 legislated|l e1_T1 j x o3_T2 l a1_T1 t e2_T1 d2 e2_T1
 reinforced|r e1_T1 n ph o1_T3 k e2_T1 d2 e2_T1
-trail|ch ai_T1 n
+trail|tr ai_T1 n
 hijack|h j ch k
 extraordinarily|e2_T1 x t d1 a1_T1 o1_T3 t d2 i_T1 n a1_T3 k i_T1 l i_T1
 cheeks|ch e1_T1 e2_T1 k x
@@ -27691,7 +27691,7 @@ blinded|b l i_T1 d2 e2_T1 d2 e2_T1
 furies|e1_T3 ph e1_T3 t
 bonnets|b o1_T1 n e1_T3 t x
 caps|k a1_T3 p x
-trodden|ch o1_T1 d2 e2_T1 d2 e1_T1 n
+trodden|tr o1_T1 d2 e2_T1 d2 e1_T1 n
 kennel|k e1_T1 n e1_T3 n
 pawnbroker|p a1_T1 b d1 o1_T1 k e1_T1 r
 cleanest|k l e1_T1 n e1_T3 t t
@@ -27817,7 +27817,7 @@ nimitti|n i_T1 m i_T1 t t i_T1
 balanced|b a1_T1 l a1_T1 n e2_T1 d2 e2_T1
 pot|p o1_T1 t
 esq|e1_T3 t k
-tread|ch eo_T1 n d2 e2_T1
+tread|tr eo_T1 n d2 e2_T1
 lt|l t
 mouthed|m o1_T1 u1_T1 th e2_T1 d2 e2_T1
 minded|m i_T1 d2 e2_T1 d2 e2_T1
@@ -27875,7 +27875,7 @@ founder|e1_T3 ph o1_T1 u1_T1 d2 e2_T1 r
 caunt|k au_T1 n t
 pugilist|p u1_T1 j i_T1 l i_T1 x t
 conceit|k o1_T1 n e2_T1 i_T1 t
-traitor|ch ai_T1 t o2_T1
+traitor|tr ai_T1 t o2_T1
 chevaux|ch e1_T1 v ao_T1 x
 frise|e1_T3 ph d1 x e1_T1
 sweep|x e1_T1 e2_T1 p
