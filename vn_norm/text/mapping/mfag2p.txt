@@ -27976,6 +27976,9 @@ pell|p e1_T1 n
 mell|m e1_T1 n
 coroner|k o2_T1 o1_T1 n e1_T1 r
 washer|ai_T1 u1_T3 t e1_T1 n
+đệch|d2 e2_T6 ch
+quào|k u1_T1 ao_T2
+đoằng|d2 o1_T1 a2_T2 ng
 "|"
 '|'
 ~|~
