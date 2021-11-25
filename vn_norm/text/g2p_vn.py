@@ -38,7 +38,7 @@ class G2pVn:
         text = re.sub(r'[\?\.!,\-:;\']+[\ ]{0,1}(?=[\?\.!,\-:;\'])', '', text)
         return text
 
-    def __call__(self, text: str):
+    def __call__(self, text: str, vi_priority=False):
         # print(text)
         text = UniStd(text)
         for pre_process in self._pre_processes:
@@ -85,7 +85,7 @@ class G2pVn:
                         word = self._acronym_replacer(word)
                         word = self._teen_code_replacer(word)
                         word = self._g2p_vn_replacer(
-                            word.lower(), try_other=self._try_other)
+                            word.lower(), try_other=self._try_other, vi_priority=vi_priority)
                         if space_flag:
                             sent_result.append(self._delimit)
                         sent_result.append(word)
@@ -94,8 +94,8 @@ class G2pVn:
             result.append(sent_result)
         return result
 
-    def parseAndJoinSents(self, text: str, join_str='\n'):
-        return join_str.join(self.__call__(text))
+    def parseAndJoinSents(self, text: str, join_str='\n', vi_priority=False):
+        return join_str.join(self.__call__(text, vi_priority=vi_priority))
 
 
 if __name__ == '__main__':

@@ -9,9 +9,9 @@ class G2p:
         # self._g2pen = g2p_en.G2p()
         self._g2pvn = G2pVn(try_other=None)
 
-    def g2p_vi(self, text: str, join_str=None):
+    def g2p_vi(self, text: str, join_str=None, vi_priority=False):
         if join_str is not None:
-            return self._g2pvn.parseAndJoinSents(text, join_str=join_str)
+            return self._g2pvn.parseAndJoinSents(text, join_str=join_str, vi_priority=vi_priority)
         return self._g2pvn(text)
 
     # def g2p_en(self, text: str):

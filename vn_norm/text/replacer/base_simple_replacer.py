@@ -18,18 +18,13 @@ class BaseSimpleReplacer:
         file_path = dict_path or self._dict_path
         if path.isfile(file_path):
             with codecs.open(file_path, "r", "utf-8") as fid:
-                if self._flags == re.IGNORECASE:
-                    for line in fid.readlines():
-                        s_index = line.find(self._split_text)
-                        if(s_index > 0):
-                            self._dict[line[:s_index].strip().lower()
-                                       ] = line[s_index + 1:].strip()
-                else:
-                    for line in fid.readlines():
-                        s_index = line.find(self._split_text)
-                        if(s_index > 0):
-                            self._dict[line[:s_index].strip()
-                                       ] = line[s_index + 1:].strip()
+                for line in fid.readlines():
+                    line_split = line.split('|')
+                    if(len(line_split) >= 2):
+                        word = line_split[0].strip()
+                        if self._flags == re.IGNORECASE:
+                            word = word.lower()
+                        self._dict[word] = line_split[1].strip()
 
     def __call__(self, text):
         # text is a word or word block

@@ -1,4 +1,5 @@
 from os import path
+import re
 from vn_norm.text.replacer.base_simple_replacer import BaseSimpleReplacer
 from montreal_forced_aligner.g2p.generator import PyniniDictionaryGenerator
 from montreal_forced_aligner.models import G2PModel
@@ -7,6 +8,8 @@ import codecs
 
 
 class G2pVnReplacer(BaseSimpleReplacer):
+    vns_chars_rx = r"[àáạảãâầấậẩẫăằắặẳẵđèéẹẻẽêềếệểễìíịỉĩòóọỏõôồốộổỗơờớợởỡùúụủũưừứựửữỳýỵỷỹ]+"
+
     def __init__(self, dict_path=path.join(path.dirname(__file__), '../mapping/mfag2p.txt')):
         BaseSimpleReplacer.__init__(self, dict_path)
         self._vn_model_path = os.path.join(
@@ -18,24 +21,50 @@ class G2pVnReplacer(BaseSimpleReplacer):
         self._en_model = G2PModel(self._en_model_path)
         self.load_replace_map(self.load_replace_map(self._new_words_path))
 
-    def __call__(self, text: str, try_other=None) -> str:
+    def __call__(self, text: str, try_other=None, vi_priority=False) -> str:
         if text in self._dict:
             return self._dict[text]
         elif try_other is not None:
             return ' '.join(list(filter(lambda x: x != ' ', try_other(text))))
         else:
             print(['new text', text])
-            self.gen_new_words(text)
+            self.gen_new_words(text, vi_priority)
             if text in self._dict:
                 return self._dict[text]
         return ''
 
-    def gen_new_words(self, word):
-        gen = PyniniDictionaryGenerator(self._vn_model, [word])
+    def fix_pronunciation(self, word, pronunciation):
+        pSplit = pronunciation.split()
+        if word.find('tr') == 0:
+            pSplit[0] = 'tr'
+        elif word.find('d') == 0:
+            pSplit[0] = 'd1'
+        elif word.find('v') == 0:
+            pSplit[0] = 'v'
+        return ' '.join(pSplit)
+
+    def get_language(self, word):
+        check_vi = re.search(self.vns_chars_rx, word)
+        if check_vi is not None:
+            return 'vi'
+        return 'en'
+
+    def gen_new_words(self, word, vi_priority=False):
+        lang = 'vi' if vi_priority else self.get_language(word)
+        # print(f"init lang: {lang}")
+        model_select = self._vn_model if lang == 'vi' else self._en_model
+        gen = PyniniDictionaryGenerator(model_select, [word])
         results = gen.generate()
+        fix_pronunc = lang == 'vi'
+        gen_lang = lang
         if results is None or results[word] == [''] or len(results) == 0:
-            gen = PyniniDictionaryGenerator(self._en_model, [word])
-            results = gen.generate()
+            if lang == 'vi':
+                fix_pronunc = False
+                gen_lang = 'en'
+                gen = PyniniDictionaryGenerator(self._en_model, [word])
+                results = gen.generate()
+        if results is None or results[word] == [''] or len(results) == 0:
+            return
         with codecs.open(self._new_words_path, 'a', 'utf-8') as f:
             for (word, pronunciation) in results.items():
                 if not pronunciation:
@@ -44,10 +73,15 @@ class G2pVnReplacer(BaseSimpleReplacer):
                     for p in pronunciation:
                         if not p:
                             continue
-                        f.write(f"{word}|{p}\n")
+                        if fix_pronunc:
+                            p = self.fix_pronunciation(word, p)
+                        print(f"{gen_lang}|{word}|{p}")
+                        f.write(f"{word}|{p}|{gen_lang}\n")
                         self._dict[word] = p
                 else:
-                    f.write(f"{word}|{pronunciation}\n")
+                    pronunciation = self.fix_pronunciation(word, pronunciation)
+                    print(f"{gen_lang}|{word}|{pronunciation}")
+                    f.write(f"{word}|{pronunciation}|{gen_lang}\n")
                     self._dict[word] = pronunciation
         # self.load_replace_map(self.load_replace_map(self._new_words_path))
 
