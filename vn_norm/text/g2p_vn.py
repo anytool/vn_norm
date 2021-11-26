@@ -45,22 +45,36 @@ class G2pVn:
             text = pre_process(text)
         # custom regex
         text = self._custom_regex_replacer(text)
+        text = re.sub(re.compile(
+            "[\=\"~\*\#\_\-\(\)\[\]]+", re.IGNORECASE), " ", text)
+        text = re.sub(re.compile("[\;\,]+", re.IGNORECASE), ",", text)
+        text = re.sub(re.compile(
+            "[\:\?\!\.]+", re.IGNORECASE), ".", text)
+        text = re.sub(r"([\:\.\,])[\:\.\, ]+", r"\1 ", text)
         # text = vn_norm(text)
         result = []
         sents = sent_tokenize(text)
         for sent in sents:
+            sent = sent.strip()
+            if sent == "":
+                continue
+            # sent = re.sub(re.compile(
+            #     "[=\-*/ \(\)#\[\]\.\"\?\!\, ]+$", re.IGNORECASE), ".", sent)
             # '"' symbol
-            quote_count = 0
-            last_quote_index = -1
-            while True:
-                quote_index = sent.find('"', last_quote_index + 1)
-                if quote_index >= 0:
-                    last_quote_index = quote_index
-                    quote_count += 1
-                else:
-                    break
-            if quote_count % 2 == 1 and last_quote_index + 1 < len(sent):
-                sent += '"'
+            # quote_count = 0
+            # last_quote_index = -1
+            # while True:
+            #     quote_index = sent.find('"', last_quote_index + 1)
+            #     if quote_index >= 0:
+            #         last_quote_index = quote_index
+            #         quote_count += 1
+            #     else:
+            #         break
+            # if quote_count % 2 == 1:
+            #     if last_quote_index < len(sent) / 2:
+            #         sent += '"'
+            #     else:
+            #         sent = '"' + sent
             sent_result = []
             space_flag = False
             depends = word_tokenize(sent)

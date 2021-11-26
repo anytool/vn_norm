@@ -22,7 +22,7 @@ class G2p:
 
 
 if __name__ == '__main__':
-    text = 'The phosphates which the process of “bolting” removes to a large extent from white flour, go directly to the manufacture of bone,'
+    text = '"Có ai ở nhà không hử cô?". May sao bữa ấy, cả cô lẫn chú nàng và mẹ nàng đều cùng có nhà cả.'
     g2p = G2p()
     # t = g2p.g2p_en(text)
     # print(t)

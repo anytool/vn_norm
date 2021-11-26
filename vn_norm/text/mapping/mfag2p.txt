@@ -1,18 +1,18 @@
-"|"
-'|'
-~|~
+"| 
+'| 
+~| 
 ,|,
 .|.
-*|*
-#|#
+*| 
+#| 
 _|_
--|-
-!|!
-:|:
-;|;
-?|?
-(|(
-)|)
+-| 
+!|.
+:|.
+;|.
+?|.
+(|.
+)|.
 a|a1_T1|vi
 b|b|vi
 c|k|vi
@@ -27972,3 +27972,24 @@ cosplay|K OW2 S P L EY2|en
 adidas|AH0 D IY1 D AH0 S|en
 francisco|F R AE0 N S IH1 S K OW0|en
 ipad|AY1 P AE0 D|en
+st|S T|en
+nuku`alofa|N UW1 K AH0 L AH0 F AH0|en
+thes|TH IY0 Z|en
+thos|DH OW1 Z|en
+rev|R EH0 V|en
+esq|EH0 S K|en
+lt|L T|en
+sgt|S K T|en
+ft|F T|en
+jr|JH R|en
+tlewood|T AH0 L W UH2 D|en
+capt|K AE1 P T|en
+col|K AA2 L|en
+ltd|L T D|en
+đệch|d2 e2_T6 ch|vi
+quào|k u1_T1 ao_T2|vi
+đoằng|d2 o1_T1 a2_T2 ng|vi
+habitué|h a1_T1 b i_T1 t u1_T1 e1_T3|vi
+grâce|g r a3_T1 k e1_T1|vi
+célèbre|k e1_T3 l e1_T2 b|vi
+être|ch e1_T1|vi
