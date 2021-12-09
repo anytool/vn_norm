@@ -31,7 +31,7 @@ o|o1_T1|vi
 p|p|vi
 q|k|vi
 r|r|vi
-s|e2_T3 t EH S|en
+s|e2_T3 t S|en
 t|t|vi
 u|u1_T1|en
 v|v|vi
