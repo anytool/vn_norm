@@ -22,6 +22,7 @@ class G2pVn:
                  teen_code_replacer=TeenCodeReplacer(),
                  g2p_vn_replacer=G2pVnReplacer(),
                  end_punctuation=True,
+                 force_en=False,
                  delimit='_'
                  ):
         self._pre_processes = pre_processes
@@ -33,12 +34,13 @@ class G2pVn:
         self._g2p_vn_replacer = g2p_vn_replacer
         self._end_punctuation = end_punctuation
         self._delimit = delimit
+        self._force_en = force_en
 
     def punctuation_norm(self, text):
         text = re.sub(r'[\?\.!,\-:;\']+[\ ]{0,1}(?=[\?\.!,\-:;\'])', '', text)
         return text
 
-    def __call__(self, text: str, vi_priority=False):
+    def __call__(self, text: str, vi_priority=False, force_en=False):
         # print(text)
         text = UniStd(text)
         for pre_process in self._pre_processes:
@@ -99,7 +101,7 @@ class G2pVn:
                         word = self._acronym_replacer(word)
                         word = self._teen_code_replacer(word)
                         word = self._g2p_vn_replacer(
-                            word.lower(), try_other=self._try_other, vi_priority=vi_priority)
+                            word.lower(), try_other=self._try_other, vi_priority=vi_priority, force_en=force_en)
                         if space_flag:
                             sent_result.append(self._delimit)
                         sent_result.append(word)
@@ -108,8 +110,8 @@ class G2pVn:
             result.append(sent_result)
         return result
 
-    def parseAndJoinSents(self, text: str, join_str='\n', vi_priority=False):
-        return join_str.join(self.__call__(text, vi_priority=vi_priority))
+    def parseAndJoinSents(self, text: str, join_str='\n', vi_priority=False, force_en=False):
+        return join_str.join(self.__call__(text, vi_priority=vi_priority, force_en=force_en))
 
 
 if __name__ == '__main__':

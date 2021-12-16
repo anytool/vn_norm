@@ -9,9 +9,9 @@ class G2p:
         # self._g2pen = g2p_en.G2p()
         self._g2pvn = G2pVn(try_other=None)
 
-    def g2p_vi(self, text: str, join_str=None, vi_priority=False):
+    def g2p_vi(self, text: str, join_str=None, vi_priority=False, force_en=False):
         if join_str is not None:
-            return self._g2pvn.parseAndJoinSents(text, join_str=join_str, vi_priority=vi_priority)
+            return self._g2pvn.parseAndJoinSents(text, join_str=join_str, vi_priority=vi_priority, force_en=force_en)
         return self._g2pvn(text)
 
     # def g2p_en(self, text: str):
@@ -22,9 +22,9 @@ class G2p:
 
 
 if __name__ == '__main__':
-    text = '"Có ai ở nhà không hử cô?". May sao bữa ấy, cả cô lẫn chú nàng và mẹ nàng đều cùng có nhà cả.'
+    text = 'à tan có áo'
     g2p = G2p()
     # t = g2p.g2p_en(text)
     # print(t)
-    t = g2p.g2p_vi(text, join_str=' ')
+    t = g2p.g2p_vi(text, join_str=' ', force_en=True)
     print(t)

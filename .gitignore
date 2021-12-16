@@ -44,6 +44,6 @@ baker/
 vn_norm.egg-info/
 nohup.out
 .prettierrc
-/new-words.txt
+/new-words*.txt
 /dict/*.csv
 /dict/*.txt
