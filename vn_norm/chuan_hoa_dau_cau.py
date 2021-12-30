@@ -196,18 +196,19 @@ def chuan_hoa_dau_cau(sentence):
     End section: Chuyển câu văn về cách gõ dấu kiểu cũ: dùng òa úy thay oà uý
     Xem tại đây: https://vi.wikipedia.org/wiki/Quy_tắc_đặt_dấu_thanh_trong_chữ_quốc_ngữ
 """
-# if __name__ == '__main__':
-#     print(chuan_hoa_dau_cau('anh hoá, đang làm.. gì, buồn tuỉ'))
-# f = open('/home/lap60313/data/corpus-full.txt', encoding='utf8')
-# sentence = f.readline()
-# current_line = 0
-# while sentence:
-#     current_line += 1
-#     if current_line % 1000 == 0:
-#         print('Current line', str(current_line))
-#     sentence = sentence.lower().strip()
-#     sentence = convertwindown1525toutf8(sentence)
-#     sentence = chuan_hoa_dau_cau(sentence)
-#     with open('/home/lap60313/data/corpus-full.txt.out', 'a+', encoding='utf8') as fp:
-#         fp.write(sentence + "\n")
-#     sentence = f.readline()
+if __name__ == '__main__':
+    print(chuan_hoa_dau_cau(
+        'là, lá, lả, lã, lạ, lầ, ấ, ẩ, ẫ, ậ. ằ, ắ, ẳ, ẵ, ặ, è, é, ẻ, ẽ, ẹ, ề, ế, ể, ễ, ệ, '))
+    # f = open('/home/lap60313/data/corpus-full.txt', encoding='utf8')
+    # sentence = f.readline()
+    # current_line = 0
+    # while sentence:
+    #     current_line += 1
+    #     if current_line % 1000 == 0:
+    #         print('Current line', str(current_line))
+    #     sentence = sentence.lower().strip()
+    #     sentence = convertwindown1525toutf8(sentence)
+    #     sentence = chuan_hoa_dau_cau(sentence)
+    #     with open('/home/lap60313/data/corpus-full.txt.out', 'a+', encoding='utf8') as fp:
+    #         fp.write(sentence + "\n")
+    #     sentence = f.readline()

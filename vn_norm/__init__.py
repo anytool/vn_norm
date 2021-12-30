@@ -6,12 +6,13 @@ from vn_norm.str_norm import str_norm
 from vn_norm.char_norm import char_norm
 from vn_norm.number_norm import number_norm
 
+
 def vn_norm(text: str) -> str:
     text = ' ' + text.lower() + ' '
+    text = chuan_hoa_dau_cau(text)
     text = char_norm(text)
     text = str_norm(text)
     text = number_norm(text)
-    text = chuan_hoa_dau_cau(text)
     return text.strip()
 
 
