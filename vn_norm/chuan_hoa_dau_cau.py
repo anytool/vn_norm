@@ -179,6 +179,7 @@ def chuan_hoa_dau_cau(sentence):
         :param sentence:
         :return:
         """
+    sentence = convert_unicode(sentence)
     sentence = sentence.lower()
     words = sentence.split()
     for index, word in enumerate(words):
